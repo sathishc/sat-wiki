@@ -42,3 +42,22 @@ Created:
 - index.md updated with all new entries
 
 Cross-references added: Taleb ↔ Naval Ravikant on accountability, compounding, leverage. Skin in the Game ↔ Naval's accountability framework. Lindy Effect ↔ compounding. Barbell Strategy ↔ permissionless leverage asymmetry.
+
+## [2026-04-16] ingest | Principles: Life & Work — Ray Dalio
+
+Sources:
+- https://www.principles.com/principles/
+- https://fourminutebooks.com/principles-summary/
+- https://sive.rs/book/Principles (Derek Sivers — direct quotes)
+- https://www.nateliason.com/notes/principles-ray-dalio
+
+Created:
+- sources/dalio-principles.md (raw source, 20k chars)
+- people/ray-dalio.md (person page; Bridgewater, 5-step process, contrast with Naval + Taleb)
+- concepts/radical-transparency.md
+- concepts/idea-meritocracy.md
+- concepts/five-step-process.md
+- concepts/mental-models.md (cross-source: Naval + Dalio + Taleb models catalogued)
+- index.md updated
+
+Cross-references added: Dalio ↔ Naval ↔ Taleb three-way contrast on failure, knowledge, uncertainty, accountability. Mental Models page synthesises all three. Idea Meritocracy ↔ Specific Knowledge. Five-Step Process ↔ Compounding. Radical Transparency ↔ Skin in the Game.
