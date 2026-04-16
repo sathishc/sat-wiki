@@ -6,9 +6,10 @@ This is the content catalog for sat-wiki. Updated on every ingest.
 
 ## People
 
-- [Naval Ravikant](people/naval-ravikant.md) — Co-founder of AngelList; thinker on wealth, leverage, and happiness. Tags: `wealth`, `philosophy`, `startups`, `happiness`
-- [Nassim Nicholas Taleb](people/nassim-taleb.md) — Statistician and philosopher; author of the Incerto series. Tags: `antifragile`, `risk`, `uncertainty`, `philosophy`
-- [Ray Dalio](people/ray-dalio.md) — Founder of Bridgewater; author of *Principles: Life & Work*. Tags: `principles`, `investing`, `decision-making`, `management`
+- [Naval Ravikant](people/naval-ravikant.md) — Co-founder of AngelList; wealth, leverage, and happiness. Tags: `wealth`, `philosophy`, `startups`, `happiness`
+- [Nassim Nicholas Taleb](people/nassim-taleb.md) — Author of the Incerto series; risk, antifragility, uncertainty. Tags: `antifragile`, `risk`, `philosophy`
+- [Ray Dalio](people/ray-dalio.md) — Founder of Bridgewater; *Principles: Life & Work*. Tags: `principles`, `decision-making`, `management`
+- [Donald G. Reinertsen](people/donald-reinertsen.md) — Author of *The Principles of Product Development Flow*. Tags: `flow`, `product-development`, `queueing`, `economics`
 
 ---
 
@@ -16,30 +17,39 @@ This is the content catalog for sat-wiki. Updated on every ingest.
 
 ### Wealth & Career
 - [Specific Knowledge](concepts/specific-knowledge.md) — Knowledge you cannot be trained for; foundation of irreplaceable value. Tags: `wealth`, `career`, `naval`
-- [Leverage](concepts/leverage.md) — Force multiplier: labour, capital, permissionless code/media. Tags: `wealth`, `leverage`, `naval`
-- [Compounding](concepts/compounding.md) — Universal law rewarding long-term thinking across all domains. Tags: `wealth`, `long-term`, `naval`
+- [Leverage](concepts/leverage.md) — Labour, capital, permissionless code/media. Tags: `wealth`, `leverage`, `naval`
+- [Compounding](concepts/compounding.md) — Universal law rewarding long-term thinking. Tags: `wealth`, `long-term`, `naval`
 
 ### Risk & Systems
-- [Antifragility](concepts/antifragility.md) — Systems that gain from disorder, not just survive it. Tags: `antifragile`, `risk`, `taleb`
-- [Barbell Strategy](concepts/barbell-strategy.md) — Bimodal risk: maximum safety + maximum upside, nothing in the middle. Tags: `antifragile`, `strategy`, `investing`
-- [Black Swan](concepts/black-swan.md) — Rare, high-impact events that dominate history; rationalised away in hindsight. Tags: `antifragile`, `risk`, `uncertainty`
-- [Lindy Effect](concepts/lindy-effect.md) — Non-perishable things that survive longer are likely to survive longer still. Tags: `antifragile`, `longevity`, `knowledge`
-- [Skin in the Game](concepts/skin-in-the-game.md) — Decision-makers must bear the consequences of their decisions. Tags: `antifragile`, `accountability`, `taleb`
+- [Antifragility](concepts/antifragility.md) — Systems that gain from disorder. Tags: `antifragile`, `risk`, `taleb`
+- [Barbell Strategy](concepts/barbell-strategy.md) — Bimodal risk: max safety + max upside. Tags: `antifragile`, `strategy`
+- [Black Swan](concepts/black-swan.md) — Rare high-impact events; rationalised away in hindsight. Tags: `antifragile`, `risk`
+- [Lindy Effect](concepts/lindy-effect.md) — Survival as evidence of future durability. Tags: `antifragile`, `longevity`
+- [Skin in the Game](concepts/skin-in-the-game.md) — Decision-makers must bear consequences. Tags: `antifragile`, `accountability`
 
 ### Decision-Making & Organisations
-- [Radical Transparency](concepts/radical-transparency.md) — Making information, reasoning, and feedback fully visible across an organisation. Tags: `dalio`, `management`, `culture`
-- [Idea Meritocracy](concepts/idea-meritocracy.md) — Best idea wins; opinions weighted by demonstrated quality of thinking, not seniority. Tags: `dalio`, `management`, `decision-making`
-- [Five-Step Process](concepts/five-step-process.md) — Dalio's loop: Goals → Problems → Diagnosis → Design → Execute. Tags: `dalio`, `process`, `systems`
-- [Mental Models](concepts/mental-models.md) — Frameworks for understanding reality; collect from across disciplines. Tags: `decision-making`, `thinking`, `naval`, `dalio`
+- [Radical Transparency](concepts/radical-transparency.md) — Information and reasoning made fully visible. Tags: `dalio`, `management`
+- [Idea Meritocracy](concepts/idea-meritocracy.md) — Best idea wins; opinions weighted by track record. Tags: `dalio`, `management`
+- [Five-Step Process](concepts/five-step-process.md) — Goals → Problems → Diagnosis → Design → Execute. Tags: `dalio`, `process`
+- [Mental Models](concepts/mental-models.md) — Cross-discipline frameworks for understanding reality. Tags: `decision-making`, `naval`, `dalio`
+
+### Product Development Flow
+- [Flow Economics](concepts/flow-economics.md) — Optimise for economic value of flow, not utilisation or cost. Tags: `reinertsen`, `flow`, `economics`
+- [Cost of Delay](concepts/cost-of-delay.md) — Economic cost of time; CD3/WSJF prioritisation. Tags: `reinertsen`, `flow`, `prioritisation`
+- [Queues in Product Development](concepts/queues-in-product-development.md) — Root cause of slow delivery; the utilisation trap. Tags: `reinertsen`, `flow`, `cycle-time`
+- [Little's Law](concepts/littles-law.md) — Cycle Time = WIP / Throughput; the mathematics of flow. Tags: `reinertsen`, `queueing`, `mathematics`
+- [WIP Limits](concepts/wip-limits.md) — Constrain work in progress to control queues and cycle time. Tags: `reinertsen`, `kanban`, `flow`
+- [Batch Size](concepts/batch-size.md) — Smaller batches: faster feedback, lower risk, better flow. Tags: `reinertsen`, `lean`, `flow`
 
 ### Philosophy & Happiness
-- [Happiness](concepts/happiness.md) — Naval's subtractive framework: happiness as default state, not something to pursue. Tags: `happiness`, `philosophy`, `desire`
-- [Rational Buddhism](concepts/rational-buddhism.md) — Secular Buddhist insight: impermanence, non-attachment, the constructed self. Tags: `philosophy`, `buddhism`, `naval`
+- [Happiness](concepts/happiness.md) — Naval's subtractive framework. Tags: `happiness`, `philosophy`
+- [Rational Buddhism](concepts/rational-buddhism.md) — Secular Buddhist insight: impermanence, non-attachment. Tags: `philosophy`, `buddhism`
 
 ---
 
 ## Sources
 
-- [sources/naval-almanack.md](sources/naval-almanack.md) — 15 chapters from the Almanack of Naval Ravikant (navalmanack.com). Ingested 2026-04-16.
-- [sources/antifragile.md](sources/antifragile.md) — Summaries from Antifragile by Taleb (fs.blog, fourminutebooks, sive.rs). Ingested 2026-04-16.
-- [sources/dalio-principles.md](sources/dalio-principles.md) — Summaries from Principles by Ray Dalio (principles.com, fourminutebooks, sive.rs, nateliason.com). Ingested 2026-04-16.
+- [sources/naval-almanack.md](sources/naval-almanack.md) — 15 chapters, Almanack of Naval Ravikant. Ingested 2026-04-16.
+- [sources/antifragile.md](sources/antifragile.md) — Antifragile by Taleb (fs.blog, fourminutebooks, sive.rs). Ingested 2026-04-16.
+- [sources/dalio-principles.md](sources/dalio-principles.md) — Principles by Dalio (principles.com, fourminutebooks, sive.rs, nateliason). Ingested 2026-04-16.
+- [sources/reinertsen-flow.md](sources/reinertsen-flow.md) — Principles of Product Development Flow by Reinertsen (blackswanfarming, wikipedia, martinfowler, goodreads). Ingested 2026-04-16.

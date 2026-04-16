@@ -61,3 +61,27 @@ Created:
 - index.md updated
 
 Cross-references added: Dalio ↔ Naval ↔ Taleb three-way contrast on failure, knowledge, uncertainty, accountability. Mental Models page synthesises all three. Idea Meritocracy ↔ Specific Knowledge. Five-Step Process ↔ Compounding. Radical Transparency ↔ Skin in the Game.
+
+## [2026-04-16] ingest | Principles of Product Development Flow — Donald G. Reinertsen
+
+Sources:
+- https://blackswanfarming.com/cost-of-delay/ (Black Swan Farming)
+- https://blackswanfarming.com/cost-of-delay-divided-by-duration/ (CD3/WSJF)
+- https://en.wikipedia.org/wiki/Cost_of_delay
+- https://en.wikipedia.org/wiki/Little%27s_law
+- https://en.wikipedia.org/wiki/Kanban_(development)
+- https://martinfowler.com/articles/products-over-projects.html
+- https://www.goodreads.com/book/show/6278270 (book description + reviews)
+
+Created:
+- sources/reinertsen-flow.md (raw source, 37k chars)
+- people/donald-reinertsen.md (person page; 8 domains; 4-way contrast table)
+- concepts/cost-of-delay.md (CoD, CD3/WSJF, urgency profiles)
+- concepts/queues-in-product-development.md (utilisation trap, queue costs)
+- concepts/littles-law.md (L = λW; implications for WIP and cycle time)
+- concepts/wip-limits.md (mechanism, setting limits, forced prioritisation)
+- concepts/batch-size.md (economics of small batches; transaction vs holding cost)
+- concepts/flow-economics.md (synthesis: economic frame across all 8 domains)
+- index.md updated
+
+Cross-references: Flow Economics ↔ Antifragility (reserve capacity = slack against Black Swans). Batch Size ↔ Barbell Strategy. Cost of Delay ↔ Compounding. WIP Limits ↔ Antifragility. Little's Law ↔ Compounding. Decentralised Control ↔ Skin in the Game. Flow Economics ↔ Leverage.
