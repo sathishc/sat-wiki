@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "git-wiki": {
+      "source": "rarce/git-wiki",
+      "sourceType": "github",
+      "computedHash": "4c8c51c1a1067904d54169020124d61e1772ae74c655471af842bde2996ea552"
+    }
+  }
+}
