@@ -9,6 +9,7 @@ This is the content catalog for sat-wiki. Updated on every ingest.
 - [Naval Ravikant](people/naval-ravikant.md) — Co-founder of AngelList; wealth, leverage, and happiness. Tags: `wealth`, `philosophy`, `startups`, `happiness`
 - [Nassim Nicholas Taleb](people/nassim-taleb.md) — Author of the Incerto series; risk, antifragility, uncertainty. Tags: `antifragile`, `risk`, `philosophy`
 - [Ray Dalio](people/ray-dalio.md) — Founder of Bridgewater; *Principles: Life & Work*. Tags: `principles`, `decision-making`, `management`
+- [Jeff Bezos](people/jeff-bezos.md) — Founder of Amazon; flywheel, leadership principles, Day 1 philosophy. Tags: `amazon`, `long-term`, `invention`
 - [Donald G. Reinertsen](people/donald-reinertsen.md) — Author of *The Principles of Product Development Flow*. Tags: `flow`, `product-development`, `queueing`, `economics`
 
 ---
@@ -53,3 +54,7 @@ This is the content catalog for sat-wiki. Updated on every ingest.
 - [sources/antifragile.md](sources/antifragile.md) — Antifragile by Taleb (fs.blog, fourminutebooks, sive.rs). Ingested 2026-04-16.
 - [sources/dalio-principles.md](sources/dalio-principles.md) — Principles by Dalio (principles.com, fourminutebooks, sive.rs, nateliason). Ingested 2026-04-16.
 - [sources/reinertsen-flow.md](sources/reinertsen-flow.md) — Principles of Product Development Flow by Reinertsen (blackswanfarming, wikipedia, martinfowler, goodreads). Ingested 2026-04-16.
+
+### Amazon / Bezos
+- [Amazon Leadership Principles](concepts/amazon-leadership-principles.md) — The 16 operating principles governing how Amazon hires, decides, and operates. Tags: `amazon`, `leadership`, `culture`, `management`
+- [Amazon Growth Flywheel](concepts/amazon-growth-flywheel.md) — The self-reinforcing virtuous cycle: customer experience → traffic → sellers → selection → lower costs → lower prices. Tags: `amazon`, `flywheel`, `strategy`, `compounding`

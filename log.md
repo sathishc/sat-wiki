@@ -85,3 +85,20 @@ Created:
 - index.md updated
 
 Cross-references: Flow Economics ↔ Antifragility (reserve capacity = slack against Black Swans). Batch Size ↔ Barbell Strategy. Cost of Delay ↔ Compounding. WIP Limits ↔ Antifragility. Little's Law ↔ Compounding. Decentralised Control ↔ Skin in the Game. Flow Economics ↔ Leverage.
+
+## [2026-04-16] ingest | Amazon Leadership Principles & Growth Flywheel
+
+Sources:
+- https://www.aboutamazon.com/about-us/leadership-principles (official)
+- https://www.amazon.jobs/content/en/our-workplace/leadership-principles (official)
+- https://en.wikipedia.org/wiki/Amazon_(company)
+- https://fourweekmba.com/amazon-flywheel/
+
+Created:
+- sources/amazon-lp-flywheel.md (raw source, 20k chars)
+- people/jeff-bezos.md (person page; Day 1, Type 1/2 decisions, Working Backwards, 5-way contrast table)
+- concepts/amazon-leadership-principles.md (all 16 principles; underlying patterns; cross-references)
+- concepts/amazon-growth-flywheel.md (flywheel loop, AWS fuel, Prime anchor, strategic implications)
+- index.md updated
+
+Cross-references: LP Ownership ↔ Skin in the Game. LP Customer Obsession ↔ Cost of Delay. LP Disagree & Commit ↔ Idea Meritocracy + Radical Transparency. Flywheel ↔ Compounding. Flywheel ↔ Leverage (AWS). Type 1/2 decisions ↔ Batch Size. Working Backwards ↔ Flow Economics.
