@@ -23,3 +23,22 @@ Fetched 15 chapters from navalmanack.com. Created:
 - index.md (updated with all new entries)
 
 Key themes: wealth creation, specific knowledge, permissionless leverage (code/media), happiness as a subtractive practice, rational Buddhism, compounding across domains.
+
+## [2026-04-16] ingest | Antifragile — Nassim Nicholas Taleb
+
+Sources:
+- https://fs.blog/antifragile-a-definition/
+- https://fourminutebooks.com/antifragile-summary/
+- https://sive.rs/book/Antifragile (Derek Sivers' notes — direct Taleb quotes)
+
+Created:
+- sources/antifragile.md (raw source, 15k chars)
+- people/nassim-taleb.md (person page with Incerto series overview)
+- concepts/antifragility.md (core concept; fragile/robust/antifragile distinction)
+- concepts/barbell-strategy.md (bimodal risk approach)
+- concepts/black-swan.md (rare high-impact events; Turkey problem)
+- concepts/lindy-effect.md (survival as signal of future longevity)
+- concepts/skin-in-the-game.md (accountability + via negativa)
+- index.md updated with all new entries
+
+Cross-references added: Taleb ↔ Naval Ravikant on accountability, compounding, leverage. Skin in the Game ↔ Naval's accountability framework. Lindy Effect ↔ compounding. Barbell Strategy ↔ permissionless leverage asymmetry.
