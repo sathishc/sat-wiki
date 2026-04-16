@@ -9,6 +9,8 @@ This is the content catalog for sat-wiki. Updated on every ingest.
 - [Naval Ravikant](people/naval-ravikant.md) — Co-founder of AngelList; wealth, leverage, and happiness. Tags: `wealth`, `philosophy`, `startups`, `happiness`
 - [Nassim Nicholas Taleb](people/nassim-taleb.md) — Author of the Incerto series; risk, antifragility, uncertainty. Tags: `antifragile`, `risk`, `philosophy`
 - [Ray Dalio](people/ray-dalio.md) — Founder of Bridgewater; *Principles: Life & Work*. Tags: `principles`, `decision-making`, `management`
+- [Henry Hazlitt](people/henry-hazlitt.md) — Author of *Economics in One Lesson*; the seen vs unseen framework. Tags: `economics`, `austrian`, `free-markets`
+- [Frédéric Bastiat](people/frederic-bastiat.md) — French economist (1801–1850); originator of the seen vs unseen insight. Tags: `economics`, `bastiat`
 - [Jeff Bezos](people/jeff-bezos.md) — Founder of Amazon; flywheel, leadership principles, Day 1 philosophy. Tags: `amazon`, `long-term`, `invention`
 - [Donald G. Reinertsen](people/donald-reinertsen.md) — Author of *The Principles of Product Development Flow*. Tags: `flow`, `product-development`, `queueing`, `economics`
 
@@ -58,3 +60,8 @@ This is the content catalog for sat-wiki. Updated on every ingest.
 ### Amazon / Bezos
 - [Amazon Leadership Principles](concepts/amazon-leadership-principles.md) — The 16 operating principles governing how Amazon hires, decides, and operates. Tags: `amazon`, `leadership`, `culture`, `management`
 - [Amazon Growth Flywheel](concepts/amazon-growth-flywheel.md) — The self-reinforcing virtuous cycle: customer experience → traffic → sellers → selection → lower costs → lower prices. Tags: `amazon`, `flywheel`, `strategy`, `compounding`
+
+### Economics
+- [Seen vs Unseen](concepts/seen-vs-unseen.md) — The master framework: every act has visible immediate effects and invisible longer-term effects. Tags: `economics`, `hazlitt`, `bastiat`, `thinking`
+- [Broken Window Fallacy](concepts/broken-window-fallacy.md) — Destruction doesn't create net wealth; the unseen forgone use is the real cost. Tags: `economics`, `fallacy`, `bastiat`
+- [Unintended Consequences](concepts/unintended-consequences.md) — Interventions in complex systems produce effects opposite to those intended. Tags: `economics`, `systems`, `second-order`

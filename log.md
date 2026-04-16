@@ -102,3 +102,24 @@ Created:
 - index.md updated
 
 Cross-references: LP Ownership ↔ Skin in the Game. LP Customer Obsession ↔ Cost of Delay. LP Disagree & Commit ↔ Idea Meritocracy + Radical Transparency. Flywheel ↔ Compounding. Flywheel ↔ Leverage (AWS). Type 1/2 decisions ↔ Batch Size. Working Backwards ↔ Flow Economics.
+
+## [2026-04-16] ingest | Economics in One Lesson — Henry Hazlitt
+
+Sources:
+- https://en.wikipedia.org/wiki/Economics_in_One_Lesson
+- https://en.wikipedia.org/wiki/Parable_of_the_broken_window
+- https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Bastiat
+- https://mises.org/library/book/economics-one-lesson
+- https://fee.org/people/henry-hazlitt/
+- https://www.goodreads.com/book/show/3028.Economics_in_One_Lesson
+
+Created:
+- sources/hazlitt-economics-one-lesson.md (raw, 22k chars)
+- people/henry-hazlitt.md (person page; the one lesson; 24 fallacies; contrast table)
+- people/frederic-bastiat.md (person page; seen vs unseen; The Law; opportunity cost)
+- concepts/seen-vs-unseen.md (master framework; cross-domain applications)
+- concepts/broken-window-fallacy.md (the parable; modern applications; cross-refs)
+- concepts/unintended-consequences.md (structure; cross-domain parallels)
+- index.md updated
+
+Cross-references: Seen/Unseen ↔ Black Swans (Taleb). Seen/Unseen ↔ Hidden Queues (Reinertsen). Broken Window ↔ Naive Intervention (Taleb). Unintended Consequences ↔ Antifragility ↔ Five-Step Process ↔ Type 1/2 decisions (Bezos). Cost of Delay = quantifying the unseen.
