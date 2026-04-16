@@ -123,3 +123,26 @@ Created:
 - index.md updated
 
 Cross-references: Seen/Unseen ↔ Black Swans (Taleb). Seen/Unseen ↔ Hidden Queues (Reinertsen). Broken Window ↔ Naive Intervention (Taleb). Unintended Consequences ↔ Antifragility ↔ Five-Step Process ↔ Type 1/2 decisions (Bezos). Cost of Delay = quantifying the unseen.
+
+## [2026-04-16] ingest | Thinking, Fast and Slow — Daniel Kahneman
+
+Sources:
+- https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow
+- https://sive.rs/book/ThinkingFastAndSlow (Derek Sivers — direct quotes)
+- https://fourminutebooks.com/thinking-fast-and-slow-summary/
+- https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow
+- https://en.wikipedia.org/wiki/Prospect_theory
+- https://en.wikipedia.org/wiki/Anchoring_effect
+- https://en.wikipedia.org/wiki/Availability_heuristic
+- https://en.wikipedia.org/wiki/Planning_fallacy
+
+Created:
+- sources/kahneman-thinking-fast-slow.md (raw, 33k chars)
+- people/daniel-kahneman.md (person page; WYSIATI; experiencing/remembering self; 5-way contrast)
+- concepts/system-1-and-2.md (dual-process; when each is reliable; System 2 disciplines)
+- concepts/loss-aversion.md (prospect theory; framing; endowment effect; cross-refs)
+- concepts/planning-fallacy.md (inside vs outside view; reference class forecasting; pre-mortem)
+- concepts/cognitive-biases-kahneman.md (WYSIATI, anchoring, availability, substitution, halo effect, overconfidence, narrative fallacy, regression to mean)
+- index.md updated
+
+Cross-references: WYSIATI ↔ Broken Window (Hazlitt). Availability heuristic ↔ Black Swans (Taleb). Planning Fallacy ↔ Cost of Delay + Batch Size (Reinertsen). Loss Aversion ↔ Barbell Strategy (Taleb). Biases ↔ Idea Meritocracy (Dalio). System 1/2 ↔ Principles as System 2 backup (Dalio). Planning Fallacy ↔ Black Swan fat tails (Taleb).
