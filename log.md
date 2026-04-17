@@ -242,3 +242,20 @@ Cross-references built:
 - Dalio (Radical Transparency + Idea Meritocracy): institutional design that neutralises authority bias, liking bias, and commitment bias — Bridgewater as a Cialdini-defence architecture.
 - Christensen (100% integrity / marginal cost trap): Commitment & Consistency mechanically explains why 98% commitment collapses. Each exception is consistent with the prior exception; self-image updates toward "someone who makes exceptions."
 - Moore (Crossing the Chasm): Social Proof is the psychological engine of pragmatist herd behaviour. Moore's beachhead strategy is deliberate social proof construction.
+
+## [2026-04-17] ingest | Cialdini — Individual concept pages for all 7 principles
+
+The original Cialdini ingest created only a single umbrella page (principles-of-influence.md). This pass creates individual concept pages for each of the seven principles, matching the pattern of Kahneman's individual concept pages.
+
+Files created:
+- concepts/reciprocity.md
+- concepts/commitment-and-consistency.md
+- concepts/social-proof.md
+- concepts/authority-bias.md
+- concepts/liking.md
+- concepts/scarcity.md
+- concepts/unity.md
+
+index.md updated: Psychology & Cognitive Biases section now lists all 7 individual principle pages plus the umbrella principles-of-influence.md.
+
+Each page contains: mechanism, techniques/examples, defence, and targeted cross-references to existing wiki pages.

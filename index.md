@@ -48,6 +48,13 @@ This is the content catalog for sat-wiki. Updated on every ingest.
 - [Planning Fallacy](concepts/planning-fallacy.md) — Systematic underestimation of time, cost, and risk; inside vs outside view. Tags: `kahneman`, `planning`, `forecasting`
 - [Cognitive Biases (Kahneman)](concepts/cognitive-biases-kahneman.md) — WYSIATI, anchoring, availability, halo effect, overconfidence, narrative fallacy. Tags: `kahneman`, `bias`, `psychology`
 - [Principles of Influence (Cialdini)](concepts/principles-of-influence.md) — Seven principles of compliance: reciprocity, commitment, social proof, authority, liking, scarcity, unity. Tags: `cialdini`, `persuasion`, `psychology`, `behaviour`, `heuristics`
+- [Reciprocity](concepts/reciprocity.md) — We feel obligated to return what others give us; door-in-the-face technique. Tags: `cialdini`, `persuasion`, `compliance`, `negotiation`
+- [Commitment and Consistency](concepts/commitment-and-consistency.md) — Public/written commitments reshape identity and lock in future behaviour; foot-in-the-door; sunk cost. Tags: `cialdini`, `persuasion`, `identity`, `integrity`
+- [Social Proof](concepts/social-proof.md) — Under uncertainty we follow similar others; pluralistic ignorance; bystander effect. Tags: `cialdini`, `persuasion`, `herd`, `conformity`
+- [Authority Bias](concepts/authority-bias.md) — We defer to experts and symbols of authority; Milgram; skin in the game as the filter. Tags: `cialdini`, `persuasion`, `expertise`, `halo-effect`
+- [Liking](concepts/liking.md) — We comply with people we like; similarity, familiarity, attractiveness, flattery, association. Tags: `cialdini`, `persuasion`, `rapport`, `halo-effect`
+- [Scarcity](concepts/scarcity.md) — We value things more when rare or threatened; loss aversion + reactance. Tags: `cialdini`, `persuasion`, `loss-aversion`, `urgency`
+- [Unity](concepts/unity.md) — We comply with those we perceive as "us"; shared identity, kinship, co-creation; ask-for-advice technique. Tags: `cialdini`, `persuasion`, `identity`, `in-group`
 
 ### Philosophy & Happiness
 - [Happiness](concepts/happiness.md) — Naval's subtractive framework. Tags: `happiness`, `philosophy`
