@@ -22,6 +22,7 @@ exclude:
   - CLAUDE.md
   - Gemfile
   - Gemfile.lock
+  - vendor/
   - "*.sh"
 
 plugins:
