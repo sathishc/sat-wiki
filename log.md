@@ -373,3 +373,23 @@ Cross-references built:
 - Newport/Deep Work: Personal mastery requires deep work. Tragedy of the Commons archetype = shared attention pool degraded by open offices and constant interruption.
 - OKRs (Doerr): OKRs are Level 5/3 leverage (rules + goals). Review cadence = balancing loop to correct trajectory.
 - Seen vs Unseen (Hazlitt): Making unseen costs visible = Level 6 leverage point (information flow structure).
+
+## [2026-04-17] ingest | Ron Westrum — Cultural Typologies (Pathological / Bureaucratic / Generative)
+
+Ingested Westrum's cultural typology framework (BMJ 2004) and related empirical work from Accelerate (Forsgren, Humble, Kim 2018) and psychological safety (Edmondson 1999 / Google Project Aristotle). Source synthesised from Jarvis ingest session.
+
+Files created:
+- sources/westrum-cultural-typologies.md (raw source; immutable)
+- people/ron-westrum.md (person page; bio, core contribution, contrast table, cross-thinker convergences)
+- concepts/westrum-cultural-typologies.md (full framework: three types, comparison table, Accelerate empirical validation, blameless post-mortems, psychological safety, cross-framework connections)
+- concepts/psychological-safety.md (Edmondson, Google Project Aristotle, safety vs comfort distinction, cross-references)
+- index.md updated (People + new Organisational Culture section + Sources)
+
+Cross-references built:
+- Dalio (Radical Transparency): RT is the operational implementation of Westrum generative culture. "Don't shoot the messenger" enforced as norm.
+- Meadows (Leverage Points): Westrum typology = leverage point analysis. Pathological = wrong paradigm (Level 2). Generative = Level 6 (information flow) + Level 3 (mission goal).
+- Senge (Learning Organisation): Generative culture = learning organisation. Westrum's 6 generative behaviours directly counter Senge's 7 learning disabilities.
+- Reinertsen (Flow/Queues): Generative culture enables fast, honest feedback loops that flow economics requires. Pathological culture systematically corrupts the feedback signals Reinertsen's framework depends on.
+- Cialdini (Authority/Social Proof): Authority bias suppresses information in pathological cultures. Social proof amplifies pathology (pluralistic silence). In generative cultures, social proof amplifies psychological safety.
+- OKRs (Doerr): Moonshot OKRs only function in psychologically safe environments. Sandbagging = bureaucratic culture behaviour.
+- Newport (Deep Work): Psychological safety is prerequisite for deep collaborative work; self-monitoring in unsafe environments consumes attentional bandwidth.

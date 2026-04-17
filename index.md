@@ -23,6 +23,7 @@ This is the content catalog for sat-wiki. Updated on every ingest.
 - [John Doerr](people/john-doerr.md) — Venture capitalist; *Measure What Matters*; popularised OKRs from Intel to Google and beyond. Tags: `management`, `okr`, `goals`, `execution`, `alignment`
 - [Peter Senge](people/peter-senge.md) — Systems scientist; *The Fifth Discipline*; learning organisations, five disciplines, system archetypes. Tags: `systems-thinking`, `management`, `learning`, `feedback`, `organisations`
 - [Donella Meadows](people/donella-meadows.md) — Environmental scientist; *Thinking in Systems*; stocks, flows, feedback loops, leverage points. Tags: `systems-thinking`, `feedback`, `leverage`, `complexity`
+- [Ron Westrum](people/ron-westrum.md) — Sociologist; cultural typologies (pathological, bureaucratic, generative); culture as information processing architecture. Tags: `culture`, `organisations`, `safety`, `information-flow`, `devops`
 
 ---
 
@@ -79,6 +80,10 @@ This is the content catalog for sat-wiki. Updated on every ingest.
 - [Leverage Points](concepts/leverage-points.md) — Meadows' hierarchy of system interventions from least (numbers) to most effective (paradigms). Tags: `meadows`, `systems-thinking`, `intervention`, `leverage`, `policy`
 - [Learning Organisation](concepts/learning-organisation.md) — Senge's five disciplines: personal mastery, mental models, shared vision, team learning, systems thinking. Tags: `senge`, `management`, `learning`, `dialogue`, `culture`
 
+### Organisational Culture (Westrum)
+- [Westrum Cultural Typologies](concepts/westrum-cultural-typologies.md) — Pathological, bureaucratic, generative cultures; culture as information processing; Accelerate empirical validation; blameless post-mortems. Tags: `westrum`, `culture`, `organisations`, `safety`, `devops`, `information-flow`
+- [Psychological Safety](concepts/psychological-safety.md) — Team-level safety to speak up; Google Project Aristotle; prerequisite for dialogue, moonshots, and deep work. Tags: `edmondson`, `westrum`, `culture`, `teams`, `learning`, `safety`
+
 ### Economics
 - [Seen vs Unseen](concepts/seen-vs-unseen.md) — The master framework: every act has visible immediate effects and invisible longer-term effects. Tags: `economics`, `hazlitt`, `bastiat`, `thinking`
 - [Broken Window Fallacy](concepts/broken-window-fallacy.md) — Destruction doesn't create net wealth; the unseen forgone use is the real cost. Tags: `economics`, `fallacy`, `bastiat`
@@ -130,3 +135,4 @@ This is the content catalog for sat-wiki. Updated on every ingest.
 - [sources/newport-deep-work.md](sources/newport-deep-work.md) — Deep Work: Rules for Focused Success in a Distracted World by Cal Newport. Ingested 2026-04-17.
 - [sources/doerr-measure-what-matters.md](sources/doerr-measure-what-matters.md) — Measure What Matters by John Doerr. Ingested 2026-04-17.
 - [sources/systems-thinking-senge-meadows.md](sources/systems-thinking-senge-meadows.md) — Systems Thinking: The Fifth Discipline (Senge) and Thinking in Systems (Meadows). Ingested 2026-04-17.
+- [sources/westrum-cultural-typologies.md](sources/westrum-cultural-typologies.md) — Westrum Cultural Typologies; Accelerate (Forsgren, Humble, Kim). Ingested 2026-04-17.
