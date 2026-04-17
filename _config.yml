@@ -2,6 +2,10 @@ title: sat-wiki
 description: Personal LLM-maintained wiki — mental models, strategy, systems thinking, and more
 remote_theme: just-the-docs/just-the-docs@v0.10.0
 
+markdown: kramdown
+kramdown:
+  input: GFM
+
 search_enabled: true
 search:
   heading_level: 2
