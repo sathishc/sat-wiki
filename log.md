@@ -206,3 +206,22 @@ Cross-references built:
 ## [2026-04-17] lint | Index restructure — fix orphaned concepts under Sources
 
 The Amazon/Bezos, Economics, Psychology, and Strategy concept groups had drifted under the Sources section heading during previous ingests. Moved all concept groups to the Concepts section. Sources section now contains only raw source file links. No page content changed; index.md only.
+
+## [2026-04-17] ingest | Mihaly Csikszentmihalyi — Flow: The Psychology of Optimal Experience
+
+Ingested Csikszentmihalyi's *Flow* (1990). Source synthesised from Jarvis ingest session.
+
+Files created:
+- sources/csikszentmihalyi-flow.md (raw source; immutable)
+- people/mihaly-csikszentmihalyi.md (person page; bio, core contribution, contrast table vs. Kahneman/Naval/Christensen/Reinertsen, quotes)
+- concepts/flow-optimal-experience.md (full framework: 8 characteristics, challenge/skill matrix, pleasure vs. enjoyment, psychic entropy/negentropy, autotelic experience, work paradox, conditions for flow, cross-framework connections)
+- index.md updated (People + Philosophy & Happiness section + Sources)
+
+Cross-references built:
+- Kahneman (Experiencing vs. Remembering Self): the Work Paradox explained — remembering self biases toward anticipated leisure over experienced engagement; flow lives in the experiencing self.
+- Naval (Specific Knowledge): autotelic skill-building = the path to specific knowledge; flow is the phenomenology of that engagement.
+- Christensen / HWYMYL (Herzberg): Herzberg's motivators/hygiene = organisational encoding of autotelic/exotelic distinction. Same structure, different vocabulary.
+- Reinertsen (Flow Economics): system-level flow and psychological flow share the same enabling conditions — clear goals, immediate feedback, challenge/skill match, reduced interruption. Reinertsen WIP limits prevent the anxiety zone; Csikszentmihalyi challenge/skill balance prevents boredom and anxiety. They reinforce each other.
+- Naval (Happiness): eudaimonic engagement vs. subtractive contentment — complementary paths to the same goal.
+- Rational Buddhism: meditation and flow as parallel attention-ordering practices (external challenge vs. internal practice).
+- Note: "Flow Economics" (Reinertsen) and "Flow (Optimal Experience)" (Csikszentmihalyi) now both exist in the wiki and are explicitly cross-linked to clarify the distinction and the convergence.

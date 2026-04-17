@@ -17,6 +17,7 @@ This is the content catalog for sat-wiki. Updated on every ingest.
 - [Donald G. Reinertsen](people/donald-reinertsen.md) — Author of *The Principles of Product Development Flow*. Tags: `flow`, `product-development`, `queueing`, `economics`
 - [Clayton Christensen](people/clayton-christensen.md) — Harvard professor; *The Innovator's Dilemma*, *The Innovator's Solution*, *How Will You Measure Your Life?*; disruptive innovation, Jobs to Be Done, RPM framework. Tags: `strategy`, `disruption`, `innovation`, `management`, `life`
 - [Geoffrey Moore](people/geoffrey-moore.md) — Author of *Crossing the Chasm*; technology adoption lifecycle, the chasm, beachhead strategy, Whole Product. Tags: `strategy`, `technology`, `marketing`, `startups`, `adoption`
+- [Mihaly Csikszentmihalyi](people/mihaly-csikszentmihalyi.md) — Psychologist; *Flow: The Psychology of Optimal Experience*; optimal experience, autotelic self, challenge/skill balance. Tags: `psychology`, `flow`, `happiness`, `motivation`, `wellbeing`
 
 ---
 
@@ -49,6 +50,7 @@ This is the content catalog for sat-wiki. Updated on every ingest.
 ### Philosophy & Happiness
 - [Happiness](concepts/happiness.md) — Naval's subtractive framework. Tags: `happiness`, `philosophy`
 - [Rational Buddhism](concepts/rational-buddhism.md) — Secular Buddhist insight: impermanence, non-attachment. Tags: `philosophy`, `buddhism`
+- [Flow (Optimal Experience)](concepts/flow-optimal-experience.md) — Csikszentmihalyi's state of complete absorption; challenge/skill balance; autotelic self; psychic entropy. Tags: `csikszentmihalyi`, `flow`, `psychology`, `happiness`, `motivation`, `performance`
 
 ### Economics
 - [Seen vs Unseen](concepts/seen-vs-unseen.md) — The master framework: every act has visible immediate effects and invisible longer-term effects. Tags: `economics`, `hazlitt`, `bastiat`, `thinking`
@@ -92,3 +94,4 @@ This is the content catalog for sat-wiki. Updated on every ingest.
 - [sources/reinertsen-flow.md](sources/reinertsen-flow.md) — Principles of Product Development Flow by Reinertsen (blackswanfarming, wikipedia, martinfowler, goodreads). Ingested 2026-04-16.
 - [sources/christensen-innovators-trilogy.md](sources/christensen-innovators-trilogy.md) — The Innovator's Dilemma, The Innovator's Solution, How Will You Measure Your Life? by Christensen. Ingested 2026-04-17.
 - [sources/moore-crossing-the-chasm.md](sources/moore-crossing-the-chasm.md) — Crossing the Chasm by Geoffrey Moore. Ingested 2026-04-17.
+- [sources/csikszentmihalyi-flow.md](sources/csikszentmihalyi-flow.md) — Flow: The Psychology of Optimal Experience by Csikszentmihalyi. Ingested 2026-04-17.
