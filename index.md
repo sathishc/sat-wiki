@@ -40,6 +40,31 @@ This is the content catalog for sat-wiki. Updated on every ingest.
 - [Five-Step Process](concepts/five-step-process.md) — Goals → Problems → Diagnosis → Design → Execute. Tags: `dalio`, `process`
 - [Mental Models](concepts/mental-models.md) — Cross-discipline frameworks for understanding reality. Tags: `decision-making`, `naval`, `dalio`
 
+### Psychology & Cognitive Biases
+- [System 1 and System 2](concepts/system-1-and-2.md) — Fast automatic thinking vs slow deliberate thinking; when each is reliable. Tags: `kahneman`, `psychology`, `thinking`
+- [Loss Aversion](concepts/loss-aversion.md) — Losses hurt ~2x more than equivalent gains feel good; Prospect Theory. Tags: `kahneman`, `behavioural-economics`, `risk`
+- [Planning Fallacy](concepts/planning-fallacy.md) — Systematic underestimation of time, cost, and risk; inside vs outside view. Tags: `kahneman`, `planning`, `forecasting`
+- [Cognitive Biases (Kahneman)](concepts/cognitive-biases-kahneman.md) — WYSIATI, anchoring, availability, halo effect, overconfidence, narrative fallacy. Tags: `kahneman`, `bias`, `psychology`
+
+### Philosophy & Happiness
+- [Happiness](concepts/happiness.md) — Naval's subtractive framework. Tags: `happiness`, `philosophy`
+- [Rational Buddhism](concepts/rational-buddhism.md) — Secular Buddhist insight: impermanence, non-attachment. Tags: `philosophy`, `buddhism`
+
+### Economics
+- [Seen vs Unseen](concepts/seen-vs-unseen.md) — The master framework: every act has visible immediate effects and invisible longer-term effects. Tags: `economics`, `hazlitt`, `bastiat`, `thinking`
+- [Broken Window Fallacy](concepts/broken-window-fallacy.md) — Destruction doesn't create net wealth; the unseen forgone use is the real cost. Tags: `economics`, `fallacy`, `bastiat`
+- [Unintended Consequences](concepts/unintended-consequences.md) — Interventions in complex systems produce effects opposite to those intended. Tags: `economics`, `systems`, `second-order`
+
+### Strategy
+- [Core Competency](concepts/core-competency.md) — The bundle of skills and technologies that form the durable basis of competitive advantage. Tags: `prahalad`, `strategy`, `competitive-advantage`
+- [Competing for the Future](concepts/competing-for-the-future.md) — Shape tomorrow's market space rather than defend today's position. Tags: `prahalad`, `strategy`, `foresight`
+- [Strategic Intent](concepts/strategic-intent.md) — Obsessive long-term ambition that stretches beyond current capabilities and drives capability-building. Tags: `prahalad`, `strategy`, `ambition`
+- [Bottom of the Pyramid](concepts/bottom-of-the-pyramid.md) — 4 billion people earning <$2.50/day as a viable market and innovation catalyst. Tags: `prahalad`, `emerging-markets`, `innovation`
+
+### Amazon / Bezos
+- [Amazon Leadership Principles](concepts/amazon-leadership-principles.md) — The 16 operating principles governing how Amazon hires, decides, and operates. Tags: `amazon`, `leadership`, `culture`, `management`
+- [Amazon Growth Flywheel](concepts/amazon-growth-flywheel.md) — The self-reinforcing virtuous cycle: customer experience → traffic → sellers → selection → lower costs → lower prices. Tags: `amazon`, `flywheel`, `strategy`, `compounding`
+
 ### Product Development Flow
 - [Flow Economics](concepts/flow-economics.md) — Optimise for economic value of flow, not utilisation or cost. Tags: `reinertsen`, `flow`, `economics`
 - [Cost of Delay](concepts/cost-of-delay.md) — Economic cost of time; CD3/WSJF prioritisation. Tags: `reinertsen`, `flow`, `prioritisation`
@@ -47,42 +72,6 @@ This is the content catalog for sat-wiki. Updated on every ingest.
 - [Little's Law](concepts/littles-law.md) — Cycle Time = WIP / Throughput; the mathematics of flow. Tags: `reinertsen`, `queueing`, `mathematics`
 - [WIP Limits](concepts/wip-limits.md) — Constrain work in progress to control queues and cycle time. Tags: `reinertsen`, `kanban`, `flow`
 - [Batch Size](concepts/batch-size.md) — Smaller batches: faster feedback, lower risk, better flow. Tags: `reinertsen`, `lean`, `flow`
-
-### Philosophy & Happiness
-- [Happiness](concepts/happiness.md) — Naval's subtractive framework. Tags: `happiness`, `philosophy`
-- [Rational Buddhism](concepts/rational-buddhism.md) — Secular Buddhist insight: impermanence, non-attachment. Tags: `philosophy`, `buddhism`
-
----
-
-## Sources
-
-- [sources/naval-almanack.md](sources/naval-almanack.md) — 15 chapters, Almanack of Naval Ravikant. Ingested 2026-04-16.
-- [sources/antifragile.md](sources/antifragile.md) — Antifragile by Taleb (fs.blog, fourminutebooks, sive.rs). Ingested 2026-04-16.
-- [sources/dalio-principles.md](sources/dalio-principles.md) — Principles by Dalio (principles.com, fourminutebooks, sive.rs, nateliason). Ingested 2026-04-16.
-- [sources/reinertsen-flow.md](sources/reinertsen-flow.md) — Principles of Product Development Flow by Reinertsen (blackswanfarming, wikipedia, martinfowler, goodreads). Ingested 2026-04-16.
-- [sources/christensen-innovators-trilogy.md](sources/christensen-innovators-trilogy.md) — The Innovator's Dilemma, The Innovator's Solution, How Will You Measure Your Life? by Christensen. Ingested 2026-04-17.
-- [sources/moore-crossing-the-chasm.md](sources/moore-crossing-the-chasm.md) — Crossing the Chasm by Geoffrey Moore. Ingested 2026-04-17.
-
-### Amazon / Bezos
-- [Amazon Leadership Principles](concepts/amazon-leadership-principles.md) — The 16 operating principles governing how Amazon hires, decides, and operates. Tags: `amazon`, `leadership`, `culture`, `management`
-- [Amazon Growth Flywheel](concepts/amazon-growth-flywheel.md) — The self-reinforcing virtuous cycle: customer experience → traffic → sellers → selection → lower costs → lower prices. Tags: `amazon`, `flywheel`, `strategy`, `compounding`
-
-### Economics
-- [Seen vs Unseen](concepts/seen-vs-unseen.md) — The master framework: every act has visible immediate effects and invisible longer-term effects. Tags: `economics`, `hazlitt`, `bastiat`, `thinking`
-- [Broken Window Fallacy](concepts/broken-window-fallacy.md) — Destruction doesn't create net wealth; the unseen forgone use is the real cost. Tags: `economics`, `fallacy`, `bastiat`
-- [Unintended Consequences](concepts/unintended-consequences.md) — Interventions in complex systems produce effects opposite to those intended. Tags: `economics`, `systems`, `second-order`
-
-### Psychology & Decision-Making
-- [System 1 and System 2](concepts/system-1-and-2.md) — Fast automatic thinking vs slow deliberate thinking; when each is reliable. Tags: `kahneman`, `psychology`, `thinking`
-- [Loss Aversion](concepts/loss-aversion.md) — Losses hurt ~2x more than equivalent gains feel good; Prospect Theory. Tags: `kahneman`, `behavioural-economics`, `risk`
-- [Planning Fallacy](concepts/planning-fallacy.md) — Systematic underestimation of time, cost, and risk; inside vs outside view. Tags: `kahneman`, `planning`, `forecasting`
-- [Cognitive Biases (Kahneman)](concepts/cognitive-biases-kahneman.md) — WYSIATI, anchoring, availability, halo effect, overconfidence, narrative fallacy. Tags: `kahneman`, `bias`, `psychology`
-
-### Strategy
-- [Core Competency](concepts/core-competency.md) — The bundle of skills and technologies that form the durable basis of competitive advantage. Tags: `prahalad`, `strategy`, `competitive-advantage`
-- [Competing for the Future](concepts/competing-for-the-future.md) — Shape tomorrow's market space rather than defend today's position. Tags: `prahalad`, `strategy`, `foresight`
-- [Strategic Intent](concepts/strategic-intent.md) — Obsessive long-term ambition that stretches beyond current capabilities and drives capability-building. Tags: `prahalad`, `strategy`, `ambition`
-- [Bottom of the Pyramid](concepts/bottom-of-the-pyramid.md) — 4 billion people earning <$2.50/day as a viable market and innovation catalyst. Tags: `prahalad`, `emerging-markets`, `innovation`
 
 ### Disruption & Innovation (Christensen)
 - [Disruptive Innovation](concepts/innovators-dilemma.md) — Why well-managed companies fail: value networks, resource allocation, overshooting. Tags: `christensen`, `disruption`, `strategy`, `innovation`
@@ -92,3 +81,14 @@ This is the content catalog for sat-wiki. Updated on every ingest.
 
 ### Go-to-Market & Adoption (Moore)
 - [Crossing the Chasm](concepts/crossing-the-chasm.md) — Technology adoption lifecycle; the chasm between visionaries and pragmatists; beachhead strategy; Whole Product; Tornado and Main Street. Tags: `moore`, `strategy`, `go-to-market`, `adoption`, `startups`, `beachhead`
+
+---
+
+## Sources
+
+- [sources/naval-almanack.md](sources/naval-almanack.md) — Almanack of Naval Ravikant (15 chapters). Ingested 2026-04-16.
+- [sources/antifragile.md](sources/antifragile.md) — Antifragile by Taleb (fs.blog, fourminutebooks, sive.rs). Ingested 2026-04-16.
+- [sources/dalio-principles.md](sources/dalio-principles.md) — Principles by Dalio (principles.com, fourminutebooks, sive.rs, nateliason). Ingested 2026-04-16.
+- [sources/reinertsen-flow.md](sources/reinertsen-flow.md) — Principles of Product Development Flow by Reinertsen (blackswanfarming, wikipedia, martinfowler, goodreads). Ingested 2026-04-16.
+- [sources/christensen-innovators-trilogy.md](sources/christensen-innovators-trilogy.md) — The Innovator's Dilemma, The Innovator's Solution, How Will You Measure Your Life? by Christensen. Ingested 2026-04-17.
+- [sources/moore-crossing-the-chasm.md](sources/moore-crossing-the-chasm.md) — Crossing the Chasm by Geoffrey Moore. Ingested 2026-04-17.

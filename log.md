@@ -202,3 +202,7 @@ Cross-references built:
 - Taleb (Black Swan): the chasm as structurally predictable but cognitively invisible; WYSIATI and availability heuristic explain why founders miss it.
 - Kahneman (Cognitive Biases): WYSIATI — early traction constructs a complete story that excludes the chasm.
 - Bezos (Amazon Flywheel): books as canonical beachhead; flywheel as the mechanism of post-beachhead expansion.
+
+## [2026-04-17] lint | Index restructure — fix orphaned concepts under Sources
+
+The Amazon/Bezos, Economics, Psychology, and Strategy concept groups had drifted under the Sources section heading during previous ingests. Moved all concept groups to the Concepts section. Sources section now contains only raw source file links. No page content changed; index.md only.
