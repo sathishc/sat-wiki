@@ -100,7 +100,7 @@ Cialdini calls them **click-whirr responses**: press the right trigger, and the 
 **The mechanism:**
 - **Symbols** of authority (titles, uniforms, expensive cars) trigger the same compliance as genuine authority
 - True expertise in one domain is often incorrectly extended to unrelated domains (celebrity endorsements)
-- The [halo effect](../concepts/cognitive-biases-kahneman.md): authority in one dimension transfers to perceived authority in others
+- The [halo effect](./cognitive-biases-kahneman.md): authority in one dimension transfers to perceived authority in others
 - Genuine experts often signal credibility by **acknowledging weaknesses** — this increases trust, not decreases it
 
 **Classic evidence:**
@@ -224,13 +224,13 @@ The ethical distinction also has practical stakes: manipulation produces short-t
 
 ### ↔ Kahneman (System 1/2 + Cognitive Biases)
 
-Cialdini's principles are the **exploitation manual for Kahneman's [System 1](../concepts/system-1-and-2.md)**:
+Cialdini's principles are the **exploitation manual for Kahneman's [System 1](./system-1-and-2.md)**:
 
 | Cialdini Principle | Kahneman mechanism |
 |---|---|
-| Social Proof | [WYSIATI](../concepts/cognitive-biases-kahneman.md) + availability heuristic |
+| Social Proof | [WYSIATI](./cognitive-biases-kahneman.md) + availability heuristic |
 | Authority | Halo effect |
-| Scarcity | [Loss aversion](../concepts/loss-aversion.md) |
+| Scarcity | [Loss aversion](./loss-aversion.md) |
 | Commitment | Anchoring + consistency bias |
 | Liking | Affect heuristic |
 | Reciprocity | In-group fairness norm |
@@ -240,12 +240,12 @@ Kahneman explains *why* the mechanism exists (evolutionary architecture of fast 
 
 ### ↔ Taleb (Skin in the Game)
 
-[Skin in the Game](../concepts/skin-in-the-game.md) is the structural antidote to authority and social proof abuse. If an authority figure bears the consequences of their advice, the authority signal becomes genuinely informative. If not, it's noise. Taleb's insistence on accountability filters out Cialdini's most dangerous case: authority symbols without real expertise or stakes.
+[Skin in the Game](./skin-in-the-game.md) is the structural antidote to authority and social proof abuse. If an authority figure bears the consequences of their advice, the authority signal becomes genuinely informative. If not, it's noise. Taleb's insistence on accountability filters out Cialdini's most dangerous case: authority symbols without real expertise or stakes.
 
 ### ↔ Dalio (Radical Transparency / Idea Meritocracy)
 
-[Radical Transparency](../concepts/radical-transparency.md) neutralises several Cialdini distortions:
-- Authority bias → override with track record weighting ([Idea Meritocracy](../concepts/idea-meritocracy.md))
+[Radical Transparency](./radical-transparency.md) neutralises several Cialdini distortions:
+- Authority bias → override with track record weighting ([Idea Meritocracy](./idea-meritocracy.md))
 - Liking bias → radical honesty regardless of relationship
 - Commitment bias → explicit norms around updating prior positions
 
@@ -253,7 +253,7 @@ Bridgewater's design is, in part, an institutional response to the compliance fa
 
 ### ↔ Christensen (Marginal Cost Trap / 100% Rule)
 
-[Commitment and Consistency](../people/robert-cialdini.md) explains *mechanically* why [Christensen's 100% integrity rule](../concepts/how-will-you-measure-your-life.md) is correct. The first exception reshapes self-image ("I'm someone who makes exceptions"). The second exception is easier — you're now consistent with the prior exception. By exception five, the exceptions *are* the pattern. The Cialdini mechanism shows why 98% commitment collapses: each exception triggers consistency pressure toward the next.
+[Commitment and Consistency](./commitment-and-consistency.md) explains *mechanically* why [Christensen's 100% integrity rule](./how-will-you-measure-your-life.md) is correct. The first exception reshapes self-image ("I'm someone who makes exceptions"). The second exception is easier — you're now consistent with the prior exception. By exception five, the exceptions *are* the pattern. The Cialdini mechanism shows why 98% commitment collapses: each exception triggers consistency pressure toward the next.
 
 ### ↔ Moore (Crossing the Chasm)
 

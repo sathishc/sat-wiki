@@ -325,3 +325,6 @@ Key connections added:
 - innovators-solution → crossing-the-chasm
 
 Post-audit state: 0 broken links.
+
+## [2026-04-17] lint | Cross-reference audit batch 2 (J–Z concepts)
+Updated cross-references in: jobs-to-be-done, leverage, liking, lindy-effect, loss-aversion, mental-models, planning-fallacy, principles-of-influence, queues-in-product-development, radical-transparency, rational-buddhism, scarcity, seen-vs-unseen, skin-in-the-game, social-proof, specific-knowledge, system-1-and-2, wip-limits. Added 29 links, fixed 7 broken path issues (../concepts/ → ./ in principles-of-influence body; wrong ../people/ link for commitment-and-consistency).

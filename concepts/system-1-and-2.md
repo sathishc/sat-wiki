@@ -83,8 +83,10 @@ This is a System 2 instruction: actively seek evidence that your System 1 story 
 
 - [Daniel Kahneman](../people/daniel-kahneman.md)
 - [Cognitive Biases](./cognitive-biases-kahneman.md)
+- [Principles of Influence](./principles-of-influence.md) — Cialdini's principles are the exploitation manual for System 1 shortcuts
 - [Loss Aversion](./loss-aversion.md)
 - [Planning Fallacy](./planning-fallacy.md)
+- [Deep Work](./deep-work.md) — deep work is the practice of engaging System 2 at depth; shallow work keeps you in System 1 reactive mode
 - [Mental Models](./mental-models.md)
 - [Idea Meritocracy](./idea-meritocracy.md)
 - [Seen vs Unseen](./seen-vs-unseen.md)

@@ -54,5 +54,7 @@ WIP limits and [batch size](./batch-size.md) are complementary. Smaller batches 
 - [Queues in Product Development](./queues-in-product-development.md)
 - [Batch Size](./batch-size.md)
 - [Cost of Delay](./cost-of-delay.md)
+- [Deep Work](./deep-work.md) — WIP limits for knowledge work mirror Newport's prescription: finish one deep work block before starting another; context switching is cognitive WIP
+- [Crossing the Chasm](./crossing-the-chasm.md) — beachhead focus is strategic WIP limiting: do one segment completely before opening the next
 - [Flow Economics](./flow-economics.md)
 - [Antifragility](./antifragility.md)
