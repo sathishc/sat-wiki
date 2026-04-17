@@ -35,14 +35,17 @@ jobs:
       - name: Prepare build layout
         run: |
           # MkDocs requires docs_dir to be a child of the config file location.
-          # We move mkdocs.yml one level above the repo root so the wiki
-          # directory itself becomes the docs_dir.
-          cp sat-wiki/mkdocs.yml mkdocs.yml
-          sed -i 's|^docs_dir: \.$|docs_dir: sat-wiki|' mkdocs.yml
-          sed -i 's|^site_dir: site$|site_dir: _site|' mkdocs.yml
+          # The repo is checked out at the workspace root, so we create a
+          # temporary config one level above with docs_dir pointing back here.
+          cd ..
+          cp $GITHUB_WORKSPACE/mkdocs.yml mkdocs-build.yml
+          sed -i "s|^docs_dir: \.$|docs_dir: $GITHUB_WORKSPACE|" mkdocs-build.yml
+          sed -i 's|^site_dir: site$|site_dir: _site|' mkdocs-build.yml
+          mkdocs build --config-file mkdocs-build.yml
+          mv _site $GITHUB_WORKSPACE/_site
 
       - name: Build site
-        run: mkdocs build --config-file mkdocs.yml
+        run: echo "Build completed in prepare step"
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
