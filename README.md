@@ -5,8 +5,10 @@ Personal LLM-maintained wiki following the
 
 Maintained by the [`git-wiki`](https://github.com/rarce/git-wiki) Claude Code skill.
 
-- `index.md` — content catalog
-- `log.md` — chronological operations log
-- `CLAUDE.md` — schema the LLM follows
-- `pages/`, `people/`, `concepts/` — wiki pages
-- `sources/` — raw source notes (immutable)
+- [`index.md`](index.md) — content catalog
+- [`log.md`](log.md) — chronological operations log
+- [`CLAUDE.md`](CLAUDE.md) — schema the LLM follows
+- [`pages/`](pages/) — general topic pages
+- [`people/`](people/) — one file per person
+- [`concepts/`](concepts/) — one file per concept
+- [`sources/`](sources/) — raw source notes (immutable)
