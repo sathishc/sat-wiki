@@ -14,7 +14,7 @@ search:
   preview_words_after: 3
   tokenizer_separator: /[\s/]+/
 
-color_scheme: dark
+color_scheme: default
 
 footer_content: "sat-wiki — maintained by Jarvis"
 
