@@ -79,5 +79,7 @@ Disruptors succeed because incumbents define the job incorrectly — they optimi
 - [Clayton Christensen](../people/clayton-christensen.md)
 - [The Innovator's Solution](./innovators-solution.md)
 - [Disruptive Innovation](./innovators-dilemma.md)
+- [Crossing the Chasm](./crossing-the-chasm.md) — JTBD defines the job the beachhead segment needs done; pragmatists hire products for specific jobs
+- [Bottom of the Pyramid](./bottom-of-the-pyramid.md) — non-consumers at the BoP have unserved jobs; JTBD reveals what they actually need
 - [Competing for the Future](./competing-for-the-future.md) — complementary lens: compete for tomorrow's jobs
 - [How Will You Measure Your Life?](./how-will-you-measure-your-life.md) — JTBD applied to relationships

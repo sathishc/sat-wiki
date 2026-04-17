@@ -257,13 +257,21 @@ Bridgewater's design is, in part, an institutional response to the compliance fa
 
 ### ↔ Moore (Crossing the Chasm)
 
-[Social Proof](../concepts/principles-of-influence.md) is the psychological engine behind [pragmatist herd behaviour](../concepts/crossing-the-chasm.md). Pragmatists (Early Majority) don't move until they see similar peers moving — a direct application of social proof. Moore's prescription (earn pragmatist references, dominate the beachhead so everyone in the segment knows your name) is a deliberate social proof construction strategy.
+[Social Proof](./social-proof.md) is the psychological engine behind [pragmatist herd behaviour](./crossing-the-chasm.md). Pragmatists (Early Majority) don't move until they see similar peers moving — a direct application of social proof. Moore's prescription (earn pragmatist references, dominate the beachhead so everyone in the segment knows your name) is a deliberate social proof construction strategy.
 
 ---
 
 ## Related Pages
 
 - [Robert Cialdini](../people/robert-cialdini.md)
+- **Individual principle pages:**
+  - [Reciprocity](./reciprocity.md)
+  - [Commitment and Consistency](./commitment-and-consistency.md)
+  - [Social Proof](./social-proof.md)
+  - [Authority Bias](./authority-bias.md)
+  - [Liking](./liking.md)
+  - [Scarcity](./scarcity.md)
+  - [Unity](./unity.md)
 - [System 1 and System 2](./system-1-and-2.md) — the cognitive architecture Cialdini's principles exploit
 - [Cognitive Biases (Kahneman)](./cognitive-biases-kahneman.md) — heuristics map to specific Cialdini principles
 - [Loss Aversion](./loss-aversion.md) — psychological engine of scarcity

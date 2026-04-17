@@ -90,3 +90,4 @@ Both follow the same trajectory: enter at the neglected fringe, improve, move up
 - [Competing for the Future](./competing-for-the-future.md) — Prahalad's parallel insight
 - [Core Competency](./core-competency.md) — can become a core rigidity
 - [Jeff Bezos / Day 1](../people/jeff-bezos.md) — Day 2 as institutional decay; Day 1 as disruption defence
+- [Crossing the Chasm](./crossing-the-chasm.md) — complementary lens from the entrant's perspective

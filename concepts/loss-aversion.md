@@ -72,6 +72,7 @@ Loss aversion makes people avoid voicing disagreement (risks social loss). The p
 - [System 1 and System 2](./system-1-and-2.md)
 - [Cognitive Biases](./cognitive-biases-kahneman.md)
 - [Planning Fallacy](./planning-fallacy.md)
+- [Scarcity](./scarcity.md) — scarcity exploits loss aversion by reframing opportunity as impending loss
 - [Barbell Strategy](./barbell-strategy.md)
 - [Cost of Delay](./cost-of-delay.md)
 - [Seen vs Unseen](./seen-vs-unseen.md)

@@ -128,3 +128,4 @@ This connects to [Dalio's](../people/ray-dalio.md) principle of updating beliefs
 - [Core Competency](./core-competency.md) — [Prahalad's](../people/ck-prahalad.md) parallel: what you're good at can become a rigidity
 - [Competing for the Future](./competing-for-the-future.md) — Prahalad's framing of the same strategic challenge
 - [Ray Dalio](../people/ray-dalio.md) — RPM parallels with Dalio's culture/process frameworks
+- [Crossing the Chasm](./crossing-the-chasm.md) — non-consumption targeting and the beachhead as complementary tactics

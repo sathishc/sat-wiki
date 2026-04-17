@@ -67,6 +67,7 @@ The tension: bias for action (move fast) can amplify planning fallacy (underesti
 - [Daniel Kahneman](../people/daniel-kahneman.md)
 - [System 1 and System 2](./system-1-and-2.md)
 - [Cognitive Biases](./cognitive-biases-kahneman.md)
+- [Commitment and Consistency](./commitment-and-consistency.md) — sunk cost escalation and identity lock-in compound planning fallacy; people persist with failing plans because stopping means admitting a loss
 - [Loss Aversion](./loss-aversion.md)
 - [Cost of Delay](./cost-of-delay.md)
 - [Black Swan](./black-swan.md)

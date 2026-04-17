@@ -62,6 +62,7 @@ Separate *liking the person* from *evaluating the offer*. Ask: would I accept th
 
 - [Principles of Influence](./principles-of-influence.md)
 - [Robert Cialdini](../people/robert-cialdini.md)
+- [Unity](./unity.md) — identity-level parallel to liking; shared identity amplifies the liking effect
 - [Cognitive Biases (Kahneman)](./cognitive-biases-kahneman.md) — halo effect
 - [Radical Transparency](./radical-transparency.md) — institutional override of liking bias
 - [Flow (Optimal Experience)](./flow-optimal-experience.md)

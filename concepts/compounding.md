@@ -39,3 +39,7 @@ Short-term thinking destroys compounding. Switching strategies, burning relation
 - [Specific Knowledge](./specific-knowledge.md)
 - [Leverage](./leverage.md)
 - [Naval Ravikant](../people/naval-ravikant.md)
+- [Lindy Effect](./lindy-effect.md) — long survival as signal of compounding quality
+- [Deep Work](./deep-work.md) — the practice that makes knowledge compound faster
+- [Amazon Growth Flywheel](./amazon-growth-flywheel.md) — compounding operationalised at corporate scale
+- [Flow Economics](./flow-economics.md) — economic value compounds when flow is sustained

@@ -43,4 +43,5 @@ Rational Buddhism is the philosophical foundation underneath Naval's happiness f
 ## Related
 
 - [Happiness](./happiness.md)
+- [Flow (Optimal Experience)](./flow-optimal-experience.md) — present-moment absorption in flow is the experiential analogue of Buddhist present-awareness; both point to engagement without grasping as the path to wellbeing
 - [Naval Ravikant](../people/naval-ravikant.md)

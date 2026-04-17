@@ -67,6 +67,8 @@ Ask: are these people genuinely similar to me in the relevant ways? Is this proo
 - [Robert Cialdini](../people/robert-cialdini.md)
 - [Crossing the Chasm](./crossing-the-chasm.md) — pragmatist herd behaviour
 - [Cognitive Biases (Kahneman)](./cognitive-biases-kahneman.md) — WYSIATI as social proof amplifier
+- [Unity](./unity.md) — social proof from in-group members is amplified into Unity; "people like us" vs. "just people"
+- [Scarcity](./scarcity.md) — scarcity + competition ("others want this too") is the most potent combination
 - [Black Swan](./black-swan.md) — herding as fragility
 - [Idea Meritocracy](./idea-meritocracy.md) — institutional resistance to herd thinking
 - [System 1 and System 2](./system-1-and-2.md)

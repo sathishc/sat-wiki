@@ -51,4 +51,5 @@ Without leverage, specific knowledge earns you a high salary. With leverage, it 
 
 - [Specific Knowledge](./specific-knowledge.md)
 - [Compounding](./compounding.md)
+- [Amazon Growth Flywheel](./amazon-growth-flywheel.md) — the flywheel is leverage at the company level: each turn compounds into the next
 - [Naval Ravikant](../people/naval-ravikant.md)

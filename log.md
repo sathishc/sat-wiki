@@ -296,3 +296,32 @@ Sources on disk not in index (4 added):
 - sources/prahalad-competing-for-future.md (ingested 2026-04-16; missing from index)
 
 Post-lint state: 0 broken links, 0 orphaned sources, people 14/14, concepts 49/49 fully in sync.
+
+## [2026-04-17] lint | Cross-reference audit batch 1 (A–M concepts)
+
+Updated cross-references in: amazon-growth-flywheel, antifragility, barbell-strategy, black-swan, bottom-of-the-pyramid, broken-window-fallacy, cognitive-biases-kahneman, competing-for-the-future, compounding, cost-of-delay, deep-work, five-step-process, flow-economics, flow-optimal-experience, happiness, how-will-you-measure-your-life, idea-meritocracy, innovators-dilemma, innovators-solution.
+
+Added 29 links, fixed 0 path issues.
+
+Key connections added:
+- amazon-growth-flywheel → crossing-the-chasm (books beachhead)
+- antifragility related pages already complete (barbell-strategy, black-swan, skin-in-the-game, lindy-effect all present)
+- barbell-strategy → loss-aversion, skin-in-the-game
+- black-swan → cognitive-biases-kahneman, crossing-the-chasm, social-proof
+- bottom-of-the-pyramid → crossing-the-chasm
+- broken-window-fallacy → cognitive-biases-kahneman
+- cognitive-biases-kahneman → principles-of-influence, social-proof, authority-bias, scarcity
+- competing-for-the-future → crossing-the-chasm, innovators-dilemma
+- compounding → lindy-effect, deep-work, amazon-growth-flywheel, flow-economics
+- cost-of-delay → shallow-work, seen-vs-unseen
+- deep-work → seen-vs-unseen
+- five-step-process → strategic-intent
+- flow-economics → flow-optimal-experience, deep-work
+- flow-optimal-experience → deep-work, shallow-work
+- happiness → flow-optimal-experience, how-will-you-measure-your-life
+- how-will-you-measure-your-life → flow-optimal-experience, commitment-and-consistency
+- idea-meritocracy → social-proof, authority-bias
+- innovators-dilemma → crossing-the-chasm
+- innovators-solution → crossing-the-chasm
+
+Post-audit state: 0 broken links.

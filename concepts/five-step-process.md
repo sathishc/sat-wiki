@@ -77,3 +77,4 @@ Dalio's loop, applied consistently over years, is a compounding system. Each ite
 - [Idea Meritocracy](./idea-meritocracy.md)
 - [Mental Models](./mental-models.md)
 - [Compounding](./compounding.md)
+- [Strategic Intent](./strategic-intent.md) — goal-setting at the strategic level mirrors Step 1

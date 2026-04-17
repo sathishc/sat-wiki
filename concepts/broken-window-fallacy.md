@@ -65,3 +65,4 @@ The broken window fallacy is a specific instance of the [Seen vs Unseen](./seen-
 - [Unintended Consequences](./unintended-consequences.md)
 - [Mental Models](./mental-models.md)
 - [Cost of Delay](./cost-of-delay.md) — making the unseen visible in product dev
+- [Cognitive Biases (Kahneman)](./cognitive-biases-kahneman.md) — WYSIATI explains why the fallacy persists

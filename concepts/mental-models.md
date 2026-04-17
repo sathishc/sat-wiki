@@ -62,6 +62,8 @@ Dalio warns against **confusing rationalising with rational**. A mental model ca
 
 - [Ray Dalio](../people/ray-dalio.md)
 - [Naval Ravikant](../people/naval-ravikant.md)
+- [System 1 and System 2](./system-1-and-2.md) — mental models are System 2 tools; good models help override System 1 defaults
+- [Seen vs Unseen](./seen-vs-unseen.md) — the seen/unseen framework is itself a foundational mental model
 - [Five-Step Process](./five-step-process.md)
 - [Compounding](./compounding.md)
 - [Antifragility](./antifragility.md)

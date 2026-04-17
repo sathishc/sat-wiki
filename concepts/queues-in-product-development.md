@@ -74,5 +74,6 @@ This directly echoes [Taleb](../people/nassim-taleb.md): over-optimised systems 
 - [Little's Law](./littles-law.md)
 - [Batch Size](./batch-size.md)
 - [Cost of Delay](./cost-of-delay.md)
+- [Shallow Work](./shallow-work.md) — shallow work obligations create cognitive queues; Newport's shutdown ritual is the cognitive equivalent of queue clearing
 - [Flow Economics](./flow-economics.md)
 - [Antifragility](./antifragility.md) — over-optimisation = fragility

@@ -76,3 +76,4 @@ The seen: fragmented, impoverished consumers. The unseen: the aggregate purchasi
 - [Batch Size](./batch-size.md)
 - [Seen vs Unseen](./seen-vs-unseen.md)
 - [Cognitive Biases (Kahneman)](./cognitive-biases-kahneman.md)
+- [Crossing the Chasm](./crossing-the-chasm.md) — non-consumers as a beachhead opportunity

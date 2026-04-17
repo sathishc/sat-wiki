@@ -53,3 +53,6 @@ The barbell positions you to be exposed to **positive** Black Swans while insula
 - [Barbell Strategy](./barbell-strategy.md)
 - [Nassim Taleb](../people/nassim-taleb.md)
 - [Lindy Effect](./lindy-effect.md)
+- [Cognitive Biases (Kahneman)](./cognitive-biases-kahneman.md) — availability heuristic explains why Black Swans are underestimated
+- [Crossing the Chasm](./crossing-the-chasm.md) — the chasm as a structurally predictable Black Swan
+- [Social Proof](./social-proof.md) — herd behaviour amplifies Black Swan impact

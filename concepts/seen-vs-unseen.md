@@ -88,6 +88,7 @@ The seen vs unseen framework extends far beyond economics:
 - [Broken Window Fallacy](./broken-window-fallacy.md)
 - [Unintended Consequences](./unintended-consequences.md)
 - [Mental Models](./mental-models.md)
+- [Shallow Work](./shallow-work.md) — shallow work is the visible, seen output; deep work value is unseen until it compounds
 - [Black Swan](./black-swan.md) — Taleb's unseen
 - [Queues in Product Development](./queues-in-product-development.md) — Reinertsen's unseen
 - [Cost of Delay](./cost-of-delay.md) — quantifying the unseen

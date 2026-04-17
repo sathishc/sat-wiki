@@ -147,5 +147,7 @@ Choose your metric before you're on your deathbed trying to retrofit one.
 - [The Innovator's Solution](./innovators-solution.md)
 - [Mental Models](./mental-models.md)
 - [Happiness](./happiness.md) — Naval's parallel: subtractive happiness vs. Christensen's relationship-based meaning
+- [Flow (Optimal Experience)](./flow-optimal-experience.md) — Herzberg's motivators as the conditions for flow
+- [Commitment and Consistency](./commitment-and-consistency.md) — the 100% rule as a commitment device
 - [Daniel Kahneman](../people/daniel-kahneman.md) — WYSIATI explains why marginal cost thinking is so persistent
 - [Ray Dalio](../people/ray-dalio.md) — pre-committed principles as 100% rule implementation

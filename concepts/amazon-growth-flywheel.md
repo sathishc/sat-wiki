@@ -99,3 +99,4 @@ Jim Collins' *Good to Great* describes the "Hedgehog Concept" — what you can b
 - [Antifragility](./antifragility.md)
 - [Flow Economics](./flow-economics.md)
 - [Batch Size](./batch-size.md)
+- [Crossing the Chasm](./crossing-the-chasm.md) — books beachhead that launched the flywheel

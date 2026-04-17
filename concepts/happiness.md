@@ -41,3 +41,5 @@ Envy is uniquely toxic because it offers no upside — you feel bad without gain
 
 - [Rational Buddhism](./rational-buddhism.md)
 - [Naval Ravikant](../people/naval-ravikant.md)
+- [Flow (Optimal Experience)](./flow-optimal-experience.md) — Csikszentmihalyi's eudaimonic complement
+- [How Will You Measure Your Life?](./how-will-you-measure-your-life.md) — Christensen's relationship-based meaning as parallel framework

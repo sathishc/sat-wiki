@@ -50,3 +50,5 @@ Naval argues that genuine expertise — built through curiosity and direct exper
 - [Five-Step Process](./five-step-process.md)
 - [Mental Models](./mental-models.md)
 - [Specific Knowledge](./specific-knowledge.md) — Naval's related concept
+- [Social Proof](./social-proof.md) — the default group dynamic idea meritocracy is designed to counter
+- [Authority Bias](./authority-bias.md) — the heuristic that believability weighting replaces

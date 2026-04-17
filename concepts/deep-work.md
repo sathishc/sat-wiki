@@ -145,6 +145,7 @@ Deep work skills compound. A year of 4 focused hours per day in a domain produce
 - [Flow Economics](./flow-economics.md) — Reinertsen's economic argument for throughput over busyness
 - [Commitment and Consistency](./commitment-and-consistency.md) — rituals as commitment devices
 - [Compounding](./compounding.md) — deep work skills compound
+- [Seen vs Unseen](./seen-vs-unseen.md) — deep work value is often invisible until it produces output
 - [Mihaly Csikszentmihalyi](../people/mihaly-csikszentmihalyi.md)
 - [Naval Ravikant](../people/naval-ravikant.md)
 - [Donald G. Reinertsen](../people/donald-reinertsen.md)

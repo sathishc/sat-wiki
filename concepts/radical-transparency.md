@@ -40,4 +40,7 @@ The difference: Naval's framework is individual; Dalio's is institutional. Radic
 - [Ray Dalio](../people/ray-dalio.md)
 - [Idea Meritocracy](./idea-meritocracy.md)
 - [Five-Step Process](./five-step-process.md)
+- [Commitment and Consistency](./commitment-and-consistency.md) — radical transparency creates explicit, public commitments that reinforce follow-through and make position changes visible
+- [Liking](./liking.md) — radical transparency requires delivering truth regardless of relationship warmth; a direct institutional override of liking bias
+- [Authority Bias](./authority-bias.md) — believability-weighting replaces pure authority deference; transparency makes reasoning visible so authority can be challenged
 - [Skin in the Game](./skin-in-the-game.md) — Taleb's related concept: accountability requires visibility

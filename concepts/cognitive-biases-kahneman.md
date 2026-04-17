@@ -132,3 +132,7 @@ The intervention (praise/punishment) gets credit/blame for what was actually sta
 - [Black Swan](./black-swan.md)
 - [Mental Models](./mental-models.md)
 - [Idea Meritocracy](./idea-meritocracy.md)
+- [Principles of Influence](./principles-of-influence.md) — Cialdini's exploitation of the same biases
+- [Social Proof](./social-proof.md) — heuristic rooted in availability and WYSIATI
+- [Authority Bias](./authority-bias.md) — halo effect as the mechanism
+- [Scarcity](./scarcity.md) — scarcity heuristic driven by availability and loss aversion

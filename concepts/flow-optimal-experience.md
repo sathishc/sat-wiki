@@ -173,6 +173,8 @@ Csikszentmihalyi's eudaimonic happiness (flourishing through engagement) contras
 - [System 1 and System 2](./system-1-and-2.md) — flow in expert domains; effortful skill becomes automatic
 - [Flow Economics](./flow-economics.md) — Reinertsen's system-level parallel
 - [Rational Buddhism](./rational-buddhism.md) — meditation and flow as parallel attention-ordering practices
+- [Deep Work](./deep-work.md) — Newport's professional application of flow conditions
+- [Shallow Work](./shallow-work.md) — the enemy of flow; fragmented attention
 - [Daniel Kahneman](../people/daniel-kahneman.md) — experiencing vs. remembering self; the Work Paradox
 - [Naval Ravikant](../people/naval-ravikant.md)
 - [Donald G. Reinertsen](../people/donald-reinertsen.md)

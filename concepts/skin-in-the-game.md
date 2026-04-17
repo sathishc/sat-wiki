@@ -56,5 +56,8 @@ This echoes Naval's happiness framework: [happiness](./happiness.md) comes from 
 - [Antifragility](./antifragility.md)
 - [Nassim Taleb](../people/nassim-taleb.md)
 - [Naval Ravikant](../people/naval-ravikant.md) — accountability overlap
+- [Authority Bias](./authority-bias.md) — skin in the game filters out authority signals without genuine stakes; real experts bear consequences
+- [Radical Transparency](./radical-transparency.md) — Dalio's institutional equivalent: accountability requires visibility of reasoning and outcomes
+- [Barbell Strategy](./barbell-strategy.md) — the barbell structure ensures you have skin in the game only where downside is capped; asymmetric exposure
 - [Leverage](./leverage.md)
 - [Happiness](./happiness.md) — via negativa connection

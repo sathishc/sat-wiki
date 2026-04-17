@@ -69,3 +69,5 @@ Improving flow economics is a form of leverage: the same people, with better flo
 - [Antifragility](./antifragility.md)
 - [Five-Step Process](./five-step-process.md)
 - [Leverage](./leverage.md)
+- [Flow (Optimal Experience)](./flow-optimal-experience.md) — individual psychological parallel to system-level flow
+- [Deep Work](./deep-work.md) — individual-level implementation of the same throughput logic
