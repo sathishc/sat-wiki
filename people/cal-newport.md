@@ -4,6 +4,8 @@ tags: [person, productivity, focus, deep-work, attention, career, craft]
 created: 2026-04-17
 updated: 2026-04-17
 sources: [sources/newport-deep-work.md]
+layout: default
+parent: People
 ---
 
 # Cal Newport

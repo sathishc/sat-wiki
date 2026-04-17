@@ -4,6 +4,8 @@ tags: [amazon, bezos, leadership, culture, decision-making, management]
 created: 2026-04-16
 updated: 2026-04-16
 sources: [sources/amazon-lp-flywheel.md]
+layout: default
+parent: Concepts
 ---
 
 # Amazon Leadership Principles

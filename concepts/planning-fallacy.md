@@ -4,6 +4,8 @@ tags: [kahneman, planning, optimism-bias, project-management, forecasting, insid
 created: 2026-04-16
 updated: 2026-04-16
 sources: [sources/kahneman-thinking-fast-slow.md]
+layout: default
+parent: Concepts
 ---
 
 # Planning Fallacy

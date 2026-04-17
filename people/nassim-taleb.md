@@ -4,6 +4,8 @@ tags: [person, antifragile, risk, uncertainty, philosophy, statistics]
 created: 2026-04-16
 updated: 2026-04-16
 sources: [sources/antifragile.md]
+layout: default
+parent: People
 ---
 
 # Nassim Nicholas Taleb

@@ -4,6 +4,8 @@ tags: [newport, productivity, focus, attention, concentration, craft, career, fl
 created: 2026-04-17
 updated: 2026-04-17
 sources: [sources/newport-deep-work.md]
+layout: default
+parent: Concepts
 ---
 
 # Deep Work

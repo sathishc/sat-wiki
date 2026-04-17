@@ -4,6 +4,8 @@ tags: [christensen, innovation, product, strategy, customer, jtbd]
 created: 2026-04-17
 updated: 2026-04-17
 sources: [sources/christensen-innovators-trilogy.md]
+layout: default
+parent: Concepts
 ---
 
 # Jobs to Be Done (JTBD)

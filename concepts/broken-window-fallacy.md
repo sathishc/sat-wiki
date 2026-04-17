@@ -4,6 +4,8 @@ tags: [economics, hazlitt, bastiat, fallacy, opportunity-cost, destruction]
 created: 2026-04-16
 updated: 2026-04-16
 sources: [sources/hazlitt-economics-one-lesson.md]
+layout: default
+parent: Concepts
 ---
 
 # Broken Window Fallacy

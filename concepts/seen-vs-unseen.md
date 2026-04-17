@@ -4,6 +4,8 @@ tags: [economics, hazlitt, bastiat, opportunity-cost, unintended-consequences, t
 created: 2026-04-16
 updated: 2026-04-16
 sources: [sources/hazlitt-economics-one-lesson.md]
+layout: default
+parent: Concepts
 ---
 
 # Seen vs Unseen

@@ -4,6 +4,8 @@ tags: [amazon, bezos, flywheel, strategy, growth, network-effects, compounding]
 created: 2026-04-16
 updated: 2026-04-16
 sources: [sources/amazon-lp-flywheel.md]
+layout: default
+parent: Concepts
 ---
 
 # Amazon Growth Flywheel

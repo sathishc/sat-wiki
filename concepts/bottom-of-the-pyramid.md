@@ -4,6 +4,8 @@ tags: [prahalad, strategy, emerging-markets, poverty, innovation, india, inclusi
 created: 2026-04-17
 updated: 2026-04-17
 sources: [sources/prahalad-competing-for-future.md]
+layout: default
+parent: Concepts
 ---
 
 # Bottom of the Pyramid

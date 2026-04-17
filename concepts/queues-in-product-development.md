@@ -4,6 +4,8 @@ tags: [reinertsen, flow, queues, cycle-time, utilisation, product-development]
 created: 2026-04-16
 updated: 2026-04-16
 sources: [sources/reinertsen-flow.md]
+layout: default
+parent: Concepts
 ---
 
 # Queues in Product Development

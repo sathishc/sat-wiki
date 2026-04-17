@@ -4,6 +4,8 @@ tags: [person, economics, bastiat, french, opportunity-cost, seen-unseen]
 created: 2026-04-16
 updated: 2026-04-16
 sources: [sources/hazlitt-economics-one-lesson.md]
+layout: default
+parent: People
 ---
 
 # Frédéric Bastiat

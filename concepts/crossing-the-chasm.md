@@ -4,6 +4,8 @@ tags: [moore, strategy, technology, adoption, marketing, startups, go-to-market,
 created: 2026-04-17
 updated: 2026-04-17
 sources: [sources/moore-crossing-the-chasm.md]
+layout: default
+parent: Concepts
 ---
 
 # Crossing the Chasm

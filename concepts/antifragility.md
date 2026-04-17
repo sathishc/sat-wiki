@@ -4,6 +4,8 @@ tags: [antifragile, risk, uncertainty, taleb, systems, resilience]
 created: 2026-04-16
 updated: 2026-04-16
 sources: [sources/antifragile.md]
+layout: default
+parent: Concepts
 ---
 
 # Antifragility

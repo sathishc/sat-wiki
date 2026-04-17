@@ -4,6 +4,8 @@ tags: [wealth, career, knowledge, naval]
 created: 2026-04-16
 updated: 2026-04-16
 sources: [sources/naval-almanack.md]
+layout: default
+parent: Concepts
 ---
 
 # Specific Knowledge

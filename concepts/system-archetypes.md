@@ -4,6 +4,8 @@ tags: [senge, meadows, systems-thinking, patterns, archetypes, organisations]
 created: 2026-04-17
 updated: 2026-04-17
 sources: [sources/systems-thinking-senge-meadows.md]
+layout: default
+parent: Concepts
 ---
 
 # System Archetypes

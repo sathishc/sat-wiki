@@ -4,6 +4,8 @@ tags: [dalio, management, decision-making, culture, organisations]
 created: 2026-04-16
 updated: 2026-04-16
 sources: [sources/dalio-principles.md]
+layout: default
+parent: Concepts
 ---
 
 # Idea Meritocracy

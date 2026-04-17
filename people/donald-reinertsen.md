@@ -4,6 +4,8 @@ tags: [person, product-development, flow, lean, queueing-theory, economics]
 created: 2026-04-16
 updated: 2026-04-16
 sources: [sources/reinertsen-flow.md]
+layout: default
+parent: People
 ---
 
 # Donald G. Reinertsen

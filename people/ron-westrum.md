@@ -4,6 +4,8 @@ tags: [person, culture, organisations, safety, information-flow, devops, managem
 created: 2026-04-17
 updated: 2026-04-17
 sources: [sources/westrum-cultural-typologies.md]
+layout: default
+parent: People
 ---
 
 # Ron Westrum

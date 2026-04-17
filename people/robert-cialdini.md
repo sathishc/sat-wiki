@@ -4,6 +4,8 @@ tags: [person, psychology, persuasion, influence, behaviour, marketing, negotiat
 created: 2026-04-17
 updated: 2026-04-17
 sources: [sources/cialdini-influence.md]
+layout: default
+parent: People
 ---
 
 # Robert Cialdini

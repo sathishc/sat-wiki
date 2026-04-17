@@ -3,6 +3,8 @@ title: Personal Development Frameworks — Map of Content
 tags: [moc, personal-development, career, productivity, happiness, learning, goals]
 created: 2026-04-17
 updated: 2026-04-17
+layout: default
+parent: Maps of Content
 ---
 
 # Personal Development Frameworks

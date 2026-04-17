@@ -4,6 +4,8 @@ tags: [decision-making, thinking, naval, dalio, charlie-munger]
 created: 2026-04-16
 updated: 2026-04-16
 sources: [sources/dalio-principles.md, sources/naval-almanack.md]
+layout: default
+parent: Concepts
 ---
 
 # Mental Models

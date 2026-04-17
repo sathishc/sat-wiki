@@ -4,6 +4,8 @@ tags: [reinertsen, kanban, flow, wip, cycle-time, product-development]
 created: 2026-04-16
 updated: 2026-04-16
 sources: [sources/reinertsen-flow.md]
+layout: default
+parent: Concepts
 ---
 
 # WIP Limits

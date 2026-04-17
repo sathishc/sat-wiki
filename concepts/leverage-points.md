@@ -4,6 +4,8 @@ tags: [meadows, systems-thinking, intervention, leverage, paradigm, information-
 created: 2026-04-17
 updated: 2026-04-17
 sources: [sources/systems-thinking-senge-meadows.md]
+layout: default
+parent: Concepts
 ---
 
 # Leverage Points

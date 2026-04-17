@@ -4,6 +4,8 @@ tags: [person, psychology, cognitive-bias, decision-making, behavioural-economic
 created: 2026-04-16
 updated: 2026-04-16
 sources: [sources/kahneman-thinking-fast-slow.md]
+layout: default
+parent: People
 ---
 
 # Daniel Kahneman

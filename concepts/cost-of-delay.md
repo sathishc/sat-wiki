@@ -4,6 +4,8 @@ tags: [reinertsen, flow, economics, prioritisation, product-development, wsjf]
 created: 2026-04-16
 updated: 2026-04-16
 sources: [sources/reinertsen-flow.md]
+layout: default
+parent: Concepts
 ---
 
 # Cost of Delay

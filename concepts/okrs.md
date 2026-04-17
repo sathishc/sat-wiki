@@ -4,6 +4,8 @@ tags: [doerr, grove, management, goals, execution, alignment, focus, measurement
 created: 2026-04-17
 updated: 2026-04-17
 sources: [sources/doerr-measure-what-matters.md]
+layout: default
+parent: Concepts
 ---
 
 # OKRs (Objectives and Key Results)

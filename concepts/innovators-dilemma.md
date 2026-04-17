@@ -4,6 +4,8 @@ tags: [christensen, disruption, strategy, innovation, incumbents, management]
 created: 2026-04-17
 updated: 2026-04-17
 sources: [sources/christensen-innovators-trilogy.md]
+layout: default
+parent: Concepts
 ---
 
 # Disruptive Innovation

@@ -3,6 +3,8 @@ title: Mental Models for Decision-Making — Map of Content
 tags: [moc, decision-making, psychology, cognition, bias, thinking]
 created: 2026-04-17
 updated: 2026-04-17
+layout: default
+parent: Maps of Content
 ---
 
 # Mental Models for Decision-Making

@@ -4,6 +4,8 @@ tags: [csikszentmihalyi, psychology, flow, motivation, attention, happiness, per
 created: 2026-04-17
 updated: 2026-04-17
 sources: [sources/csikszentmihalyi-flow.md]
+layout: default
+parent: Concepts
 ---
 
 # Flow (Optimal Experience)

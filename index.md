@@ -1,8 +1,13 @@
-# Index
-
-This is the content catalog for sat-wiki. Updated on every ingest.
-
 ---
+layout: home
+title: Home
+nav_order: 1
+---
+
+# sat-wiki
+
+Personal LLM-maintained wiki following the [Karpathy LLM-wiki pattern](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f).
+
 
 ## Pages (Maps of Content)
 

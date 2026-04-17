@@ -4,6 +4,8 @@ tags: [person, management, okr, goals, strategy, execution, venture-capital]
 created: 2026-04-17
 updated: 2026-04-17
 sources: [sources/doerr-measure-what-matters.md]
+layout: default
+parent: People
 ---
 
 # John Doerr

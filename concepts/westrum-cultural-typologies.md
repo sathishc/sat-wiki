@@ -4,6 +4,8 @@ tags: [westrum, culture, organisations, information-flow, safety, devops, manage
 created: 2026-04-17
 updated: 2026-04-17
 sources: [sources/westrum-cultural-typologies.md]
+layout: default
+parent: Concepts
 ---
 
 # Westrum Cultural Typologies

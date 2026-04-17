@@ -4,6 +4,8 @@ tags: [prahalad, hamel, strategy, ambition, direction, competitive-advantage]
 created: 2026-04-17
 updated: 2026-04-17
 sources: [sources/prahalad-competing-for-future.md]
+layout: default
+parent: Concepts
 ---
 
 # Strategic Intent

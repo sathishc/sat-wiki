@@ -4,6 +4,8 @@ tags: [senge, systems-thinking, organisations, learning, mental-models, dialogue
 created: 2026-04-17
 updated: 2026-04-17
 sources: [sources/systems-thinking-senge-meadows.md]
+layout: default
+parent: Concepts
 ---
 
 # Learning Organisation

@@ -4,6 +4,8 @@ tags: [edmondson, westrum, culture, organisations, teams, learning, safety, devo
 created: 2026-04-17
 updated: 2026-04-17
 sources: [sources/westrum-cultural-typologies.md]
+layout: default
+parent: Concepts
 ---
 
 # Psychological Safety

@@ -4,6 +4,8 @@ tags: [kahneman, cognitive-bias, heuristics, anchoring, availability, psychology
 created: 2026-04-16
 updated: 2026-04-16
 sources: [sources/kahneman-thinking-fast-slow.md]
+layout: default
+parent: Concepts
 ---
 
 # Cognitive Biases (Kahneman)

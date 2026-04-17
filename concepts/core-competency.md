@@ -4,6 +4,8 @@ tags: [prahalad, hamel, strategy, competitive-advantage, capabilities, organisat
 created: 2026-04-17
 updated: 2026-04-17
 sources: [sources/prahalad-competing-for-future.md]
+layout: default
+parent: Concepts
 ---
 
 # Core Competency

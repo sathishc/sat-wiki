@@ -4,6 +4,8 @@ tags: [cialdini, persuasion, psychology, behaviour, marketing, negotiation, comp
 created: 2026-04-17
 updated: 2026-04-17
 sources: [sources/cialdini-influence.md]
+layout: default
+parent: Concepts
 ---
 
 # Principles of Influence (Cialdini)

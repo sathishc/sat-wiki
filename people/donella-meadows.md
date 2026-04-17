@@ -4,6 +4,8 @@ tags: [person, systems-thinking, feedback, leverage, stocks-flows, environment]
 created: 2026-04-17
 updated: 2026-04-17
 sources: [sources/systems-thinking-senge-meadows.md]
+layout: default
+parent: People
 ---
 
 # Donella Meadows

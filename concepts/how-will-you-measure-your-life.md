@@ -4,6 +4,8 @@ tags: [christensen, life, career, relationships, integrity, meaning, motivation,
 created: 2026-04-17
 updated: 2026-04-17
 sources: [sources/christensen-innovators-trilogy.md]
+layout: default
+parent: Concepts
 ---
 
 # How Will You Measure Your Life?

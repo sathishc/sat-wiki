@@ -4,6 +4,8 @@ tags: [kahneman, psychology, thinking, intuition, decision-making, cognitive-bia
 created: 2026-04-16
 updated: 2026-04-16
 sources: [sources/kahneman-thinking-fast-slow.md]
+layout: default
+parent: Concepts
 ---
 
 # System 1 and System 2

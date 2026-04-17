@@ -3,6 +3,8 @@ title: Strategy Frameworks — Map of Content
 tags: [moc, strategy, disruption, competition, growth, markets]
 created: 2026-04-17
 updated: 2026-04-17
+layout: default
+parent: Maps of Content
 ---
 
 # Strategy Frameworks

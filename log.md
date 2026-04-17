@@ -406,3 +406,18 @@ Files created:
 - pages/product-development.md — flow economics, DORA metrics, Westrum culture, blameless post-mortems, OKRs
 
 index.md updated: new Pages section added at top of index with descriptions of all 5 pages.
+
+## [2026-04-17] setup | Jekyll + just-the-docs theme for GitHub Pages
+
+Replaced MkDocs setup with Jekyll using the just-the-docs theme.
+
+Files created:
+- _config.yml — Jekyll config: just-the-docs theme, dark colour scheme, search enabled, sources/ excluded
+- Gemfile — jekyll + just-the-docs + jekyll-remote-theme + jekyll-seo-tag
+- .github/workflows/deploy.yml — GitHub Actions: ruby/setup-ruby, bundle exec jekyll build, deploy-pages
+- .gitignore — excludes _site/, .jekyll-cache/, .bundle/, vendor/
+- pages/index.md, people/index.md, concepts/index.md — parent nav section pages for just-the-docs hierarchy
+
+Modified: all concept, people, and pages/*.md files — added layout: default + parent: [section] frontmatter for just-the-docs navigation hierarchy. index.md updated with layout: home frontmatter.
+
+To activate: Settings → Pages → Source: GitHub Actions. First push triggers deploy.

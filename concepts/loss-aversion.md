@@ -4,6 +4,8 @@ tags: [kahneman, psychology, loss-aversion, prospect-theory, behavioural-economi
 created: 2026-04-16
 updated: 2026-04-16
 sources: [sources/kahneman-thinking-fast-slow.md]
+layout: default
+parent: Concepts
 ---
 
 # Loss Aversion and Prospect Theory

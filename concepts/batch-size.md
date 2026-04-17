@@ -4,6 +4,8 @@ tags: [reinertsen, flow, lean, batch-size, feedback, cycle-time]
 created: 2026-04-16
 updated: 2026-04-16
 sources: [sources/reinertsen-flow.md]
+layout: default
+parent: Concepts
 ---
 
 # Batch Size

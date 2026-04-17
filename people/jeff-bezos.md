@@ -4,6 +4,8 @@ tags: [person, amazon, flywheel, leadership, long-term-thinking, invention]
 created: 2026-04-16
 updated: 2026-04-16
 sources: [sources/amazon-lp-flywheel.md]
+layout: default
+parent: People
 ---
 
 # Jeff Bezos

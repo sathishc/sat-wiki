@@ -4,6 +4,8 @@ tags: [reinertsen, queueing-theory, flow, cycle-time, wip, mathematics]
 created: 2026-04-16
 updated: 2026-04-16
 sources: [sources/reinertsen-flow.md]
+layout: default
+parent: Concepts
 ---
 
 # Little's Law

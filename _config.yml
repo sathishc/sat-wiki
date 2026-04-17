@@ -1,0 +1,29 @@
+title: sat-wiki
+description: Personal LLM-maintained wiki — mental models, strategy, systems thinking, and more
+remote_theme: just-the-docs/just-the-docs@v0.10.0
+
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 2
+  preview_words_before: 3
+  preview_words_after: 3
+  tokenizer_separator: /[\s/]+/
+
+color_scheme: dark
+
+footer_content: "sat-wiki — maintained by Jarvis"
+
+# Exclude raw source notes and tooling from the built site
+exclude:
+  - sources/
+  - skills/
+  - skills-lock.json
+  - CLAUDE.md
+  - Gemfile
+  - Gemfile.lock
+  - "*.sh"
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag

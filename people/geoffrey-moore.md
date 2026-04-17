@@ -4,6 +4,8 @@ tags: [person, strategy, technology, marketing, disruption, startups, adoption]
 created: 2026-04-17
 updated: 2026-04-17
 sources: [sources/moore-crossing-the-chasm.md]
+layout: default
+parent: People
 ---
 
 # Geoffrey Moore
