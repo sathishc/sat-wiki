@@ -346,3 +346,30 @@ Cross-references built:
 - Christensen (Emergent vs Deliberate Strategy): OKR cycle design should match strategy maturity — more aspirational/short-cycle when exploring, more committed/quarterly when executing.
 - Cialdini (Commitment & Consistency): public OKRs are commitment devices — transparency increases accountability through social commitment pressure.
 - Prahalad (Strategic Intent): strategic intent = long-horizon company Objective; OKRs are the quarterly execution cadence beneath it.
+
+## [2026-04-17] ingest | Systems Thinking — Peter Senge & Donella Meadows
+
+Ingested Peter Senge's *The Fifth Discipline* (1990) and Donella Meadows' *Thinking in Systems* (2008). Source synthesised from Jarvis ingest session.
+
+Files created:
+- sources/systems-thinking-senge-meadows.md (raw source; immutable)
+- people/peter-senge.md (person page; five disciplines, seven learning disabilities, contrast table)
+- people/donella-meadows.md (person page; stocks/flows, leverage points, contrast table)
+- concepts/systems-thinking.md (full framework: stocks/flows, two loop types, delays, leverage points, archetypes, cross-framework connections)
+- concepts/feedback-loops.md (reinforcing vs balancing loops, delays, oscillation, loop dominance)
+- concepts/system-archetypes.md (six archetypes: limits to growth, shifting the burden, tragedy of the commons, escalation, success to the successful, eroding goals)
+- concepts/leverage-points.md (Meadows' 12-level hierarchy from numbers to paradigm transcendence)
+- concepts/learning-organisation.md (Senge's five disciplines, seven learning disabilities, dialogue vs discussion)
+- index.md updated (2 new People, new Systems Thinking section with 5 concepts, Sources)
+
+Cross-references built:
+- Reinertsen (Flow/WIP/Queues): Reinertsen's product flow is applied systems dynamics. WIP=stock, throughput=flow, utilisation trap=reinforcing loop. Little's Law = stock-flow relationship in queues.
+- Taleb (Black Swan/Antifragility): Black Swan = collapse of a silently accumulating reinforcing loop. Antifragility = design response to system complexity. Barbell = response to delay+reinforcing loop dynamics.
+- Kahneman (Cognitive Biases): Learning disabilities map to cognitive biases. WYSIATI = mental models resisting update. Planning fallacy = failure to model feedback loops and delays.
+- Christensen (Innovators Dilemma): The Dilemma is the "Success to the Successful" archetype. RPM = leverage point analysis (values = Level 2 paradigm; processes = Level 5 rules).
+- Dalio (Radical Transparency): Addresses learning disability #7 (myth of management team) = Level 6 leverage point (information flow structure).
+- Cialdini (Social Proof/Commitment): These are reinforcing feedback loops in human social systems. Escalation archetype = reciprocity + commitment in a reinforcing loop without balancing constraint.
+- Amazon Flywheel: Explicitly a reinforcing loop. Cross-linked to feedback-loops.md and system-archetypes.md (Success to the Successful).
+- Newport/Deep Work: Personal mastery requires deep work. Tragedy of the Commons archetype = shared attention pool degraded by open offices and constant interruption.
+- OKRs (Doerr): OKRs are Level 5/3 leverage (rules + goals). Review cadence = balancing loop to correct trajectory.
+- Seen vs Unseen (Hazlitt): Making unseen costs visible = Level 6 leverage point (information flow structure).

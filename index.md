@@ -21,6 +21,8 @@ This is the content catalog for sat-wiki. Updated on every ingest.
 - [Robert Cialdini](people/robert-cialdini.md) — Psychologist; *Influence: The Psychology of Persuasion*; seven principles of compliance and persuasion. Tags: `psychology`, `persuasion`, `behaviour`, `marketing`, `negotiation`
 - [Cal Newport](people/cal-newport.md) — Computer scientist and author; *Deep Work*; deep vs. shallow work, four philosophies, attention as career capital. Tags: `productivity`, `focus`, `deep-work`, `attention`, `craft`
 - [John Doerr](people/john-doerr.md) — Venture capitalist; *Measure What Matters*; popularised OKRs from Intel to Google and beyond. Tags: `management`, `okr`, `goals`, `execution`, `alignment`
+- [Peter Senge](people/peter-senge.md) — Systems scientist; *The Fifth Discipline*; learning organisations, five disciplines, system archetypes. Tags: `systems-thinking`, `management`, `learning`, `feedback`, `organisations`
+- [Donella Meadows](people/donella-meadows.md) — Environmental scientist; *Thinking in Systems*; stocks, flows, feedback loops, leverage points. Tags: `systems-thinking`, `feedback`, `leverage`, `complexity`
 
 ---
 
@@ -69,6 +71,13 @@ This is the content catalog for sat-wiki. Updated on every ingest.
 
 ### Goals & Execution (Doerr / Grove)
 - [OKRs (Objectives and Key Results)](concepts/okrs.md) — Focus, alignment, tracking, and stretch goals; committed vs moonshot OKRs; CFRs; OKRs vs KPIs. Tags: `doerr`, `grove`, `management`, `goals`, `execution`, `alignment`, `measurement`
+
+### Systems Thinking (Senge / Meadows)
+- [Systems Thinking](concepts/systems-thinking.md) — Stocks, flows, feedback loops, delays, leverage points; structural causes of persistent problems. Tags: `senge`, `meadows`, `systems`, `feedback`, `complexity`, `organisations`
+- [Feedback Loops](concepts/feedback-loops.md) — Reinforcing (positive) and balancing (negative) loops; delays and oscillation; the engine of system behaviour. Tags: `senge`, `meadows`, `systems-thinking`, `reinforcing`, `balancing`
+- [System Archetypes](concepts/system-archetypes.md) — Recurring system structures: limits to growth, shifting the burden, tragedy of the commons, escalation, success to the successful. Tags: `senge`, `meadows`, `systems-thinking`, `patterns`
+- [Leverage Points](concepts/leverage-points.md) — Meadows' hierarchy of system interventions from least (numbers) to most effective (paradigms). Tags: `meadows`, `systems-thinking`, `intervention`, `leverage`, `policy`
+- [Learning Organisation](concepts/learning-organisation.md) — Senge's five disciplines: personal mastery, mental models, shared vision, team learning, systems thinking. Tags: `senge`, `management`, `learning`, `dialogue`, `culture`
 
 ### Economics
 - [Seen vs Unseen](concepts/seen-vs-unseen.md) — The master framework: every act has visible immediate effects and invisible longer-term effects. Tags: `economics`, `hazlitt`, `bastiat`, `thinking`
@@ -120,3 +129,4 @@ This is the content catalog for sat-wiki. Updated on every ingest.
 - [sources/cialdini-influence.md](sources/cialdini-influence.md) — Influence: The Psychology of Persuasion by Robert Cialdini. Ingested 2026-04-17.
 - [sources/newport-deep-work.md](sources/newport-deep-work.md) — Deep Work: Rules for Focused Success in a Distracted World by Cal Newport. Ingested 2026-04-17.
 - [sources/doerr-measure-what-matters.md](sources/doerr-measure-what-matters.md) — Measure What Matters by John Doerr. Ingested 2026-04-17.
+- [sources/systems-thinking-senge-meadows.md](sources/systems-thinking-senge-meadows.md) — Systems Thinking: The Fifth Discipline (Senge) and Thinking in Systems (Meadows). Ingested 2026-04-17.
