@@ -2,9 +2,7 @@ title: sat-wiki
 description: Personal LLM-maintained wiki — mental models, strategy, systems thinking, and more
 remote_theme: just-the-docs/just-the-docs@v0.10.0
 
-markdown: kramdown
-kramdown:
-  input: GFM
+color_scheme: default
 
 search_enabled: true
 search:
@@ -12,13 +10,13 @@ search:
   previews: 2
   preview_words_before: 3
   preview_words_after: 3
-  tokenizer_separator: /[\s/]+/
-
-color_scheme: default
 
 footer_content: "sat-wiki — maintained by Jarvis"
 
-# Exclude raw source notes and tooling from the built site
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
 exclude:
   - sources/
   - skills/
@@ -28,7 +26,3 @@ exclude:
   - Gemfile.lock
   - vendor/
   - "*.sh"
-
-plugins:
-  - jekyll-remote-theme
-  - jekyll-seo-tag
