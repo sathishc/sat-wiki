@@ -259,3 +259,23 @@ Files created:
 index.md updated: Psychology & Cognitive Biases section now lists all 7 individual principle pages plus the umbrella principles-of-influence.md.
 
 Each page contains: mechanism, techniques/examples, defence, and targeted cross-references to existing wiki pages.
+
+## [2026-04-17] ingest | Cal Newport — Deep Work: Rules for Focused Success in a Distracted World
+
+Ingested Newport's *Deep Work* (2016). Source synthesised from Jarvis ingest session.
+
+Files created:
+- sources/newport-deep-work.md (raw source; immutable)
+- people/cal-newport.md (person page; bio, core contribution, contrast table vs. Csikszentmihalyi/Naval/Reinertsen/Kahneman, quotes)
+- concepts/deep-work.md (full framework: three arguments, four philosophies, four rules, busyness proxy, cross-framework connections)
+- concepts/shallow-work.md (counterpart concept: definition, structural causes, busyness trap, management strategies, cross-refs)
+- index.md updated (People + new Productivity & Focus section + Sources)
+
+Cross-references built:
+- Csikszentmihalyi (Flow): Deep work is flow applied as career strategy. Newport's four rules engineer Csikszentmihalyi's conditions. Deep Work = practical operationalisation of flow theory for professional context.
+- Naval (Specific Knowledge): "career capital" = specific knowledge. Deep work is the mechanism that accumulates it. Both argue: genuine depth compounds into irreplaceable capability.
+- Reinertsen (WIP Limits / Flow Economics / Cost of Delay): Individual-level and system-level frameworks converge. Context-switching = interrupt queues. Fixed-schedule productivity = WIP limit applied to the day. Shallow work opportunity cost = Cost of Delay.
+- Kahneman (Substitution heuristic): Busyness as proxy for productivity = substitution heuristic applied to work self-assessment. Shallow work is visible; deep work value is unseen until it produces output.
+- Cialdini (Commitment & Consistency): Newport's rituals and scoreboards leverage commitment devices to make deep work the default behaviour.
+- Hazlitt/Bastiat (Seen vs Unseen): Shallow work is the seen output; deep work value is the unseen opportunity cost. Same failure mode as the broken window fallacy in organisations.
+- Csikszentmihalyi (Psychic Entropy): Shallow work maintains low-grade distraction that prevents both deep focus and genuine rest — it is psychic entropy, not productivity.
