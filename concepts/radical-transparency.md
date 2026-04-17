@@ -8,7 +8,7 @@ sources: [sources/dalio-principles.md]
 
 # Radical Transparency
 
-One of [Ray Dalio](../people/ray-dalio.md)'s two foundational operating principles (alongside [radical truth](./radical-truth.md)). The practice of making information, reasoning, and feedback fully visible across an organisation — rather than filtering it through hierarchy.
+One of [Ray Dalio](../people/ray-dalio.md)'s two foundational operating principles (alongside radical truth — see [Ray Dalio](../people/ray-dalio.md)). The practice of making information, reasoning, and feedback fully visible across an organisation — rather than filtering it through hierarchy.
 
 ## What It Means
 

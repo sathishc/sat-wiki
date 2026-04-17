@@ -66,7 +66,7 @@ We make decisions based on the remembering self (what we expect to remember), no
 | Dimension | Kahneman | Naval | Dalio | Hazlitt | Taleb |
 |---|---|---|---|---|---|
 | **On human rationality** | Sceptical; biases are systematic | Aspires to clear thinking | Build principles to overcome bias | Fallacies persist despite intelligence | Sceptical; humans misread probability |
-| **On intuition** | Unreliable in unpredictable domains; valid only in pattern-rich expert environments | Build genuine [specific knowledge](./specific-knowledge.md) | Back-test your instincts | Apply the one lesson consistently | Bias toward doing over theorising |
+| **On intuition** | Unreliable in unpredictable domains; valid only in pattern-rich expert environments | Build genuine [specific knowledge](../concepts/specific-knowledge.md) | Back-test your instincts | Apply the one lesson consistently | Bias toward doing over theorising |
 | **On overconfidence** | The planning fallacy; WYSIATI | "Earn trust through competence" | Radical truth; seek disconfirmation | Policies built on visible effects only | Forecasters are charlatans |
 | **On System 2** | Engage it deliberately; costly but necessary | [Judgment](./naval-ravikant.md) as a skill | Systematic principles = encoded System 2 | Economics is the discipline of seeing the unseen | — |
 

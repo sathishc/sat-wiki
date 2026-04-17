@@ -106,6 +106,10 @@ This is the content catalog for sat-wiki. Updated on every ingest.
 - [sources/antifragile.md](sources/antifragile.md) — Antifragile by Taleb (fs.blog, fourminutebooks, sive.rs). Ingested 2026-04-16.
 - [sources/dalio-principles.md](sources/dalio-principles.md) — Principles by Dalio (principles.com, fourminutebooks, sive.rs, nateliason). Ingested 2026-04-16.
 - [sources/reinertsen-flow.md](sources/reinertsen-flow.md) — Principles of Product Development Flow by Reinertsen (blackswanfarming, wikipedia, martinfowler, goodreads). Ingested 2026-04-16.
+- [sources/amazon-lp-flywheel.md](sources/amazon-lp-flywheel.md) — Amazon Leadership Principles & Growth Flywheel. Ingested 2026-04-16.
+- [sources/kahneman-thinking-fast-slow.md](sources/kahneman-thinking-fast-slow.md) — Thinking, Fast and Slow by Daniel Kahneman. Ingested 2026-04-16.
+- [sources/hazlitt-economics-one-lesson.md](sources/hazlitt-economics-one-lesson.md) — Economics in One Lesson by Henry Hazlitt. Ingested 2026-04-16.
+- [sources/prahalad-competing-for-future.md](sources/prahalad-competing-for-future.md) — Competing for the Future by C.K. Prahalad & Gary Hamel. Ingested 2026-04-16.
 - [sources/christensen-innovators-trilogy.md](sources/christensen-innovators-trilogy.md) — The Innovator's Dilemma, The Innovator's Solution, How Will You Measure Your Life? by Christensen. Ingested 2026-04-17.
 - [sources/moore-crossing-the-chasm.md](sources/moore-crossing-the-chasm.md) — Crossing the Chasm by Geoffrey Moore. Ingested 2026-04-17.
 - [sources/csikszentmihalyi-flow.md](sources/csikszentmihalyi-flow.md) — Flow: The Psychology of Optimal Experience by Csikszentmihalyi. Ingested 2026-04-17.

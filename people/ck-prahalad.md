@@ -50,9 +50,9 @@ A note of personal relevance: Prahalad was from Coimbatore, Tamil Nadu. His fath
 | Dimension | Prahalad | Naval | Dalio | Bezos | Reinertsen |
 |---|---|---|---|---|---|
 | **Unit of analysis** | Corporation / industry | Individual | Organisation | Corporation | Team / product |
-| **On competitive advantage** | Core competencies; hard to imitate | [Specific knowledge](./specific-knowledge.md); cannot be commoditised | Principles-based edge | Flywheel + customer obsession | Flow economics + speed |
-| **On the future** | Compete to shape it; don't just prepare for it | Build compounding assets | Model it; stress-test | Day 1; always early | [Cost of Delay](./cost-of-delay.md); time is money |
-| **On resources** | Leverage across business units | Permissionless [leverage](./leverage.md) | Capital allocation by principles | AWS subsidises retail | Capacity management |
+| **On competitive advantage** | Core competencies; hard to imitate | [Specific knowledge](../concepts/specific-knowledge.md); cannot be commoditised | Principles-based edge | Flywheel + customer obsession | Flow economics + speed |
+| **On the future** | Compete to shape it; don't just prepare for it | Build compounding assets | Model it; stress-test | Day 1; always early | [Cost of Delay](../concepts/cost-of-delay.md); time is money |
+| **On resources** | Leverage across business units | Permissionless [leverage](../concepts/leverage.md) | Capital allocation by principles | AWS subsidises retail | Capacity management |
 | **On industry** | Reshape the industry; redefine the game | Exit industries with low leverage | Not primary focus | Disrupt from within | Not primary focus |
 
 **Key convergence with [Naval](../people/naval-ravikant.md):** Core competency (Prahalad) and [specific knowledge](../concepts/specific-knowledge.md) (Naval) are the same insight at different scales. Both argue the durable source of value is something hard to imitate — built from deep capability, not surface features.

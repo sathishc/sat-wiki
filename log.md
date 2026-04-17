@@ -279,3 +279,20 @@ Cross-references built:
 - Cialdini (Commitment & Consistency): Newport's rituals and scoreboards leverage commitment devices to make deep work the default behaviour.
 - Hazlitt/Bastiat (Seen vs Unseen): Shallow work is the seen output; deep work value is the unseen opportunity cost. Same failure mode as the broken window fallacy in organisations.
 - Csikszentmihalyi (Psychic Entropy): Shallow work maintains low-grade distraction that prevents both deep focus and genuine rest — it is psychic entropy, not productivity.
+
+## [2026-04-17] lint | Broken links, orphaned sources, index drift
+
+Ran full lint pass. Issues found and fixed:
+
+Broken relative links (5 fixed):
+- people/ck-prahalad.md: three links used ./foo.md (people-relative) instead of ../concepts/foo.md — fixed specific-knowledge, cost-of-delay, leverage
+- people/daniel-kahneman.md: one link used ./specific-knowledge.md instead of ../concepts/specific-knowledge.md — fixed
+- concepts/radical-transparency.md: referenced ./radical-truth.md which does not exist — replaced with inline reference to ray-dalio.md (radical truth is covered there; no standalone page exists)
+
+Sources on disk not in index (4 added):
+- sources/amazon-lp-flywheel.md (ingested 2026-04-16; missing from index)
+- sources/kahneman-thinking-fast-slow.md (ingested 2026-04-16; missing from index)
+- sources/hazlitt-economics-one-lesson.md (ingested 2026-04-16; missing from index)
+- sources/prahalad-competing-for-future.md (ingested 2026-04-16; missing from index)
+
+Post-lint state: 0 broken links, 0 orphaned sources, people 14/14, concepts 49/49 fully in sync.
