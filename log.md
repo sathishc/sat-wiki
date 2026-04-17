@@ -225,3 +225,20 @@ Cross-references built:
 - Naval (Happiness): eudaimonic engagement vs. subtractive contentment — complementary paths to the same goal.
 - Rational Buddhism: meditation and flow as parallel attention-ordering practices (external challenge vs. internal practice).
 - Note: "Flow Economics" (Reinertsen) and "Flow (Optimal Experience)" (Csikszentmihalyi) now both exist in the wiki and are explicitly cross-linked to clarify the distinction and the convergence.
+
+## [2026-04-17] ingest | Robert Cialdini — Influence: The Psychology of Persuasion
+
+Ingested Cialdini's *Influence* (1984, expanded 2021 with Unity). Source synthesised from Jarvis ingest session.
+
+Files created:
+- sources/cialdini-influence.md (raw source; immutable)
+- people/robert-cialdini.md (person page; bio, seven principles summary table, contrast vs. Kahneman/Taleb/Dalio/Christensen, quotes)
+- concepts/principles-of-influence.md (full framework: all seven principles with mechanism/examples/defence; unified structure table; ethical use section; cross-framework connections)
+- index.md updated (People + Psychology & Cognitive Biases section + Sources)
+
+Cross-references built:
+- Kahneman (System 1/2 + Cognitive Biases): Cialdini's principles are the exploitation manual for System 1. Mapped each principle to its Kahneman mechanism — Social Proof=WYSIATI/availability, Authority=halo effect, Scarcity=loss aversion, Commitment=anchoring+consistency, Liking=affect heuristic.
+- Taleb (Skin in the Game): structural antidote to authority/social proof abuse. If an authority bears consequences of advice, the signal is informative. If not, it's noise.
+- Dalio (Radical Transparency + Idea Meritocracy): institutional design that neutralises authority bias, liking bias, and commitment bias — Bridgewater as a Cialdini-defence architecture.
+- Christensen (100% integrity / marginal cost trap): Commitment & Consistency mechanically explains why 98% commitment collapses. Each exception is consistent with the prior exception; self-image updates toward "someone who makes exceptions."
+- Moore (Crossing the Chasm): Social Proof is the psychological engine of pragmatist herd behaviour. Moore's beachhead strategy is deliberate social proof construction.

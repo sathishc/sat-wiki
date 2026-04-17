@@ -18,6 +18,7 @@ This is the content catalog for sat-wiki. Updated on every ingest.
 - [Clayton Christensen](people/clayton-christensen.md) — Harvard professor; *The Innovator's Dilemma*, *The Innovator's Solution*, *How Will You Measure Your Life?*; disruptive innovation, Jobs to Be Done, RPM framework. Tags: `strategy`, `disruption`, `innovation`, `management`, `life`
 - [Geoffrey Moore](people/geoffrey-moore.md) — Author of *Crossing the Chasm*; technology adoption lifecycle, the chasm, beachhead strategy, Whole Product. Tags: `strategy`, `technology`, `marketing`, `startups`, `adoption`
 - [Mihaly Csikszentmihalyi](people/mihaly-csikszentmihalyi.md) — Psychologist; *Flow: The Psychology of Optimal Experience*; optimal experience, autotelic self, challenge/skill balance. Tags: `psychology`, `flow`, `happiness`, `motivation`, `wellbeing`
+- [Robert Cialdini](people/robert-cialdini.md) — Psychologist; *Influence: The Psychology of Persuasion*; seven principles of compliance and persuasion. Tags: `psychology`, `persuasion`, `behaviour`, `marketing`, `negotiation`
 
 ---
 
@@ -46,6 +47,7 @@ This is the content catalog for sat-wiki. Updated on every ingest.
 - [Loss Aversion](concepts/loss-aversion.md) — Losses hurt ~2x more than equivalent gains feel good; Prospect Theory. Tags: `kahneman`, `behavioural-economics`, `risk`
 - [Planning Fallacy](concepts/planning-fallacy.md) — Systematic underestimation of time, cost, and risk; inside vs outside view. Tags: `kahneman`, `planning`, `forecasting`
 - [Cognitive Biases (Kahneman)](concepts/cognitive-biases-kahneman.md) — WYSIATI, anchoring, availability, halo effect, overconfidence, narrative fallacy. Tags: `kahneman`, `bias`, `psychology`
+- [Principles of Influence (Cialdini)](concepts/principles-of-influence.md) — Seven principles of compliance: reciprocity, commitment, social proof, authority, liking, scarcity, unity. Tags: `cialdini`, `persuasion`, `psychology`, `behaviour`, `heuristics`
 
 ### Philosophy & Happiness
 - [Happiness](concepts/happiness.md) — Naval's subtractive framework. Tags: `happiness`, `philosophy`
@@ -95,3 +97,4 @@ This is the content catalog for sat-wiki. Updated on every ingest.
 - [sources/christensen-innovators-trilogy.md](sources/christensen-innovators-trilogy.md) — The Innovator's Dilemma, The Innovator's Solution, How Will You Measure Your Life? by Christensen. Ingested 2026-04-17.
 - [sources/moore-crossing-the-chasm.md](sources/moore-crossing-the-chasm.md) — Crossing the Chasm by Geoffrey Moore. Ingested 2026-04-17.
 - [sources/csikszentmihalyi-flow.md](sources/csikszentmihalyi-flow.md) — Flow: The Psychology of Optimal Experience by Csikszentmihalyi. Ingested 2026-04-17.
+- [sources/cialdini-influence.md](sources/cialdini-influence.md) — Influence: The Psychology of Persuasion by Robert Cialdini. Ingested 2026-04-17.
