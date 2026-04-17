@@ -393,3 +393,16 @@ Cross-references built:
 - Cialdini (Authority/Social Proof): Authority bias suppresses information in pathological cultures. Social proof amplifies pathology (pluralistic silence). In generative cultures, social proof amplifies psychological safety.
 - OKRs (Doerr): Moonshot OKRs only function in psychologically safe environments. Sandbagging = bureaucratic culture behaviour.
 - Newport (Deep Work): Psychological safety is prerequisite for deep collaborative work; self-monitoring in unsafe environments consumes attentional bandwidth.
+
+## [2026-04-17] pages | Create 5 Maps of Content pages
+
+Created the first 5 navigational pages (Maps of Content) in pages/ — synthesis pages that pull together related concepts and people by domain, with tables, sequencing guidance, and cross-framework synthesis sections.
+
+Files created:
+- pages/strategy-frameworks.md — why incumbents fail, how entrants win, how advantages compound; Christensen/Moore/Prahalad/Bezos
+- pages/decision-making.md — Kahneman biases, Cialdini influence principles, structural antidotes; Kahneman→Cialdini bridge table
+- pages/systems-thinking-primer.md — stocks/flows/loops/archetypes/leverage; applied examples across the whole wiki
+- pages/personal-development.md — career, deep work, flow, goals, integrity; the compounding stack diagram
+- pages/product-development.md — flow economics, DORA metrics, Westrum culture, blameless post-mortems, OKRs
+
+index.md updated: new Pages section added at top of index with descriptions of all 5 pages.

@@ -4,6 +4,18 @@ This is the content catalog for sat-wiki. Updated on every ingest.
 
 ---
 
+## Pages (Maps of Content)
+
+Navigational synthesis pages — each one a curated map of a domain, not a reference page.
+
+- [Strategy Frameworks](pages/strategy-frameworks.md) — Why incumbents fail, how entrants win, how advantages compound; Christensen / Moore / Prahalad / Bezos
+- [Mental Models for Decision-Making](pages/decision-making.md) — Kahneman biases, Cialdini influence principles, structural antidotes; how the brain misleads and how to build better systems
+- [Systems Thinking Primer](pages/systems-thinking-primer.md) — Stocks, flows, feedback loops, archetypes, leverage points; Senge / Meadows applied across the wiki
+- [Personal Development Frameworks](pages/personal-development.md) — Career, deep work, flow, goals, integrity; Naval / Newport / Christensen / Csikszentmihalyi
+- [Product Development](pages/product-development.md) — Flow economics, DORA metrics, Westrum culture, blameless post-mortems, OKRs; Reinertsen / Westrum / Doerr / Newport
+
+---
+
 ## People
 
 - [Naval Ravikant](people/naval-ravikant.md) — Co-founder of AngelList; wealth, leverage, and happiness. Tags: `wealth`, `philosophy`, `startups`, `happiness`
