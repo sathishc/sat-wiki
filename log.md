@@ -181,3 +181,24 @@ Files created:
 - index.md updated (People section + Disruption & Innovation section + Sources)
 
 Cross-references: Disruptive Innovation ↔ Competing for Future (Prahalad) ↔ Core Competency. RPM ↔ Dalio culture/process. JTBD ↔ non-consumption ↔ Bottom of Pyramid (Prahalad). Marginal cost trap ↔ WYSIATI (Kahneman). 100% integrity ↔ Radical Transparency (Dalio). Day 1 (Bezos) ↔ Disruption Defence.
+
+## [2026-04-17] ingest | Geoffrey Moore — Crossing the Chasm
+
+Ingested Geoffrey Moore's *Crossing the Chasm* (1991/1999/2014), including post-chasm extensions (Tornado, Main Street) from *Inside the Tornado* (1995). Source synthesised from Jarvis ingest session.
+
+Files created:
+- sources/moore-crossing-the-chasm.md (raw source; immutable)
+- people/geoffrey-moore.md (person page; bio, core contribution, contrast table vs. Christensen/Prahalad/Bezos/Taleb, quotes)
+- concepts/crossing-the-chasm.md (full framework: TALC segments, why the chasm exists, D-Day beachhead strategy, Whole Product, Tornado/Main Street, extensive cross-framework analysis section)
+- index.md updated (People + Go-to-Market section + Sources)
+
+Cross-references built:
+- Christensen (Disruptive Innovation): complementary lenses — Moore = entrant view, Christensen = incumbent view. Same phenomenon, different vantage points.
+- Christensen (JTBD): visionary vs. pragmatist as hiring for different jobs; explains why early adopter references fail with pragmatists.
+- Christensen (Innovator's Solution): non-consumption targeting = beachhead targeting; RPM = why incumbents can't respond to the entrant crossing.
+- Prahalad (Competing for Future / Strategic Intent): strategic intent = macro beachhead; competing for future = post-tornado expansion playbook.
+- Prahalad (BOP): non-consumers at BOP as a canonical chasm beachhead (under-served, accessible, adjacent).
+- Reinertsen (WIP Limits / Cost of Delay): beachhead discipline = WIP limit applied to GTM; spreading thin across segments = unlimited WIP = delayed flow everywhere.
+- Taleb (Black Swan): the chasm as structurally predictable but cognitively invisible; WYSIATI and availability heuristic explain why founders miss it.
+- Kahneman (Cognitive Biases): WYSIATI — early traction constructs a complete story that excludes the chasm.
+- Bezos (Amazon Flywheel): books as canonical beachhead; flywheel as the mechanism of post-beachhead expansion.

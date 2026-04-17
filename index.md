@@ -16,6 +16,7 @@ This is the content catalog for sat-wiki. Updated on every ingest.
 - [Jeff Bezos](people/jeff-bezos.md) — Founder of Amazon; flywheel, leadership principles, Day 1 philosophy. Tags: `amazon`, `long-term`, `invention`
 - [Donald G. Reinertsen](people/donald-reinertsen.md) — Author of *The Principles of Product Development Flow*. Tags: `flow`, `product-development`, `queueing`, `economics`
 - [Clayton Christensen](people/clayton-christensen.md) — Harvard professor; *The Innovator's Dilemma*, *The Innovator's Solution*, *How Will You Measure Your Life?*; disruptive innovation, Jobs to Be Done, RPM framework. Tags: `strategy`, `disruption`, `innovation`, `management`, `life`
+- [Geoffrey Moore](people/geoffrey-moore.md) — Author of *Crossing the Chasm*; technology adoption lifecycle, the chasm, beachhead strategy, Whole Product. Tags: `strategy`, `technology`, `marketing`, `startups`, `adoption`
 
 ---
 
@@ -60,6 +61,7 @@ This is the content catalog for sat-wiki. Updated on every ingest.
 - [sources/dalio-principles.md](sources/dalio-principles.md) — Principles by Dalio (principles.com, fourminutebooks, sive.rs, nateliason). Ingested 2026-04-16.
 - [sources/reinertsen-flow.md](sources/reinertsen-flow.md) — Principles of Product Development Flow by Reinertsen (blackswanfarming, wikipedia, martinfowler, goodreads). Ingested 2026-04-16.
 - [sources/christensen-innovators-trilogy.md](sources/christensen-innovators-trilogy.md) — The Innovator's Dilemma, The Innovator's Solution, How Will You Measure Your Life? by Christensen. Ingested 2026-04-17.
+- [sources/moore-crossing-the-chasm.md](sources/moore-crossing-the-chasm.md) — Crossing the Chasm by Geoffrey Moore. Ingested 2026-04-17.
 
 ### Amazon / Bezos
 - [Amazon Leadership Principles](concepts/amazon-leadership-principles.md) — The 16 operating principles governing how Amazon hires, decides, and operates. Tags: `amazon`, `leadership`, `culture`, `management`
@@ -87,3 +89,6 @@ This is the content catalog for sat-wiki. Updated on every ingest.
 - [The Innovator's Solution](concepts/innovators-solution.md) — RPM framework, non-consumption targeting, integration vs. modularisation, disruption playbook. Tags: `christensen`, `disruption`, `rpm`, `strategy`
 - [Jobs to Be Done](concepts/jobs-to-be-done.md) — Customers hire products to do a job; functional, emotional, social dimensions. Tags: `christensen`, `jtbd`, `product`, `innovation`
 - [How Will You Measure Your Life?](concepts/how-will-you-measure-your-life.md) — Herzberg's two factors, marginal cost trap, 100% integrity rule, the real metric. Tags: `christensen`, `life`, `career`, `integrity`, `relationships`
+
+### Go-to-Market & Adoption (Moore)
+- [Crossing the Chasm](concepts/crossing-the-chasm.md) — Technology adoption lifecycle; the chasm between visionaries and pragmatists; beachhead strategy; Whole Product; Tornado and Main Street. Tags: `moore`, `strategy`, `go-to-market`, `adoption`, `startups`, `beachhead`
