@@ -9,6 +9,7 @@ This is the content catalog for sat-wiki. Updated on every ingest.
 - [Naval Ravikant](people/naval-ravikant.md) — Co-founder of AngelList; wealth, leverage, and happiness. Tags: `wealth`, `philosophy`, `startups`, `happiness`
 - [Nassim Nicholas Taleb](people/nassim-taleb.md) — Author of the Incerto series; risk, antifragility, uncertainty. Tags: `antifragile`, `risk`, `philosophy`
 - [Ray Dalio](people/ray-dalio.md) — Founder of Bridgewater; *Principles: Life & Work*. Tags: `principles`, `decision-making`, `management`
+- [C.K. Prahalad](people/ck-prahalad.md) — Indian-American strategy professor; core competency, competing for the future, bottom of the pyramid. Tags: `strategy`, `india`, `competitive-advantage`
 - [Daniel Kahneman](people/daniel-kahneman.md) — Psychologist; Nobel laureate; *Thinking, Fast and Slow*; cognitive biases and behavioural economics. Tags: `psychology`, `decision-making`, `bias`
 - [Henry Hazlitt](people/henry-hazlitt.md) — Author of *Economics in One Lesson*; the seen vs unseen framework. Tags: `economics`, `austrian`, `free-markets`
 - [Frédéric Bastiat](people/frederic-bastiat.md) — French economist (1801–1850); originator of the seen vs unseen insight. Tags: `economics`, `bastiat`
@@ -72,3 +73,9 @@ This is the content catalog for sat-wiki. Updated on every ingest.
 - [Loss Aversion](concepts/loss-aversion.md) — Losses hurt ~2x more than equivalent gains feel good; Prospect Theory. Tags: `kahneman`, `behavioural-economics`, `risk`
 - [Planning Fallacy](concepts/planning-fallacy.md) — Systematic underestimation of time, cost, and risk; inside vs outside view. Tags: `kahneman`, `planning`, `forecasting`
 - [Cognitive Biases (Kahneman)](concepts/cognitive-biases-kahneman.md) — WYSIATI, anchoring, availability, halo effect, overconfidence, narrative fallacy. Tags: `kahneman`, `bias`, `psychology`
+
+### Strategy
+- [Core Competency](concepts/core-competency.md) — The bundle of skills and technologies that form the durable basis of competitive advantage. Tags: `prahalad`, `strategy`, `competitive-advantage`
+- [Competing for the Future](concepts/competing-for-the-future.md) — Shape tomorrow's market space rather than defend today's position. Tags: `prahalad`, `strategy`, `foresight`
+- [Strategic Intent](concepts/strategic-intent.md) — Obsessive long-term ambition that stretches beyond current capabilities and drives capability-building. Tags: `prahalad`, `strategy`, `ambition`
+- [Bottom of the Pyramid](concepts/bottom-of-the-pyramid.md) — 4 billion people earning <$2.50/day as a viable market and innovation catalyst. Tags: `prahalad`, `emerging-markets`, `innovation`

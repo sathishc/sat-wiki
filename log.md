@@ -146,3 +146,23 @@ Created:
 - index.md updated
 
 Cross-references: WYSIATI ↔ Broken Window (Hazlitt). Availability heuristic ↔ Black Swans (Taleb). Planning Fallacy ↔ Cost of Delay + Batch Size (Reinertsen). Loss Aversion ↔ Barbell Strategy (Taleb). Biases ↔ Idea Meritocracy (Dalio). System 1/2 ↔ Principles as System 2 backup (Dalio). Planning Fallacy ↔ Black Swan fat tails (Taleb).
+
+## [2026-04-17] ingest | Competing for the Future — C.K. Prahalad & Gary Hamel
+
+Sources:
+- https://en.wikipedia.org/wiki/C._K._Prahalad
+- https://en.wikipedia.org/wiki/Core_competency
+- https://en.wikipedia.org/wiki/Bottom_of_the_pyramid
+- https://en.wikipedia.org/wiki/Gary_Hamel
+- https://hbr.org/1994/07/competing-for-the-future
+
+Created:
+- sources/prahalad-competing-for-future.md (raw, 20k chars)
+- people/ck-prahalad.md (person page; 5 major works; contrast table; Tamil Nadu note)
+- concepts/core-competency.md (tree analogy; core vs end products; comparison with specific knowledge)
+- concepts/competing-for-the-future.md (present vs future competition; industry foresight; white space; strategic architecture)
+- concepts/strategic-intent.md (3 attributes; stretch goal; classic examples)
+- concepts/bottom-of-the-pyramid.md (BOP market; poverty penalty; innovation lab; debate)
+- index.md updated
+
+Cross-references: Core Competency ↔ Specific Knowledge (Naval). Strategic Intent ↔ Five-Step Process (Dalio). Competing for Future ↔ Day 1 (Bezos) ↔ Antifragility (Taleb) ↔ Cost of Delay (Reinertsen). BOP ↔ Leverage + Batch Size. BOP ↔ Seen vs Unseen (Hazlitt).
