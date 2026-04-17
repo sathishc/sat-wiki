@@ -1,0 +1,159 @@
+site_name: sat-wiki
+site_description: Personal LLM-maintained wiki — mental models, strategy, systems thinking, and more
+site_author: Sat
+docs_dir: .
+site_dir: site
+exclude_docs: |
+  README.md
+  sources/*
+  skills/*
+  skills-lock.json
+  CLAUDE.md
+  site/*
+  _site/*
+  .github/*
+  requirements.txt
+  mkdocs.yml
+  memory/*
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tooltips
+    - toc.follow
+
+plugins:
+  - search
+  - tags
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+
+nav:
+  - Home: index.md
+  - Pages:
+    - Strategy Frameworks: pages/strategy-frameworks.md
+    - Decision-Making: pages/decision-making.md
+    - Systems Thinking Primer: pages/systems-thinking-primer.md
+    - Personal Development: pages/personal-development.md
+    - Product Development: pages/product-development.md
+  - People:
+    - Naval Ravikant: people/naval-ravikant.md
+    - Nassim Nicholas Taleb: people/nassim-taleb.md
+    - Ray Dalio: people/ray-dalio.md
+    - C.K. Prahalad: people/ck-prahalad.md
+    - Daniel Kahneman: people/daniel-kahneman.md
+    - Henry Hazlitt: people/henry-hazlitt.md
+    - Frédéric Bastiat: people/frederic-bastiat.md
+    - Jeff Bezos: people/jeff-bezos.md
+    - Donald G. Reinertsen: people/donald-reinertsen.md
+    - Clayton Christensen: people/clayton-christensen.md
+    - Geoffrey Moore: people/geoffrey-moore.md
+    - Mihaly Csikszentmihalyi: people/mihaly-csikszentmihalyi.md
+    - Robert Cialdini: people/robert-cialdini.md
+    - Cal Newport: people/cal-newport.md
+    - John Doerr: people/john-doerr.md
+    - Peter Senge: people/peter-senge.md
+    - Donella Meadows: people/donella-meadows.md
+    - Ron Westrum: people/ron-westrum.md
+  - Concepts:
+    - Wealth & Career:
+      - Specific Knowledge: concepts/specific-knowledge.md
+      - Leverage: concepts/leverage.md
+      - Compounding: concepts/compounding.md
+    - Risk & Systems:
+      - Antifragility: concepts/antifragility.md
+      - Barbell Strategy: concepts/barbell-strategy.md
+      - Black Swan: concepts/black-swan.md
+      - Lindy Effect: concepts/lindy-effect.md
+      - Skin in the Game: concepts/skin-in-the-game.md
+    - Decision-Making & Organisations:
+      - Radical Transparency: concepts/radical-transparency.md
+      - Idea Meritocracy: concepts/idea-meritocracy.md
+      - Five-Step Process: concepts/five-step-process.md
+      - Mental Models: concepts/mental-models.md
+      - OKRs: concepts/okrs.md
+    - Psychology & Cognitive Biases:
+      - System 1 and System 2: concepts/system-1-and-2.md
+      - Loss Aversion: concepts/loss-aversion.md
+      - Planning Fallacy: concepts/planning-fallacy.md
+      - Cognitive Biases (Kahneman): concepts/cognitive-biases-kahneman.md
+      - Principles of Influence: concepts/principles-of-influence.md
+      - Reciprocity: concepts/reciprocity.md
+      - Commitment and Consistency: concepts/commitment-and-consistency.md
+      - Social Proof: concepts/social-proof.md
+      - Authority Bias: concepts/authority-bias.md
+      - Liking: concepts/liking.md
+      - Scarcity: concepts/scarcity.md
+      - Unity: concepts/unity.md
+    - Philosophy & Happiness:
+      - Happiness: concepts/happiness.md
+      - Rational Buddhism: concepts/rational-buddhism.md
+      - Flow (Optimal Experience): concepts/flow-optimal-experience.md
+    - Economics:
+      - Seen vs Unseen: concepts/seen-vs-unseen.md
+      - Broken Window Fallacy: concepts/broken-window-fallacy.md
+      - Unintended Consequences: concepts/unintended-consequences.md
+    - Strategy:
+      - Core Competency: concepts/core-competency.md
+      - Competing for the Future: concepts/competing-for-the-future.md
+      - Strategic Intent: concepts/strategic-intent.md
+      - Bottom of the Pyramid: concepts/bottom-of-the-pyramid.md
+    - Amazon / Bezos:
+      - Amazon Leadership Principles: concepts/amazon-leadership-principles.md
+      - Amazon Growth Flywheel: concepts/amazon-growth-flywheel.md
+    - Product Development Flow:
+      - Flow Economics: concepts/flow-economics.md
+      - Cost of Delay: concepts/cost-of-delay.md
+      - Queues in Product Development: concepts/queues-in-product-development.md
+      - Little's Law: concepts/littles-law.md
+      - WIP Limits: concepts/wip-limits.md
+      - Batch Size: concepts/batch-size.md
+    - Disruption & Innovation:
+      - Disruptive Innovation: concepts/innovators-dilemma.md
+      - The Innovator's Solution: concepts/innovators-solution.md
+      - Jobs to Be Done: concepts/jobs-to-be-done.md
+      - How Will You Measure Your Life?: concepts/how-will-you-measure-your-life.md
+    - Go-to-Market & Adoption:
+      - Crossing the Chasm: concepts/crossing-the-chasm.md
+    - Productivity & Focus:
+      - Deep Work: concepts/deep-work.md
+      - Shallow Work: concepts/shallow-work.md
+    - Systems Thinking:
+      - Systems Thinking: concepts/systems-thinking.md
+      - Feedback Loops: concepts/feedback-loops.md
+      - System Archetypes: concepts/system-archetypes.md
+      - Leverage Points: concepts/leverage-points.md
+      - Learning Organisation: concepts/learning-organisation.md
+    - Organisational Culture:
+      - Westrum Cultural Typologies: concepts/westrum-cultural-typologies.md
+      - Psychological Safety: concepts/psychological-safety.md
+  - Log: log.md

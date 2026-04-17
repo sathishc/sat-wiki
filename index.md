@@ -132,19 +132,24 @@ Navigational synthesis pages — each one a curated map of a domain, not a refer
 
 ## Sources
 
-- [sources/naval-almanack.md](sources/naval-almanack.md) — Almanack of Naval Ravikant (15 chapters). Ingested 2026-04-16.
-- [sources/antifragile.md](sources/antifragile.md) — Antifragile by Taleb (fs.blog, fourminutebooks, sive.rs). Ingested 2026-04-16.
-- [sources/dalio-principles.md](sources/dalio-principles.md) — Principles by Dalio (principles.com, fourminutebooks, sive.rs, nateliason). Ingested 2026-04-16.
-- [sources/reinertsen-flow.md](sources/reinertsen-flow.md) — Principles of Product Development Flow by Reinertsen (blackswanfarming, wikipedia, martinfowler, goodreads). Ingested 2026-04-16.
-- [sources/amazon-lp-flywheel.md](sources/amazon-lp-flywheel.md) — Amazon Leadership Principles & Growth Flywheel. Ingested 2026-04-16.
-- [sources/kahneman-thinking-fast-slow.md](sources/kahneman-thinking-fast-slow.md) — Thinking, Fast and Slow by Daniel Kahneman. Ingested 2026-04-16.
-- [sources/hazlitt-economics-one-lesson.md](sources/hazlitt-economics-one-lesson.md) — Economics in One Lesson by Henry Hazlitt. Ingested 2026-04-16.
-- [sources/prahalad-competing-for-future.md](sources/prahalad-competing-for-future.md) — Competing for the Future by C.K. Prahalad & Gary Hamel. Ingested 2026-04-16.
-- [sources/christensen-innovators-trilogy.md](sources/christensen-innovators-trilogy.md) — The Innovator's Dilemma, The Innovator's Solution, How Will You Measure Your Life? by Christensen. Ingested 2026-04-17.
-- [sources/moore-crossing-the-chasm.md](sources/moore-crossing-the-chasm.md) — Crossing the Chasm by Geoffrey Moore. Ingested 2026-04-17.
-- [sources/csikszentmihalyi-flow.md](sources/csikszentmihalyi-flow.md) — Flow: The Psychology of Optimal Experience by Csikszentmihalyi. Ingested 2026-04-17.
-- [sources/cialdini-influence.md](sources/cialdini-influence.md) — Influence: The Psychology of Persuasion by Robert Cialdini. Ingested 2026-04-17.
-- [sources/newport-deep-work.md](sources/newport-deep-work.md) — Deep Work: Rules for Focused Success in a Distracted World by Cal Newport. Ingested 2026-04-17.
-- [sources/doerr-measure-what-matters.md](sources/doerr-measure-what-matters.md) — Measure What Matters by John Doerr. Ingested 2026-04-17.
-- [sources/systems-thinking-senge-meadows.md](sources/systems-thinking-senge-meadows.md) — Systems Thinking: The Fifth Discipline (Senge) and Thinking in Systems (Meadows). Ingested 2026-04-17.
-- [sources/westrum-cultural-typologies.md](sources/westrum-cultural-typologies.md) — Westrum Cultural Typologies; Accelerate (Forsgren, Humble, Kim). Ingested 2026-04-17.
+Raw source notes are stored in `sources/` and excluded from the published site (they are working notes, not wiki pages).
+
+| File | Description | Ingested |
+|---|---|---|
+| `sources/naval-almanack.md` | Almanack of Naval Ravikant (15 chapters) | 2026-04-16 |
+| `sources/antifragile.md` | Antifragile by Taleb | 2026-04-16 |
+| `sources/dalio-principles.md` | Principles by Ray Dalio | 2026-04-16 |
+| `sources/reinertsen-flow.md` | Principles of Product Development Flow by Reinertsen | 2026-04-16 |
+| `sources/amazon-lp-flywheel.md` | Amazon Leadership Principles & Growth Flywheel | 2026-04-16 |
+| `sources/kahneman-thinking-fast-slow.md` | Thinking, Fast and Slow by Daniel Kahneman | 2026-04-16 |
+| `sources/hazlitt-economics-one-lesson.md` | Economics in One Lesson by Henry Hazlitt | 2026-04-16 |
+| `sources/prahalad-competing-for-future.md` | Competing for the Future by C.K. Prahalad & Gary Hamel | 2026-04-16 |
+| `sources/christensen-innovators-trilogy.md` | The Innovator's Dilemma, The Innovator's Solution, HWYMYL by Christensen | 2026-04-17 |
+| `sources/moore-crossing-the-chasm.md` | Crossing the Chasm by Geoffrey Moore | 2026-04-17 |
+| `sources/csikszentmihalyi-flow.md` | Flow: The Psychology of Optimal Experience by Csikszentmihalyi | 2026-04-17 |
+| `sources/cialdini-influence.md` | Influence: The Psychology of Persuasion by Robert Cialdini | 2026-04-17 |
+| `sources/newport-deep-work.md` | Deep Work by Cal Newport | 2026-04-17 |
+| `sources/doerr-measure-what-matters.md` | Measure What Matters by John Doerr | 2026-04-17 |
+| `sources/systems-thinking-senge-meadows.md` | The Fifth Discipline (Senge) and Thinking in Systems (Meadows) | 2026-04-17 |
+| `sources/westrum-cultural-typologies.md` | Westrum Cultural Typologies; Accelerate (Forsgren, Humble, Kim) | 2026-04-17 |
+

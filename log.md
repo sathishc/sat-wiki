@@ -406,3 +406,21 @@ Files created:
 - pages/product-development.md — flow economics, DORA metrics, Westrum culture, blameless post-mortems, OKRs
 
 index.md updated: new Pages section added at top of index with descriptions of all 5 pages.
+
+## [2026-04-17] setup | MkDocs + GitHub Pages
+
+Set up MkDocs Material theme for publishing the wiki as a GitHub Pages site.
+
+Files created/modified:
+- mkdocs.yml — full MkDocs config: Material theme, dark/light mode toggle, search, navigation tabs, complete nav tree covering all 19 people + 67 concepts + 5 pages
+- .github/workflows/deploy.yml — GitHub Actions workflow; auto-deploys to GitHub Pages on every push to main; builds by placing mkdocs.yml above the repo root to satisfy MkDocs docs_dir constraint
+- requirements.txt — mkdocs-material dependency
+- .gitignore — excludes site/, _site/, .cache/, __pycache__
+- index.md — Sources section converted from broken links to a clean table (sources are excluded from the built site)
+
+Build tested locally: clean build in 3s, zero warnings.
+
+To activate GitHub Pages after pushing:
+1. Push repo to GitHub
+2. Settings → Pages → Source: select "GitHub Actions"
+3. First push to main triggers the workflow; site publishes at https://USERNAME.github.io/sat-wiki
