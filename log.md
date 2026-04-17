@@ -166,3 +166,18 @@ Created:
 - index.md updated
 
 Cross-references: Core Competency ↔ Specific Knowledge (Naval). Strategic Intent ↔ Five-Step Process (Dalio). Competing for Future ↔ Day 1 (Bezos) ↔ Antifragility (Taleb) ↔ Cost of Delay (Reinertsen). BOP ↔ Leverage + Batch Size. BOP ↔ Seen vs Unseen (Hazlitt).
+
+## [2026-04-17] ingest | Clayton Christensen — Innovator's Trilogy + How Will You Measure Your Life?
+
+Ingested Clayton Christensen's three core works: *The Innovator's Dilemma* (1997), *The Innovator's Solution* (2003, with Michael Raynor), and *How Will You Measure Your Life?* (2012, with Allworth & Dillon). Source synthesised from Jarvis ingest session.
+
+Files created:
+- sources/christensen-innovators-trilogy.md (raw source notes; immutable)
+- people/clayton-christensen.md (person page; bio, three works, cross-thinker contrast table, quotes)
+- concepts/innovators-dilemma.md (disruptive innovation; sustaining vs disruptive; three failure mechanisms; overshooting trajectory; classic examples)
+- concepts/jobs-to-be-done.md (JTBD; McDonald's milkshake study; three dimensions; demographics vs jobs)
+- concepts/innovators-solution.md (RPM framework; non-consumption; integration/modularisation; emergent strategy; hiring for experiences)
+- concepts/how-will-you-measure-your-life.md (Herzberg two-factor theory; marginal cost trap; 100% integrity rule; JTBD in relationships; school of experience; life metric)
+- index.md updated (People section + Disruption & Innovation section + Sources)
+
+Cross-references: Disruptive Innovation ↔ Competing for Future (Prahalad) ↔ Core Competency. RPM ↔ Dalio culture/process. JTBD ↔ non-consumption ↔ Bottom of Pyramid (Prahalad). Marginal cost trap ↔ WYSIATI (Kahneman). 100% integrity ↔ Radical Transparency (Dalio). Day 1 (Bezos) ↔ Disruption Defence.

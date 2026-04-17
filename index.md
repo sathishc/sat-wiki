@@ -15,6 +15,7 @@ This is the content catalog for sat-wiki. Updated on every ingest.
 - [Frédéric Bastiat](people/frederic-bastiat.md) — French economist (1801–1850); originator of the seen vs unseen insight. Tags: `economics`, `bastiat`
 - [Jeff Bezos](people/jeff-bezos.md) — Founder of Amazon; flywheel, leadership principles, Day 1 philosophy. Tags: `amazon`, `long-term`, `invention`
 - [Donald G. Reinertsen](people/donald-reinertsen.md) — Author of *The Principles of Product Development Flow*. Tags: `flow`, `product-development`, `queueing`, `economics`
+- [Clayton Christensen](people/clayton-christensen.md) — Harvard professor; *The Innovator's Dilemma*, *The Innovator's Solution*, *How Will You Measure Your Life?*; disruptive innovation, Jobs to Be Done, RPM framework. Tags: `strategy`, `disruption`, `innovation`, `management`, `life`
 
 ---
 
@@ -58,6 +59,7 @@ This is the content catalog for sat-wiki. Updated on every ingest.
 - [sources/antifragile.md](sources/antifragile.md) — Antifragile by Taleb (fs.blog, fourminutebooks, sive.rs). Ingested 2026-04-16.
 - [sources/dalio-principles.md](sources/dalio-principles.md) — Principles by Dalio (principles.com, fourminutebooks, sive.rs, nateliason). Ingested 2026-04-16.
 - [sources/reinertsen-flow.md](sources/reinertsen-flow.md) — Principles of Product Development Flow by Reinertsen (blackswanfarming, wikipedia, martinfowler, goodreads). Ingested 2026-04-16.
+- [sources/christensen-innovators-trilogy.md](sources/christensen-innovators-trilogy.md) — The Innovator's Dilemma, The Innovator's Solution, How Will You Measure Your Life? by Christensen. Ingested 2026-04-17.
 
 ### Amazon / Bezos
 - [Amazon Leadership Principles](concepts/amazon-leadership-principles.md) — The 16 operating principles governing how Amazon hires, decides, and operates. Tags: `amazon`, `leadership`, `culture`, `management`
@@ -79,3 +81,9 @@ This is the content catalog for sat-wiki. Updated on every ingest.
 - [Competing for the Future](concepts/competing-for-the-future.md) — Shape tomorrow's market space rather than defend today's position. Tags: `prahalad`, `strategy`, `foresight`
 - [Strategic Intent](concepts/strategic-intent.md) — Obsessive long-term ambition that stretches beyond current capabilities and drives capability-building. Tags: `prahalad`, `strategy`, `ambition`
 - [Bottom of the Pyramid](concepts/bottom-of-the-pyramid.md) — 4 billion people earning <$2.50/day as a viable market and innovation catalyst. Tags: `prahalad`, `emerging-markets`, `innovation`
+
+### Disruption & Innovation (Christensen)
+- [Disruptive Innovation](concepts/innovators-dilemma.md) — Why well-managed companies fail: value networks, resource allocation, overshooting. Tags: `christensen`, `disruption`, `strategy`, `innovation`
+- [The Innovator's Solution](concepts/innovators-solution.md) — RPM framework, non-consumption targeting, integration vs. modularisation, disruption playbook. Tags: `christensen`, `disruption`, `rpm`, `strategy`
+- [Jobs to Be Done](concepts/jobs-to-be-done.md) — Customers hire products to do a job; functional, emotional, social dimensions. Tags: `christensen`, `jtbd`, `product`, `innovation`
+- [How Will You Measure Your Life?](concepts/how-will-you-measure-your-life.md) — Herzberg's two factors, marginal cost trap, 100% integrity rule, the real metric. Tags: `christensen`, `life`, `career`, `integrity`, `relationships`
