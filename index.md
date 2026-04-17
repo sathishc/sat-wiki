@@ -20,6 +20,7 @@ This is the content catalog for sat-wiki. Updated on every ingest.
 - [Mihaly Csikszentmihalyi](people/mihaly-csikszentmihalyi.md) — Psychologist; *Flow: The Psychology of Optimal Experience*; optimal experience, autotelic self, challenge/skill balance. Tags: `psychology`, `flow`, `happiness`, `motivation`, `wellbeing`
 - [Robert Cialdini](people/robert-cialdini.md) — Psychologist; *Influence: The Psychology of Persuasion*; seven principles of compliance and persuasion. Tags: `psychology`, `persuasion`, `behaviour`, `marketing`, `negotiation`
 - [Cal Newport](people/cal-newport.md) — Computer scientist and author; *Deep Work*; deep vs. shallow work, four philosophies, attention as career capital. Tags: `productivity`, `focus`, `deep-work`, `attention`, `craft`
+- [John Doerr](people/john-doerr.md) — Venture capitalist; *Measure What Matters*; popularised OKRs from Intel to Google and beyond. Tags: `management`, `okr`, `goals`, `execution`, `alignment`
 
 ---
 
@@ -65,6 +66,9 @@ This is the content catalog for sat-wiki. Updated on every ingest.
 ### Productivity & Focus (Newport)
 - [Deep Work](concepts/deep-work.md) — Distraction-free concentration on cognitively demanding tasks; four philosophies; four rules; busyness vs. productivity. Tags: `newport`, `productivity`, `focus`, `attention`, `flow`, `craft`
 - [Shallow Work](concepts/shallow-work.md) — Non-cognitively demanding logistical tasks that expand to fill time; the busyness trap; how to drain them. Tags: `newport`, `productivity`, `distraction`, `email`, `meetings`
+
+### Goals & Execution (Doerr / Grove)
+- [OKRs (Objectives and Key Results)](concepts/okrs.md) — Focus, alignment, tracking, and stretch goals; committed vs moonshot OKRs; CFRs; OKRs vs KPIs. Tags: `doerr`, `grove`, `management`, `goals`, `execution`, `alignment`, `measurement`
 
 ### Economics
 - [Seen vs Unseen](concepts/seen-vs-unseen.md) — The master framework: every act has visible immediate effects and invisible longer-term effects. Tags: `economics`, `hazlitt`, `bastiat`, `thinking`
@@ -115,3 +119,4 @@ This is the content catalog for sat-wiki. Updated on every ingest.
 - [sources/csikszentmihalyi-flow.md](sources/csikszentmihalyi-flow.md) — Flow: The Psychology of Optimal Experience by Csikszentmihalyi. Ingested 2026-04-17.
 - [sources/cialdini-influence.md](sources/cialdini-influence.md) — Influence: The Psychology of Persuasion by Robert Cialdini. Ingested 2026-04-17.
 - [sources/newport-deep-work.md](sources/newport-deep-work.md) — Deep Work: Rules for Focused Success in a Distracted World by Cal Newport. Ingested 2026-04-17.
+- [sources/doerr-measure-what-matters.md](sources/doerr-measure-what-matters.md) — Measure What Matters by John Doerr. Ingested 2026-04-17.

@@ -328,3 +328,21 @@ Post-audit state: 0 broken links.
 
 ## [2026-04-17] lint | Cross-reference audit batch 2 (J–Z concepts)
 Updated cross-references in: jobs-to-be-done, leverage, liking, lindy-effect, loss-aversion, mental-models, planning-fallacy, principles-of-influence, queues-in-product-development, radical-transparency, rational-buddhism, scarcity, seen-vs-unseen, skin-in-the-game, social-proof, specific-knowledge, system-1-and-2, wip-limits. Added 29 links, fixed 7 broken path issues (../concepts/ → ./ in principles-of-influence body; wrong ../people/ link for commitment-and-consistency).
+
+## [2026-04-17] ingest | John Doerr — Measure What Matters (OKRs)
+
+Ingested Doerr's *Measure What Matters* (2018), covering OKRs as developed by Andy Grove at Intel and popularised by Doerr at Google. Source synthesised from Jarvis ingest session.
+
+Files created:
+- sources/doerr-measure-what-matters.md (raw source; immutable)
+- people/john-doerr.md (person page; bio, Grove origin, contrast table vs. Dalio/Reinertsen/Newport/Christensen, key convergences)
+- concepts/okrs.md (full framework: Objectives, Key Results, four superpowers, CFRs, OKRs vs KPIs, failure modes, cross-framework connections)
+- index.md updated (People + new Goals & Execution section + Sources)
+
+Cross-references built:
+- Dalio (Five-Step Process): parallel personal operating system; Step 1=Objective, KRs=Step 4 plan, review cadence=Step 2/3.
+- Reinertsen (Cost of Delay / WIP Limits / Flow Economics): CoD = cost of misaligned/untracked OKRs; WIP limits = operational expression of OKR focus.
+- Newport (Deep Work / 4DX): 4DX is individual-level OKRs — same four-discipline structure at personal scale.
+- Christensen (Emergent vs Deliberate Strategy): OKR cycle design should match strategy maturity — more aspirational/short-cycle when exploring, more committed/quarterly when executing.
+- Cialdini (Commitment & Consistency): public OKRs are commitment devices — transparency increases accountability through social commitment pressure.
+- Prahalad (Strategic Intent): strategic intent = long-horizon company Objective; OKRs are the quarterly execution cadence beneath it.
