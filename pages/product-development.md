@@ -133,3 +133,4 @@ If you're trying to improve product delivery, this is roughly the order that mat
 - [Systems Thinking Primer](systems-thinking-primer.md)
 - [Mental Models for Decision-Making](decision-making.md)
 - [Personal Development Frameworks](personal-development.md)
+- [Startup & Founder Playbook](startup-founder-playbook.md)

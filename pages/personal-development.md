@@ -135,3 +135,4 @@ The structural defence: decide in advance, in calm conditions, that certain line
 - [Mental Models for Decision-Making](decision-making.md)
 - [Systems Thinking Primer](systems-thinking-primer.md)
 - [Product Development](product-development.md)
+- [Startup & Founder Playbook](startup-founder-playbook.md)

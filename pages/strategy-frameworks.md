@@ -58,6 +58,19 @@ Before asking how to win, ask where to compete. Porter's frameworks start with t
 | [Bottom of the Pyramid](../concepts/bottom-of-the-pyramid.md) | Prahalad | Where are the biggest unserved markets? | 4 billion non-consumers as innovation opportunity |
 | [Strategic Intent](../concepts/strategic-intent.md) | Prahalad | How do resource-constrained challengers win? | Obsessive long-horizon ambition that forces capability development |
 
+### Startup Strategy (Thiel)
+
+Thiel's framework is distinct from Porter and Christensen: don't compete — *escape* competition entirely by finding a secret and building a monopoly around it.
+
+| Framework | Author | Core question | Key concept |
+|---|---|---|---|
+| [Zero to One vs One to N](../concepts/zero-to-one.md) | Thiel | Are you creating or copying? | Vertical progress (new) vs. horizontal progress (scale) |
+| [Monopoly vs Competition](../concepts/monopoly-vs-competition.md) | Thiel | What kind of business should you build? | Seek monopoly; escape perfect competition |
+| [Last Mover Advantage](../concepts/last-mover-advantage.md) | Thiel | What is the end state? | Durable monopoly; 70–80% of value in years 10+ |
+| [Power Law (Startups)](../concepts/power-law-startups.md) | Thiel | How are returns distributed? | One winner dominates; applies to VC, strategy, and careers |
+| [Secrets (Thiel)](../concepts/secrets-thiel.md) | Thiel | What is the source of great companies? | Contrarian truths others don't yet believe |
+| [Definite vs Indefinite Optimism](../concepts/definite-vs-indefinite.md) | Thiel | What kind of future thinking wins? | Specific plans beat vague hopes |
+
 ### How Advantages Compound
 
 | Framework | Author | Core question | Key concept |
@@ -134,3 +147,4 @@ Incumbents face a structural disadvantage: their RPM optimises for defending exi
 - [Mental Models for Decision-Making](decision-making.md)
 - [Systems Thinking Primer](systems-thinking-primer.md)
 - [Personal Development Frameworks](personal-development.md)
+- [Startup & Founder Playbook](startup-founder-playbook.md)
