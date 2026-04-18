@@ -46,6 +46,16 @@ The wiki's content consistently supports the intrinsic track — not as a moral 
 | [Happiness](../concepts/happiness.md) | Naval | Subtractive: remove desire and suffering; stop outsourcing peace to outcomes |
 | [Rational Buddhism](../concepts/rational-buddhism.md) | Naval | Impermanence and non-attachment as secular tools, not religion |
 
+### Emotional Intelligence & Interpersonal Skill
+
+| Framework | Author | Core insight |
+|---|---|---|
+| [Emotional Intelligence (EQ)](../concepts/emotional-intelligence.md) | Goleman | Self-awareness, self-regulation, motivation, empathy, and social skill matter more than IQ in predicting success |
+| [Self-Awareness](../concepts/self-awareness.md) | Goleman | You can't regulate what you can't recognise — foundation of EQ |
+| [Self-Regulation](../concepts/self-regulation.md) | Goleman | Managing disruptive emotions; the amygdala hijack and recovery |
+| [Empathy](../concepts/empathy.md) | Goleman | Three types: cognitive, emotional, empathic concern — bridge from self to others |
+| [Social Skills](../concepts/social-skills.md) | Goleman | Purposeful relationship management — influence, communication, conflict resolution |
+
 ### Goals & Execution
 
 | Framework | Author | Core insight |
@@ -85,6 +95,8 @@ Compounded over time through long-term games (Naval)
 ```
 
 The insight: these aren't separate frameworks — they're layers of the same system. Deep work is the *practice* that generates flow; flow is the *phenomenology* of building specific knowledge; specific knowledge is what compounds into leverage; leverage is what makes the work matter economically.
+
+**EQ as the substrate:** Goleman's emotional intelligence sits *beneath* all of this. Self-regulation enables deep work (managing distraction and discomfort); self-awareness enables honest goal-setting; empathy and social skills determine whether your compounding happens alone or with and through others — which dramatically changes the ceiling.
 
 ---
 
