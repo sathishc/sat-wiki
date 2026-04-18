@@ -421,3 +421,7 @@ Files created:
 Modified: all concept, people, and pages/*.md files — added layout: default + parent: [section] frontmatter for just-the-docs navigation hierarchy. index.md updated with layout: home frontmatter.
 
 To activate: Settings → Pages → Source: GitHub Actions. First push triggers deploy.
+
+## [2026-04-18] ingest | Michael Porter — Competitive Strategy & Competitive Advantage
+
+Ingested Porter's two foundational strategy books. Created: sources/porter-competitive-strategy.md, people/michael-porter.md, concepts/porters-five-forces.md, concepts/competitive-advantage.md, concepts/generic-strategies.md, concepts/value-chain.md, concepts/industry-analysis.md. Updated: people/ck-prahalad.md (added Porter vs Prahalad outside-in/inside-out contrast), pages/strategy-frameworks.md (new Industry-Level Analysis section, Porter vs Prahalad debate, extended 9-step sequence), index.md (People + Strategy + Sources). Lint: 0 broken links.

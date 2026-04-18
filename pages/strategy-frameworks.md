@@ -1,8 +1,8 @@
 ---
 title: Strategy Frameworks — Map of Content
-tags: [moc, strategy, disruption, competition, growth, markets]
+tags: [moc, strategy, disruption, competition, growth, markets, porter]
 created: 2026-04-17
-updated: 2026-04-17
+updated: 2026-04-18
 layout: default
 parent: Maps of Content
 ---
@@ -19,13 +19,25 @@ Start here. The most important insight in the strategy cluster:
 
 > **Good management + wrong theory = bad outcomes.**
 
-[Clayton Christensen](../people/clayton-christensen.md) showed that companies fail precisely because they are well managed — they listen to their best customers, invest in sustaining innovation, and rationally ignore disruptive entrants. [C.K. Prahalad](../people/ck-prahalad.md) showed the mirror image: companies that are too focused on today's market cannot see tomorrow's. [Geoffrey Moore](../people/geoffrey-moore.md) showed that even companies with great products die in the chasm between early adopters and the mainstream.
+[Clayton Christensen](../people/clayton-christensen.md) showed that companies fail precisely because they are well managed — they listen to their best customers, invest in sustaining innovation, and rationally ignore disruptive entrants. [C.K. Prahalad](../people/ck-prahalad.md) showed the mirror image: companies that are too focused on today's market cannot see tomorrow's. [Geoffrey Moore](../people/geoffrey-moore.md) showed that even companies with great products die in the chasm between early adopters and the mainstream. [Michael Porter](../people/michael-porter.md) showed that industry structure itself — not just managerial error — determines average profitability, and that sustainable advantage requires making clear, consistent choices.
 
 The common thread: **the structure of the competitive system** produces failure regardless of individual effort or intent. The solution requires changing how you see, not just what you do.
 
 ---
 
 ## Framework Map
+
+### Industry-Level Analysis (Porter)
+
+Before asking how to win, ask where to compete. Porter's frameworks start with the industry:
+
+| Framework | Author | Core question | Key concept |
+|---|---|---|---|
+| [Porter's Five Forces](../concepts/porters-five-forces.md) | Porter | Is this industry structurally attractive? | Threat of entry, supplier/buyer power, substitutes, rivalry |
+| [Industry Analysis](../concepts/industry-analysis.md) | Porter | How does industry structure evolve? | Emergence → growth → maturity → decline; disruption reshapes structure |
+| [Generic Strategies](../concepts/generic-strategies.md) | Porter | How do you position within the industry? | Cost leadership, differentiation, or focus — choose one |
+| [Value Chain](../concepts/value-chain.md) | Porter | Where does competitive advantage actually live in the firm? | Activities and linkages that create and sustain margin |
+| [Competitive Advantage](../concepts/competitive-advantage.md) | Porter | What is competitive advantage, precisely? | Sustainable superior performance via cost or differentiation |
 
 ### Why Incumbents Fail
 
@@ -58,29 +70,53 @@ The common thread: **the structure of the competitive system** produces failure 
 
 ---
 
+## The Porter vs. Prahalad Debate
+
+The central fault line in strategy scholarship:
+
+**Porter (outside-in):** Industry structure determines average profitability. Choose your industry carefully, position distinctly within it (pick a generic strategy and stick with it), and build a value chain that reinforces that position. Strategy is about making trade-offs.
+
+**Prahalad (inside-out / resource-based):** Distinctive internal capabilities — [core competencies](../concepts/core-competency.md) — are the durable source of competitive advantage. Rather than adapting to industry structure, companies should build capabilities that let them reshape industries and create new market spaces.
+
+**Resolution:** Both are right at different timescales. Porter is more useful for analysing a stable industry today — where to position, how much margin is available, which forces to navigate. Prahalad is more useful in dynamic, technology-driven markets where industry structure is unstable and the goal is to shape what the industry becomes. Christensen's disruption framework is the bridge: it explains how industry structure gets reshaped, validating both Porter's insistence that structure matters and Prahalad's insistence that capabilities can change structure.
+
+---
+
 ## The Sequence: How to Think About a Strategic Situation
 
-**1. Where are you in the adoption curve?**
+**1. Assess industry attractiveness**
+→ [Porter's Five Forces](../concepts/porters-five-forces.md): is average profitability in this industry structurally attractive? Where does power sit?
+
+**2. Where are you in the adoption curve?**
 → [Crossing the Chasm](../concepts/crossing-the-chasm.md): early market, chasm, tornado, main street each require different playbooks
 
-**2. What job is the market hiring for?**
+**3. What job is the market hiring for?**
 → [Jobs to Be Done](../concepts/jobs-to-be-done.md): understand the job before designing the product or positioning
 
-**3. What is the incumbent's blindspot?**
+**4. What is the incumbent's blindspot?**
 → [Disruptive Innovation](../concepts/innovators-dilemma.md): what customers are they over-serving? What jobs are they ignoring?
 
-**4. What is your RPM?**
+**5. Choose your generic strategy — and commit**
+→ [Generic Strategies](../concepts/generic-strategies.md): cost leadership, differentiation, or focus. Stuck in the middle is not a strategy.
+
+**6. Map where advantage lives in the value chain**
+→ [Value Chain](../concepts/value-chain.md): which activities create your cost or differentiation advantage? Where are the critical linkages?
+
+**7. What is your RPM?**
 → [Innovator's Solution](../concepts/innovators-solution.md): do your processes and values support what you're trying to do?
 
-**5. What is your strategic intent?**
+**8. What is your strategic intent?**
 → [Strategic Intent](../concepts/strategic-intent.md): what is the obsessive long-horizon ambition that makes the current resource gap irrelevant?
 
-**6. What reinforcing loops can you build?**
+**9. What reinforcing loops can you build?**
 → [Feedback Loops](../concepts/feedback-loops.md): what virtuous cycles compound advantage over time?
 
 ---
 
 ## Key Tensions in Strategy
+
+**Industry structure vs. internal capability**
+Porter: choose the right industry and position. Prahalad: build the right capabilities and reshape the industry. Resolution: you need both — structure sets the ceiling, capabilities determine where you sit relative to it.
 
 **Focus vs. optionality**
 Moore: concentrate on one beachhead, say no to everything else. Taleb: [Barbell Strategy](../concepts/barbell-strategy.md) — extreme focus plus extreme optionality. These are not contradictory: focus during execution; optionality in portfolio construction.

@@ -40,6 +40,7 @@ Navigational synthesis pages — each one a curated map of a domain, not a refer
 - [John Doerr](people/john-doerr.md) — Venture capitalist; *Measure What Matters*; popularised OKRs from Intel to Google and beyond. Tags: `management`, `okr`, `goals`, `execution`, `alignment`
 - [Peter Senge](people/peter-senge.md) — Systems scientist; *The Fifth Discipline*; learning organisations, five disciplines, system archetypes. Tags: `systems-thinking`, `management`, `learning`, `feedback`, `organisations`
 - [Donella Meadows](people/donella-meadows.md) — Environmental scientist; *Thinking in Systems*; stocks, flows, feedback loops, leverage points. Tags: `systems-thinking`, `feedback`, `leverage`, `complexity`
+- [Michael Porter](people/michael-porter.md) — Harvard professor; *Competitive Strategy*, *Competitive Advantage*; Five Forces, value chain, generic strategies, industry analysis. Tags: `strategy`, `competitive-advantage`, `five-forces`, `value-chain`, `harvard`
 - [Ron Westrum](people/ron-westrum.md) — Sociologist; cultural typologies (pathological, bureaucratic, generative); culture as information processing architecture. Tags: `culture`, `organisations`, `safety`, `information-flow`, `devops`
 
 ---
@@ -107,6 +108,11 @@ Navigational synthesis pages — each one a curated map of a domain, not a refer
 - [Unintended Consequences](concepts/unintended-consequences.md) — Interventions in complex systems produce effects opposite to those intended. Tags: `economics`, `systems`, `second-order`
 
 ### Strategy
+- [Porter's Five Forces](concepts/porters-five-forces.md) — Industry attractiveness framework; threat of entry, supplier/buyer power, substitutes, rivalry. Tags: `porter`, `strategy`, `industry`, `competitive-advantage`
+- [Competitive Advantage](concepts/competitive-advantage.md) — Sustainable superior performance via cost leadership or differentiation; barriers to imitation; how disruption erodes it. Tags: `porter`, `strategy`, `competitive-advantage`, `differentiation`
+- [Generic Strategies](concepts/generic-strategies.md) — Cost leadership, differentiation, focus; the "stuck in the middle" trap; how Amazon and disruptors apply them. Tags: `porter`, `strategy`, `positioning`, `cost-leadership`
+- [Value Chain](concepts/value-chain.md) — Primary and support activities; where competitive advantage lives in the firm; linkages within and across chains. Tags: `porter`, `strategy`, `value-chain`, `margin`, `operations`
+- [Industry Analysis](concepts/industry-analysis.md) — Industry structure determines average profitability; structural evolution; disruption as structural change. Tags: `porter`, `strategy`, `industry-structure`, `five-forces`
 - [Core Competency](concepts/core-competency.md) — The bundle of skills and technologies that form the durable basis of competitive advantage. Tags: `prahalad`, `strategy`, `competitive-advantage`
 - [Competing for the Future](concepts/competing-for-the-future.md) — Shape tomorrow's market space rather than defend today's position. Tags: `prahalad`, `strategy`, `foresight`
 - [Strategic Intent](concepts/strategic-intent.md) — Obsessive long-term ambition that stretches beyond current capabilities and drives capability-building. Tags: `prahalad`, `strategy`, `ambition`
@@ -145,6 +151,7 @@ Navigational synthesis pages — each one a curated map of a domain, not a refer
 - [sources/kahneman-thinking-fast-slow.md](sources/kahneman-thinking-fast-slow.md) — Thinking, Fast and Slow by Daniel Kahneman. Ingested 2026-04-16.
 - [sources/hazlitt-economics-one-lesson.md](sources/hazlitt-economics-one-lesson.md) — Economics in One Lesson by Henry Hazlitt. Ingested 2026-04-16.
 - [sources/prahalad-competing-for-future.md](sources/prahalad-competing-for-future.md) — Competing for the Future by C.K. Prahalad & Gary Hamel. Ingested 2026-04-16.
+- [sources/porter-competitive-strategy.md](sources/porter-competitive-strategy.md) — *Competitive Strategy* (1980) and *Competitive Advantage* (1985) by Michael Porter. Ingested 2026-04-18.
 - [sources/christensen-innovators-trilogy.md](sources/christensen-innovators-trilogy.md) — The Innovator's Dilemma, The Innovator's Solution, How Will You Measure Your Life? by Christensen. Ingested 2026-04-17.
 - [sources/moore-crossing-the-chasm.md](sources/moore-crossing-the-chasm.md) — Crossing the Chasm by Geoffrey Moore. Ingested 2026-04-17.
 - [sources/csikszentmihalyi-flow.md](sources/csikszentmihalyi-flow.md) — Flow: The Psychology of Optimal Experience by Csikszentmihalyi. Ingested 2026-04-17.
