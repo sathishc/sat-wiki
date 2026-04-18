@@ -95,7 +95,7 @@ The **amygdala** (emotional threat-detection) can trigger a fear/anger response 
 - **[Self-Regulation](../concepts/self-regulation.md)** — core EQ skill
 - **[Empathy](../concepts/empathy.md)** — EQ's social perception domain
 - **[Psychological Safety](../concepts/psychological-safety.md)** — EQ at team scale (→ Westrum)
-- **[Flow](../concepts/flow.md)** — EQ facilitates flow via emotional regulation (→ Csikszentmihalyi)
+- **[Flow](../concepts/flow-optimal-experience.md)** — EQ facilitates flow via emotional regulation (→ Csikszentmihalyi)
 - **[Intrinsic Motivation](../concepts/intrinsic-motivation.md)** — Goleman's motivation domain
 
 ## Source

@@ -64,7 +64,7 @@ This is Thiel's version of what [Geoffrey Moore](../people/geoffrey-moore.md) ca
 - **[Zero to One](../concepts/zero-to-one.md)** — Zero to One is how you get to monopoly
 - **[Last Mover Advantage](../concepts/last-mover-advantage.md)** — once you have monopoly, durability is what matters
 - **[Power Law (Startups)](../concepts/power-law-startups.md)** — monopolies are where the power law payoffs live
-- **[Five Forces](../concepts/five-forces.md)** — Porter's framework assumes you're in competition; Thiel says escape the framework
+- **[Five Forces](../concepts/porters-five-forces.md)** — Porter's framework assumes you're in competition; Thiel says escape the framework
 - **[Crossing the Chasm](../concepts/crossing-the-chasm.md)** — Moore's niche domination strategy aligns with Thiel's start-small logic
 - **[Innovator's Dilemma](../concepts/innovators-dilemma.md)** — disruption is a path to monopoly from below
 

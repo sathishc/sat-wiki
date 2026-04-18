@@ -41,7 +41,7 @@ This is both Thiel's interview question and his theory of value creation. A good
 - **[The Power Law](../concepts/power-law-startups.md)** — VC returns follow a power law; so do startup outcomes and individual choices
 - **[Definite vs Indefinite Optimism](../concepts/definite-vs-indefinite.md)** — four quadrants of worldview; definite optimism is the rarest and most valuable
 - **[Secrets](../concepts/secrets-thiel.md)** — Thiel's epistemology: still-undiscovered truths are the source of great companies
-- **[The Founding Team](../concepts/founding-team-thiel.md)** — culture, complementarity, and the hidden dynamics of co-founder relationships
+- **Founding Team dynamics** — culture, complementarity, and the hidden dynamics of co-founder relationships (covered in *Zero to One* ch. 9)
 
 ## Connections
 
