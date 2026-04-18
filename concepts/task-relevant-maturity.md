@@ -61,3 +61,5 @@ Getting TRM calibration right is one of the highest-leverage things a manager ca
 - [One-on-Ones](one-on-ones.md) — the primary venue for TRM assessment and coaching
 - [Output vs Activity](output-vs-activity.md) — TRM exists in service of team output
 - [Psychological Safety](psychological-safety.md) — a prerequisite for honest TRM assessment
+- [Identity-Based Habits](../concepts/identity-based-habits.md) — TRM rises as identity shifts; Clear's model explains the mechanism: each competent action is a vote toward a new professional identity
+- [Psychological Safety and Dissent](../concepts/psychological-safety-and-dissent.md) — high-TRM employees need the safety to push back and form challenge networks; Grant's framework is TRM in action at the team level

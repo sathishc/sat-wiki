@@ -55,3 +55,5 @@ Delegation increases leverage but introduces risk. Grove's principle: you can de
 - [One-on-Ones](one-on-ones.md) — a primary high-leverage management tool
 - [Flow Economics](flow-economics.md) — Reinertsen's complementary framework on throughput and constraint removal
 - [Donald Reinertsen](../people/donald-reinertsen.md) — parallel thinking on throughput and bottlenecks
+- [Habit Stacking](../concepts/habit-stacking.md) — high-leverage activities become most powerful when habituated via stacking; the manager who has ritualised their leverage activities compounds them
+- [Givers Takers Matchers](../concepts/givers-takers-matchers.md) — Grant's research confirms: high-leverage managers tend to be otherish givers; their output multiplies *through* people, which is structurally what leverage means

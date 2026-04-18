@@ -54,3 +54,4 @@ Self-awareness is prerequisite to identity change: you can't reshape an identity
 - [Commitment and Consistency](../concepts/commitment-and-consistency.md) — Cialdini's principle is the psychological engine
 - [Rider and Elephant](../concepts/rider-and-elephant.md) — identity change is elephant-level change
 - [Self-Awareness](../concepts/self-awareness.md) — Goleman's foundation for observing and reshaping identity
+- [Rethinking and Intellectual Humility](../concepts/rethinking-and-intellectual-humility.md) — building a new identity requires Grant's intellectual humility: letting go of the old self-concept before the new one is fully formed

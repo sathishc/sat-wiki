@@ -77,3 +77,5 @@ If the answer is consistently "not much," the calendar needs to change — regar
 - [Donald Reinertsen](../people/donald-reinertsen.md) — parallel output-first thinking in product development
 - [Deep Work](deep-work.md) — Newport's argument for protecting high-output cognitive work
 - [Cal Newport](../people/cal-newport.md) — author of Deep Work
+- [Systems vs Goals](../concepts/systems-vs-goals.md) — Clear's parallel: output requires systems, not goal-chasing; both Grove and Clear argue the same thing at different scales
+- [Habit Loop](../concepts/habit-loop.md) — high-output activities become durable when habituated; the loop is the mechanisation of managerial output

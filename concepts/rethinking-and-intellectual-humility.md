@@ -123,3 +123,5 @@ Grant's four mindsets map onto Kahneman's dual-process framework. [System 1](../
 - [Ray Dalio](../people/ray-dalio.md)
 - [Westrum Cultural Typologies](../concepts/westrum-cultural-typologies.md) — generative culture = scientist mindset at org scale
 - [Ron Westrum](../people/ron-westrum.md)
+- [Strategic Inflection Points](../concepts/strategic-inflection-points.md) — Grove: detecting a 10x change requires abandoning your current mental map before the evidence is overwhelming; that is the scientist mindset in practice
+- [Identity-Based Habits](../concepts/identity-based-habits.md) — Clear: building new habits requires rethinking your identity first; the two frameworks are sequential — rethink who you are, then build the habits that reinforce it
