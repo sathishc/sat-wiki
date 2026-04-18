@@ -1,3 +1,8 @@
+---
+title: "Clayton Christensen — Innovator's Trilogy + How Will You Measure Your Life?"
+tags: [sources, christensen, disruption, innovation, strategy, management, careers]
+---
+
 # Source: Clayton Christensen — Innovator's Trilogy + HWYMYL
 
 Ingested: 2026-04-17

@@ -81,7 +81,7 @@ Naval's emphasis on building judgment through [mental models](./mental-models.md
 > "They seek diverse perspectives and work to disconfirm their beliefs."
 This is a System 2 instruction: actively seek evidence that your System 1 story is wrong.
 
-## Related Pages
+## Connections
 
 - [Daniel Kahneman](../people/daniel-kahneman.md)
 - [Cognitive Biases](./cognitive-biases-kahneman.md)

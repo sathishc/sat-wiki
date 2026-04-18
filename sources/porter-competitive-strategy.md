@@ -1,3 +1,8 @@
+---
+title: "Competitive Strategy & Competitive Advantage — Michael Porter (1980, 1985)"
+tags: [sources, porter, strategy, competitive-advantage, five-forces, generic-strategies, value-chain]
+---
+
 # Porter: Competitive Strategy & Competitive Advantage — Source Notes
 
 Immutable raw notes. Do not edit. See: people/michael-porter.md, concepts/porters-five-forces.md, concepts/competitive-advantage.md, concepts/generic-strategies.md, concepts/value-chain.md, concepts/industry-analysis.md.

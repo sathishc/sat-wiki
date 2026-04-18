@@ -37,7 +37,7 @@ His argument: the discomfort is the point. The alternative — polite silence, f
 
 The difference: Naval's framework is individual; Dalio's is institutional. Radical transparency is an organisational technology for surfacing truth at scale.
 
-## Related Pages
+## Connections
 
 - [Ray Dalio](../people/ray-dalio.md)
 - [Idea Meritocracy](./idea-meritocracy.md)

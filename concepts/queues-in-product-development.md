@@ -69,7 +69,7 @@ One of Reinertsen's most counter-cultural points: **idle capacity is the price o
 
 This directly echoes [Taleb](../people/nassim-taleb.md): over-optimised systems are fragile. Reserve capacity is [antifragility](./antifragility.md) at the operational level.
 
-## Related Pages
+## Connections
 
 - [Donald Reinertsen](../people/donald-reinertsen.md)
 - [WIP Limits](./wip-limits.md)

@@ -66,7 +66,7 @@ Strategic intent is the motivational engine; competing for the future is the str
 **[Kahneman](../people/daniel-kahneman.md)'s contrast:**
 Strategic intent is deliberately [System 2](./system-1-and-2.md) — it overrides System 1's comfort with the status quo and forces deliberate thinking about a future that is hard to visualise. The [planning fallacy](./planning-fallacy.md) is the enemy of strategic intent: detailed inside-view planning replaces ambitious outside-view foresight.
 
-## Related Pages
+## Connections
 
 - [C.K. Prahalad](../people/ck-prahalad.md)
 - [Core Competency](./core-competency.md)

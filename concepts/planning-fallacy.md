@@ -75,3 +75,12 @@ The tension: bias for action (move fast) can amplify planning fallacy (underesti
 - [Black Swan](./black-swan.md)
 - [Five-Step Process](./five-step-process.md)
 - [Batch Size](./batch-size.md)
+
+## Connections
+
+- **[Daniel Kahneman](../people/daniel-kahneman.md)** — proposed the planning fallacy with Amos Tversky (1979)
+- **[System 1 and System 2](./system-1-and-2.md)** — the inside view is System 1 narrative construction; outside view is System 2
+- **[Cognitive Biases (Kahneman)](./cognitive-biases-kahneman.md)** — planning fallacy as optimism bias in action
+- **[Black Swan](./black-swan.md)** — planning fallacy ignores fat tails; Black Swan thinking is the structural antidote
+- **[Cost of Delay](./cost-of-delay.md)** — quantifying delay costs forces an outside-view reckoning with time
+- **[Commitment and Consistency](./commitment-and-consistency.md)** — sunk cost escalation compounds the planning fallacy

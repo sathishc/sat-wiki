@@ -81,3 +81,7 @@ The goal of beachhead marketing: not revenue — **references**. Pragmatists buy
 - [Black Swan](../concepts/black-swan.md) — the chasm as an invisible discontinuity
 - [WIP Limits](../concepts/wip-limits.md) — beachhead focus as WIP constraint
 - [Amazon Growth Flywheel](../concepts/amazon-growth-flywheel.md) — narrow entry (books) then expansion
+
+## Sources
+
+- **[Crossing the Chasm](../sources/moore-crossing-the-chasm.md)** — Moore's foundational work on technology adoption, the chasm between early adopters and the mainstream, and the beachhead strategy

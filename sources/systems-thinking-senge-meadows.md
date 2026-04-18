@@ -1,3 +1,8 @@
+---
+title: "Systems Thinking — Peter Senge & Donella Meadows (The Fifth Discipline, 1990; Thinking in Systems, 2008)"
+tags: [sources, senge, meadows, systems-thinking, feedback-loops, complexity, organisations]
+---
+
 # Source: Systems Thinking — Peter Senge, Donella Meadows, and Others
 
 Ingested: 2026-04-17

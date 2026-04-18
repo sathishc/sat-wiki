@@ -69,3 +69,12 @@ Separate *liking the person* from *evaluating the offer*. Ask: would I accept th
 - [Radical Transparency](./radical-transparency.md) — institutional override of liking bias
 - [Flow (Optimal Experience)](./flow-optimal-experience.md)
 - [System 1 and System 2](./system-1-and-2.md)
+
+## Connections
+
+- **[Robert Cialdini](../people/robert-cialdini.md)** — identified liking as a core principle of influence
+- **[Principles of Influence](./principles-of-influence.md)** — parent framework
+- **[Unity](./unity.md)** — identity-level amplification of the liking effect
+- **[Radical Transparency](./radical-transparency.md)** — deliberate institutional override of liking bias in decisions
+- **[Cognitive Biases (Kahneman)](./cognitive-biases-kahneman.md)** — the halo effect is the cognitive mechanism behind liking
+- **[System 1 and System 2](./system-1-and-2.md)** — liking operates through fast, automatic System 1 evaluation

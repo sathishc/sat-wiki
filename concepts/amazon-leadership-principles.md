@@ -105,3 +105,13 @@ The answer: **you are required to voice disagreement, then required to commit**.
 - [Cost of Delay](./cost-of-delay.md)
 - [Specific Knowledge](./specific-knowledge.md)
 - [Jeff Bezos](../people/jeff-bezos.md)
+
+## Connections
+
+- **[Jeff Bezos](../people/jeff-bezos.md)** — author and primary exemplar of the LPs
+- **[Amazon Growth Flywheel](./amazon-growth-flywheel.md)** — the flywheel is the strategic complement to the LPs
+- **[Idea Meritocracy](./idea-meritocracy.md)** — Dalio's parallel cultural operating system
+- **[Radical Transparency](./radical-transparency.md)** — "Disagree and Commit" as transparency norm
+- **[Skin in the Game](./skin-in-the-game.md)** — LP "Ownership" embodies Taleb's principle
+- **[Cost of Delay](./cost-of-delay.md)** — LP "Customer Obsession" traces to Reinertsen's economic lens
+- **[Specific Knowledge](./specific-knowledge.md)** — "Invent and Simplify" requires Naval's authentic expertise

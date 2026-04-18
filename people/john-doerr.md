@@ -78,3 +78,7 @@ Grove's insight (which Doerr amplifies): **separate the what from the how**. The
 - [Donald G. Reinertsen](./donald-reinertsen.md)
 - [Cal Newport](./cal-newport.md)
 - [Clayton Christensen](./clayton-christensen.md)
+
+## Sources
+
+- **[Measure What Matters: OKRs](../sources/doerr-measure-what-matters.md)** — Doerr's account of OKRs, CFRs, and the goal-setting framework he introduced to Google and many other companies

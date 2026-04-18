@@ -42,7 +42,7 @@ Naval uses death awareness directly: "If you're not scared to die, you're not sc
 
 Rational Buddhism is the philosophical foundation underneath Naval's happiness framework. Desire causes suffering → impermanence means no outcome will satisfy permanently → presence is the only available peace.
 
-## Related
+## Connections
 
 - [Happiness](./happiness.md)
 - [Flow (Optimal Experience)](./flow-optimal-experience.md) — present-moment absorption in flow is the experiential analogue of Buddhist present-awareness; both point to engagement without grasping as the path to wellbeing

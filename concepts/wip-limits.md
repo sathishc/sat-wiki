@@ -49,7 +49,7 @@ WIP limits make the economic trade-off visible and unavoidable.
 
 WIP limits and [batch size](./batch-size.md) are complementary. Smaller batches mean items spend less time in each stage → WIP naturally stays lower → cycle time falls further. Combining both is multiplicative: smaller batches + WIP limits produces dramatically faster flow than either alone.
 
-## Related Pages
+## Connections
 
 - [Donald Reinertsen](../people/donald-reinertsen.md)
 - [Little's Law](./littles-law.md)

@@ -82,3 +82,7 @@ Cialdini describes *what triggers the click-whirr*; Kahneman describes *why the 
 - [Loss Aversion](../concepts/loss-aversion.md) — scarcity principle's psychological engine
 - [Cognitive Biases (Kahneman)](../concepts/cognitive-biases-kahneman.md)
 - [Skin in the Game](../concepts/skin-in-the-game.md)
+
+## Sources
+
+- **[Influence: The Psychology of Persuasion](../sources/cialdini-influence.md)** — Cialdini's foundational work on the seven principles of influence and the psychology of compliance

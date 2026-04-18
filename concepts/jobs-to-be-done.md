@@ -85,3 +85,12 @@ Disruptors succeed because incumbents define the job incorrectly — they optimi
 - [Bottom of the Pyramid](./bottom-of-the-pyramid.md) — non-consumers at the BoP have unserved jobs; JTBD reveals what they actually need
 - [Competing for the Future](./competing-for-the-future.md) — complementary lens: compete for tomorrow's jobs
 - [How Will You Measure Your Life?](./how-will-you-measure-your-life.md) — JTBD applied to relationships
+
+## Connections
+
+- **[Clayton Christensen](../people/clayton-christensen.md)** — developer of the Jobs to Be Done framework
+- **[Innovators Dilemma](./innovators-dilemma.md)** — disruptors win by doing a better job at a job incumbents ignore
+- **[Innovators Solution](./innovators-solution.md)** — JTBD is the core tool for finding non-consumption opportunities
+- **[Crossing the Chasm](./crossing-the-chasm.md)** — pragmatists hire products for specific whole-product jobs
+- **[Competing for the Future](./competing-for-the-future.md)** — competing for tomorrow requires identifying tomorrow's jobs
+- **[Bottom of the Pyramid](./bottom-of-the-pyramid.md)** — non-consumers at the BoP have unserved jobs that JTBD reveals

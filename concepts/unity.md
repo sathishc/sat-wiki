@@ -69,7 +69,7 @@ Bridgewater's explicit goal is to override in-group loyalty in decision-making. 
 
 Recognise when "we" is being manufactured. Shared identity is genuine and valuable in relationships; it is exploitable in commercial and political contexts. Ask: is this sense of "we" real and relevant to this decision, or is it being invoked to bypass independent evaluation?
 
-## Related Pages
+## Connections
 
 - [Principles of Influence](./principles-of-influence.md)
 - [Robert Cialdini](../people/robert-cialdini.md)

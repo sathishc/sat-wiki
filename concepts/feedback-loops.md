@@ -129,3 +129,12 @@ The utilisation trap is a dangerous reinforcing loop: high utilisation → long 
 - [Social Proof](./social-proof.md)
 - [Commitment and Consistency](./commitment-and-consistency.md)
 - [Planning Fallacy](./planning-fallacy.md)
+
+## Connections
+
+- **[Peter Senge](../people/peter-senge.md)** — feedback loops as the core of systems thinking and the learning organisation
+- **[Donella Meadows](../people/donella-meadows.md)** — formalised feedback loop types and their dynamics
+- **[Systems Thinking](./systems-thinking.md)** — feedback loops are the structural foundation of systems thinking
+- **[Amazon Growth Flywheel](./amazon-growth-flywheel.md)** — a deliberate reinforcing feedback loop designed for compounding growth
+- **[WIP Limits](./wip-limits.md)** — WIP limits create a balancing feedback loop that controls queue growth
+- **[Westrum Cultural Typologies](./westrum-cultural-typologies.md)** — culture quality determines the accuracy of organisational feedback loops

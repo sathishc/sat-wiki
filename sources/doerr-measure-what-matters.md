@@ -1,3 +1,8 @@
+---
+title: "Measure What Matters: OKRs — John Doerr (2018)"
+tags: [sources, doerr, okrs, goals, management, execution, alignment]
+---
+
 # Source: John Doerr — Measure What Matters: OKRs — The Simple Idea that Drives 10x Growth
 
 Ingested: 2026-04-17

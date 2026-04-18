@@ -82,3 +82,7 @@ The four philosophies (monastic, bimodal, rhythmic, journalistic) provide differ
 - [Naval Ravikant](./naval-ravikant.md)
 - [Donald G. Reinertsen](./donald-reinertsen.md)
 - [Daniel Kahneman](./daniel-kahneman.md)
+
+## Sources
+
+- **[Deep Work: Rules for Focused Success in a Distracted World](../sources/newport-deep-work.md)** — Newport's core work on focused practice and the value of depth in knowledge work

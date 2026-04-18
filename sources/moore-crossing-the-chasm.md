@@ -1,3 +1,8 @@
+---
+title: "Crossing the Chasm — Geoffrey Moore (1991)"
+tags: [sources, moore, technology-adoption, product, marketing, strategy, startups]
+---
+
 # Source: Geoffrey Moore — Crossing the Chasm
 
 Ingested: 2026-04-17

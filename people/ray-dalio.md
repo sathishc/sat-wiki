@@ -104,3 +104,7 @@ His definition of a good life: not wealth or status, but meaningful work (absorb
 - [Mental Models](../concepts/mental-models.md)
 - [Naval Ravikant](./naval-ravikant.md)
 - [Nassim Taleb](./nassim-taleb.md)
+
+## Sources
+
+- **[Principles: Life & Work](../sources/dalio-principles.md)** — Dalio's comprehensive framework on radical truth, radical transparency, the idea meritocracy, and his five-step process

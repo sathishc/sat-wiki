@@ -45,3 +45,12 @@ Short-term thinking destroys compounding. Switching strategies, burning relation
 - [Deep Work](./deep-work.md) — the practice that makes knowledge compound faster
 - [Amazon Growth Flywheel](./amazon-growth-flywheel.md) — compounding operationalised at corporate scale
 - [Flow Economics](./flow-economics.md) — economic value compounds when flow is sustained
+
+## Connections
+
+- **[Naval Ravikant](../people/naval-ravikant.md)** — compounding is central to his wealth-building framework
+- **[Specific Knowledge](./specific-knowledge.md)** — specific knowledge compounds over time into irreplaceable expertise
+- **[Leverage](./leverage.md)** — leverage multiplies the rate of compounding
+- **[Deep Work](./deep-work.md)** — deep work is the practice that makes knowledge compound faster
+- **[Amazon Growth Flywheel](./amazon-growth-flywheel.md)** — compounding operationalised at corporate scale via a reinforcing loop
+- **[Lindy Effect](./lindy-effect.md)** — long survival is evidence of compounding quality and durability

@@ -83,3 +83,7 @@ A note of personal relevance: Prahalad was from Coimbatore, Tamil Nadu. His fath
 - [Leverage](../concepts/leverage.md)
 - [Jeff Bezos](./jeff-bezos.md)
 - [Ray Dalio](./ray-dalio.md)
+
+## Sources
+
+- **[Competing for the Future](../sources/prahalad-competing-for-future.md)** — Prahalad & Hamel's strategic framework on core competencies, strategic intent, and competing for industry leadership

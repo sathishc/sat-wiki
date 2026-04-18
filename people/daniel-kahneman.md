@@ -97,3 +97,7 @@ We make decisions based on the remembering self (what we expect to remember), no
 - [Nassim Taleb](./nassim-taleb.md) — shared scepticism about forecasting
 - [Ray Dalio](./ray-dalio.md) — principles as System 2 backup
 - [Henry Hazlitt](./henry-hazlitt.md) — WYSIATI explains broken window persistence
+
+## Sources
+
+- **[Thinking, Fast and Slow](../sources/kahneman-thinking-fast-slow.md)** — Kahneman's comprehensive account of the two systems of thinking, cognitive biases, prospect theory, and the limits of human judgment

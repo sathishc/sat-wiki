@@ -1,3 +1,8 @@
+---
+title: "Economics in One Lesson — Henry Hazlitt (1946)"
+tags: [sources, hazlitt, economics, bastiat, seen-vs-unseen, unintended-consequences, policy]
+---
+
 # Economics in One Lesson — Source Notes
 
 **Book:** Economics in One Lesson — Henry Hazlitt (1946)

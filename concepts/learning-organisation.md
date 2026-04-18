@@ -144,3 +144,13 @@ Bridgewater is an attempt to build a learning organisation by institutional desi
 - [Cognitive Biases (Kahneman)](../concepts/cognitive-biases-kahneman.md)
 - [Ray Dalio](../people/ray-dalio.md)
 - [Daniel Kahneman](../people/daniel-kahneman.md)
+
+## Connections
+
+- **[Peter Senge](../people/peter-senge.md)** — originator of the learning organisation concept
+- **[Systems Thinking](./systems-thinking.md)** — the Fifth Discipline; the foundation all others rest on
+- **[Mental Models](./mental-models.md)** — the Second Discipline; surface and test implicit assumptions
+- **[Westrum Cultural Typologies](./westrum-cultural-typologies.md)** — a generative culture is operationally a learning organisation
+- **[Radical Transparency](./radical-transparency.md)** — Dalio's institutional implementation of learning organisation principles
+- **[Psychological Safety](./psychological-safety.md)** — prerequisite for team learning (Fourth Discipline)
+- **[Feedback Loops](./feedback-loops.md)** — fast, accurate feedback is the structural requirement for organisational learning

@@ -58,3 +58,12 @@ The barbell positions you to be exposed to **positive** Black Swans while insula
 - [Cognitive Biases (Kahneman)](./cognitive-biases-kahneman.md) — availability heuristic explains why Black Swans are underestimated
 - [Crossing the Chasm](./crossing-the-chasm.md) — the chasm as a structurally predictable Black Swan
 - [Social Proof](./social-proof.md) — herd behaviour amplifies Black Swan impact
+
+## Connections
+
+- **[Nassim Taleb](../people/nassim-taleb.md)** — originator of the Black Swan concept
+- **[Antifragility](./antifragility.md)** — the design response to Black Swan exposure
+- **[Barbell Strategy](./barbell-strategy.md)** — the practical hedge against tail risk
+- **[Cognitive Biases (Kahneman)](./cognitive-biases-kahneman.md)** — availability heuristic explains systematic Black Swan blindness
+- **[Planning Fallacy](./planning-fallacy.md)** — inside-view planning ignores the fat tail
+- **[Social Proof](./social-proof.md)** — herd behaviour creates correlated Black Swan exposure

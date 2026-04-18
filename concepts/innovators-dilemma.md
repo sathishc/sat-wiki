@@ -93,3 +93,12 @@ Both follow the same trajectory: enter at the neglected fringe, improve, move up
 - [Core Competency](./core-competency.md) — can become a core rigidity
 - [Jeff Bezos / Day 1](../people/jeff-bezos.md) — Day 2 as institutional decay; Day 1 as disruption defence
 - [Crossing the Chasm](./crossing-the-chasm.md) — complementary lens from the entrant's perspective
+
+## Connections
+
+- **[Clayton Christensen](../people/clayton-christensen.md)** — originator of disruptive innovation theory
+- **[Innovators Solution](./innovators-solution.md)** — the prescriptive companion to the Dilemma
+- **[Jobs to Be Done](./jobs-to-be-done.md)** — disruptors serve a job incumbents ignore
+- **[Crossing the Chasm](./crossing-the-chasm.md)** — the complementary adoption-curve view of the same dynamic
+- **[Competing for the Future](./competing-for-the-future.md)** — Prahalad's parallel insight on strategic blindness
+- **[Jeff Bezos](../people/jeff-bezos.md)** — Day 1 vs Day 2 as an institutional disruption defence

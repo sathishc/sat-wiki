@@ -152,3 +152,13 @@ Deep work skills compound. A year of 4 focused hours per day in a domain produce
 - [Naval Ravikant](../people/naval-ravikant.md)
 - [Donald G. Reinertsen](../people/donald-reinertsen.md)
 - [Daniel Kahneman](../people/daniel-kahneman.md)
+
+## Connections
+
+- **[Cal Newport](../people/cal-newport.md)** — originator of the deep work framework
+- **[Shallow Work](./shallow-work.md)** — the counterpart; busyness without depth
+- **[Flow (Optimal Experience)](./flow-optimal-experience.md)** — the psychological state that deep work produces
+- **[Specific Knowledge](./specific-knowledge.md)** — what sustained deep work accumulates over time
+- **[Mihaly Csikszentmihalyi](../people/mihaly-csikszentmihalyi.md)** — his flow research underpins the psychological case for deep work
+- **[WIP Limits](./wip-limits.md)** — system-level parallel: limit concurrent tasks to finish deeply
+- **[Compounding](./compounding.md)** — deep work skills compound into irreplaceable expertise

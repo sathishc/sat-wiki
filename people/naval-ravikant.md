@@ -125,3 +125,7 @@ Naval describes his philosophy as "rational Buddhism" — taking the empirically
 - [Compounding](../concepts/compounding.md)
 - [Happiness](../concepts/happiness.md)
 - [Rational Buddhism](../concepts/rational-buddhism.md)
+
+## Sources
+
+- **[The Almanack of Naval Ravikant](../sources/naval-almanack.md)** — Compiled wisdom from Naval's writings and talks on wealth creation, happiness, and philosophy

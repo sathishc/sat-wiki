@@ -64,3 +64,7 @@ Both Taleb and [Naval Ravikant](./naval-ravikant.md) value long-term thinking an
 - [Skin in the Game](../concepts/skin-in-the-game.md)
 - [Lindy Effect](../concepts/lindy-effect.md)
 - [Naval Ravikant](./naval-ravikant.md)
+
+## Sources
+
+- **[Antifragile: Things That Gain from Disorder](../sources/antifragile.md)** — Taleb's treatise on antifragility, robustness, and optionality in the face of volatility and uncertainty

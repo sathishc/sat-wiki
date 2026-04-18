@@ -81,3 +81,12 @@ Cost of Delay is the economic articulation of what [Taleb](../people/nassim-tale
 - [Compounding](./compounding.md)
 - [Shallow Work](./shallow-work.md) — the shallow work that delays high-CoD deep work
 - [Seen vs Unseen](./seen-vs-unseen.md) — CoD makes the unseen cost of delay visible
+
+## Connections
+
+- **[Donald Reinertsen](../people/donald-reinertsen.md)** — developed Cost of Delay as the core economic metric in product development
+- **[Queues in Product Development](./queues-in-product-development.md)** — CoD quantifies the cost of items sitting in queues
+- **[WIP Limits](./wip-limits.md)** — WIP limits force prioritisation by CoD
+- **[Seen vs Unseen](./seen-vs-unseen.md)** — CoD makes invisible delay costs visible and measurable
+- **[Shallow Work](./shallow-work.md)** — shallow work displaces high-CoD deep work
+- **[Compounding](./compounding.md)** — delayed value delivery loses compounding time

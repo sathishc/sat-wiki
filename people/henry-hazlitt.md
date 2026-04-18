@@ -90,3 +90,7 @@ The asymmetry is systematic: benefits are concentrated and immediate; costs are 
 - [Unintended Consequences](../concepts/unintended-consequences.md)
 - [Nassim Taleb](./nassim-taleb.md) — hidden costs, Black Swans
 - [Donald Reinertsen](./donald-reinertsen.md) — hidden queues parallel
+
+## Sources
+
+- **[Economics in One Lesson](../sources/hazlitt-economics-one-lesson.md)** — Hazlitt's distillation of Bastiat's seen vs. unseen principle applied across economic policy

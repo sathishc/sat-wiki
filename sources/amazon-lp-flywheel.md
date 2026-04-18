@@ -1,3 +1,8 @@
+---
+title: "Amazon Leadership Principles & Growth Flywheel — Source Notes"
+tags: [sources, amazon, strategy, leadership, flywheel, culture]
+---
+
 # Amazon Leadership Principles & Growth Flywheel — Source Notes
 
 **Sources fetched:** 2026-04-16

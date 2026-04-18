@@ -43,7 +43,7 @@ The smaller request is what you wanted all along. The large ask was setup to man
 
 Recognise when a "gift" is a compliance tool rather than genuine generosity. You can accept a gift and consciously reframe it: *"This is a sales tactic. I don't owe anything in return."* The obligation only operates when you accept its framing.
 
-## Related Pages
+## Connections
 
 - [Principles of Influence](./principles-of-influence.md)
 - [Robert Cialdini](../people/robert-cialdini.md)

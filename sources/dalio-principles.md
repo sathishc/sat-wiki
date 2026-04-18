@@ -1,3 +1,8 @@
+---
+title: "Principles: Life & Work — Ray Dalio (2017)"
+tags: [sources, dalio, principles, management, culture, decision-making, organisations]
+---
+
 # Principles: Life & Work — Source Notes
 
 **Book:** Principles: Life & Work — Ray Dalio (2017)

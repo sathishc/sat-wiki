@@ -188,7 +188,7 @@ Pathological cultures leverage [Authority](./authority-bias.md) to suppress info
 
 ---
 
-## Related Pages
+## Connections
 
 - [Ron Westrum](../people/ron-westrum.md)
 - [Psychological Safety](./psychological-safety.md)

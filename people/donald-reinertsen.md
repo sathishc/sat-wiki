@@ -81,3 +81,7 @@ Reinertsen insists every product development decision is an economic decision �
 - [Batch Size](../concepts/batch-size.md)
 - [Ray Dalio](./ray-dalio.md) — systems thinking parallel
 - [Nassim Taleb](./nassim-taleb.md) — variability and antifragility
+
+## Sources
+
+- **[The Principles of Product Development Flow](../sources/reinertsen-flow.md)** — Reinertsen's foundational work on queues, WIP, cost of delay, batch size, and flow economics in product development

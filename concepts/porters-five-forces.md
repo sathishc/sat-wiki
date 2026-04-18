@@ -145,3 +145,12 @@ Even within an industry with weak structural forces, exceptional execution, cult
 - [Crossing the Chasm](./crossing-the-chasm.md) — how new entrants traverse the adoption curve to challenge incumbents
 - [Competing for the Future](./competing-for-the-future.md) — shaping industry structure rather than accepting it
 - [Michael Porter](../people/michael-porter.md)
+
+## Connections
+
+- **[Michael Porter](../people/michael-porter.md)** — introduced the Five Forces framework in *Competitive Strategy* (1980)
+- **[Competitive Advantage](./competitive-advantage.md)** — what firms do with their understanding of industry forces
+- **[Generic Strategies](./generic-strategies.md)** — the three positioning responses to competitive forces
+- **[Innovators Dilemma](./innovators-dilemma.md)** — Christensen's mechanism for how disruption defeats Five Forces positions
+- **[Competing for the Future](./competing-for-the-future.md)** — Prahalad's counter: shape the industry rather than position within it
+- **[Crossing the Chasm](./crossing-the-chasm.md)** — how new entrants traverse adoption to challenge incumbents

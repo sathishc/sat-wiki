@@ -70,3 +70,12 @@ Dalio warns against **confusing rationalising with rational**. A mental model ca
 - [Compounding](./compounding.md)
 - [Antifragility](./antifragility.md)
 - [Specific Knowledge](./specific-knowledge.md)
+
+## Connections
+
+- **[Ray Dalio](../people/ray-dalio.md)** — building explicit principles as codified mental models
+- **[Naval Ravikant](../people/naval-ravikant.md)** — building a latticework of mental models as judgment infrastructure
+- **[System 1 and System 2](./system-1-and-2.md)** — mental models are System 2 tools for overriding System 1 defaults
+- **[Seen vs Unseen](./seen-vs-unseen.md)** — the seen/unseen framework is itself a foundational mental model
+- **[Specific Knowledge](./specific-knowledge.md)** — deep domain knowledge provides the best mental models in that domain
+- **[Leverage Points](./leverage-points.md)** — knowing where to intervene requires accurate mental models of the system

@@ -113,3 +113,7 @@ On your deathbed, you won't count revenue or accolades. The metric is the *indiv
 - [Ray Dalio](./ray-dalio.md) — parallel RPM/culture frameworks
 - [Daniel Kahneman](./daniel-kahneman.md) — marginal cost trap as WYSIATI
 - [Jeff Bezos](./jeff-bezos.md) — Day 1 vs Day 2; customer obsession as disruption defence
+
+## Sources
+
+- **[Clayton Christensen — Innovator's Trilogy + How Will You Measure Your Life?](../sources/christensen-innovators-trilogy.md)** — Source notes covering The Innovator's Dilemma, The Innovator's Solution, and How Will You Measure Your Life?

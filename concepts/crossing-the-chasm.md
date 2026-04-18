@@ -241,3 +241,12 @@ The [Amazon Growth Flywheel](./amazon-growth-flywheel.md) is what you build *aft
 - [Black Swan](./black-swan.md) — the chasm as structurally predictable but cognitively ignored
 - [Cognitive Biases (Kahneman)](./cognitive-biases-kahneman.md) — WYSIATI and availability heuristic explain why founders miss the chasm
 - [Amazon Growth Flywheel](./amazon-growth-flywheel.md) — beachhead (books) then flywheel expansion
+
+## Connections
+
+- **[Geoffrey Moore](../people/geoffrey-moore.md)** — originator of the chasm model
+- **[Innovators Dilemma](./innovators-dilemma.md)** — Christensen's view of the same adoption gap from the incumbent's side
+- **[Jobs to Be Done](./jobs-to-be-done.md)** — visionaries and pragmatists hire for fundamentally different jobs
+- **[Social Proof](./social-proof.md)** — pragmatist herd behaviour is Social Proof in action
+- **[WIP Limits](./wip-limits.md)** — beachhead focus is strategic WIP limiting
+- **[Strategic Intent](./strategic-intent.md)** — the ambitious destination that motivates crossing the chasm

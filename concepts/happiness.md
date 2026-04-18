@@ -45,3 +45,11 @@ Envy is uniquely toxic because it offers no upside — you feel bad without gain
 - [Naval Ravikant](../people/naval-ravikant.md)
 - [Flow (Optimal Experience)](./flow-optimal-experience.md) — Csikszentmihalyi's eudaimonic complement
 - [How Will You Measure Your Life?](./how-will-you-measure-your-life.md) — Christensen's relationship-based meaning as parallel framework
+
+## Connections
+
+- **[Naval Ravikant](../people/naval-ravikant.md)** — happiness as subtracting desire, not adding achievements
+- **[Rational Buddhism](./rational-buddhism.md)** — the philosophical foundation for Naval's happiness framework
+- **[Flow (Optimal Experience)](./flow-optimal-experience.md)** — Csikszentmihalyi's eudaimonic complement: happiness through engagement
+- **[Specific Knowledge](./specific-knowledge.md)** — doing what you love builds specific knowledge; intrinsic motivation aligns with happiness
+- **[Mihaly Csikszentmihalyi](../people/mihaly-csikszentmihalyi.md)** — autotelic experience as the experiential basis of happiness

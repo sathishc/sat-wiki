@@ -180,3 +180,13 @@ Csikszentmihalyi's eudaimonic happiness (flourishing through engagement) contras
 - [Daniel Kahneman](../people/daniel-kahneman.md) — experiencing vs. remembering self; the Work Paradox
 - [Naval Ravikant](../people/naval-ravikant.md)
 - [Donald G. Reinertsen](../people/donald-reinertsen.md)
+
+## Connections
+
+- **[Mihaly Csikszentmihalyi](../people/mihaly-csikszentmihalyi.md)** — originator of flow theory
+- **[Deep Work](./deep-work.md)** — Newport's professional application of flow conditions
+- **[Happiness](./happiness.md)** — Naval's parallel framework; eudaimonic wellbeing vs. subtractive desire
+- **[Specific Knowledge](./specific-knowledge.md)** — autotelic curiosity-driven work naturally produces flow
+- **[Rational Buddhism](./rational-buddhism.md)** — present-moment awareness as the philosophical complement to flow
+- **[Shallow Work](./shallow-work.md)** — fragmented attention is the enemy of flow
+- **[System 1 and System 2](./system-1-and-2.md)** — expert flow is skilled System 1 operating with deep System 2 foundations

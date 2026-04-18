@@ -132,7 +132,7 @@ The power of naming archetypes: once you can identify the structure, you can pre
 
 ---
 
-## Related Pages
+## Connections
 
 - [Systems Thinking](./systems-thinking.md)
 - [Feedback Loops](./feedback-loops.md)

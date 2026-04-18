@@ -191,3 +191,13 @@ This is why organisations keep implementing the same solutions to recurring prob
 - [Batch Size](./batch-size.md) — Level 9 (delay reduction)
 - [WIP Limits](./wip-limits.md) — Level 8 (balancing loop strength)
 - [Unintended Consequences](./unintended-consequences.md)
+
+## Connections
+
+- **[Donella Meadows](../people/donella-meadows.md)** — originator of the leverage points hierarchy
+- **[Systems Thinking](./systems-thinking.md)** — leverage points are the action framework within systems thinking
+- **[Feedback Loops](./feedback-loops.md)** — the structural elements that leverage points manipulate
+- **[Radical Transparency](./radical-transparency.md)** — a Level 6 intervention: changing information flow structure
+- **[OKRs](./okrs.md)** — Level 5/3: changing rules and clarifying system goals
+- **[Mental Models](./mental-models.md)** — Level 2: paradigm change as the highest leverage intervention
+- **[Westrum Cultural Typologies](./westrum-cultural-typologies.md)** — cultural change is a paradigm-level (Level 2) leverage point

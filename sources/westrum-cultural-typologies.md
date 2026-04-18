@@ -1,3 +1,8 @@
+---
+title: "Westrum Cultural Typologies — Ron Westrum (2004, A Typology of Organisational Cultures)"
+tags: [sources, westrum, culture, organisations, safety, devops, information-flow, psychological-safety]
+---
+
 # Source: Ron Westrum — Cultural Typologies and Organisational Safety
 
 Ingested: 2026-04-17

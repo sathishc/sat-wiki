@@ -1,3 +1,8 @@
+---
+title: "Influence: The Psychology of Persuasion — Robert Cialdini (1984)"
+tags: [sources, cialdini, persuasion, psychology, compliance, behaviour, influence]
+---
+
 # Source: Robert Cialdini — Influence: The Psychology of Persuasion
 
 Ingested: 2026-04-17

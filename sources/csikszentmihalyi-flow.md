@@ -1,3 +1,8 @@
+---
+title: "Flow: The Psychology of Optimal Experience — Mihaly Csikszentmihalyi (1990)"
+tags: [sources, csikszentmihalyi, flow, psychology, happiness, optimal-experience, motivation]
+---
+
 # Source: Mihaly Csikszentmihalyi — Flow: The Psychology of Optimal Experience
 
 Ingested: 2026-04-17

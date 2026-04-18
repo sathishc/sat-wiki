@@ -142,3 +142,13 @@ The [Innovator's Dilemma](./innovators-dilemma.md) is the mechanism of competiti
 - [Barbell Strategy](./barbell-strategy.md) — Taleb's complementary thinking on asymmetric position-building
 - [Specific Knowledge](./specific-knowledge.md) — Naval's individual-level parallel to competitive advantage
 - [Michael Porter](../people/michael-porter.md)
+
+## Connections
+
+- **[Michael Porter](../people/michael-porter.md)** — originator of competitive advantage as a rigorous concept
+- **[Porter's Five Forces](./porters-five-forces.md)** — the industry-level context within which advantage is pursued
+- **[Generic Strategies](./generic-strategies.md)** — the three strategic postures for achieving advantage
+- **[Value Chain](./value-chain.md)** — the tool for locating where advantage is created inside the firm
+- **[Core Competency](./core-competency.md)** — Prahalad's inside-out view of sustainable advantage
+- **[Innovators Dilemma](./innovators-dilemma.md)** — how disruption defeats established competitive positions
+- **[Specific Knowledge](./specific-knowledge.md)** — Naval's individual-level parallel to firm competitive advantage

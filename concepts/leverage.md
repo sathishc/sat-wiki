@@ -55,3 +55,11 @@ Without leverage, specific knowledge earns you a high salary. With leverage, it 
 - [Compounding](./compounding.md)
 - [Amazon Growth Flywheel](./amazon-growth-flywheel.md) — the flywheel is leverage at the company level: each turn compounds into the next
 - [Naval Ravikant](../people/naval-ravikant.md)
+
+## Connections
+
+- **[Naval Ravikant](../people/naval-ravikant.md)** — leverage is central to his wealth-building framework
+- **[Specific Knowledge](./specific-knowledge.md)** — specific knowledge is the foundation that leverage multiplies
+- **[Compounding](./compounding.md)** — leverage accelerates the rate of compounding
+- **[Amazon Growth Flywheel](./amazon-growth-flywheel.md)** — the flywheel is leverage at corporate scale: each element multiplies the next
+- **[Deep Work](./deep-work.md)** — deep work builds the knowledge and skills that make code and media leverage possible

@@ -54,3 +54,12 @@ Naval argues that genuine expertise — built through curiosity and direct exper
 - [Specific Knowledge](./specific-knowledge.md) — Naval's related concept
 - [Social Proof](./social-proof.md) — the default group dynamic idea meritocracy is designed to counter
 - [Authority Bias](./authority-bias.md) — the heuristic that believability weighting replaces
+
+## Connections
+
+- **[Ray Dalio](../people/ray-dalio.md)** — originator; the idea meritocracy is Bridgewater's core operating principle
+- **[Radical Transparency](./radical-transparency.md)** — radical transparency is the information infrastructure the idea meritocracy requires
+- **[Authority Bias](./authority-bias.md)** — believability weighting is a direct institutional antidote to authority deference
+- **[Social Proof](./social-proof.md)** — the idea meritocracy is designed to resist herd thinking in decisions
+- **[Specific Knowledge](./specific-knowledge.md)** — Naval's parallel: authentic expertise is the input believability rewards
+- **[Westrum Cultural Typologies](./westrum-cultural-typologies.md)** — idea meritocracy is a generative culture mechanism

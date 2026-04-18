@@ -87,7 +87,7 @@ Moonshot OKRs — where a score of 0.7 is acceptable — only function in psycho
 
 ---
 
-## Related Pages
+## Connections
 
 - [Westrum Cultural Typologies](./westrum-cultural-typologies.md)
 - [Ron Westrum](../people/ron-westrum.md)

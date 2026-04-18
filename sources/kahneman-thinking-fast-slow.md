@@ -1,3 +1,8 @@
+---
+title: "Thinking, Fast and Slow — Daniel Kahneman (2011)"
+tags: [sources, kahneman, psychology, cognitive-bias, decision-making, behavioural-economics]
+---
+
 # Thinking, Fast and Slow — Source Notes
 
 **Book:** Thinking, Fast and Slow — Daniel Kahneman (2011)

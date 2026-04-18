@@ -69,7 +69,7 @@ Amazon's distinction between Type 1 (irreversible) and Type 2 (reversible) decis
 
 This is the Hazlitt/Bastiat question generalised as a thinking discipline.
 
-## Related Pages
+## Connections
 
 - [Seen vs Unseen](./seen-vs-unseen.md)
 - [Broken Window Fallacy](./broken-window-fallacy.md)

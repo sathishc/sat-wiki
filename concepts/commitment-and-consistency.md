@@ -65,3 +65,12 @@ Ask: *"If I hadn't already committed, would I make this decision today?"* Separa
 - [Planning Fallacy](./planning-fallacy.md) — sunk cost and escalation of commitment
 - [Cognitive Biases (Kahneman)](./cognitive-biases-kahneman.md)
 - [Radical Transparency](./radical-transparency.md) — institutional norm for updating beliefs
+
+## Connections
+
+- **[Robert Cialdini](../people/robert-cialdini.md)** — identified commitment and consistency as a core influence principle
+- **[Principles of Influence](./principles-of-influence.md)** — parent framework
+- **[Planning Fallacy](./planning-fallacy.md)** — sunk cost escalation compounds the planning fallacy
+- **[Radical Transparency](./radical-transparency.md)** — cultural norm for updating beliefs despite prior commitment
+- **[Cognitive Biases (Kahneman)](./cognitive-biases-kahneman.md)** — consistency bias as a System 1 default
+- **[OKRs](./okrs.md)** — public OKRs deliberately use commitment as a motivation mechanism

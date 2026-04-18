@@ -63,7 +63,7 @@ Idea Meritocracy is an institutional design to resist social proof — specifica
 
 Ask: are these people genuinely similar to me in the relevant ways? Is this proof real or manufactured? What do I think on the merits, independent of what others are doing? In emergencies: actively resist diffusion of responsibility — assume no one else is acting.
 
-## Related Pages
+## Connections
 
 - [Principles of Influence](./principles-of-influence.md)
 - [Robert Cialdini](../people/robert-cialdini.md)

@@ -83,7 +83,7 @@ Shallow work is the **seen** output — visible, immediate, measurable. Deep wor
 
 ---
 
-## Related Pages
+## Connections
 
 - [Deep Work](./deep-work.md)
 - [Cal Newport](../people/cal-newport.md)

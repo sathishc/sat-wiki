@@ -1,3 +1,8 @@
+---
+title: "Antifragile: Things That Gain from Disorder — Nassim Nicholas Taleb (2012)"
+tags: [sources, taleb, antifragility, risk, complexity, systems]
+---
+
 # Antifragile — Source Notes
 
 **Book:** Antifragile: Things That Gain from Disorder — Nassim Nicholas Taleb (2012)

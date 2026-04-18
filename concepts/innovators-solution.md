@@ -131,3 +131,12 @@ This connects to [Dalio's](../people/ray-dalio.md) principle of updating beliefs
 - [Competing for the Future](./competing-for-the-future.md) — Prahalad's framing of the same strategic challenge
 - [Ray Dalio](../people/ray-dalio.md) — RPM parallels with Dalio's culture/process frameworks
 - [Crossing the Chasm](./crossing-the-chasm.md) — non-consumption targeting and the beachhead as complementary tactics
+
+## Connections
+
+- **[Clayton Christensen](../people/clayton-christensen.md)** — author; The Innovator's Solution is the prescriptive companion to The Innovator's Dilemma
+- **[Innovators Dilemma](./innovators-dilemma.md)** — the problem this book solves
+- **[Jobs to Be Done](./jobs-to-be-done.md)** — targeting non-consumers requires understanding the job they need done
+- **[Crossing the Chasm](./crossing-the-chasm.md)** — non-consumption targeting and beachhead strategy as complementary tactics
+- **[Core Competency](./core-competency.md)** — Prahalad's parallel: existing competencies can become rigidities
+- **[C.K. Prahalad](../people/ck-prahalad.md)** — competing for the future requires the same strategic imagination

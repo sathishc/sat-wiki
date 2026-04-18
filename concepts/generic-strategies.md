@@ -156,3 +156,12 @@ This is not a violation of generic strategies — it is a perfect illustration o
 - [Core Competency](./core-competency.md) — the internal capabilities that can sustain a differentiation advantage
 - [Competing for the Future](./competing-for-the-future.md) — when the right move is to reshape the strategic landscape rather than choose a position within it
 - [Michael Porter](../people/michael-porter.md)
+
+## Connections
+
+- **[Michael Porter](../people/michael-porter.md)** — originator of the generic strategies framework
+- **[Competitive Advantage](./competitive-advantage.md)** — the underlying concept generic strategies are designed to achieve
+- **[Porter's Five Forces](./porters-five-forces.md)** — the industry context that determines which strategy is viable
+- **[Value Chain](./value-chain.md)** — the internal activity system that must be aligned with the chosen strategy
+- **[Innovators Dilemma](./innovators-dilemma.md)** — disruptors enter as cost focus players and expand up-market
+- **[Core Competency](./core-competency.md)** — Prahalad's inside-out view of what sustains a differentiation advantage

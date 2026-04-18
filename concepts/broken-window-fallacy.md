@@ -68,3 +68,12 @@ The broken window fallacy is a specific instance of the [Seen vs Unseen](./seen-
 - [Mental Models](./mental-models.md)
 - [Cost of Delay](./cost-of-delay.md) — making the unseen visible in product dev
 - [Cognitive Biases (Kahneman)](./cognitive-biases-kahneman.md) — WYSIATI explains why the fallacy persists
+
+## Connections
+
+- **[Henry Hazlitt](../people/henry-hazlitt.md)** — extended Bastiat's insight across all of economics
+- **[Frédéric Bastiat](../people/frederic-bastiat.md)** — original author of the broken window parable
+- **[Seen vs Unseen](./seen-vs-unseen.md)** — the master framework of which this is the canonical example
+- **[Unintended Consequences](./unintended-consequences.md)** — same root failure: ignoring second-order effects
+- **[Cognitive Biases (Kahneman)](./cognitive-biases-kahneman.md)** — WYSIATI explains why the fallacy persists across centuries
+- **[Cost of Delay](./cost-of-delay.md)** — making invisible queue costs visible; same corrective move

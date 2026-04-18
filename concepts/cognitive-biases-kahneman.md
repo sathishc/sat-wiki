@@ -138,3 +138,13 @@ The intervention (praise/punishment) gets credit/blame for what was actually sta
 - [Social Proof](./social-proof.md) — heuristic rooted in availability and WYSIATI
 - [Authority Bias](./authority-bias.md) — halo effect as the mechanism
 - [Scarcity](./scarcity.md) — scarcity heuristic driven by availability and loss aversion
+
+## Connections
+
+- **[Daniel Kahneman](../people/daniel-kahneman.md)** — primary researcher behind the documented biases
+- **[System 1 and System 2](./system-1-and-2.md)** — the cognitive architecture that produces these biases
+- **[Loss Aversion](./loss-aversion.md)** — one of the most consequential individual biases
+- **[Planning Fallacy](./planning-fallacy.md)** — inside-view optimism bias in action
+- **[Principles of Influence](./principles-of-influence.md)** — Cialdini's exploitation manual for these biases
+- **[Seen vs Unseen](./seen-vs-unseen.md)** — WYSIATI explains the persistence of economic fallacies
+- **[Mental Models](./mental-models.md)** — good mental models are the System 2 antidote to cognitive biases

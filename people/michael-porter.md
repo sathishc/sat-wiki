@@ -118,3 +118,7 @@ Porter's enduring contribution is methodological: he showed that strategy can be
 - [C.K. Prahalad](./ck-prahalad.md) — the inside-out counterpart
 - [Clayton Christensen](./clayton-christensen.md) — disruption as the mechanism that defeats positioning
 - [Jeff Bezos](./jeff-bezos.md) — Amazon as a Porter case study
+
+## Sources
+
+- **[Competitive Strategy & Competitive Advantage](../sources/porter-competitive-strategy.md)** — Source notes covering Porter's Five Forces, Generic Strategies, and Value Chain frameworks

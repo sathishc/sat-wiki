@@ -152,7 +152,7 @@ Christensen's RPM framework is a leverage point analysis: changing **values** (L
 
 ---
 
-## Related Pages
+## Connections
 
 - [Peter Senge](../people/peter-senge.md)
 - [Donella Meadows](../people/donella-meadows.md)

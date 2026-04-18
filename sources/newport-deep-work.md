@@ -1,3 +1,8 @@
+---
+title: "Deep Work: Rules for Focused Success in a Distracted World — Cal Newport (2016)"
+tags: [sources, newport, deep-work, focus, productivity, attention, shallow-work]
+---
+
 # Source: Cal Newport — Deep Work: Rules for Focused Success in a Distracted World
 
 Ingested: 2026-04-17

@@ -77,3 +77,7 @@ See [Systems Thinking](../concepts/systems-thinking.md) and [Learning Organisati
 - [Queues in Product Development](../concepts/queues-in-product-development.md) — Reinertsen's applied systems dynamics
 - [Innovators Dilemma](../concepts/innovators-dilemma.md) — "Success to the Successful" archetype
 - [Cognitive Biases (Kahneman)](../concepts/cognitive-biases-kahneman.md)
+
+## Sources
+
+- **[Systems Thinking — Senge & Meadows](../sources/systems-thinking-senge-meadows.md)** — Source notes covering Senge's *The Fifth Discipline* (1990) and his five disciplines of the learning organisation

@@ -103,3 +103,7 @@ Implication: structuring any activity — work, learning, exercise — with clea
 - [Naval Ravikant](./naval-ravikant.md)
 - [Clayton Christensen](./clayton-christensen.md)
 - [Donald G. Reinertsen](./donald-reinertsen.md)
+
+## Sources
+
+- **[Flow: The Psychology of Optimal Experience](../sources/csikszentmihalyi-flow.md)** — Csikszentmihalyi's foundational work on flow states, optimal experience, and autotelic activity

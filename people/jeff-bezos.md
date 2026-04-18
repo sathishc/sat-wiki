@@ -87,3 +87,7 @@ Only after this is agreed does engineering begin. It's [Reinertsen](../people/do
 - [Skin in the Game](../concepts/skin-in-the-game.md)
 - [Ray Dalio](./ray-dalio.md)
 - [Donald Reinertsen](./donald-reinertsen.md)
+
+## Sources
+
+- **[Amazon Leadership Principles & Growth Flywheel](../sources/amazon-lp-flywheel.md)** — Source notes on Amazon's 16 leadership principles, the growth flywheel, and Day 1 philosophy

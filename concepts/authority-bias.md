@@ -71,3 +71,12 @@ Ask:
 - [Idea Meritocracy](./idea-meritocracy.md) — track record weighting over title
 - [Cognitive Biases (Kahneman)](./cognitive-biases-kahneman.md) — halo effect
 - [System 1 and System 2](./system-1-and-2.md)
+
+## Connections
+
+- **[Robert Cialdini](../people/robert-cialdini.md)** — identified authority as one of the seven principles of influence
+- **[Principles of Influence](./principles-of-influence.md)** — parent framework
+- **[Idea Meritocracy](./idea-meritocracy.md)** — Dalio's system replaces authority deference with track-record weighting
+- **[Skin in the Game](./skin-in-the-game.md)** — accountability filters out authority without genuine stakes
+- **[Cognitive Biases (Kahneman)](./cognitive-biases-kahneman.md)** — the halo effect amplifies authority bias
+- **[System 1 and System 2](./system-1-and-2.md)** — authority triggers automatic System 1 compliance

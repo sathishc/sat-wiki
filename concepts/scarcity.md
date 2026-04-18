@@ -62,7 +62,7 @@ Ask: do I actually want this, independent of the scarcity signal? If the scarcit
 
 Slow down. Scarcity manipulates decision timelines. Insisting on time to think neutralises most scarcity tactics.
 
-## Related Pages
+## Connections
 
 - [Principles of Influence](./principles-of-influence.md)
 - [Robert Cialdini](../people/robert-cialdini.md)

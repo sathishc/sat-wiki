@@ -188,3 +188,12 @@ Public OKRs are deliberate **commitment devices** — they leverage [Commitment 
 - [Donald G. Reinertsen](../people/donald-reinertsen.md)
 - [Cal Newport](../people/cal-newport.md)
 - [Clayton Christensen](../people/clayton-christensen.md)
+
+## Connections
+
+- **[John Doerr](../people/john-doerr.md)** — introduced OKRs to Google and popularised the framework
+- **[Five-Step Process](./five-step-process.md)** — Dalio's parallel framework for goal-setting and diagnosis
+- **[Psychological Safety](./psychological-safety.md)** — moonshot OKRs only work in psychologically safe environments
+- **[Strategic Intent](./strategic-intent.md)** — Prahalad's long-horizon Objective is the macro version of an OKR
+- **[Westrum Cultural Typologies](./westrum-cultural-typologies.md)** — generative culture is required for honest OKR tracking
+- **[Commitment and Consistency](./commitment-and-consistency.md)** — public OKRs function as commitment devices

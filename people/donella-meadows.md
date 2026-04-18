@@ -63,3 +63,7 @@ Her second major contribution: making **feedback loop analysis** accessible and 
 - [Queues in Product Development](../concepts/queues-in-product-development.md)
 - [Planning Fallacy](../concepts/planning-fallacy.md)
 - [Unintended Consequences](../concepts/unintended-consequences.md)
+
+## Sources
+
+- **[Systems Thinking — Senge & Meadows](../sources/systems-thinking-senge-meadows.md)** — Source notes covering Meadows' *Thinking in Systems* (2008) and her leverage points framework

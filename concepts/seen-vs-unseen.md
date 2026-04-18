@@ -83,7 +83,7 @@ The seen vs unseen framework extends far beyond economics:
 
 **The most important costs and consequences are almost never the ones being measured.** Good thinking in any domain requires asking: what is not being seen here? What is the counterfactual? Who is bearing a cost that has no advocate?
 
-## Related Pages
+## Connections
 
 - [Henry Hazlitt](../people/henry-hazlitt.md)
 - [Frédéric Bastiat](../people/frederic-bastiat.md)

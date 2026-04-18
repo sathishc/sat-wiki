@@ -263,7 +263,7 @@ Bridgewater's design is, in part, an institutional response to the compliance fa
 
 ---
 
-## Related Pages
+## Connections
 
 - [Robert Cialdini](../people/robert-cialdini.md)
 - **Individual principle pages:**

@@ -47,3 +47,7 @@ Bastiat conceptualised opportunity cost before it had a formal name in economics
 - [Seen vs Unseen](../concepts/seen-vs-unseen.md)
 - [Unintended Consequences](../concepts/unintended-consequences.md)
 - [Nassim Taleb](./nassim-taleb.md)
+
+## Sources
+
+- **[Economics in One Lesson](../sources/hazlitt-economics-one-lesson.md)** — Hazlitt's work builds directly on Bastiat's seen vs. unseen framework; the canonical source for Bastiat's broken window fallacy

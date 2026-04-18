@@ -37,7 +37,7 @@ In a world of commoditised labour (anything trainable can be automated or offsho
 - A writer who developed a unique voice through years of honest observation
 - A trader whose intuition was built through thousands of hours of pattern recognition
 
-## Related
+## Connections
 
 - [Leverage](./leverage.md) — specific knowledge is the foundation; leverage is how you scale it
 - [Compounding](./compounding.md)

@@ -81,3 +81,7 @@ See [Westrum Cultural Typologies](../concepts/westrum-cultural-typologies.md) fo
 - [Ray Dalio](./ray-dalio.md)
 - [Donella Meadows](./donella-meadows.md)
 - [Donald G. Reinertsen](./donald-reinertsen.md)
+
+## Sources
+
+- **[Westrum Cultural Typologies](../sources/westrum-cultural-typologies.md)** — Source notes on Westrum's typology of pathological, bureaucratic, and generative organisational cultures
