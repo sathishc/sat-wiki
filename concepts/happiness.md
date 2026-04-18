@@ -53,3 +53,7 @@ Envy is uniquely toxic because it offers no upside — you feel bad without gain
 - **[Flow (Optimal Experience)](./flow-optimal-experience.md)** — Csikszentmihalyi's eudaimonic complement: happiness through engagement
 - **[Specific Knowledge](./specific-knowledge.md)** — doing what you love builds specific knowledge; intrinsic motivation aligns with happiness
 - **[Mihaly Csikszentmihalyi](../people/mihaly-csikszentmihalyi.md)** — autotelic experience as the experiential basis of happiness
+- **[Jonathan Haidt](../people/jonathan-haidt.md)** — additive counterpart: H = S + C + V; conditions and voluntary activities matter
+- **[Happiness Hypothesis](./happiness-hypothesis.md)** — Haidt's ten great ideas; "happiness comes from between"
+- **[Happiness Formula (H = S + C + V)](./happiness-formula-haidt.md)** — the three levers of wellbeing; Naval's approach is a set-point and voluntary-activity intervention
+- **[Vital Engagement](./vital-engagement.md)** — flow + meaning; the highest-return V activity

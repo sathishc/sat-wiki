@@ -21,7 +21,7 @@ Most personal development advice pulls in two directions:
 
 **Intrinsic track:** Optimise for genuine capability, meaning, and internal satisfaction. Build specific knowledge, do deep work, pursue autotelic engagement.
 
-The wiki's content consistently supports the intrinsic track — not as a moral claim, but as an empirical one. [Christensen](../people/clayton-christensen.md) (Herzberg), [Csikszentmihalyi](../people/mihaly-csikszentmihalyi.md) (flow), and [Naval](../people/naval-ravikant.md) (specific knowledge) all arrive at the same place from different directions: extrinsic optimisation produces a hollow career; intrinsic engagement produces compounding capability and genuine satisfaction.
+The wiki's content consistently supports the intrinsic track — not as a moral claim, but as an empirical one. [Christensen](../people/clayton-christensen.md) (Herzberg), [Csikszentmihalyi](../people/mihaly-csikszentmihalyi.md) (flow), [Naval](../people/naval-ravikant.md) (specific knowledge), and [Haidt](../people/jonathan-haidt.md) (vital engagement + H = S + C + V) all arrive at the same place from different directions: extrinsic optimisation produces a hollow career; intrinsic engagement produces compounding capability and genuine satisfaction.
 
 ---
 
@@ -45,6 +45,16 @@ The wiki's content consistently supports the intrinsic track — not as a moral 
 | [How Will You Measure Your Life?](../concepts/how-will-you-measure-your-life.md) | Christensen | Apply the same rigour to life decisions as to strategy; choose your metric before the deathbed |
 | [Happiness](../concepts/happiness.md) | Naval | Subtractive: remove desire and suffering; stop outsourcing peace to outcomes |
 | [Rational Buddhism](../concepts/rational-buddhism.md) | Naval | Impermanence and non-attachment as secular tools, not religion |
+| [Vital Engagement](../concepts/vital-engagement.md) | Haidt / Csikszentmihalyi | Flow + meaning = the highest-quality engagement; the engine of a flourishing life |
+
+### Wellbeing & Happiness
+
+| Framework | Author | Core insight |
+|---|---|---|
+| [Happiness Hypothesis](../concepts/happiness-hypothesis.md) | Haidt | Ten ancient ideas about happiness, confirmed by modern psychology |
+| [Happiness Formula (H = S + C + V)](../concepts/happiness-formula-haidt.md) | Haidt | Set point + conditions + voluntary activities; we mispredict which levers matter |
+| [Rider and Elephant](../concepts/rider-and-elephant.md) | Haidt | Conscious reason narrates what emotion/intuition decides; change requires moving the elephant |
+| [Adversarial Growth](../concepts/adversarial-growth.md) | Haidt | Some struggle is necessary; post-traumatic growth is real; optimal challenge builds resilience |
 
 ### Emotional Intelligence & Interpersonal Skill
 
