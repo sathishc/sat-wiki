@@ -4,6 +4,10 @@ Append-only chronological record of all wiki operations.
 
 ---
 
+## [2026-04-19] ingest | David Allen — Getting Things Done (GTD)
+
+Ingested David Allen's *Getting Things Done*. Created: sources/allen-getting-things-done.md (comprehensive notes covering the five-step workflow, mind like water, trusted system, natural planning model, weekly review, two-minute rule, contexts, projects vs next actions, someday/maybe list, horizons of focus, and relationships to other wiki concepts). Created concepts: gtd-workflow.md, trusted-system.md, mind-like-water.md, weekly-review.md, two-minute-rule.md, contexts-gtd.md, natural-planning-model.md. Created people/david-allen.md. Updated: index.md (new People entry, new "Productivity & Workflow (Allen / GTD)" concepts section, new source entry). Cross-links added to deep-work.md, habit-loop.md, flow-optimal-experience.md, systems-vs-goals.md, output-vs-activity.md, five-step-process.md, okrs.md, strategic-intent.md. 10 new files.
+
 ## [2026-04-16] setup | Wiki initialised
 
 Wiki scaffolded via git-wiki skill. Empty structure created: pages/, people/, concepts/, sources/, index.md, log.md.

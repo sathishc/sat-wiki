@@ -42,6 +42,7 @@ Navigational synthesis pages — each one a curated map of a domain, not a refer
 - [Donella Meadows](people/donella-meadows.md) — Environmental scientist; *Thinking in Systems*; stocks, flows, feedback loops, leverage points. Tags: `systems-thinking`, `feedback`, `leverage`, `complexity`
 - [Michael Porter](people/michael-porter.md) — Harvard professor; *Competitive Strategy*, *Competitive Advantage*; Five Forces, value chain, generic strategies, industry analysis. Tags: `strategy`, `competitive-advantage`, `five-forces`, `value-chain`, `harvard`
 - [Ron Westrum](people/ron-westrum.md) — Sociologist; cultural typologies (pathological, bureaucratic, generative); culture as information processing architecture. Tags: `culture`, `organisations`, `safety`, `information-flow`, `devops`
+- [David Allen](people/david-allen.md) — Productivity consultant; *Getting Things Done* (GTD); trusted system, mind like water, natural planning. Tags: `productivity`, `gtd`, `workflow`, `author`
 
 ---
 
@@ -87,6 +88,15 @@ Navigational synthesis pages — each one a curated map of a domain, not a refer
 ### Productivity & Focus (Newport)
 - [Deep Work](concepts/deep-work.md) — Distraction-free concentration on cognitively demanding tasks; four philosophies; four rules; busyness vs. productivity. Tags: `newport`, `productivity`, `focus`, `attention`, `flow`, `craft`
 - [Shallow Work](concepts/shallow-work.md) — Non-cognitively demanding logistical tasks that expand to fill time; the busyness trap; how to drain them. Tags: `newport`, `productivity`, `distraction`, `email`, `meetings`
+
+### Productivity & Workflow (Allen / GTD)
+- [GTD Workflow](concepts/gtd-workflow.md) — Getting Things Done: capture → clarify → organise → reflect → engage. The complete workflow methodology. Tags: `allen`, `gtd`, `productivity`, `workflow`
+- [Trusted System](concepts/trusted-system.md) — The external repository for all open loops; properties that make a system trustworthy. Tags: `allen`, `gtd`, `productivity`, `workflow`
+- [Mind Like Water](concepts/mind-like-water.md) — Calm, fully-present mental state achieved when all open loops are externalised. Tags: `allen`, `gtd`, `calm`, `focus`
+- [Natural Planning Model](concepts/natural-planning-model.md) — Five-phase planning: purpose → vision → brainstorm → organise → next actions. Tags: `allen`, `gtd`, `planning`, `strategy`
+- [Weekly Review](concepts/weekly-review.md) — GTD's keystone habit; get clear, get current, get creative. Tags: `allen`, `gtd`, `habits`, `reflection`
+- [Two-Minute Rule](concepts/two-minute-rule.md) — If a clarified action takes <2 minutes, do it now. Tags: `allen`, `gtd`, `habits`, `productivity`
+- [Contexts (GTD)](concepts/contexts-gtd.md) — Organising next actions by tool/location/energy; batch similar tasks. Tags: `allen`, `gtd`, `workflow`, `organisation`
 
 ### Goals & Execution (Doerr / Grove)
 - [OKRs (Objectives and Key Results)](concepts/okrs.md) — Focus, alignment, tracking, and stretch goals; committed vs moonshot OKRs; CFRs; OKRs vs KPIs. Tags: `doerr`, `grove`, `management`, `goals`, `execution`, `alignment`, `measurement`
@@ -160,3 +170,4 @@ Navigational synthesis pages — each one a curated map of a domain, not a refer
 - [sources/doerr-measure-what-matters.md](sources/doerr-measure-what-matters.md) — Measure What Matters by John Doerr. Ingested 2026-04-17.
 - [sources/systems-thinking-senge-meadows.md](sources/systems-thinking-senge-meadows.md) — Systems Thinking: The Fifth Discipline (Senge) and Thinking in Systems (Meadows). Ingested 2026-04-17.
 - [sources/westrum-cultural-typologies.md](sources/westrum-cultural-typologies.md) — Westrum Cultural Typologies; Accelerate (Forsgren, Humble, Kim). Ingested 2026-04-17.
+- [sources/allen-getting-things-done.md](sources/allen-getting-things-done.md) — Getting Things Done by David Allen. Ingested 2026-04-19.
