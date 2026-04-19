@@ -43,6 +43,7 @@ Navigational synthesis pages — each one a curated map of a domain, not a refer
 - [Michael Porter](people/michael-porter.md) — Harvard professor; *Competitive Strategy*, *Competitive Advantage*; Five Forces, value chain, generic strategies, industry analysis. Tags: `strategy`, `competitive-advantage`, `five-forces`, `value-chain`, `harvard`
 - [Ron Westrum](people/ron-westrum.md) — Sociologist; cultural typologies (pathological, bureaucratic, generative); culture as information processing architecture. Tags: `culture`, `organisations`, `safety`, `information-flow`, `devops`
 - [David Allen](people/david-allen.md) — Productivity consultant; *Getting Things Done* (GTD); trusted system, mind like water, natural planning. Tags: `productivity`, `gtd`, `workflow`, `author`
+- [Viktor Frankl](people/viktor-frankl.md) — Psychiatrist and Holocaust survivor; founder of logotherapy; *Man's Search for Meaning*; will to meaning, existential vacuum, tragic triad. Tags: `logotherapy`, `meaning`, `existentialism`, `psychology`, `holocaust`
 
 ---
 
@@ -84,6 +85,13 @@ Navigational synthesis pages — each one a curated map of a domain, not a refer
 - [Happiness](concepts/happiness.md) — Naval's subtractive framework. Tags: `happiness`, `philosophy`
 - [Rational Buddhism](concepts/rational-buddhism.md) — Secular Buddhist insight: impermanence, non-attachment. Tags: `philosophy`, `buddhism`
 - [Flow (Optimal Experience)](concepts/flow-optimal-experience.md) — Csikszentmihalyi's state of complete absorption; challenge/skill balance; autotelic self; psychic entropy. Tags: `csikszentmihalyi`, `flow`, `psychology`, `happiness`, `motivation`, `performance`
+
+### Meaning & Existentialism (Frankl)
+- [Will to Meaning](concepts/will-to-meaning.md) — The primary human motivation: the search for meaning and purpose, not pleasure or power. Tags: `frankl`, `logotherapy`, `meaning`, `existentialism`
+- [Logotherapy](concepts/logotherapy.md) — The "Third Viennese School" of psychotherapy; focus on meaning as therapeutic intervention; paradoxical intention and dereflection. Tags: `frankl`, `therapy`, `meaning`, `existentialism`
+- [Existential Vacuum](concepts/existential-vacuum.md) — Widespread modern phenomenon: pervasive meaninglessness and emptiness; the frustrated will to meaning. Tags: `frankl`, `meaning`, `emptiness`, `depression`
+- [Tragic Triad](concepts/tragic-triad.md) — Pain, guilt, and death as unavoidable aspects of existence; each can be transformed through attitude. Tags: `frankl`, `suffering`, `existentialism`, `meaning`
+- [Paradoxical Intention](concepts/paradoxical-intention.md) — Logotherapy technique: intending the feared symptom to break anticipatory anxiety cycles. Tags: `frankl`, `therapy`, `anxiety`, `technique`
 
 ### Productivity & Focus (Newport)
 - [Deep Work](concepts/deep-work.md) — Distraction-free concentration on cognitively demanding tasks; four philosophies; four rules; busyness vs. productivity. Tags: `newport`, `productivity`, `focus`, `attention`, `flow`, `craft`
@@ -171,3 +179,4 @@ Navigational synthesis pages — each one a curated map of a domain, not a refer
 - [sources/systems-thinking-senge-meadows.md](sources/systems-thinking-senge-meadows.md) — Systems Thinking: The Fifth Discipline (Senge) and Thinking in Systems (Meadows). Ingested 2026-04-17.
 - [sources/westrum-cultural-typologies.md](sources/westrum-cultural-typologies.md) — Westrum Cultural Typologies; Accelerate (Forsgren, Humble, Kim). Ingested 2026-04-17.
 - [sources/allen-getting-things-done.md](sources/allen-getting-things-done.md) — Getting Things Done by David Allen. Ingested 2026-04-19.
+- [sources/frankl-mans-search-for-meaning.md](sources/frankl-mans-search-for-meaning.md) — Man's Search for Meaning by Viktor Frankl. Ingested 2026-04-19.

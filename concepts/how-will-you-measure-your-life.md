@@ -153,3 +153,6 @@ Choose your metric before you're on your deathbed trying to retrofit one.
 - [Commitment and Consistency](./commitment-and-consistency.md) — the 100% rule as a commitment device
 - [Daniel Kahneman](../people/daniel-kahneman.md) — WYSIATI explains why marginal cost thinking is so persistent
 - [Ray Dalio](../people/ray-dalio.md) — pre-committed principles as 100% rule implementation
+- [Will to Meaning](./will-to-meaning.md) — Frankl's meaning framework converges with Christensen: relationships + meaningful work + something larger than self
+- [Logotherapy](./logotherapy.md) — Frankl's existential approach; similar questions: what does life ask of you? (vs. Christensen: how will you measure?)
+- [Existential Vacuum](./existential-vacuum.md) — modern malaise Christensen observed in HBS classmates; success without meaning

@@ -60,6 +60,9 @@ Haidt is unusual among psychologists in taking ancient philosophy seriously as a
 - **[Intrinsic Motivation](../concepts/intrinsic-motivation.md)** — Deci/Ryan's autonomy/competence/relatedness maps to Haidt's engagement + meaning conditions
 - **[Self-Awareness](../concepts/self-awareness.md)** — Haidt's hypocrisy insight: we are systematically blind to our own faults; self-awareness is the corrective
 - **[How Will You Measure Your Life?](../concepts/how-will-you-measure-your-life.md)** — Christensen's meaning framework (relationships + work + purpose) converges with Haidt idea 10
+- **[Will to Meaning](../concepts/will-to-meaning.md)** — Frankl's will to meaning as primary motivation aligns with Haidt's idea 10 (meaning and purpose)
+- **[Tragic Triad](../concepts/tragic-triad.md)** — Frankl on adversity: pain, guilt, death transformed through attitude (relates to Haidt idea 7: adversity and growth)
+- **[Logotherapy](../concepts/logotherapy.md)** — Frankl's therapeutic approach to meaning; complements Haidt's eudaimonic framework
 
 ## Source
 

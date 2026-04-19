@@ -426,6 +426,10 @@ Modified: all concept, people, and pages/*.md files — added layout: default + 
 
 To activate: Settings → Pages → Source: GitHub Actions. First push triggers deploy.
 
+## [2026-04-19] ingest | Viktor Frankl — Man's Search for Meaning
+
+Ingested Viktor Frankl's *Man's Search for Meaning* (1946/1959). Created: sources/frankl-mans-search-for-meaning.md (comprehensive notes covering the two-part structure, will to meaning as primary motivation, logotherapy theory, three paths to meaning, existential vacuum, tragic triad, paradoxical intention and dereflection techniques, concentration camp observations, and relationships to other wiki concepts). Created concepts: will-to-meaning.md, logotherapy.md, existential-vacuum.md, tragic-triad.md, paradoxical-intention.md. Created people/viktor-frankl.md. Updated: index.md (new People entry, new "Meaning & Existentialism (Frankl)" concepts section, new source entry). Cross-links added to happiness.md, happiness-hypothesis.md, rational-buddhism.md, flow-optimal-experience.md, deep-work.md, systems-vs-goals.md, vital-engagement.md, identity-based-habits.md, how-will-you-measure-your-life.md. 7 new files, 9 existing files updated with cross-links.
+
 ## [2026-04-18] ingest | Michael Porter — Competitive Strategy & Competitive Advantage
 
 Ingested Porter's two foundational strategy books. Created: sources/porter-competitive-strategy.md, people/michael-porter.md, concepts/porters-five-forces.md, concepts/competitive-advantage.md, concepts/generic-strategies.md, concepts/value-chain.md, concepts/industry-analysis.md. Updated: people/ck-prahalad.md (added Porter vs Prahalad outside-in/inside-out contrast), pages/strategy-frameworks.md (new Industry-Level Analysis section, Porter vs Prahalad debate, extended 9-step sequence), index.md (People + Strategy + Sources). Lint: 0 broken links.

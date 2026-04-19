@@ -45,6 +45,8 @@ Envy is uniquely toxic because it offers no upside — you feel bad without gain
 - [Naval Ravikant](../people/naval-ravikant.md)
 - [Flow (Optimal Experience)](./flow-optimal-experience.md) — Csikszentmihalyi's eudaimonic complement
 - [How Will You Measure Your Life?](./how-will-you-measure-your-life.md) — Christensen's relationship-based meaning as parallel framework
+- [Will to Meaning](./will-to-meaning.md) — Frankl's view: happiness as byproduct of meaningful living, not direct pursuit
+- [Existential Vacuum](./existential-vacuum.md) — the emptiness Naval's framework addresses through desire reduction
 
 ## Connections
 

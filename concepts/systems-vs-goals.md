@@ -45,3 +45,4 @@ Deep work isn't a goal; it's a system — a set of rituals, time blocks, and env
 - [Deep Work](../concepts/deep-work.md) — systematic approach to knowledge work depth
 - [Compounding](../concepts/compounding.md) — systems compound; goals don't
 - [Givers Takers Matchers](../concepts/givers-takers-matchers.md) — Grant's insight maps directly: givers build relationship *systems* (networks, trust, reciprocity); takers chase outcome *goals* (transactions). Givers win long-term for the same reason systems beat goals
+- [Will to Meaning](../concepts/will-to-meaning.md) — Frankl: meaning comes from the stance and journey (system), not just achieving endpoints (goals)

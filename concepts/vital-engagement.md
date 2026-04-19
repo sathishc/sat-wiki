@@ -56,6 +56,8 @@ Haidt's view: hedonic happiness is nice but adapts quickly. Eudaimonic wellbeing
 - **[Intrinsic Motivation](../concepts/intrinsic-motivation.md)** — Deci/Ryan; autonomy + competence + relatedness → the psychological conditions of vital engagement
 - **[How Will You Measure Your Life?](../concepts/how-will-you-measure-your-life.md)** — Christensen; Herzberg's motivators as the professional expression of vital engagement
 - **[Specific Knowledge](../concepts/specific-knowledge.md)** — Naval; knowledge built from genuine curiosity = vital engagement in the building
+- **[Will to Meaning](../concepts/will-to-meaning.md)** — Frankl's creation and experience paths to meaning; vital engagement fulfills the will to meaning
+- **[Logotherapy](../concepts/logotherapy.md)** — Frankl's framework: vital engagement as antidote to existential vacuum
 
 ## Source
 

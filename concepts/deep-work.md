@@ -162,3 +162,5 @@ Deep work skills compound. A year of 4 focused hours per day in a domain produce
 - **[Mihaly Csikszentmihalyi](../people/mihaly-csikszentmihalyi.md)** — his flow research underpins the psychological case for deep work
 - **[WIP Limits](./wip-limits.md)** — system-level parallel: limit concurrent tasks to finish deeply
 - **[Compounding](./compounding.md)** — deep work skills compound into irreplaceable expertise
+- **[Will to Meaning](./will-to-meaning.md)** — Frankl's creation path to meaning; deep work as meaningful contribution through craft
+- **[Logotherapy](./logotherapy.md)** — meaningful work addresses existential vacuum; deep work enables meaningful contribution

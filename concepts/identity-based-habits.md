@@ -55,3 +55,5 @@ Self-awareness is prerequisite to identity change: you can't reshape an identity
 - [Rider and Elephant](../concepts/rider-and-elephant.md) — identity change is elephant-level change
 - [Self-Awareness](../concepts/self-awareness.md) — Goleman's foundation for observing and reshaping identity
 - [Rethinking and Intellectual Humility](../concepts/rethinking-and-intellectual-humility.md) — building a new identity requires Grant's intellectual humility: letting go of the old self-concept before the new one is fully formed
+- [Will to Meaning](../concepts/will-to-meaning.md) — Frankl: who we choose to become in adversity shapes identity; identity-based habits as daily votes for that identity
+- [Tragic Triad](../concepts/tragic-triad.md) — choosing attitude toward unavoidable suffering shapes identity; each response a vote for who you are becoming

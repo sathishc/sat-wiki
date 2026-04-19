@@ -47,3 +47,5 @@ Rational Buddhism is the philosophical foundation underneath Naval's happiness f
 - [Happiness](./happiness.md)
 - [Flow (Optimal Experience)](./flow-optimal-experience.md) — present-moment absorption in flow is the experiential analogue of Buddhist present-awareness; both point to engagement without grasping as the path to wellbeing
 - [Naval Ravikant](../people/naval-ravikant.md)
+- [Will to Meaning](./will-to-meaning.md) — Frankl's self-transcendence parallels Buddhist non-attachment; both emphasize meaning beyond self
+- [Tragic Triad](./tragic-triad.md) — Frankl on accepting suffering, impermanence (death), and choosing response; aligns with Buddhist acceptance of dukkha and anicca
