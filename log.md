@@ -8,25 +8,26 @@ Append-only chronological record of all wiki operations.
 
 Comprehensive ingest of queuing theory (mathematical foundations) and queue-based systems architecture (practical distributed systems patterns). This is a rich, cross-cutting topic connecting Reinertsen's product development work, distributed systems infrastructure, and systems thinking.
 
-**Source created**: sources/queuing-theory-systems.md — extensive notes covering theory (Kendall notation, Little's Law, M/M/1/M/M/c/M/G/1 models, Erlang-B/C, queueing networks, utilization trap math) and practice (message queues, backpressure, delivery semantics, load leveling, DLQ, priority queues, circuit breaker).
+**Source created**: sources/queueing-theory.md — extensive notes covering theory (Kendall notation, Little's Law, M/M/1, M/M/c, M/G/1 models, Erlang-B/C formulas, Jackson networks, utilization trap, Pollaczek-Khinchin, Burke's theorem) and practice (message queue technologies, backpressure mechanisms, delivery semantics, load leveling patterns, DLQ patterns, monitoring, auto-scaling, circuit breakers).
 
-**Concept pages created** (10 new):
-- concepts/kendall-notation.md — A/S/c classification; M/M/1, M/M/c, M/G/1 models
-- concepts/erlang-formulas.md — Erlang-B and Erlang-C for capacity planning
-- concepts/queueing-networks.md — Jackson networks, bottleneck analysis, tandem queues
-- concepts/message-queues.md — RabbitMQ, Kafka, SQS, Redis; when/how to use
-- concepts/backpressure.md — Flow control mechanisms; bounded queues; balancing loops
-- concepts/delivery-semantics.md — At-most-once, at-least-once, exactly-once; idempotency
-- concepts/queue-based-load-leveling.md — Smoothing spiky traffic; decouple demand/capacity
-- concepts/dead-letter-queues.md — Poison message handling; no head-of-line blocking
-- concepts/priority-queues.md — SLA differentiation; starvation mitigation
-- concepts/circuit-breaker-pattern.md — Fail fast; cascading failure prevention; queue relation
+**Concept pages created** (12 new):
+- concepts/kendall-notation.md — A/S/c classification; M/M/1, M/M/c, M/G/1 models; model selection guide
+- concepts/mm1-queue.md — Single-server queue; utilization trap formulas; nonlinear degradation at high ρ
+- concepts/mmc-queue.md — Multi-server queue; Erlang C; capacity planning; diminishing returns
+- concepts/queue-metrics.md — Throughput, latency, utilization, queue depth, percentiles; monitoring patterns
+- concepts/erlang-formulas.md — Erlang-B (blocking) and Erlang-C (queueing); offered load; capacity planning
+- concepts/jackson-networks.md — Multi-stage queueing networks; product-form solution; bottleneck analysis
+- concepts/message-queues.md — RabbitMQ, Kafka, SQS, Redis Streams, Pub/Sub; pull vs push; ordering
+- concepts/backpressure.md — Flow control; bounded queues; reactive streams; circuit breaker integration
+- concepts/dead-letter-queues.md — Poison message handling; retry patterns; DLQ monitoring as cultural signal
+- concepts/delivery-semantics.md — At-most-once, at-least-once, exactly-once; idempotency design patterns
+- concepts/queue-monitoring.md — Observability, alerting thresholds, auto-scaling, dashboards, SRE practices
+- (Note: backpressure.md, dead-letter-queues.md, delivery-semantics.md already existed; content updated/replaced)
 
-**Concept pages updated** (2):
-- concepts/littles-law.md — Added universality explanation, derivation-free proof, applications across domains (product dev, message queues, call centers, microservices), relation to M/M/1 and Erlang-C, connection to backpressure
-- concepts/queues-in-product-development.md — Added M/M/1 math table (utilization vs. wait time), why real product dev is worse than M/M/1 (M/G/1 with high variance), 70-80% utilization target, connection to message queues and distributed systems patterns
+**Concept pages updated** (1):
+- concepts/littles-law.md — Added queueing-theory.md source; enhanced cross-references to M/M/1, M/M/c, Jackson networks, queue-metrics
 
-**Index updated**: New "Queuing Theory & Systems Architecture" section with 10 concept pages; updated Product Development Flow section with cross-references; added source entry.
+**Index updated**: Expanded "Queuing Theory & Systems Architecture" section from 10 to 11 concepts; added mm1-queue.md, mmc-queue.md, queue-metrics.md, queue-monitoring.md; updated source entry to queueing-theory.md.
 
 **Cross-framework connections built**:
 - **Reinertsen**: Queuing theory IS the mathematical foundation of Reinertsen's 8 principles. Utilization trap = M/M/1 nonlinearity. WIP limits = backpressure. Cost of Delay = economic value of W in Little's Law. Batch size = service time variance in M/G/1.

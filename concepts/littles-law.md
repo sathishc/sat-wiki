@@ -3,7 +3,7 @@ title: Little's Law
 tags: [reinertsen, queueing-theory, flow, cycle-time, wip, mathematics]
 created: 2026-04-16
 updated: 2026-04-22
-sources: [sources/reinertsen-flow.md, sources/queuing-theory-systems.md]
+sources: [sources/reinertsen-flow.md, sources/queuing-theory-systems.md, sources/queueing-theory.md]
 layout: default
 parent: Concepts
 ---
@@ -104,16 +104,21 @@ Little's Law has a compounding-like quality: small reductions in WIP produce cyc
 
 ## Relation to Other Queueing Models
 
-**[M/M/1 Queue](kendall-notation.md#mm1)**:
+**[M/M/1 Queue](mm1-queue.md)**:
 - Gives specific formulas for L, W given λ and μ (service rate)
 - Little's Law relates them: L = λW
 - M/M/1 tells you WHAT L and W are; Little's Law relates them
+
+**[M/M/c Queue](mmc-queue.md)**:
+- Multiple servers, shared queue
+- Little's Law still applies: L = λW
+- Use [Erlang C](erlang-formulas.md) to compute W, then L = λW
 
 **[Erlang-C](erlang-formulas.md)**:
 - Gives W (wait time) for M/M/c queues
 - Apply Little's Law: L = λW to get queue depth
 
-**[Queueing Networks](queueing-networks.md)**:
+**[Jackson Networks](jackson-networks.md)**:
 - Little's Law applies to EACH queue AND to the network as a whole
 - End-to-end L = sum of per-queue L
 - End-to-end W = sum (serial) or max (parallel) of per-queue W
@@ -133,8 +138,11 @@ This is why [bounded queues](message-queues.md) implement backpressure — they 
 
 ### Queueing Theory Foundations
 - [Kendall Notation](kendall-notation.md) — M/M/1, M/M/c models where Little's Law applies
+- [M/M/1 Queue](mm1-queue.md) — simplest queue model, validates Little's Law
+- [M/M/c Queue](mmc-queue.md) — multi-server queues, Little's Law still holds
 - [Erlang Formulas](erlang-formulas.md) — capacity planning with Little's Law
-- [Queueing Networks](queueing-networks.md) — Little's Law in multi-stage systems
+- [Jackson Networks](jackson-networks.md) — Little's Law in multi-stage systems
+- [Queue Metrics](queue-metrics.md) — monitoring L, λ, W in practice
 
 ### Systems Architecture
 - [Message Queues](message-queues.md) — L = queue depth, monitoring with Little's Law

@@ -1,273 +1,336 @@
 ---
 title: Message Queues
-tags: [distributed-systems, architecture, async, messaging, middleware]
+tags: [distributed-systems, messaging, architecture, async, infrastructure]
 created: 2026-04-22
 updated: 2026-04-22
-sources: [sources/queuing-theory-systems.md]
+sources: [sources/queueing-theory.md]
+layout: default
+parent: Concepts
 ---
 
 # Message Queues
 
-Asynchronous communication middleware for distributed systems. Senders publish messages to a queue; receivers consume messages later. The foundational pattern for decoupled, scalable, resilient system architecture.
+**Message queues** are durable, distributed implementations of the theoretical queues described in queueing theory ([M/M/1](mm1-queue.md), [M/M/c](mmc-queue.md)). They decouple producers from consumers, enable asynchronous processing, and provide the infrastructure for scalable, resilient systems.
 
-## Core Guarantees
+## Core Concept
 
-**Decoupling**: Sender and receiver don't need to be online simultaneously. Fire-and-forget from sender perspective.
+**Producers** write messages to a queue. **Consumers** read and process messages from the queue. The queue acts as a buffer, decoupling the two: producers don't block waiting for consumers, and consumers process at their own rate.
 
-**Durability**: Messages persist (usually to disk) until consumed. Survives receiver crashes, network partitions, restarts.
+**Benefits**:
+1. **Asynchronous processing**: Producer returns immediately; consumer processes later
+2. **Load leveling**: Queue absorbs traffic spikes; consumer processes at sustainable rate
+3. **Decoupling**: Producer and consumer evolve independently
+4. **Reliability**: Durable queues survive crashes; messages are not lost
+5. **Scalability**: Add more consumers to increase throughput
 
-**Ordering**: Varies by implementation
-- Strong ordering (RabbitMQ, Kafka per-partition, SQS FIFO)
-- Weak ordering (SQS standard, unordered pub-sub)
-- Per-key ordering (Kafka partitions)
-
-**Delivery semantics**: See [Delivery Semantics](delivery-semantics.md)
-- At-most-once (fire-and-forget, possible loss)
-- At-least-once (retries, possible duplicates)
-- Exactly-once (expensive, rare)
-
-## Common Implementations
+## Popular Technologies
 
 ### RabbitMQ
-**Model**: AMQP-based, exchanges + bindings + queues
-
-**Strengths**:
-- Rich routing (topic, fanout, headers exchanges)
-- Strong ordering per queue
-- Reliable (persistent messages, publisher confirms)
-- Management UI, monitoring
-
-**Weaknesses**:
-- Medium throughput (~10k-50k msg/sec per node)
-- Scales vertically more than horizontally
-
-**Use when**: Need complex routing, strong ordering, transactional guarantees.
+- **Protocol**: AMQP (Advanced Message Queuing Protocol)
+- **Features**: Flexible routing (exchanges, bindings), transactional, acknowledgments, priority queues
+- **Use case**: Complex routing, reliable delivery, mature ecosystem
+- **Durability**: Persists messages to disk
+- **Model**: [M/M/c](mmc-queue.md) with c = number of consumers
 
 ### Apache Kafka
-**Model**: Distributed commit log, partitioned topics, consumer groups
+- **Architecture**: Distributed commit log (not a traditional queue)
+- **Features**: High throughput, replay capability, partitioning, consumer groups
+- **Use case**: Event streaming, real-time data pipelines, audit logs
+- **Durability**: Append-only log, configurable retention
+- **Model**: Partitions enable parallelism; each partition is a log, not a queue
 
-**Strengths**:
-- High throughput (100k-1M+ msg/sec)
-- Replayable (consumers can rewind to any offset)
-- Horizontal scale (add brokers, add partitions)
-- Per-partition ordering (strong within partition, weak across)
-- Long retention (days/weeks/forever)
-
-**Weaknesses**:
-- Operational complexity (Zookeeper/KRaft, partition management)
-- Not a queue (it's a log; all consumers see all messages unless consumer groups)
-- Per-message overhead higher than simple queues
-
-**Use when**: High throughput, event sourcing, stream processing, need replay.
-
-### AWS SQS
-**Model**: Managed queue service, standard (unordered, at-least-once) or FIFO
-
-**Strengths**:
-- Fully managed (no ops)
-- Scales automatically (no capacity planning)
-- Integrates with AWS ecosystem (Lambda, SNS, CloudWatch)
-
-**Weaknesses**:
-- Weak ordering (standard queues are unordered)
-- FIFO queues limited throughput (300 tps, or 3000 with batching)
-- Message size limit (256 KB)
-- Higher per-message cost than self-hosted
-
-**Use when**: AWS shop, want managed service, don't need strong ordering or high throughput.
+### Amazon SQS (Simple Queue Service)
+- **Type**: Managed queue service (fully managed by AWS)
+- **Features**: At-least-once delivery, visibility timeout, dead-letter queues, FIFO queues
+- **Use case**: Decoupling microservices, reliable task queues, serverless architectures
+- **Durability**: Distributed, replicated storage
+- **Model**: [M/M/c](mmc-queue.md) with auto-scaling consumers (Lambda integration)
 
 ### Redis Streams
-**Model**: In-memory log, consumer groups, pub-sub
-
-**Strengths**:
-- Fast (in-memory, microsecond latency)
-- Consumer groups (Kafka-like semantics)
-- Simple ops (Redis is easy to run)
-
-**Weaknesses**:
-- Less durable (in-memory; persistence is async)
-- Limited retention (memory-bound)
-- Single-threaded per shard (scales via sharding)
-
-**Use when**: Need low latency, can tolerate rare message loss, moderate throughput.
+- **Architecture**: In-memory data structure (append-only log)
+- **Features**: Fast, consumer groups, message persistence (AOF/RDB)
+- **Use case**: Real-time analytics, lightweight messaging, caching + messaging hybrid
+- **Durability**: Configurable (in-memory with optional persistence)
+- **Model**: Lightweight, lower latency than Kafka/RabbitMQ
 
 ### Google Cloud Pub/Sub
-**Model**: Managed pub-sub, push and pull delivery
-
-**Strengths**:
-- Fully managed, global
-- Auto-scales
-- Push (webhooks) and pull (polling) models
-- At-least-once delivery
-
-**Weaknesses**:
-- Weak ordering (no FIFO guarantee)
-- Can't replay (once ack'd, message is gone)
-- Cost scales with throughput
-
-**Use when**: GCP shop, want managed service, fan-out to many subscribers.
+- **Type**: Managed pub-sub service
+- **Features**: Global, auto-scaling, push/pull delivery, dead-letter topics
+- **Use case**: Event-driven architectures, streaming analytics, multi-region systems
+- **Durability**: Replicated across zones/regions
+- **Model**: Pub-sub (one message → multiple subscribers)
 
 ### Azure Service Bus
-**Model**: Enterprise messaging, queues and topics, sessions for ordering
+- **Type**: Enterprise messaging service
+- **Features**: Topics, queues, sessions, transactions, dead-letter queues
+- **Use case**: Enterprise integration, reliable messaging, .NET ecosystems
+- **Durability**: Multi-zone replication
+- **Model**: Flexible (queues, topics, or hybrid)
 
-**Strengths**:
-- FIFO sessions (ordered processing per session key)
-- Advanced features (scheduled messages, dead-lettering, duplicate detection)
-- Integrates with Azure ecosystem
+## Design Patterns
 
-**Weaknesses**:
-- Azure-specific
-- Moderate throughput (similar to RabbitMQ)
+### Queue-Based Load Leveling
 
-**Use when**: Azure shop, need enterprise messaging patterns.
+**Pattern**: Insert a queue between frontend and backend to absorb traffic spikes.
 
-## When to Use Message Queues
+**Mechanism**:
+- Frontend writes to queue immediately (fast ack)
+- Backend processes at sustainable rate
+- Queue depth grows during spikes, drains during troughs
 
-**Decouple producers and consumers**:
-- Producer doesn't wait for consumer (async)
-- Producer doesn't know who consumers are (loose coupling)
-- Example: Web app publishes "order placed" event; multiple services (inventory, shipping, email) consume independently
+**Benefits**:
+- Prevents backend overload
+- Frontend remains responsive
+- Backend can scale independently
 
-**Smooth spiky traffic** (see [Queue-Based Load Leveling](queue-based-load-leveling.md)):
-- Queue absorbs traffic spikes
-- Backend consumes at sustainable rate
-- Example: Black Friday traffic → payment processing queue
+**Trade-offs**:
+- Latency increases (async processing)
+- Queue becomes a durability requirement
+- Monitoring queue depth is critical
 
-**Asynchronous workflows**:
-- Long-running tasks (video transcode, report generation)
-- Background jobs (send email, resize image)
-- Scheduled tasks (nightly batch job)
+**Example**: Web requests → SQS → Lambda workers processing at steady rate
 
-**Fan-out / pub-sub**:
-- One event, many consumers
-- Each consumer gets copy of message
-- Example: User signup → welcome email + analytics + CRM update
+**Queueing theory**: This is [M/M/c](mmc-queue.md) with c = backend capacity. Queue acts as buffer when λ (arrival rate) temporarily exceeds μ (service rate).
 
-**Retry and [Dead Letter Queue](dead-letter-queues.md) patterns**:
-- Failed messages automatically retry
-- Poison messages moved to DLQ after N retries
-- Observability into failure modes
+### Work Queues / Task Queues
 
-## Architecture Patterns
+**Pattern**: Distribute work across multiple consumers.
 
-**Work Queue**:
-- One producer → one queue → many workers
-- Each message consumed exactly once (single consumer per message)
-- Workers are fungible (any worker can process any message)
-- Example: Image processing job queue
+**Technologies**:
+- **Celery** (Python): Distributed task queue, routing, retries, periodic tasks
+- **Sidekiq** (Ruby): Redis-backed, multithreaded workers, job prioritization
+- **Bull** (Node.js): Redis-based, job scheduling, delayed jobs, priorities
 
-**Pub-Sub (Publish-Subscribe)**:
-- One producer → topic → many subscribers
-- Each subscriber gets own copy of message
-- Subscribers are independent (different consumer groups in Kafka, different queues in RabbitMQ)
-- Example: Event notification system
+**Mechanism**:
+- **Competing consumers**: Multiple workers pull from same queue ([M/M/c](mmc-queue.md) model)
+- Each job processed exactly once (via acknowledgments)
+- Failed jobs can be retried or moved to [Dead Letter Queue](dead-letter-queues.md)
 
-**Request-Reply** (anti-pattern):
-- Don't use message queue for synchronous RPC
-- High latency (two queue hops + polling)
-- Use HTTP/gRPC for synchronous, queue for async
+**Use cases**:
+- Background job processing (email sending, report generation)
+- Data processing pipelines
+- Long-running tasks decoupled from web requests
 
-**Saga Pattern**:
-- Distributed transaction across services
-- Each step publishes event to queue
-- Compensating actions on failure
-- Example: E-commerce order (inventory → payment → shipping → email)
+**Queueing theory**: c = number of workers. [Erlang C](erlang-formulas.md) predicts queue time given λ, μ, c.
 
-## Operational Considerations
+### Priority Queues
 
-**Monitoring**:
-- Queue depth (L in [Little's Law](littles-law.md))
-- Age of oldest message
-- Enqueue rate (λ)
-- Dequeue rate (μ)
-- Dead letter queue depth (sign of systemic failure)
+**Pattern**: High-priority messages bypass low-priority messages.
 
-**Scaling**:
-- Scale consumers (add workers) when queue depth grows
-- Scale producers if enqueue rate is bottleneck (rare)
-- See [Queue Depth Monitoring](#monitoring) for auto-scaling triggers
+**Implementations**:
+- Multiple queues (one per priority level): consumers check high-priority queue first
+- Heap-based (single queue with priority ordering): slower insert/extract
+- Weighted round-robin: alternate between priority levels to prevent starvation
 
-**Backpressure**:
-- Bounded queues + flow control (see [Backpressure](backpressure.md))
-- Circuit breaker when queue depth exceeds threshold
-- Reject new messages (fail fast) vs. block producer
+**Use cases**:
+- SLA-based routing: premium customers get priority
+- Critical alerts vs. routine tasks
+- Real-time vs. batch processing
 
-**Idempotency**:
-- At-least-once delivery → duplicates → need idempotent consumers
-- Design for idempotency: unique IDs, check-before-write, natural keys
-- See [Delivery Semantics](delivery-semantics.md)
+**Risk**: **Starvation** — low-priority jobs never execute if high-priority jobs keep arriving
+- **Mitigation**: Priority aging (increase priority as job ages), or guaranteed minimum processing time for low-priority
+
+### Fan-Out / Pub-Sub
+
+**Pattern**: One message → copied to multiple queues or consumers.
+
+**Pub-Sub model**:
+- Producers publish to **topics**
+- Consumers subscribe to topics of interest
+- Message broker handles routing
+
+**Use cases**:
+- Event notification (order placed → email service, warehouse service, analytics service)
+- Broadcasting updates (config change → all services)
+- Multi-tenant systems (one message → all tenant-specific queues)
+
+**Technologies**:
+- **Kafka**: Topics with multiple consumer groups
+- **RabbitMQ**: Exchanges with bindings (fanout exchange)
+- **SNS + SQS**: AWS pub-sub pattern (SNS topic → multiple SQS queues)
+- **NATS**: High-performance pub-sub
+
+**Queueing theory**: Each subscriber has its own queue ([M/M/c](mmc-queue.md) per subscriber). Bottleneck = slowest subscriber.
+
+## Pull vs Push
+
+### Pull Model (Consumer-Driven)
+- **Consumer polls queue** for messages
+- Consumer requests N messages at a time
+- **Backpressure-friendly**: Consumer only pulls when ready
+- **Examples**: Kafka, SQS (long-polling), RabbitMQ (basic.get)
+
+**Pros**:
+- Consumer controls rate
+- Natural [backpressure](backpressure.md)
+- Easier to scale consumers dynamically
+
+**Cons**:
+- Higher latency (polling interval)
+- Wasted polls if queue is empty (mitigated by long-polling)
+
+### Push Model (Queue-Driven)
+- **Queue pushes messages** to consumer
+- Consumer receives messages as they arrive
+- **Examples**: RabbitMQ (basic.consume), Google Pub/Sub (push subscriptions), webhooks
+
+**Pros**:
+- Lower latency (immediate delivery)
+- No polling overhead
+
+**Cons**:
+- Risk of overwhelming consumer (requires [backpressure](backpressure.md) mechanism)
+- Consumer must be online to receive
+
+**Hybrid**: Many systems support both (e.g., Google Pub/Sub has push and pull subscriptions).
+
+## Ordering Guarantees
+
+### FIFO (First-In-First-Out)
+- Messages processed in arrival order
+- **Strict FIFO**: Total ordering across all messages
+- **Per-partition FIFO**: Ordering within a partition/shard, not globally
+- **Examples**: SQS FIFO queues, Kafka (per-partition)
+
+**Trade-off**: Strict FIFO limits parallelism (can't process out of order).
+
+### Unordered
+- No ordering guarantee
+- **Fastest**: Maximum parallelism
+- **Examples**: SQS standard queues, RabbitMQ (default)
+
+**Use case**: When order doesn't matter (idempotent operations, independent tasks)
+
+### Partial Ordering
+- Ordering within a key/shard, not globally
+- **Examples**: Kafka (per-partition), Kinesis (per-shard)
+- **Mechanism**: Hash message key to partition; all messages with same key → same partition → FIFO within partition
+
+**Use case**: User actions (all events for user X in order), but different users can be processed in parallel.
+
+## Visibility Timeout
+
+**Concept** (SQS, Azure Service Bus):
+- When consumer receives message, it becomes **invisible** to other consumers
+- If consumer doesn't delete message within visibility timeout, message becomes visible again (automatic retry)
+- Prevents duplicate processing
+
+**Example** (SQS):
+1. Consumer polls, receives message, visibility timeout = 30s
+2. Consumer processes message (takes 20s), deletes message → success
+3. If consumer crashes, message becomes visible after 30s → another consumer retries
+
+**Queueing theory**: Visibility timeout prevents message from being counted in queue depth (L) while being processed.
+
+## Durability and Persistence
+
+### In-Memory (Volatile)
+- **Fast**: No disk I/O
+- **Risk**: Messages lost on crash
+- **Examples**: Redis (without persistence), in-memory queues
+- **Use case**: High-throughput, loss-tolerant (metrics, logs)
+
+### Durable (Persistent)
+- **Reliable**: Messages survive crashes
+- **Slower**: Disk I/O overhead
+- **Examples**: RabbitMQ (durable queues), Kafka, SQS
+- **Use case**: Financial transactions, critical tasks
+
+**Replication**: Distributed queues (Kafka, SQS) replicate across nodes/zones for fault tolerance.
 
 ## Cross-Framework Connections
 
-**[Kendall Notation](kendall-notation.md)**:
-- Message queue with workers = M/M/c (random arrivals, multiple consumers)
-- Kafka partition = M/M/1 (single consumer per partition)
-- Bounded queue = M/M/c/K (K = max queue depth)
+### Queueing Theory (M/M/1, M/M/c)
+Message queues are **distributed implementations** of theoretical queueing models:
+- **Queue** = L (messages waiting)
+- **Producers** = λ (arrival rate)
+- **Consumers** = c servers with rate μ each
+- [Little's Law](littles-law.md): L = λW applies
+- [Erlang C](erlang-formulas.md): Predict wait time given λ, μ, c
 
-**[Little's Law](littles-law.md)**:
-- L (queue depth) = λW (arrival rate × latency)
-- Monitor L to predict consumer lag
-- If L grows, either increase μ (add workers) or decrease λ (backpressure)
+**Monitoring**: [Queue depth](queue-metrics.md) (L), [consumer lag](queue-monitoring.md) (Lq), throughput (λ, μ).
 
-**[Erlang Formulas](erlang-formulas.md)**:
-- Use Erlang-C to size worker pool: given λ and μ, solve for c (workers) to hit latency SLA
+### Reinertsen's Flow Economics
+Message queues enable [queue-based load leveling](queues-in-product-development.md):
+- Queue absorbs variance in λ (arrivals)
+- Consumers operate at steady μ (service rate)
+- [WIP Limits](wip-limits.md) = queue depth limits
 
-**[Reinertsen](../people/donald-reinertsen.md) / [Flow Economics](flow-economics.md)**:
-- Queue = visible WIP (work in progress)
-- [Cost of Delay](cost-of-delay.md) = economic value of reducing queue depth
-- Message queue latency = opportunity cost
+[Cost of Delay](cost-of-delay.md): High queue depth (L) → long wait time (W) → delayed value delivery.
 
-**[Systems Thinking](systems-thinking.md)**:
-- Queue = stock, enqueue = inflow, dequeue = outflow
-- Unbounded queue = missing balancing loop ([Backpressure](backpressure.md))
-- DLQ = safety valve (limits to growth archetype)
+### Systems Thinking (Senge/Meadows)
+Message queues are **stocks** (L):
+- **Inflow**: Producers (λ)
+- **Outflow**: Consumers (μ)
+- **Balancing loop**: High L → alert → add consumers → L decreases
 
-**[Queueing Networks](queueing-networks.md)**:
-- Microservices architecture = queueing network
-- Each service has input queue (message queue or load balancer)
-- Bottleneck analysis → which service to scale
+**Delays**: Capacity changes (adding consumers) take time; L reacts immediately to λ spikes. [Leverage Points](leverage-points.md): reducing λ (prevent unnecessary work) beats adding capacity.
 
-**[Westrum](../people/ron-westrum.md) / Culture**:
-- Generative culture → fast queue drain (low latency)
-- Pathological culture → messages ignored, queue grows unbounded
-- DLQ monitoring = cultural signal (ignored errors vs. rapid response)
+### Taleb's Antifragility
+Unbounded queues are **fragile**: they can grow without limit if λ > μ.
 
-## Anti-Patterns
+**Robustness mechanisms**:
+- **Bounded queues**: Reject new messages when full (fail-fast)
+- **[Backpressure](backpressure.md)**: Throttle producers when queue is deep
+- **[Dead Letter Queues](dead-letter-queues.md)**: Isolate poison messages
 
-**Queue as database**:
-- Queues are not databases; limited query, weak consistency
-- Store in DB, send pointer to queue
+**Barbell strategy**: Overprovision consumers (ρ < 80%) for robustness, not efficiency.
 
-**Unbounded queues without backpressure**:
-- Queue grows without limit → OOM
-- Solution: bounded queue + backpressure
+### Amazon Leadership Principles
+**"Customer Obsession"**: SQS, Kinesis, EventBridge are Amazon-scale message queues enabling reliable, low-latency services.
 
-**Too many queues**:
-- Operational complexity (monitoring each queue)
-- Solution: consolidate, use topic routing
+**"Bias for Action"**: Async processing via queues decouples decision-making (produce) from execution (consume), enabling fast iteration.
 
-**No DLQ / retry logic**:
-- Poison messages block queue forever
-- Solution: DLQ, max retries, exponential backoff
+### OKRs (Doerr/Grove)
+**Key Result examples**:
+- "P95 queue processing latency < 100ms"
+- "Queue depth < 50 at P95"
+- "Consumer lag < 1000 messages sustained"
 
-## Comparison Table
+Message queue metrics = Key Results. [Queue monitoring](queue-monitoring.md) = measurement.
 
-| Feature | RabbitMQ | Kafka | SQS | Redis | Pub/Sub |
-|---|---|---|---|---|---|
-| **Throughput** | Medium | Very High | Medium | High | High |
-| **Ordering** | Strong | Per-partition | Weak (FIFO opt) | Strong | Weak |
-| **Durability** | High | High | High | Medium | High |
-| **Replay** | No | Yes | No | Limited | No |
-| **Ops complexity** | Medium | High | Low (managed) | Low | Low (managed) |
-| **Cost** | Self-hosted | Self-hosted | Pay-per-msg | Self-hosted | Pay-per-msg |
+## Common Failure Modes
 
-## References
+### Poison Messages
+- **Problem**: Message causes consumer to crash repeatedly
+- **Impact**: Consumer enters retry loop, queue blocks
+- **Solution**: [Dead Letter Queue](dead-letter-queues.md) after N retries
 
-- [Kendall Notation](kendall-notation.md) — M/M/c models for message queues
-- [Little's Law](littles-law.md) — queue depth = arrival rate × latency
-- [Erlang Formulas](erlang-formulas.md) — capacity planning (worker pool sizing)
-- [Delivery Semantics](delivery-semantics.md) — at-least-once vs exactly-once
-- [Backpressure](backpressure.md) — flow control mechanisms
-- [Queue-Based Load Leveling](queue-based-load-leveling.md) — smoothing traffic spikes
-- [Dead Letter Queues](dead-letter-queues.md) — handling poison messages
-- [Priority Queues](priority-queues.md) — SLA differentiation
+### Consumer Lag / Backlog
+- **Problem**: λ > μ (producers faster than consumers)
+- **Impact**: Queue grows unbounded, latency increases
+- **Solution**: Scale consumers, optimize processing, or throttle producers ([backpressure](backpressure.md))
+
+### Message Duplication
+- **Problem**: At-least-once delivery ([delivery semantics](delivery-semantics.md)) causes duplicates
+- **Impact**: Duplicate processing (double-charge, double-email)
+- **Solution**: Idempotent consumers (detect and skip duplicates)
+
+### Hot Partitions
+- **Problem** (Kafka, Kinesis): Uneven key distribution → one partition overloaded
+- **Impact**: One partition's consumer lags, others idle
+- **Solution**: Better key distribution, more partitions, or custom partitioner
+
+## Key Takeaways
+
+1. **Message queues implement queueing theory** — [M/M/c](mmc-queue.md), [Little's Law](littles-law.md), [Erlang C](erlang-formulas.md) all apply
+2. **Asynchronous processing** — decouple producers from consumers, enable scalability
+3. **Durability vs. speed** — in-memory (fast, volatile) vs. disk (slow, durable)
+4. **Pull vs. push** — pull = backpressure-friendly, push = lower latency
+5. **Ordering** — FIFO (strict or per-partition) vs. unordered (maximum parallelism)
+6. **Monitor queue depth and lag** — leading indicators of congestion
+
+## Further Reading
+
+- [M/M/c Queue](mmc-queue.md) — theoretical model behind message queues
+- [Queue Metrics](queue-metrics.md) — monitoring L, λ, W, ρ
+- [Backpressure](backpressure.md) — preventing unbounded queue growth
+- [Dead Letter Queues](dead-letter-queues.md) — isolating poison messages
+- [Delivery Semantics](delivery-semantics.md) — at-most-once, at-least-once, exactly-once
+
+## See Also
+
+- [Jackson Networks](jackson-networks.md) — multi-stage message processing pipelines
+- [Little's Law](littles-law.md) — L = λW applies to all queues
+- [Flow Economics](flow-economics.md) — economic lens on queue-based systems
+- [Queue Monitoring](queue-monitoring.md) — observability and alerting

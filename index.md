@@ -150,15 +150,16 @@ Navigational synthesis pages — each one a curated map of a domain, not a refer
 
 ### Queuing Theory & Systems Architecture
 - [Kendall Notation](concepts/kendall-notation.md) — A/S/c notation for classifying queues; M/M/1, M/M/c, M/G/1 models. Tags: `queueing-theory`, `notation`, `mathematics`
-- [Erlang Formulas](concepts/erlang-formulas.md) — Erlang-B and Erlang-C for capacity planning; call centers, worker pools. Tags: `queueing-theory`, `capacity-planning`, `erlang`
-- [Queueing Networks](concepts/queueing-networks.md) — Jackson networks; bottleneck analysis; multi-stage pipelines. Tags: `queueing-theory`, `networks`, `bottlenecks`
-- [Message Queues](concepts/message-queues.md) — RabbitMQ, Kafka, SQS, Redis; async messaging; distributed systems. Tags: `distributed-systems`, `architecture`, `messaging`
-- [Backpressure](concepts/backpressure.md) — Flow control; bounded queues; prevent unbounded growth; balancing loops. Tags: `distributed-systems`, `flow-control`, `resilience`
-- [Delivery Semantics](concepts/delivery-semantics.md) — At-most-once, at-least-once, exactly-once; idempotency patterns. Tags: `distributed-systems`, `reliability`, `consistency`
-- [Queue-Based Load Leveling](concepts/queue-based-load-leveling.md) — Smooth spiky traffic; decouple demand from capacity. Tags: `distributed-systems`, `resilience`, `patterns`
-- [Dead Letter Queues](concepts/dead-letter-queues.md) — Poison message handling; observability; no head-of-line blocking. Tags: `distributed-systems`, `error-handling`, `observability`
-- [Priority Queues](concepts/priority-queues.md) — SLA differentiation; mixed workload; starvation mitigation. Tags: `queueing-theory`, `scheduling`, `sla`
-- [Circuit Breaker Pattern](concepts/circuit-breaker-pattern.md) — Fail fast; prevent cascading failures; relation to queues. Tags: `distributed-systems`, `resilience`, `patterns`
+- [M/M/1 Queue](concepts/mm1-queue.md) — Simplest queue model; Poisson arrivals, exponential service, single server; utilization trap. Tags: `queueing-theory`, `markov`, `performance`
+- [M/M/c Queue](concepts/mmc-queue.md) — Multi-server queue; Erlang C; capacity planning; diminishing returns of adding servers. Tags: `queueing-theory`, `parallelism`, `capacity-planning`
+- [Queue Metrics](concepts/queue-metrics.md) — Throughput, latency, utilization, queue depth, percentiles; monitoring and alerting. Tags: `queueing-theory`, `performance`, `observability`
+- [Erlang Formulas](concepts/erlang-formulas.md) — Erlang-B and Erlang-C for capacity planning; call centers, worker pools, sizing systems. Tags: `queueing-theory`, `capacity-planning`, `erlang`
+- [Jackson Networks](concepts/jackson-networks.md) — Multi-stage queueing networks; bottleneck analysis; product-form solution; Burke's theorem. Tags: `queueing-theory`, `networks`, `pipelines`
+- [Message Queues](concepts/message-queues.md) — RabbitMQ, Kafka, SQS, Redis Streams, Pub/Sub; distributed implementations of queues. Tags: `distributed-systems`, `architecture`, `messaging`
+- [Backpressure](concepts/backpressure.md) — Flow control; bounded queues; prevent unbounded growth; balancing loops; reactive streams. Tags: `distributed-systems`, `flow-control`, `resilience`
+- [Dead Letter Queues](concepts/dead-letter-queues.md) — Poison message handling; retry patterns; observability; no head-of-line blocking. Tags: `distributed-systems`, `error-handling`, `observability`
+- [Delivery Semantics](concepts/delivery-semantics.md) — At-most-once, at-least-once, exactly-once; idempotency; deduplication strategies. Tags: `distributed-systems`, `reliability`, `consistency`
+- [Queue Monitoring](concepts/queue-monitoring.md) — Observability, alerting thresholds, auto-scaling triggers, dashboards, SRE practices. Tags: `observability`, `monitoring`, `sre`, `capacity-planning`
 
 ### Disruption & Innovation (Christensen)
 - [Disruptive Innovation](concepts/innovators-dilemma.md) — Why well-managed companies fail: value networks, resource allocation, overshooting. Tags: `christensen`, `disruption`, `strategy`, `innovation`
@@ -192,4 +193,4 @@ Navigational synthesis pages — each one a curated map of a domain, not a refer
 - [sources/westrum-cultural-typologies.md](sources/westrum-cultural-typologies.md) — Westrum Cultural Typologies; Accelerate (Forsgren, Humble, Kim). Ingested 2026-04-17.
 - [sources/allen-getting-things-done.md](sources/allen-getting-things-done.md) — Getting Things Done by David Allen. Ingested 2026-04-19.
 - [sources/frankl-mans-search-for-meaning.md](sources/frankl-mans-search-for-meaning.md) — Man's Search for Meaning by Viktor Frankl. Ingested 2026-04-19.
-- [sources/queuing-theory-systems.md](sources/queuing-theory-systems.md) — Queuing Theory and Queue-Based Systems Architecture (theory + practice). Ingested 2026-04-22.
+- [sources/queueing-theory.md](sources/queueing-theory.md) — Queuing Theory and Queue-Based Systems Architecture; comprehensive coverage of mathematical theory (M/M/1, M/M/c, Erlang formulas, Jackson networks) and systems architecture (message queues, backpressure, DLQs, delivery semantics). Ingested 2026-04-22.
