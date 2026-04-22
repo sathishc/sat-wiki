@@ -143,10 +143,22 @@ Navigational synthesis pages — each one a curated map of a domain, not a refer
 ### Product Development Flow
 - [Flow Economics](concepts/flow-economics.md) — Optimise for economic value of flow, not utilisation or cost. Tags: `reinertsen`, `flow`, `economics`
 - [Cost of Delay](concepts/cost-of-delay.md) — Economic cost of time; CD3/WSJF prioritisation. Tags: `reinertsen`, `flow`, `prioritisation`
-- [Queues in Product Development](concepts/queues-in-product-development.md) — Root cause of slow delivery; the utilisation trap. Tags: `reinertsen`, `flow`, `cycle-time`
-- [Little's Law](concepts/littles-law.md) — Cycle Time = WIP / Throughput; the mathematics of flow. Tags: `reinertsen`, `queueing`, `mathematics`
+- [Queues in Product Development](concepts/queues-in-product-development.md) — Root cause of slow delivery; the utilisation trap; M/M/1 math. Tags: `reinertsen`, `flow`, `cycle-time`, `queueing-theory`
+- [Little's Law](concepts/littles-law.md) — L = λW; universal relationship; applies to ANY stable queue. Tags: `reinertsen`, `queueing-theory`, `mathematics`
 - [WIP Limits](concepts/wip-limits.md) — Constrain work in progress to control queues and cycle time. Tags: `reinertsen`, `kanban`, `flow`
 - [Batch Size](concepts/batch-size.md) — Smaller batches: faster feedback, lower risk, better flow. Tags: `reinertsen`, `lean`, `flow`
+
+### Queuing Theory & Systems Architecture
+- [Kendall Notation](concepts/kendall-notation.md) — A/S/c notation for classifying queues; M/M/1, M/M/c, M/G/1 models. Tags: `queueing-theory`, `notation`, `mathematics`
+- [Erlang Formulas](concepts/erlang-formulas.md) — Erlang-B and Erlang-C for capacity planning; call centers, worker pools. Tags: `queueing-theory`, `capacity-planning`, `erlang`
+- [Queueing Networks](concepts/queueing-networks.md) — Jackson networks; bottleneck analysis; multi-stage pipelines. Tags: `queueing-theory`, `networks`, `bottlenecks`
+- [Message Queues](concepts/message-queues.md) — RabbitMQ, Kafka, SQS, Redis; async messaging; distributed systems. Tags: `distributed-systems`, `architecture`, `messaging`
+- [Backpressure](concepts/backpressure.md) — Flow control; bounded queues; prevent unbounded growth; balancing loops. Tags: `distributed-systems`, `flow-control`, `resilience`
+- [Delivery Semantics](concepts/delivery-semantics.md) — At-most-once, at-least-once, exactly-once; idempotency patterns. Tags: `distributed-systems`, `reliability`, `consistency`
+- [Queue-Based Load Leveling](concepts/queue-based-load-leveling.md) — Smooth spiky traffic; decouple demand from capacity. Tags: `distributed-systems`, `resilience`, `patterns`
+- [Dead Letter Queues](concepts/dead-letter-queues.md) — Poison message handling; observability; no head-of-line blocking. Tags: `distributed-systems`, `error-handling`, `observability`
+- [Priority Queues](concepts/priority-queues.md) — SLA differentiation; mixed workload; starvation mitigation. Tags: `queueing-theory`, `scheduling`, `sla`
+- [Circuit Breaker Pattern](concepts/circuit-breaker-pattern.md) — Fail fast; prevent cascading failures; relation to queues. Tags: `distributed-systems`, `resilience`, `patterns`
 
 ### Disruption & Innovation (Christensen)
 - [Disruptive Innovation](concepts/innovators-dilemma.md) — Why well-managed companies fail: value networks, resource allocation, overshooting. Tags: `christensen`, `disruption`, `strategy`, `innovation`
@@ -180,3 +192,4 @@ Navigational synthesis pages — each one a curated map of a domain, not a refer
 - [sources/westrum-cultural-typologies.md](sources/westrum-cultural-typologies.md) — Westrum Cultural Typologies; Accelerate (Forsgren, Humble, Kim). Ingested 2026-04-17.
 - [sources/allen-getting-things-done.md](sources/allen-getting-things-done.md) — Getting Things Done by David Allen. Ingested 2026-04-19.
 - [sources/frankl-mans-search-for-meaning.md](sources/frankl-mans-search-for-meaning.md) — Man's Search for Meaning by Viktor Frankl. Ingested 2026-04-19.
+- [sources/queuing-theory-systems.md](sources/queuing-theory-systems.md) — Queuing Theory and Queue-Based Systems Architecture (theory + practice). Ingested 2026-04-22.

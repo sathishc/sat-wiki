@@ -4,6 +4,44 @@ Append-only chronological record of all wiki operations.
 
 ---
 
+## [2026-04-22] ingest | Queuing Theory and Queue-Based Systems Architecture
+
+Comprehensive ingest of queuing theory (mathematical foundations) and queue-based systems architecture (practical distributed systems patterns). This is a rich, cross-cutting topic connecting Reinertsen's product development work, distributed systems infrastructure, and systems thinking.
+
+**Source created**: sources/queuing-theory-systems.md — extensive notes covering theory (Kendall notation, Little's Law, M/M/1/M/M/c/M/G/1 models, Erlang-B/C, queueing networks, utilization trap math) and practice (message queues, backpressure, delivery semantics, load leveling, DLQ, priority queues, circuit breaker).
+
+**Concept pages created** (10 new):
+- concepts/kendall-notation.md — A/S/c classification; M/M/1, M/M/c, M/G/1 models
+- concepts/erlang-formulas.md — Erlang-B and Erlang-C for capacity planning
+- concepts/queueing-networks.md — Jackson networks, bottleneck analysis, tandem queues
+- concepts/message-queues.md — RabbitMQ, Kafka, SQS, Redis; when/how to use
+- concepts/backpressure.md — Flow control mechanisms; bounded queues; balancing loops
+- concepts/delivery-semantics.md — At-most-once, at-least-once, exactly-once; idempotency
+- concepts/queue-based-load-leveling.md — Smoothing spiky traffic; decouple demand/capacity
+- concepts/dead-letter-queues.md — Poison message handling; no head-of-line blocking
+- concepts/priority-queues.md — SLA differentiation; starvation mitigation
+- concepts/circuit-breaker-pattern.md — Fail fast; cascading failure prevention; queue relation
+
+**Concept pages updated** (2):
+- concepts/littles-law.md — Added universality explanation, derivation-free proof, applications across domains (product dev, message queues, call centers, microservices), relation to M/M/1 and Erlang-C, connection to backpressure
+- concepts/queues-in-product-development.md — Added M/M/1 math table (utilization vs. wait time), why real product dev is worse than M/M/1 (M/G/1 with high variance), 70-80% utilization target, connection to message queues and distributed systems patterns
+
+**Index updated**: New "Queuing Theory & Systems Architecture" section with 10 concept pages; updated Product Development Flow section with cross-references; added source entry.
+
+**Cross-framework connections built**:
+- **Reinertsen**: Queuing theory IS the mathematical foundation of Reinertsen's 8 principles. Utilization trap = M/M/1 nonlinearity. WIP limits = backpressure. Cost of Delay = economic value of W in Little's Law. Batch size = service time variance in M/G/1.
+- **Systems Thinking (Senge/Meadows)**: Queue = stock, enqueue/dequeue = flows, backpressure = balancing loop, utilization trap = reinforcing loop, circuit breaker = Limits to Growth archetype.
+- **Taleb (Antifragility)**: Unbounded queues = fragile, backpressure + circuit breaker = antifragile, overprovisioning (low utilization) = barbell strategy applied to queues, Erlang formulas assume exponential tails but real systems have fat tails.
+- **Kahneman**: WYSIATI = we see servers (utilization), not queues (latency); planning fallacy = underestimate queue depth; availability heuristic = recent low-latency → ignore growing backlog.
+- **Newport (Deep Work)**: Context switching = interrupt queue; fixed-schedule productivity = WIP limit; batching shallow work = batch size optimization; individual productivity is a queueing system.
+- **Westrum (Culture)**: Generative culture = fast info flow = low queue depth; pathological culture = info queues up; DLQ monitoring = cultural signal.
+- **Christensen (100% Integrity)**: Exactly-once = 100% correctness; at-least-once = 98%; but 98% can collapse if idempotency not enforced.
+- **Doerr (OKRs)**: OKR example "P95 call center wait < 30s" → use Erlang-C to size pool, monitor actual P95.
+
+**Key insight**: Queuing theory is not just math — it's the foundation of distributed systems, SRE, product development flow, and systems thinking. The theory-to-practice translation table makes this explicit. Message queue infrastructure patterns ARE product development patterns (same math, different vocabulary).
+
+14 files total: 1 source, 10 new concepts, 2 updated concepts, 1 index update.
+
 ## [2026-04-19] ingest | David Allen — Getting Things Done (GTD)
 
 Ingested David Allen's *Getting Things Done*. Created: sources/allen-getting-things-done.md (comprehensive notes covering the five-step workflow, mind like water, trusted system, natural planning model, weekly review, two-minute rule, contexts, projects vs next actions, someday/maybe list, horizons of focus, and relationships to other wiki concepts). Created concepts: gtd-workflow.md, trusted-system.md, mind-like-water.md, weekly-review.md, two-minute-rule.md, contexts-gtd.md, natural-planning-model.md. Created people/david-allen.md. Updated: index.md (new People entry, new "Productivity & Workflow (Allen / GTD)" concepts section, new source entry). Cross-links added to deep-work.md, habit-loop.md, flow-optimal-experience.md, systems-vs-goals.md, output-vs-activity.md, five-step-process.md, okrs.md, strategic-intent.md. 10 new files.
