@@ -67,3 +67,7 @@ GTD can be implemented in a paper notebook; it can also collapse in the most sop
 ## Source
 
 - [Getting Things Done — David Allen](../sources/allen-getting-things-done.md)
+
+## Author
+
+[David Allen](../people/david-allen.md)

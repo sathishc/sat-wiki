@@ -159,5 +159,6 @@ See also: **[Paul Graham](../people/paul-graham.md)**
 
 - [Personal Development Frameworks](personal-development.md)
 - [Mental Models for Decision-Making](decision-making.md)
+- [Mental Models](../concepts/mental-models.md)
 - [Strategy Frameworks](strategy-frameworks.md)
 - [Startup & Founder Playbook](startup-founder-playbook.md)

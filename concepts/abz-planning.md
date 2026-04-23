@@ -156,6 +156,7 @@ Pivoting is not failure; it's learning and adapting.
 - **[Antifragility](antifragility.md):** Plan B is an option. Options are valuable in uncertain environments.
 - **[Permanent beta](permanent-beta.md):** ABZ planning embodies permanent beta — you're always ready to iterate and pivot.
 - **[Systems thinking](systems-thinking.md):** ABZ is adaptive planning in a complex, changing system. You respond to [Feedback Loops](feedback-loops.md).
+- **[Psychological Safety](psychological-safety.md):** A documented Plan Z provides psychological safety — knowing you have a fallback enables bolder bets in Plan A.
 
 ## When to Pivot from A to B
 

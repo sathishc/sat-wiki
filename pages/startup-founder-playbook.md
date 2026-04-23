@@ -193,7 +193,7 @@ Graham's essays are the third essential pillar of startup thinking alongside Thi
 | [What I've Learned from Users](../sources/pg-users.md) | The actual lessons from funding thousands of startups: what separates the ones that work |
 | [Mean People Fail](../sources/pg-mean.md) | Why good founders outperform mean ones — surprising given startup mythology |
 | [How to Start Google](../sources/pg-google.md) | What it takes to start a world-changing company; contrarian bets and the willingness to look stupid |
-| [Why Startups Condense in America](../sources/pg-america.md) | Why talent density, immigration, and culture create compounding advantages for certain startup ecosystems |
+| [Why Startups Condense in America](../sources/pg-america.md) | Why talent density, immigration, and culture create [Compounding](../concepts/compounding.md) advantages for certain startup ecosystems |
 | [Startup Investing Trends](../sources/pg-invtrend.md) | How startup financing evolved; the rise of super angels; the Series A crunch |
 | [How to Be an Angel Investor](../sources/pg-angelinvesting.md) | How angel investing actually works; what VCs look for and how deals happen |
 
@@ -213,4 +213,5 @@ See also: **[Paul Graham](../people/paul-graham.md)**
 - [Product Development](product-development.md)
 - [Personal Development Frameworks](personal-development.md)
 - [Mental Models for Decision-Making](decision-making.md)
+- [Mental Models](../concepts/mental-models.md)
 - [Wealth & Money](wealth-and-money.md)

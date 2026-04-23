@@ -17,7 +17,7 @@ Horowitz makes this claim not as a moral statement but as a practical one. The l
 
 1. **The company's performance is a function of its people's performance**
 2. **People's performance is a function of how well they are managed, developed, and treated**
-3. **Therefore: taking care of people is the CEO's highest-leverage activity**
+3. **Therefore: taking care of people is the CEO's highest-[Leverage](leverage.md) activity**
 
 This sounds obvious. In practice, CEOs routinely deprioritise people issues — they feel urgent but not important during a crisis. Horowitz's argument: they are always urgent, because a team that is mismanaged, uninformed, or unfairly treated starts to fall apart at exactly the moment you need it most.
 

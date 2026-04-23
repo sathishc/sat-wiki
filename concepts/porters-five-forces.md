@@ -51,7 +51,7 @@ Buyers can capture value by forcing prices down, demanding higher quality, or pl
 - Buyers can credibly **threaten backward integration** (making the product themselves)
 - The product represents a **significant fraction of buyer's cost** (incentivises buyers to shop hard)
 
-**Insight**: Porter distinguishes between price sensitivity (how much buyers care about price) and bargaining leverage (how much power they have to extract concessions). Both matter but are independent.
+**Insight**: Porter distinguishes between price sensitivity (how much buyers care about price) and bargaining [Leverage](./leverage.md) (how much power they have to extract concessions). Both matter but are independent.
 
 ### 4. Threat of Substitute Products or Services
 

@@ -42,7 +42,7 @@ Several structural forces push knowledge workers toward shallow work:
 
 **4. Open offices:** Physical environments designed for "collaboration" destroy the conditions for deep work — noise, visual distraction, constant interruption.
 
-**5. Shallow work creates more shallow work:** Every email sent tends to generate a reply. Every meeting scheduled tends to generate follow-up meetings. The load is self-compounding.
+**5. Shallow work creates more shallow work:** Every email sent tends to generate a reply. Every meeting scheduled tends to generate follow-up meetings. The load is self-[Compounding](./compounding.md).
 
 ---
 
@@ -79,7 +79,7 @@ Every hour spent on shallow work has a [Cost of Delay](./cost-of-delay.md) — i
 Shallow work feeds [psychic entropy](./flow-optimal-experience.md) — the fragmented, distracted mental state that is the opposite of flow. Switching between emails, messages, and meetings maintains a constant low-level of mental activity that prevents both deep focus and genuine rest. It's not rest; it's low-grade distraction.
 
 ### ↔ Seen vs. Unseen (Hazlitt/Bastiat)
-Shallow work is the **seen** output — visible, immediate, measurable. Deep work value is the **unseen** — delayed, hard to attribute, invisible during production. Organisations systematically overweight visible shallow activity and underweight invisible deep output, for the same reason Bastiat's broken window fallacy persists: the seen is salient; the unseen requires deliberate effort to imagine.
+Shallow work is the **seen** output — visible, immediate, measurable. Deep work value is the **unseen** — delayed, hard to attribute, invisible during production. Organisations systematically overweight visible shallow activity and underweight invisible deep output, for the same reason Bastiat's [Broken Window Fallacy](./broken-window-fallacy.md) persists: the seen is salient; the unseen requires deliberate effort to imagine.
 
 ---
 

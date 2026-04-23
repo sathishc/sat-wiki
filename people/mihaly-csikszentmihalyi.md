@@ -60,7 +60,7 @@ Two concepts that give flow its philosophical weight:
 
 One of his most counterintuitive findings from ESM (Experience Sampling Method) research: **people experience flow more at work than at leisure** — but prefer to be at leisure. They choose the thing that makes them less engaged because work carries the social association of obligation.
 
-Implication: structuring any activity — work, learning, exercise — with clear goals, immediate feedback, and appropriate challenge produces both higher performance and higher wellbeing. The conditions for flow are the conditions for intrinsic motivation.
+Implication: structuring any activity — work, learning, exercise — with clear goals, immediate feedback, and appropriate challenge produces both higher performance and higher wellbeing. The conditions for flow are the conditions for [Intrinsic Motivation](../concepts/intrinsic-motivation.md).
 
 ---
 
@@ -79,7 +79,7 @@ Implication: structuring any activity — work, learning, exercise — with clea
 
 **Key convergence with [Christensen's HWYMYL](./clayton-christensen.md):** Herzberg's two-factor theory (hygiene factors don't motivate; intrinsic motivators do) is the organisational equivalent of Csikszentmihalyi's autotelic/exotelic distinction. Chasing salary is exotelic. Seeking challenge and growth is autotelic. Christensen uses Herzberg to explain career dissatisfaction; Csikszentmihalyi provides the deeper psychological mechanism.
 
-**Key convergence with [Reinertsen](./donald-reinertsen.md):** [Flow Economics](../concepts/flow-economics.md) in product development and psychological flow share more than a name — both are concerned with the conditions for optimal throughput. Reinertsen's WIP limits, clear priorities, and fast feedback loops (which enable flow in the system sense) are also exactly the conditions Csikszentmihalyi identifies for flow in the individual: clear goals, immediate feedback, appropriate challenge.
+**Key convergence with [Reinertsen](./donald-reinertsen.md):** [Flow Economics](../concepts/flow-economics.md) in product development and psychological flow share more than a name — both are concerned with the conditions for optimal throughput. Reinertsen's [WIP Limits](../concepts/wip-limits.md), clear priorities, and fast [Feedback Loops](../concepts/feedback-loops.md) (which enable flow in the system sense) are also exactly the conditions Csikszentmihalyi identifies for flow in the individual: clear goals, immediate feedback, appropriate challenge.
 
 ## Key Quotes
 

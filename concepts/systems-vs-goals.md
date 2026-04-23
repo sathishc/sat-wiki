@@ -26,14 +26,14 @@ Clear identifies four failure modes of focusing on goals rather than systems:
 
 ## Relationship to Other Frameworks
 
-### OKRs (John Doerr)
+### OKRs ([John Doerr](../people/john-doerr.md))
 OKRs are an attempt to systematise goal-setting — Key Results are measurable systems-checkpoints, not just outcomes. But even OKR frameworks fail when the underlying habits and routines aren't built. Goals tell you *what* to measure; systems determine whether you hit them. See [OKRs](../concepts/okrs.md).
 
-### Ray Dalio's Five-Step Process
+### [Ray Dalio](../people/ray-dalio.md)'s Five-Step Process
 Dalio's loop (goals → problems → diagnoses → design → action) is itself a *system* for navigating life. The five-step process doesn't eliminate goals — it subordinates them to a repeatable process. See [Five-Step Process](../concepts/five-step-process.md).
 
-### Cal Newport's Deep Work
-Deep work isn't a goal; it's a system — a set of rituals, time blocks, and environmental designs that reliably produce focused work. Newport's argument that depth requires systematic scheduling is Clear's systems thinking applied to knowledge work. See [Deep Work](../concepts/deep-work.md).
+### [Cal Newport](../people/cal-newport.md)'s Deep Work
+Deep work isn't a goal; it's a system — a set of rituals, time blocks, and environmental designs that reliably produce focused work. Newport's argument that depth requires systematic scheduling is Clear's [Systems Thinking](../concepts/systems-thinking.md) applied to knowledge work. See [Deep Work](../concepts/deep-work.md).
 
 ## Connections
 
@@ -44,5 +44,5 @@ Deep work isn't a goal; it's a system — a set of rituals, time blocks, and env
 - [Five-Step Process](../concepts/five-step-process.md) — Dalio's meta-system for goal pursuit
 - [Deep Work](../concepts/deep-work.md) — systematic approach to knowledge work depth
 - [Compounding](../concepts/compounding.md) — systems compound; goals don't
-- [Givers Takers Matchers](../concepts/givers-takers-matchers.md) — Grant's insight maps directly: givers build relationship *systems* (networks, trust, reciprocity); takers chase outcome *goals* (transactions). Givers win long-term for the same reason systems beat goals
+- [Givers Takers Matchers](../concepts/givers-takers-matchers.md) — Grant's insight maps directly: givers build relationship *systems* (networks, trust, [Reciprocity](../concepts/reciprocity.md)); takers chase outcome *goals* (transactions). Givers win long-term for the same reason systems beat goals
 - [Will to Meaning](../concepts/will-to-meaning.md) — Frankl: meaning comes from the stance and journey (system), not just achieving endpoints (goals)

@@ -13,7 +13,7 @@ Grove survived Nazi occupation of Budapest as a child and fled Hungary after the
 
 ## Management Philosophy
 
-Grove's management thinking is grounded in systems thinking, operational rigour, and an unflinching focus on output rather than activity. His central insight — that a manager's output equals the output of their team plus the output of adjacent teams they influence — reframes management as a leverage problem, not a presence problem.
+Grove's management thinking is grounded in [Systems Thinking](../concepts/systems-thinking.md), operational rigour, and an unflinching focus on output rather than activity. His central insight — that a manager's output equals the output of their team plus the output of adjacent teams they influence — reframes management as a [Leverage](../concepts/leverage.md) problem, not a presence problem.
 
 Key pillars of his philosophy:
 
@@ -43,7 +43,7 @@ In *Only the Paranoid Survive* (1996), Grove introduced the concept of the **[St
 
 - **John Doerr** learned OKRs from Grove at Intel and spread them globally
 - **[Ben Horowitz](ben-horowitz.md)** calls *High Output Management* the best management book ever written for practising CEOs
-- Grove's output-first framing rhymes with **Donald Reinertsen's** flow economics and throughput focus
+- Grove's output-first framing rhymes with **Donald Reinertsen's** [Flow Economics](../concepts/flow-economics.md) and throughput focus
 - **[Peter Thiel](peter-thiel.md)'s** paranoia-as-competitive-strategy echoes Grove's "only the paranoid survive" thesis
 
 ## Sources

@@ -38,13 +38,13 @@ Both Taleb and [Naval Ravikant](./naval-ravikant.md) value long-term thinking an
 
 | Dimension | Taleb | Naval |
 |---|---|---|
-| **Primary lens** | Risk & uncertainty | Wealth & leverage |
-| **On knowledge** | Beware of theorising; bias toward practice | Build specific knowledge through curiosity |
+| **Primary lens** | Risk & uncertainty | Wealth & [Leverage](../concepts/leverage.md) |
+| **On knowledge** | Beware of theorising; bias toward practice | Build [Specific Knowledge](../concepts/specific-knowledge.md) through curiosity |
 | **On fragility** | Systems must be built to withstand shocks | Compound interest works — avoid ruin |
 | **On institutions** | Deep scepticism; bureaucracies are fragile | Less focus on institutional critique |
 | **Disposition** | Contrarian, combative | Serene, philosophical |
 
-**Where they converge:** Both argue for long-term thinking, the power of compounding, deep scepticism of credentialism, and the importance of direct skin-in-the-game accountability.
+**Where they converge:** Both argue for long-term thinking, the power of [Compounding](../concepts/compounding.md), deep scepticism of credentialism, and the importance of direct skin-in-the-game accountability.
 
 ## Key Quotes
 

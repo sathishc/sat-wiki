@@ -137,6 +137,7 @@ The power of naming archetypes: once you can identify the structure, you can pre
 - [Systems Thinking](./systems-thinking.md)
 - [Feedback Loops](./feedback-loops.md)
 - [Leverage Points](./leverage-points.md)
+- [Leverage](./leverage.md) — high-leverage interventions target the root archetype, not the symptoms
 - [Peter Senge](../people/peter-senge.md)
 - [Donella Meadows](../people/donella-meadows.md)
 - [Innovators Dilemma](./innovators-dilemma.md) — "Success to the Successful"

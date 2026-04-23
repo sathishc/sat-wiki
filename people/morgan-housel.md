@@ -50,7 +50,7 @@ Most financial advice answers "how do I get more money?" Housel asks a different
 
 ## Connections
 
-- **[Naval Ravikant](../people/naval-ravikant.md)** — both argue money's highest value is buying freedom/time; Naval's "specific knowledge → leverage → wealth" is the accumulation side; Housel is the behaviour and spending side
+- **[Naval Ravikant](../people/naval-ravikant.md)** — both argue money's highest value is buying freedom/time; Naval's "[Specific Knowledge](../concepts/specific-knowledge.md) → [Leverage](../concepts/leverage.md) → wealth" is the accumulation side; Housel is the behaviour and spending side
 - **[Daniel Kahneman](../people/daniel-kahneman.md)** — Housel's Psychology of Money applies Kahneman's System 1/System 2 research to financial behaviour; many of Housel's 20 lessons are essentially named cognitive biases in financial clothing
 - **[Nassim Taleb](../people/nassim-taleb.md)** — both emphasise tail events and the danger of extreme outcomes; Housel's "room for error" is Taleb's margin of safety in accessible language; both distrust forecasting
 - **[Peter Thiel](../people/peter-thiel.md)** — Thiel's power law maps to Housel's tail events: in both frameworks, a small number of outcomes dominate everything else

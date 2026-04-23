@@ -91,7 +91,7 @@ His essays at paulgraham.com have been read by tens of millions of people. They 
 | [The Bus Ticket Theory of Genius](../sources/pg-genius.md) | 2019 | Obsessive interest as the mechanism of genius |
 | [How to Think for Yourself](../sources/pg-think.md) | 2020 | Independent-minded vs. conventional-minded thinking |
 | [Good and Bad Procrastination](../sources/pg-procrastination.md) | 2005 | Work on the important, not the urgent |
-| [A Project of One's Own](../sources/pg-own.md) | 2021 | Intrinsic motivation and personal projects |
+| [A Project of One's Own](../sources/pg-own.md) | 2021 | [Intrinsic Motivation](../concepts/intrinsic-motivation.md) and personal projects |
 | [Early Work](../sources/pg-early.md) | 2020 | The value and difficulty of starting before you're ready |
 | [The Right Kind of Stubborn](../sources/pg-persistence.md) | 2024 | Persistence vs. obstinacy; how to be the right kind |
 | [Keep Your Identity Small](../sources/pg-identity.md) | 2009 | Identity crowds out thinking; keep it small |
@@ -110,7 +110,7 @@ His essays at paulgraham.com have been read by tens of millions of people. They 
 ## Relation to Other Thinkers
 
 - **[Peter Thiel](peter-thiel.md):** Both are contrarian thinkers on startups. Thiel focuses on monopoly and secrets; Graham focuses on users and iteration. Thiel is more macro/strategic; Graham is more micro/tactical. Graham's "do what users want" vs. Thiel's "find a secret" are complementary entry points to startup thinking.
-- **[Naval Ravikant](naval-ravikant.md):** Both think deeply about wealth and independent thinking. Naval is more aphoristic; Graham is more analytical. Both emphasize specific knowledge (Naval) / curiosity-driven work (Graham) over credentials. Both see the internet as an era-defining leverage multiplier.
+- **[Naval Ravikant](naval-ravikant.md):** Both think deeply about wealth and independent thinking. Naval is more aphoristic; Graham is more analytical. Both emphasize [Specific Knowledge](../concepts/specific-knowledge.md) (Naval) / curiosity-driven work (Graham) over credentials. Both see the internet as an era-defining [Leverage](../concepts/leverage.md) multiplier.
 - **[Ben Horowitz](ben-horowitz.md):** Horowitz is the other great essayist of startup leadership. Graham writes more from the founder's early experience; Horowitz from the CEO's scaling experience. Graham's "Founder Mode" and Horowitz's *The Hard Thing About Hard Things* are natural companions.
 
 ## Sources

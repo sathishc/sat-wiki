@@ -19,7 +19,7 @@ From [Mark Granovetter](../people/mark-granovetter.md)'s landmark 1973 paper "Th
 **Strong ties:**
 - Close friends, family, romantic partners
 - High trust, frequent contact, emotional intimacy
-- Deep relationships with strong reciprocity
+- Deep relationships with strong [Reciprocity](./reciprocity.md)
 - **Problem:** Redundant information. Your close friends are embedded in the same social network you are. They know what you know.
 
 **Weak ties:**

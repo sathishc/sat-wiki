@@ -12,7 +12,7 @@ parent: People
 
 American systems scientist (born 1947). Senior Lecturer at MIT Sloan School of Management; founding chair of the Society for Organizational Learning. Author of *The Fifth Discipline: The Art and Practice of the Learning Organisation* (1990), one of the most influential management books of the last 30 years.
 
-Senge applied systems thinking — developed by Jay Forrester at MIT and formalised by Donella Meadows — to organisational theory, arguing that the primary competitive advantage of the 21st century is the capacity to learn.
+Senge applied systems thinking — developed by Jay Forrester at MIT and formalised by Donella Meadows — to organisational theory, arguing that the primary [Competitive Advantage](../concepts/competitive-advantage.md) of the 21st century is the capacity to learn.
 
 > "Structure influences behaviour. Different people in the same structure tend to produce qualitatively similar results."
 
@@ -42,11 +42,11 @@ See [Systems Thinking](../concepts/systems-thinking.md) and [Learning Organisati
 
 | Dimension | Senge | [Dalio](./ray-dalio.md) | [Kahneman](./daniel-kahneman.md) | [Christensen](./clayton-christensen.md) | [Meadows](./donella-meadows.md) |
 |---|---|---|---|---|---|
-| **On why organisations fail** | Structural learning disabilities; can't see feedback loops | Poor principles; bad decision-making habits | Cognitive biases; System 1 hijacks judgment | RPM misalignment; values prevent adaptation | Wrong leverage points; acting on symptoms not structure |
+| **On why organisations fail** | Structural learning disabilities; can't see feedback loops | Poor principles; bad decision-making habits | Cognitive biases; System 1 hijacks judgment | RPM misalignment; values prevent adaptation | Wrong [Leverage Points](../concepts/leverage-points.md); acting on symptoms not structure |
 | **On mental models** | Make explicit; test through dialogue | Encode as principles; back-test continuously | WYSIATI; models are System 1 constructs we can't see | RPM: values are the deepest mental model layer | Paradigms are the highest leverage; hardest to change |
 | **On feedback** | Feedback loops are the fundamental structure; delays cause dysfunction | Regular review cycles; update principles from feedback | Feedback is corrupted by System 1 biases | Incumbent value networks prevent honest feedback | Feedback delays cause overshoot and oscillation |
 | **On learning** | Learning disabilities prevent seeing systemic causes | Radical transparency surfaces reality for learning | System 2 is required for real learning; effortful | Separate disruptive units so they can learn differently | Observing system behaviour over time enables leverage identification |
-| **On solutions** | Fix the structure, not the symptom | Build explicit principles as structural fixes | System 2 processes as deliberate override | Create separate RPM for disruptive businesses | Find the leverage point; don't push the stock |
+| **On solutions** | Fix the structure, not the symptom | Build explicit principles as structural fixes | System 2 processes as deliberate override | Create separate RPM for disruptive businesses | Find the [Leverage](../concepts/leverage.md) point; don't push the stock |
 
 **Key convergence with [Dalio](./ray-dalio.md):** Dalio's [Radical Transparency](../concepts/radical-transparency.md) addresses Senge's #1 learning disability: "the myth of the management team" (projecting unity while hiding dysfunction). Radical transparency forces the actual system state visible. Dalio's principles are also a direct response to Senge's mental models discipline — explicit, written, back-tested rules for decisions.
 
@@ -56,7 +56,7 @@ See [Systems Thinking](../concepts/systems-thinking.md) and [Learning Organisati
 
 **Key convergence with [Christensen](./clayton-christensen.md):** The [Innovator's Dilemma](../concepts/innovators-dilemma.md) is a systems archetype: "Success to the Successful." The incumbent's best customers receive the most resources → incumbent improves products for those customers → disruptors are ignored → disruptors grow from below. The structure produces the outcome regardless of who is in the management team.
 
-**Key convergence with [Cialdini](./robert-cialdini.md):** [Social proof](../concepts/social-proof.md) and [commitment & consistency](../concepts/commitment-and-consistency.md) are reinforcing feedback loops in human behaviour. Cialdini describes the triggers; Senge provides the structural framework for understanding why they persist and self-amplify. Escalation (Senge's archetype) is reciprocity + commitment in a reinforcing loop.
+**Key convergence with [Cialdini](./robert-cialdini.md):** [Social proof](../concepts/social-proof.md) and [commitment & consistency](../concepts/commitment-and-consistency.md) are reinforcing feedback loops in human behaviour. Cialdini describes the triggers; Senge provides the structural framework for understanding why they persist and self-amplify. Escalation (Senge's archetype) is [Reciprocity](../concepts/reciprocity.md) + commitment in a reinforcing loop.
 
 ## Key Quotes
 

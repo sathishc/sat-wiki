@@ -69,7 +69,7 @@ The asymmetry is systematic: benefits are concentrated and immediate; costs are 
 |---|---|---|---|---|
 | **Primary lens** | Seen vs unseen consequences | Visible vs hidden risk | Explicit principles | Visible vs hidden queues |
 | **On intervention** | Sceptical; unintended consequences dominate | Sceptical; naive intervention creates fragility | Contextual; principles govern | Sceptical; over-control creates queues |
-| **On time horizon** | Long-run effects override short-run | Long-run antifragility | Compound principles over decades | [Cost of Delay](../concepts/cost-of-delay.md) over time |
+| **On time horizon** | Long-run effects override short-run | Long-run [Antifragility](../concepts/antifragility.md) | Compound principles over decades | [Cost of Delay](../concepts/cost-of-delay.md) over time |
 | **Core method** | Trace all consequences, all groups | Build for unknown unknowns | Systematise and back-test | Quantify economic impact |
 
 **Key convergence:** Hazlitt, Taleb, and Reinertsen all make the same structural argument from different domains: **the unseen/unmeasured consequences dominate**. The broken window fallacy, hidden [queues](../concepts/queues-in-product-development.md), and [Black Swans](../concepts/black-swan.md) are all failures of the same cognitive error — optimising for what is visible while ignoring what is not.

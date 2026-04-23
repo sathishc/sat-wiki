@@ -113,7 +113,7 @@ Nicole Forsgren, Jez Humble, and Gene Kim's *Accelerate* (2018) operationalised 
 
 Generative cultures significantly outperform pathological ones on all four metrics. The correlation is strong and robust.
 
-**Why this matters:** It proves that culture is not just about wellbeing or "soft" outcomes — it directly drives the technical capabilities that determine competitive advantage in software.
+**Why this matters:** It proves that culture is not just about wellbeing or "soft" outcomes — it directly drives the technical capabilities that determine [Competitive Advantage](./competitive-advantage.md) in software.
 
 The survey items Accelerate uses to measure Westrum culture:
 1. On my team, information is actively sought
@@ -159,13 +159,13 @@ Psychological safety is the individual-level experience of a generative culture.
 ## Cross-Framework Connections
 
 ### ↔ Dalio (Radical Transparency)
-[Radical Transparency](./radical-transparency.md) is a deliberate institutional design to engineer a generative culture. The specific practices — recording all meetings, publishing reasoning, blameless disagreement, idea meritocracy — are operational implementations of Westrum's generative behaviours. "Don't shoot the messenger" is not a cultural aspiration at Bridgewater; it is an enforced norm with consequences for violation.
+[Radical Transparency](./radical-transparency.md) is a deliberate institutional design to engineer a generative culture. The specific practices — recording all meetings, publishing reasoning, blameless disagreement, [Idea Meritocracy](./idea-meritocracy.md) — are operational implementations of Westrum's generative behaviours. "Don't shoot the messenger" is not a cultural aspiration at Bridgewater; it is an enforced norm with consequences for violation.
 
 ### ↔ Meadows (Leverage Points)
 Westrum's typology is a [leverage point](./leverage-points.md) analysis:
 - Pathological culture = wrong paradigm (Level 2): power above mission
 - Moving to generative culture = changing the system's goal (Level 3) + information flow structure (Level 6)
-- Cultural change is Level 2 intervention: hardest, highest leverage, most resisted
+- Cultural change is Level 2 intervention: hardest, highest [Leverage](./leverage.md), most resisted
 
 ### ↔ Senge (Learning Organisation)
 A generative culture is structurally a [learning organisation](./learning-organisation.md). Westrum's seven generative behaviours directly counter Senge's seven learning disabilities:

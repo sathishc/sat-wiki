@@ -18,28 +18,28 @@ American author, entrepreneur, and habits researcher. Best known for *Atomic Hab
 
 Clear synthesises and operationalises ideas from several fields:
 
-- **Charles Duhigg** (*The Power of Habit*) — the original cue-routine-reward framework that Clear extended into the four-step habit loop
+- **Charles Duhigg** (*The Power of Habit*) — the original cue-routine-reward framework that Clear extended into the four-step [Habit Loop](../concepts/habit-loop.md)
 - **BJ Fogg** (*Tiny Habits*) — the principle that small, easy habits are more durable than ambitious ones
 - **Behavioural psychology** — operant conditioning, reinforcement schedules, and environmental design
 
 ## Connections
 
-### Jonathan Haidt
+### [Jonathan Haidt](jonathan-haidt.md)
 Clear's habit loop is the mechanical implementation of Haidt's "moving the elephant." The Four Laws of Behaviour Change are essentially a field manual for shaping the path so the elephant follows willingly. See [Rider and Elephant](../concepts/rider-and-elephant.md).
 
-### Daniel Kahneman
+### [Daniel Kahneman](daniel-kahneman.md)
 Habits automate System 1. Building good defaults through environmental design is applied [System 1 and 2](../concepts/system-1-and-2.md) thinking — offloading virtuous behaviour to fast, automatic processes rather than relying on slow deliberation.
 
-### Cal Newport
-Deep work requires habitual rituals. Newport's argument that depth requires protecting time and attention aligns with Clear's systems thinking — the ritual is the system. See [Deep Work](../concepts/deep-work.md).
+### [Cal Newport](cal-newport.md)
+Deep work requires habitual rituals. Newport's argument that depth requires protecting time and attention aligns with Clear's [Systems Thinking](../concepts/systems-thinking.md) — the ritual is the system. See [Deep Work](../concepts/deep-work.md).
 
-### Mihaly Csikszentmihalyi
+### [Mihaly Csikszentmihalyi](mihaly-csikszentmihalyi.md)
 Consistent practice creates the conditions for [Flow](../concepts/flow-optimal-experience.md). You can't enter flow on demand; you can only build the habits that make it possible.
 
-### Morgan Housel
+### [Morgan Housel](morgan-housel.md)
 Compounding applies to habits as much as to money. Clear and Housel share the core insight that small, consistent actions over long time horizons produce results that feel miraculous. See [Compounding](../concepts/compounding.md).
 
-### Robert Cialdini
+### [Robert Cialdini](robert-cialdini.md)
 The commitment/consistency principle is what habit formation exploits. Once we cast a vote for an identity through repeated action, we feel internal pressure to behave consistently with it. See [Commitment and Consistency](../concepts/commitment-and-consistency.md).
 
 ## Sources

@@ -29,7 +29,7 @@ See [The Start-up of You](../sources/hoffman-startup-of-you.md) for full framewo
 
 - **[Permanent beta](../concepts/permanent-beta.md):** You are never finished; always evolving
 - **[ABZ planning](../concepts/abz-planning.md):** Plan A (current path), Plan B (pivot), Plan Z (lifeboat)
-- **Competitive advantage** from Assets + Aspirations + Market realities intersection
+- **[Competitive Advantage](../concepts/competitive-advantage.md)** from Assets + Aspirations + Market realities intersection
 - **[Network intelligence](../concepts/network-intelligence.md):** Your network is your career capital
 - **I^We:** Individual power comes from collective network ([I^We concept](../concepts/i-we.md))
 
@@ -89,4 +89,4 @@ Hoffman represents the synthesis of:
 - **Career development** (building leverage, adaptive planning, intelligent risk)
 - **Silicon Valley wisdom** (startup thinking, growth mindset, compounding)
 
-His frameworks connect to nearly every domain in this wiki: from [systems thinking](../concepts/systems-thinking.md) (network effects are feedback loops) to [personal development](../pages/personal-development.md) (permanent beta) to [strategy](../pages/strategy-frameworks.md) (competitive advantage).
+His frameworks connect to nearly every domain in this wiki: from [systems thinking](../concepts/systems-thinking.md) (network effects are [Feedback Loops](../concepts/feedback-loops.md)) to [personal development](../pages/personal-development.md) (permanent beta) to [strategy](../pages/strategy-frameworks.md) (competitive advantage).

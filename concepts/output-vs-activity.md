@@ -24,7 +24,7 @@ This is a fundamentally different orientation from most professional environment
 | Sending many emails | Problems solved; information routed correctly |
 | Being "always available" | People unstuck; confidence maintained |
 
-The activity is the *input*. The output is what changed as a result. Managers who optimise for activity — staying busy, looking engaged, filling their calendar — often crowd out the high-leverage work that actually moves things.
+The activity is the *input*. The output is what changed as a result. Managers who optimise for activity — staying busy, looking engaged, filling their calendar — often crowd out the high-[Leverage](leverage.md) work that actually moves things.
 
 ## Why Activity Gets Rewarded Anyway
 

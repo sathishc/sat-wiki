@@ -108,5 +108,5 @@ In this environment, challenge is not an act of aggression or disloyalty — it'
 - [Rider and Elephant](../concepts/rider-and-elephant.md) — why dissent is resisted psychologically
 - [Jonathan Haidt](../people/jonathan-haidt.md)
 - [Idea Meritocracy](../concepts/idea-meritocracy.md)
-- [Task-Relevant Maturity](../concepts/task-relevant-maturity.md) — Grove: high-TRM employees need the freedom to challenge; without safety, high-TRM individuals self-censor, which is wasted leverage
+- [Task-Relevant Maturity](../concepts/task-relevant-maturity.md) — Grove: high-TRM employees need the freedom to challenge; without safety, high-TRM individuals self-censor, which is wasted [Leverage](../concepts/leverage.md)
 - [Habit Loop](../concepts/habit-loop.md) — psychological safety is the environmental reward that makes speaking-up behaviours satisfying and therefore repeatable

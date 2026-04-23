@@ -40,7 +40,7 @@ Every unintended consequence follows the same pattern:
 
 Unintended consequences arise from the same cognitive error as the [Broken Window Fallacy](./broken-window-fallacy.md): **reasoning about a subset of effects in a system that produces all effects simultaneously**.
 
-Complex systems (economies, organisations, ecosystems) have feedback loops, substitutions, and adaptations that simple linear models don't capture. When you change one variable, the system adjusts everything else.
+Complex systems (economies, organisations, ecosystems) have [Feedback Loops](./feedback-loops.md), substitutions, and adaptations that simple linear models don't capture. When you change one variable, the system adjusts everything else.
 
 ## Cross-Domain Parallels
 

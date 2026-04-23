@@ -38,7 +38,7 @@ The 175 principles are organised into eight areas:
 4. **Batch Size** — smaller batches reduce cycle time, risk, and feedback latency
 5. **WIP Constraints** — limit [Work in Progress](../concepts/wip-limits.md) to control queues
 6. **Flow Control** — manage the rate of work entering the system
-7. **Fast Feedback** — accelerate all feedback loops
+7. **Fast Feedback** — accelerate all [Feedback Loops](../concepts/feedback-loops.md)
 8. **Decentralised Control** — push decisions to where information lives
 
 ## The Economic Frame
@@ -53,11 +53,11 @@ Reinertsen insists every product development decision is an economic decision �
 
 | Dimension | Reinertsen | Naval | Taleb | Dalio |
 |---|---|---|---|---|
-| **Primary lens** | Queueing economics | [Leverage](../concepts/leverage.md) & knowledge | Risk & antifragility | Principles & systems |
+| **Primary lens** | Queueing economics | [Leverage](../concepts/leverage.md) & knowledge | Risk & [Antifragility](../concepts/antifragility.md) | Principles & systems |
 | **On variability** | Manage asymmetrically; not all bad | Not primary focus | Embrace it; be antifragile | Model and stress-test |
 | **On batch size** | Smaller is almost always better | Not primary focus | Small options (barbell) | Not primary focus |
 | **On feedback** | Accelerate all feedback loops | Learn through doing | Reality-test constantly | 5-step loop |
-| **On control** | Decentralise to where info lives | Individual leverage | Skin in the game | Idea meritocracy |
+| **On control** | Decentralise to where info lives | Individual leverage | [Skin in the Game](../concepts/skin-in-the-game.md) | [Idea Meritocracy](../concepts/idea-meritocracy.md) |
 
 **Where they converge:** All four argue that **conventional management wisdom is systematically wrong** and that the correct approach requires uncomfortable counter-intuitive thinking based on first principles.
 
@@ -79,7 +79,7 @@ Reinertsen insists every product development decision is an economic decision �
 - [Little's Law](../concepts/littles-law.md)
 - [Flow Economics](../concepts/flow-economics.md)
 - [Batch Size](../concepts/batch-size.md)
-- [Ray Dalio](./ray-dalio.md) — systems thinking parallel
+- [Ray Dalio](./ray-dalio.md) — [Systems Thinking](../concepts/systems-thinking.md) parallel
 - [Nassim Taleb](./nassim-taleb.md) — variability and antifragility
 
 ## Sources

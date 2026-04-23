@@ -53,23 +53,23 @@ A key practice: build a **challenge network** — people who love you enough to 
 
 ## Cross-Framework Connections
 
-### ↔ Robert Cialdini
+### ↔ [Robert Cialdini](robert-cialdini.md)
 [Cialdini's reciprocity principle](../concepts/reciprocity.md) is the psychological mechanism that Grant studies at career scale. Where Cialdini documents how reciprocity works in short-term influence, Grant tracks how reciprocity *style* shapes long-run outcomes across a career and an organisation.
 
-### ↔ Daniel Kahneman
+### ↔ [Daniel Kahneman](daniel-kahneman.md)
 *Think Again* directly extends Kahneman's work. [System 1 and 2](../concepts/system-1-and-2.md) thinking maps onto Grant's mindsets: Preacher/Prosecutor/Politician are all System 1 — fast, defensive, motivated. The Scientist requires deliberate [System 2](../concepts/system-1-and-2.md) effort. Kahneman showed we are bad at updating; Grant asks what we can do about it.
 
-### ↔ Jonathan Haidt
+### ↔ [Jonathan Haidt](jonathan-haidt.md)
 [Haidt's rider and elephant](../concepts/rider-and-elephant.md) explains *why* rethinking is hard: motivated reasoning (the elephant) constructs post-hoc justifications for whatever the elephant already wanted to believe. Grant's Preacher/Prosecutor/Politician modes are precisely the elephant at work. The scientist mindset is the rider asserting genuine control.
 
-### ↔ Ray Dalio
-[Dalio's idea meritocracy](../concepts/idea-meritocracy.md) presupposes exactly the rethinking Grant describes. Radical transparency and believability-weighted decision-making only work if participants are willing to genuinely update their views — not just perform openness.
+### ↔ [Ray Dalio](ray-dalio.md)
+[Dalio's idea meritocracy](../concepts/idea-meritocracy.md) presupposes exactly the rethinking Grant describes. [Radical Transparency](../concepts/radical-transparency.md) and believability-weighted decision-making only work if participants are willing to genuinely update their views — not just perform openness.
 
-### ↔ Ron Westrum
+### ↔ [Ron Westrum](ron-westrum.md)
 [Westrum's generative culture](../concepts/westrum-cultural-typologies.md) is Grant's scientist mindset operating at the organisational level. A generative culture creates the structural conditions under which collective rethinking is safe and rewarded.
 
-### ↔ Morgan Housel
-Housel's distinction between [reasonable vs. rational](../concepts/reasonable-vs-rational.md) maps onto Grant's otherish giver: perfect rationality is not the goal; a workable, sustainable approach that you can actually follow through is. Rethinking also applies to investing — the ability to update mental models without ego is one of the most underrated edges in long-term investing.
+### ↔ [Morgan Housel](morgan-housel.md)
+Housel's distinction between [reasonable vs. rational](../concepts/reasonable-vs-rational.md) maps onto Grant's otherish giver: perfect rationality is not the goal; a workable, sustainable approach that you can actually follow through is. Rethinking also applies to investing — the ability to update [Mental Models](../concepts/mental-models.md) without ego is one of the most underrated edges in long-term investing.
 
 ---
 

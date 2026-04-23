@@ -12,7 +12,7 @@ parent: People
 
 American environmental scientist and systems thinker (1941–2001). Research fellow at Dartmouth; co-author of *The Limits to Growth* (1972); author of *Thinking in Systems: A Primer* (published posthumously 2008). Student of Jay Forrester at MIT, where System Dynamics was developed.
 
-Meadows made systems thinking accessible. Where Forrester built the mathematical apparatus, Meadows translated it into concepts anyone could understand — stocks, flows, feedback loops, delays, and leverage points. *Thinking in Systems* is widely considered the best introduction to the field.
+Meadows made systems thinking accessible. Where Forrester built the mathematical apparatus, Meadows translated it into concepts anyone could understand — stocks, flows, feedback loops, delays, and [Leverage](../concepts/leverage.md) points. *Thinking in Systems* is widely considered the best introduction to the field.
 
 > "Before you disturb a system, understand it."
 

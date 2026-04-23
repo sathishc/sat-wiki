@@ -255,6 +255,7 @@ Requires:
 - **Dereflection** — the complement to paradoxical intention; shifting attention outward
 - **Hyperintention** — the problem paradoxical intention addresses
 - **[Will to meaning](will-to-meaning.md)** — finding meaning rather than fighting symptoms
+- **[The Struggle](the-struggle.md)** — Horowitz's account of the founder's psychological battle; paradoxical intention offers a reframe for fighting the Struggle head-on
 
 ## Practical Example: Insomnia
 

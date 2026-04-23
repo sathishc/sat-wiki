@@ -29,7 +29,7 @@ Software startups ship products in "beta" — incomplete versions that improve t
 - Skills decay rapidly (the "half-life" of technical skills is ~5 years)
 - Industries transform overnight (see [disruptive innovation](innovators-dilemma.md))
 - What worked 10 years ago doesn't work today
-- Competitive advantage is temporary; must be continuously renewed
+- [Competitive Advantage](competitive-advantage.md) is temporary; must be continuously renewed
 
 ### 2. Stability is an Illusion
 

@@ -113,7 +113,7 @@ Systems thinking is the framework that *connects* many other frameworks:
 
 **Christensen (Disruption):** The [Innovator's Dilemma](../concepts/innovators-dilemma.md) is the "Success to the Successful" archetype. The incumbent's loop (best customers → most investment) and the disruptor's loop (ignored customers → new market) run in parallel until the disruptor's loop overtakes.
 
-**Cialdini (Influence):** [Social proof](../concepts/social-proof.md) and [commitment](../concepts/commitment-and-consistency.md) are reinforcing loops in human social behaviour. [Escalation](../concepts/system-archetypes.md) (the archetype) is what happens when reciprocity runs without a balancing constraint.
+**Cialdini (Influence):** [Social proof](../concepts/social-proof.md) and [commitment](../concepts/commitment-and-consistency.md) are reinforcing loops in human social behaviour. [Escalation](../concepts/system-archetypes.md) (the archetype) is what happens when [Reciprocity](../concepts/reciprocity.md) runs without a balancing constraint.
 
 **Taleb (Antifragility):** [Black Swans](../concepts/black-swan.md) are the collapse of a reinforcing loop that has been accumulating silently. [Antifragility](../concepts/antifragility.md) is a design response: build systems that gain when the loop breaks.
 
@@ -132,7 +132,7 @@ When facing any persistent problem, ask:
 3. **What feedback loops are active?** Which are reinforcing? Which are balancing?
 4. **Where are the delays?** How long between action and feedback?
 5. **What archetype does this resemble?** Limits to Growth? Shifting the Burden?
-6. **What leverage point am I acting on?** Am I adjusting a number (Level 12) when I should be changing an information flow (Level 6)?
+6. **What [Leverage](../concepts/leverage.md) point am I acting on?** Am I adjusting a number (Level 12) when I should be changing an information flow (Level 6)?
 7. **What is the system's goal?** Is it the stated goal, or the goal revealed by actual behaviour?
 
 ---
@@ -141,5 +141,7 @@ When facing any persistent problem, ask:
 
 - [Strategy Frameworks](strategy-frameworks.md)
 - [Mental Models for Decision-Making](decision-making.md)
+- [Mental Models](../concepts/mental-models.md)
+- [Peter Senge](../people/peter-senge.md)
 - [Personal Development Frameworks](personal-development.md)
 - [Product Development](product-development.md)

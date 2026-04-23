@@ -68,7 +68,7 @@ See [Competitive Advantage](../concepts/competitive-advantage.md) — Porter's d
 | Dimension | Porter | Prahalad | Christensen | Bezos |
 |---|---|---|---|---|
 | **Starting point** | Industry structure (outside-in) | Core competencies (inside-out) | Disruptive mechanism | Customer obsession |
-| **Unit of analysis** | Industry / competitive position | Core competency / market space | Value network / disruption trajectory | Flywheel / customer lifetime value |
+| **Unit of analysis** | Industry / competitive position | [Core Competency](../concepts/core-competency.md) / market space | Value network / disruption trajectory | Flywheel / customer lifetime value |
 | **Source of advantage** | Defensible position (cost or differentiation) | Hard-to-imitate bundle of skills | Being before the disruption | Reinforcing loop at scale |
 | **Strategic advice to incumbents** | Understand forces; choose a position; build fit | Compete for the future; don't just defend today | Create separate disruption units; watch the trajectory | Stay Day 1; never stop inventing |
 | **View of competition** | Structural and industry-level | Competency-based reshaping of industries | Disruption from below or fringe | Competition is irrelevant; focus on the customer |

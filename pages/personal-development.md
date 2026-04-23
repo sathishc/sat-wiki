@@ -36,6 +36,8 @@ The wiki's content consistently supports the intrinsic track — not as a moral 
 | [Compounding](../concepts/compounding.md) | Naval | Long-term games with long-term people compound everything |
 | [Deep Work](../concepts/deep-work.md) | Newport | Distraction-free focus on cognitively demanding tasks is the mechanism of building career capital |
 | [Shallow Work](../concepts/shallow-work.md) | Newport | Non-cognitively demanding tasks expand to fill time; drain them deliberately |
+| [Mental Models](../concepts/mental-models.md) | Naval / Munger | Cross-discipline frameworks for understanding reality and making better decisions |
+| [Systems Thinking](../concepts/systems-thinking.md) | Meadows / Senge | Understanding stocks, flows, feedback loops; why systems behave as they do |
 
 ### Motivation & Engagement
 
@@ -150,7 +152,7 @@ Graham's essays on personal development are the most widely-read pieces on the t
 | [How to Work Hard](../sources/pg-hwh.md) | Different kinds of hard work; the difference between compulsive work and deliberate work; when each applies |
 | [The Bus Ticket Theory of Genius](../sources/pg-genius.md) | Genius = obsessive interest in something that turns out to matter; not rare talent but unusual obsession |
 | [Good and Bad Procrastination](../sources/pg-procrastination.md) | Type-B procrastination (ignoring small tasks to work on big ones) is actually good; the important vs. the urgent |
-| [A Project of One's Own](../sources/pg-own.md) | Intrinsic motivation: owning a project — feeling it's genuinely yours — changes how you work |
+| [A Project of One's Own](../sources/pg-own.md) | [Intrinsic Motivation](../concepts/intrinsic-motivation.md): owning a project — feeling it's genuinely yours — changes how you work |
 | [Early Work](../sources/pg-early.md) | The hardest part: taking rough early work seriously; the willingness to push through the embarrassing phase |
 | [The Right Kind of Stubborn](../sources/pg-persistence.md) | Persistence vs. obstinacy; the distinction is flexibility on methods with firmness on goals |
 | [How to Think for Yourself](../sources/pg-think.md) | Independent-minded vs. conventional-minded; why it matters for ambitious work; how to cultivate it |

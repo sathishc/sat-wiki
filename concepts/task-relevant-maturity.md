@@ -43,7 +43,7 @@ The manager who drifts into a fixed style — always coaching, always directive,
 
 ## Connection to Leverage
 
-TRM is not just about the individual employee — it is about **[managerial leverage](managerial-leverage.md)**. Mismatched management style is low-leverage: either wasted manager time on unnecessary oversight, or wasted potential from employees who could be doing more if trusted to do so.
+TRM is not just about the individual employee — it is about **[managerial leverage](managerial-leverage.md)**. Mismatched management style is low-[Leverage](leverage.md): either wasted manager time on unnecessary oversight, or wasted potential from employees who could be doing more if trusted to do so.
 
 Getting TRM calibration right is one of the highest-leverage things a manager can do consistently across their team.
 

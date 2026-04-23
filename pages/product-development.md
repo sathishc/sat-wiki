@@ -30,7 +30,7 @@ The economic foundation. Start here to understand *why* the other practices matt
 | Framework | Core insight |
 |---|---|
 | [Flow Economics](../concepts/flow-economics.md) | Optimise for economic value of delivery, not resource utilisation |
-| [Cost of Delay](../concepts/cost-of-delay.md) | Time is the most important variable; delay has compounding economic cost |
+| [Cost of Delay](../concepts/cost-of-delay.md) | Time is the most important variable; delay has [Compounding](../concepts/compounding.md) economic cost |
 | [Queues in Product Development](../concepts/queues-in-product-development.md) | Queues are the root cause of slow delivery; the utilisation trap |
 | [Little's Law](../concepts/littles-law.md) | Cycle Time = WIP ÷ Throughput; the mathematics of flow |
 | [WIP Limits](../concepts/wip-limits.md) | Constrain work in progress to control queues and restore flow |
@@ -119,7 +119,7 @@ If you're trying to improve product delivery, this is roughly the order that mat
 
 ## Cross-Framework Connections
 
-**Systems Thinking:** The utilisation trap is a [reinforcing feedback loop](../concepts/feedback-loops.md). WIP limits are a [balancing loop](../concepts/feedback-loops.md) imposed on the system. Shortening batch size is a [delay reduction](../concepts/leverage-points.md) (Level 9 leverage). Blameless post-mortems change the [information flow structure](../concepts/leverage-points.md) (Level 6).
+**Systems Thinking:** The utilisation trap is a [reinforcing feedback loop](../concepts/feedback-loops.md). WIP limits are a [balancing loop](../concepts/feedback-loops.md) imposed on the system. Shortening batch size is a [delay reduction](../concepts/leverage-points.md) (Level 9 [Leverage](../concepts/leverage.md)). Blameless post-mortems change the [information flow structure](../concepts/leverage-points.md) (Level 6).
 
 **Cialdini:** [Commitment & Consistency](../concepts/commitment-and-consistency.md) explains why teams defend broken processes — having committed to "the way we do things", inconsistency is psychologically costly. Changing the practice requires providing cover: a new commitment device (OKRs, a retro, a post-mortem action item) that makes the new behaviour the consistent choice.
 
@@ -131,6 +131,7 @@ If you're trying to improve product delivery, this is roughly the order that mat
 
 - [Strategy Frameworks](strategy-frameworks.md)
 - [Systems Thinking Primer](systems-thinking-primer.md)
+- [Mental Models](../concepts/mental-models.md)
 - [Mental Models for Decision-Making](decision-making.md)
 - [Personal Development Frameworks](personal-development.md)
 - [Startup & Founder Playbook](startup-founder-playbook.md)

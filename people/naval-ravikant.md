@@ -59,7 +59,7 @@ The last category — software and content — is the key insight for the modern
 - Most important skill in the knowledge economy
 - Good judgment is built through understanding first principles, not memorising rules
 - "The fastest way to ruin your judgment is to over-index on recent events"
-- Mental models > tactical knowledge
+- [Mental Models](../concepts/mental-models.md) > tactical knowledge
 
 ## On Happiness
 

@@ -22,7 +22,7 @@ The mechanism:
 1. WIP limit is reached → new work cannot start
 2. Team is forced to finish something before pulling new work in
 3. Queues shrink → items flow through faster
-4. Faster flow → shorter feedback loops → fewer defects accumulate → quality improves
+4. Faster flow → shorter [Feedback Loops](./feedback-loops.md) → fewer defects accumulate → quality improves
 
 ## The Counter-Intuitive Truth
 

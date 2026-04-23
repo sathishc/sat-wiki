@@ -82,10 +82,10 @@ On your deathbed, you won't count revenue or accolades. The metric is the *indiv
 |---|---|---|---|---|
 | **On disruption** | Comes from below; incumbents can't respond rationally | Compete for future markets proactively | Build principles to avoid institutional blindness | Long-term orientation and Day 1 mentality as defence |
 | **On customers** | Listen to current customers = existential risk | Current customers constrain; compete for *future* customers | Radical truth-seeking about what customers actually want | Customer obsession as durable advantage |
-| **On organisation** | RPM constrains — processes/values resist disruption | Core competencies can become core rigidities | Idea meritocracy breaks internal politics | Two-pizza teams; single-threaded ownership |
-| **On integrity** | Marginal cost trap; 100% commitment | — | Radical transparency; don't tolerate ethical lapses | Leadership Principle: Earn Trust |
+| **On organisation** | RPM constrains — processes/values resist disruption | Core competencies can become core rigidities | [Idea Meritocracy](../concepts/idea-meritocracy.md) breaks internal politics | Two-pizza teams; single-threaded ownership |
+| **On integrity** | Marginal cost trap; 100% commitment | — | [Radical Transparency](../concepts/radical-transparency.md); don't tolerate ethical lapses | Leadership Principle: Earn Trust |
 
-**Key convergence with [Prahalad](./ck-prahalad.md):** Both observe that listening to current customers causes strategic blindness. Prahalad calls it "competing for the future" vs. defending today's position; Christensen calls it the disruptive innovation trap. Different vocabularies, same mechanism.
+**Key convergence with [Prahalad](./ck-prahalad.md):** Both observe that listening to current customers causes strategic blindness. Prahalad calls it "[Competing for the Future](../concepts/competing-for-the-future.md)" vs. defending today's position; Christensen calls it the disruptive innovation trap. Different vocabularies, same mechanism.
 
 **Key convergence with [Dalio](./ray-dalio.md):** Dalio's RPM-like decomposition of organisations (resources, culture, process) mirrors Christensen's framework. Both argue that *culture and process* — not just strategy — determine what an organisation can actually do.
 

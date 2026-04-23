@@ -78,9 +78,9 @@ When the feedback signal is delayed relative to the action that produced it:
 - **Construction lag:** New housing demand rises → builders start construction → 2–3 years later, supply floods a market that may have already cooled
 - **Policy delays:** Government stimulus takes 18 months to affect employment; decisions are made with outdated feedback
 - **Boiled frog (Senge):** Temperature rises slowly; frog doesn't perceive the threat until it's too late
-- **[Cost of Delay](./cost-of-delay.md):** Decisions are made without accounting for the compounding cost of delay between problem recognition and solution delivery
+- **[Cost of Delay](./cost-of-delay.md):** Decisions are made without accounting for the [Compounding](./compounding.md) cost of delay between problem recognition and solution delivery
 
-**Managing delays:** Meadows argues that shortening feedback delays is one of the highest-leverage interventions available (Level 9 in her hierarchy). Reinertsen's insistence on short [batch sizes](./batch-size.md) and frequent releases is essentially a delay-reduction strategy.
+**Managing delays:** Meadows argues that shortening feedback delays is one of the highest-[Leverage](./leverage.md) interventions available (Level 9 in her hierarchy). Reinertsen's insistence on short [batch sizes](./batch-size.md) and frequent releases is essentially a delay-reduction strategy.
 
 ---
 

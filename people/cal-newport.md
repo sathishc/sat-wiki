@@ -18,7 +18,7 @@ Newport is unusual among productivity writers in that he bases his prescriptions
 
 ## Core Contribution
 
-Newport identified that **deep work — sustained, distraction-free focus on cognitively demanding tasks — is both increasingly rare and increasingly valuable**, and that the modern knowledge workplace is systematically destroying the conditions needed for it. The person who can still do deep work has a structural advantage that compounds over time.
+Newport identified that **deep work — sustained, distraction-free focus on cognitively demanding tasks — is both increasingly rare and increasingly valuable**, and that the modern knowledge workplace is systematically destroying the conditions needed for it. The person who can still do deep work has a structural advantage that compounds over time, creating real [Leverage](../concepts/leverage.md).
 
 His second major contribution: tool adoption should be governed by a **craftsman's standard** — not "does this have any benefit?" but "do the benefits substantially outweigh the costs to what I most value?"
 

@@ -25,7 +25,7 @@ See [sources/hoffman-startup-of-you.md](../sources/hoffman-startup-of-you.md) fo
 Core frameworks:
 - [Permanent beta](../concepts/permanent-beta.md) — treat yourself as always evolving
 - [ABZ planning](../concepts/abz-planning.md) — Plan A (current), Plan B (pivot), Plan Z (lifeboat)
-- Competitive advantage = Assets + Aspirations + Market realities
+- [Competitive Advantage](../concepts/competitive-advantage.md) = Assets + Aspirations + Market realities
 - [Network intelligence](../concepts/network-intelligence.md) and [weak ties](../concepts/weak-ties.md)
 - [I^We](../concepts/i-we.md) — individual success through collective networks
 

@@ -33,7 +33,7 @@ His deeper insight: **the skills that make a great leader in crisis are not the 
 - **[One-on-Ones](../concepts/one-on-ones.md)** — structural management tool; the employee's agenda, not the manager's
 - **[Lead Bullets](../concepts/lead-bullets.md)** — there is no silver bullet; when the company is in trouble, you have to do the actual hard work
 - **[Taking Care of the People](../concepts/taking-care-of-people.md)** — the first obligation of a CEO; the company, the customers, and the shareholders depend on it
-- **[Management Debt](../concepts/management-debt.md)** — the operational equivalent of technical debt; shortcuts in management that accrue compounding interest
+- **[Management Debt](../concepts/management-debt.md)** — the operational equivalent of technical debt; shortcuts in management that accrue [Compounding](../concepts/compounding.md) interest
 
 ## The Horowitz Test for Culture
 

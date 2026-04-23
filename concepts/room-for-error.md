@@ -29,7 +29,7 @@ This means: **the optimal plan for a predictable future is not the optimal plan 
 | Context | Room for Error means |
 |---------|---------------------|
 | **Emergency fund** | 6–12 months of expenses in cash; not for expected expenses — for the unexpected ones |
-| **Investment allocation** | Less leverage, more liquidity than optimal models suggest |
+| **Investment allocation** | Less [Leverage](leverage.md), more liquidity than optimal models suggest |
 | **Retirement planning** | Plan to need more, live longer, and earn less than your base case |
 | **Business** | Runway of 18+ months, not 6; debt capacity held in reserve |
 | **Career** | Develop skills that work in multiple scenarios, not just the current one |

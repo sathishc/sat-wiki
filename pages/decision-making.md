@@ -59,6 +59,7 @@ The good news: the biases are *predictable*. You can build systems, habits, and 
 | [Five-Step Process](../concepts/five-step-process.md) | Dalio | Explicit loop: goals → problems → diagnosis → design → execute |
 | [Skin in the Game](../concepts/skin-in-the-game.md) | Taleb | Decision-makers must bear consequences; filters false authority |
 | [Leverage Points](../concepts/leverage-points.md) | Meadows | Find where in the system to intervene; most act on the wrong level |
+| [Leverage](../concepts/leverage.md) | Naval | Use people, capital, and code to multiply output beyond individual effort |
 
 ---
 
@@ -142,4 +143,5 @@ See also: **[Paul Graham](../people/paul-graham.md)**
 
 - [Strategy Frameworks](strategy-frameworks.md)
 - [Systems Thinking Primer](systems-thinking-primer.md)
+- [Systems Thinking](../concepts/systems-thinking.md)
 - [Personal Development Frameworks](personal-development.md)

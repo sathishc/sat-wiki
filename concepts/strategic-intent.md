@@ -52,7 +52,7 @@ A goal that can be achieved with current resources is not strategic intent — i
 ## Cross-References
 
 **[Naval Ravikant](../people/naval-ravikant.md)'s [Think Big](../concepts/amazon-leadership-principles.md):**
-Naval's emphasis on choosing career paths with high leverage and ceiling is individual strategic intent — setting an ambition so large it forces capability development. Amazon LP #8 "Think Big" is the same principle institutionalised.
+Naval's emphasis on choosing career paths with high [Leverage](./leverage.md) and ceiling is individual strategic intent — setting an ambition so large it forces capability development. Amazon LP #8 "Think Big" is the same principle institutionalised.
 
 **[Dalio](../people/ray-dalio.md)'s [Five-Step Process](./five-step-process.md):**
 Step 1 of Dalio's process is "set clear goals." Strategic intent is the version of this at corporate/industry scale — the audacious goal that precedes everything else.

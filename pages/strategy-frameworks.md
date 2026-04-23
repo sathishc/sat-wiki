@@ -160,6 +160,8 @@ See also: **[Paul Graham](../people/paul-graham.md)** · **[Startup & Founder Pl
 ## Related Maps
 
 - [Mental Models for Decision-Making](decision-making.md)
+- [Mental Models](../concepts/mental-models.md)
 - [Systems Thinking Primer](systems-thinking-primer.md)
+- [Systems Thinking](../concepts/systems-thinking.md)
 - [Personal Development Frameworks](personal-development.md)
 - [Startup & Founder Playbook](startup-founder-playbook.md)

@@ -162,7 +162,7 @@ Christensen's warning about emergent vs. deliberate strategy maps onto OKR cycle
 OKRs should be more deliberate as the strategy becomes more validated. Forcing committed OKRs too early locks in assumptions before you have data.
 
 ### ↔ Cialdini (Commitment and Consistency)
-Public OKRs are deliberate **commitment devices** — they leverage [Commitment and Consistency](./commitment-and-consistency.md). Declaring a goal publicly to your organisation increases the psychological cost of abandoning it. OKR transparency is not just an alignment mechanism; it's a motivation mechanism. The social visibility creates accountability that internal resolve often cannot.
+Public OKRs are deliberate **commitment devices** — they [Leverage](./leverage.md) [Commitment and Consistency](./commitment-and-consistency.md). Declaring a goal publicly to your organisation increases the psychological cost of abandoning it. OKR transparency is not just an alignment mechanism; it's a motivation mechanism. The social visibility creates accountability that internal resolve often cannot.
 
 ### ↔ Strategic Intent (Prahalad)
 [Strategic Intent](./strategic-intent.md) is the long-range, aspirational Objective — the company OKR set at a 3–5 year horizon. Prahalad's "Encircle Caterpillar" (Komatsu) and "Beat Xerox" (Canon) are strategic intent statements that would translate directly into annual and quarterly OKRs at lower levels. OKRs are the execution cadence for a strategic intent.

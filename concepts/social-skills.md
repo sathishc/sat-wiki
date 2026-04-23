@@ -26,8 +26,8 @@ Fifth domain of [Emotional Intelligence](../concepts/emotional-intelligence.md).
 ## Why It's Not "Being Nice"
 
 Social skill in Goleman's model is **purposeful relationship management**, not superficial charm. It requires:
-- Self-awareness (knowing your impact)
-- Self-regulation (staying composed in difficult conversations)
+- [Self-Awareness](../concepts/self-awareness.md) (knowing your impact)
+- [Self-Regulation](../concepts/self-regulation.md) (staying composed in difficult conversations)
 - Empathy (reading the room)
 
 The socially skilled person moves people — toward goals, through change, into collaboration.
@@ -35,6 +35,8 @@ The socially skilled person moves people — toward goals, through change, into 
 ## Connections
 
 - **[Emotional Intelligence](../concepts/emotional-intelligence.md)** — parent concept
+- **[Self-Awareness](../concepts/self-awareness.md)** — prerequisite: knowing your own impact on others
+- **[Self-Regulation](../concepts/self-regulation.md)** — prerequisite: staying composed in difficult conversations
 - **[Empathy](../concepts/empathy.md)** — prerequisite for effective social skills
 - **[Daniel Goleman](../people/daniel-goleman.md)** — source framework
 - **[Psychological Safety](../concepts/psychological-safety.md)** — social skill of the leader determines team safety
