@@ -143,6 +143,28 @@ The [Innovator's Dilemma](./innovators-dilemma.md) is the mechanism of competiti
 - [Specific Knowledge](./specific-knowledge.md) — Naval's individual-level parallel to competitive advantage
 - [Michael Porter](../people/michael-porter.md)
 
+## Individual-Level Competitive Advantage
+
+[Reid Hoffman](../people/reid-hoffman.md) applies competitive advantage thinking to individual careers in [*The Start-up of You*](../sources/hoffman-startup-of-you.md):
+
+**Your competitive advantage = Assets + Aspirations + Market Realities**
+
+- **Assets:** Skills, knowledge, connections, reputation (soft assets) + cash, physical possessions (hard assets)
+- **Aspirations:** Your values, vision, what gives your life meaning
+- **Market Realities:** Supply and demand for what you offer; what people will pay for
+
+**Your edge must be:**
+1. **Differentiated** — unique, hard to replicate
+2. **Valuable** — solves a real problem for others
+3. **Durable** — doesn't disappear overnight (but nothing lasts forever; see [permanent beta](permanent-beta.md))
+
+**Connection to Porter:** Hoffman translates Porter's firm-level framework (cost/differentiation) into individual career strategy. Your assets and market position determine whether you compete on specialized expertise (differentiation) or efficiency/execution (cost).
+
+Related individual frameworks:
+- [Specific knowledge](specific-knowledge.md) (Naval) — the knowledge that makes you irreplaceable
+- [Permanent beta](permanent-beta.md) (Hoffman) — competitive advantage must be continuously renewed
+- [Network intelligence](network-intelligence.md) (Hoffman) — your network is part of your competitive advantage
+
 ## Connections
 
 - **[Michael Porter](../people/michael-porter.md)** — originator of competitive advantage as a rigorous concept
@@ -152,3 +174,4 @@ The [Innovator's Dilemma](./innovators-dilemma.md) is the mechanism of competiti
 - **[Core Competency](./core-competency.md)** — Prahalad's inside-out view of sustainable advantage
 - **[Innovators Dilemma](./innovators-dilemma.md)** — how disruption defeats established competitive positions
 - **[Specific Knowledge](./specific-knowledge.md)** — Naval's individual-level parallel to firm competitive advantage
+- **[Reid Hoffman](../people/reid-hoffman.md)** — applies competitive advantage to career strategy

@@ -44,6 +44,9 @@ Navigational synthesis pages — each one a curated map of a domain, not a refer
 - [Ron Westrum](people/ron-westrum.md) — Sociologist; cultural typologies (pathological, bureaucratic, generative); culture as information processing architecture. Tags: `culture`, `organisations`, `safety`, `information-flow`, `devops`
 - [David Allen](people/david-allen.md) — Productivity consultant; *Getting Things Done* (GTD); trusted system, mind like water, natural planning. Tags: `productivity`, `gtd`, `workflow`, `author`
 - [Viktor Frankl](people/viktor-frankl.md) — Psychiatrist and Holocaust survivor; founder of logotherapy; *Man's Search for Meaning*; will to meaning, existential vacuum, tragic triad. Tags: `logotherapy`, `meaning`, `existentialism`, `psychology`, `holocaust`
+- [Reid Hoffman](people/reid-hoffman.md) — Co-founder of LinkedIn; Greylock partner; *The Start-up of You*; applies startup thinking to careers; network intelligence, permanent beta, ABZ planning. Tags: `linkedin`, `startups`, `networking`, `career`, `venture-capital`
+- [Ben Casnocha](people/ben-casnocha.md) — Entrepreneur and writer; co-author with Reid Hoffman; *The Start-up of You*, *The Alliance*. Tags: `entrepreneurship`, `writing`, `career`, `startups`
+- [Mark Granovetter](people/mark-granovetter.md) — Sociologist; Stanford professor; "The Strength of Weak Ties" (1973); foundational work on social networks and information flow. Tags: `sociology`, `networks`, `weak-ties`, `social-networks`, `information-flow`
 
 ---
 
@@ -53,6 +56,8 @@ Navigational synthesis pages — each one a curated map of a domain, not a refer
 - [Specific Knowledge](concepts/specific-knowledge.md) — Knowledge you cannot be trained for; foundation of irreplaceable value. Tags: `wealth`, `career`, `naval`
 - [Leverage](concepts/leverage.md) — Labour, capital, permissionless code/media. Tags: `wealth`, `leverage`, `naval`
 - [Compounding](concepts/compounding.md) — Universal law rewarding long-term thinking. Tags: `wealth`, `long-term`, `naval`
+- [Permanent Beta](concepts/permanent-beta.md) — You are never finished; always evolving. Treat yourself as a work in progress; adapt continuously. Tags: `career`, `growth`, `adaptation`, `hoffman`, `startups`
+- [ABZ Planning](concepts/abz-planning.md) — Plan A (current path), Plan B (pivot), Plan Z (lifeboat). Startup pivoting applied to careers. Tags: `career`, `strategy`, `risk`, `hoffman`, `optionality`, `planning`
 
 ### Risk & Systems
 - [Antifragility](concepts/antifragility.md) — Systems that gain from disorder. Tags: `antifragile`, `risk`, `taleb`
@@ -96,6 +101,11 @@ Navigational synthesis pages — each one a curated map of a domain, not a refer
 ### Productivity & Focus (Newport)
 - [Deep Work](concepts/deep-work.md) — Distraction-free concentration on cognitively demanding tasks; four philosophies; four rules; busyness vs. productivity. Tags: `newport`, `productivity`, `focus`, `attention`, `flow`, `craft`
 - [Shallow Work](concepts/shallow-work.md) — Non-cognitively demanding logistical tasks that expand to fill time; the busyness trap; how to drain them. Tags: `newport`, `productivity`, `distraction`, `email`, `meetings`
+
+### Networks & Relationships (Hoffman / Granovetter)
+- [Network Intelligence](concepts/network-intelligence.md) — Your network is your net worth; opportunities, information, and resources flow through relationships. Tags: `networking`, `career`, `information`, `hoffman`, `relationships`, `leverage`
+- [Weak Ties](concepts/weak-ties.md) — Acquaintances are more valuable than close friends for accessing new information and opportunities; Granovetter's foundational research. Tags: `networking`, `granovetter`, `information`, `opportunities`, `sociology`
+- [I^We (I to the We)](concepts/i-we.md) — Individual capabilities exponentially amplified by collective network; "I" to the power of "We". Tags: `networking`, `leverage`, `hoffman`, `collaboration`, `collective-intelligence`
 
 ### Productivity & Workflow (Allen / GTD)
 - [GTD Workflow](concepts/gtd-workflow.md) — Getting Things Done: capture → clarify → organise → reflect → engage. The complete workflow methodology. Tags: `allen`, `gtd`, `productivity`, `workflow`
@@ -180,3 +190,4 @@ Navigational synthesis pages — each one a curated map of a domain, not a refer
 - [sources/westrum-cultural-typologies.md](sources/westrum-cultural-typologies.md) — Westrum Cultural Typologies; Accelerate (Forsgren, Humble, Kim). Ingested 2026-04-17.
 - [sources/allen-getting-things-done.md](sources/allen-getting-things-done.md) — Getting Things Done by David Allen. Ingested 2026-04-19.
 - [sources/frankl-mans-search-for-meaning.md](sources/frankl-mans-search-for-meaning.md) — Man's Search for Meaning by Viktor Frankl. Ingested 2026-04-19.
+- [sources/hoffman-startup-of-you.md](sources/hoffman-startup-of-you.md) — The Start-up of You by Reid Hoffman & Ben Casnocha. Ingested 2026-04-23.

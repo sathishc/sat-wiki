@@ -126,6 +126,10 @@ Naval describes his philosophy as "rational Buddhism" — taking the empirically
 - [Happiness](../concepts/happiness.md)
 - [Rational Buddhism](../concepts/rational-buddhism.md)
 
+## Relation to Other Thinkers
+
+- **[Reid Hoffman](reid-hoffman.md):** Both emphasize building leverage, specific knowledge, and long-term compounding. Naval focuses on permissionless leverage (code/media) and individual wealth creation; Hoffman emphasizes networks as leverage and collaborative career strategy. See [network intelligence](../concepts/network-intelligence.md) and [I^We](../concepts/i-we.md).
+
 ## Sources
 
 - **[The Almanack of Naval Ravikant](../sources/naval-almanack.md)** — Compiled wisdom from Naval's writings and talks on wealth creation, happiness, and philosophy
