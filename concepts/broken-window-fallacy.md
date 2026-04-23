@@ -54,7 +54,7 @@ The same logical error underlies dozens of persistent policy fallacies:
 
 The broken window fallacy is a specific instance of the [Seen vs Unseen](./seen-vs-unseen.md) framework. It connects to:
 
-- **[Taleb](../people/nassim-taleb.md):** Naive intervention — "helping" by breaking windows is the same structure as smoothing out volatility that the system needed. The unseen cost is the antifragility you destroyed.
+- **[Taleb](../people/nassim-taleb.md):** Naive intervention — "helping" by breaking windows is the same structure as smoothing out volatility that the system needed. The unseen cost is the [Antifragility](./antifragility.md) you destroyed.
 - **[Reinertsen](../people/donald-reinertsen.md):** Adding more [WIP](./wip-limits.md) "looks like" more progress (seen: everyone is busy) while invisibly destroying cycle time (unseen: queue growth).
 - **[Dalio](../people/ray-dalio.md):** The manager who avoids conflict is "keeping the peace" (seen) while allowing problems to compound (unseen).
 - **[Amazon](../concepts/amazon-leadership-principles.md) Dive Deep (#12):** "Leaders stay connected to the details." Surface metrics hide the broken windows.

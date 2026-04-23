@@ -24,7 +24,7 @@ We are motivated to appear consistent because inconsistency signals unreliabilit
 
 ## Techniques
 
-**Foot-in-the-door:** Get a small commitment first; larger requests follow more easily. Once someone agrees to a small ask, they're now "the kind of person who agrees to this." Escalating asks leverage that identity.
+**Foot-in-the-door:** Get a small commitment first; larger requests follow more easily. Once someone agrees to a small ask, they're now "the kind of person who agrees to this." Escalating asks [Leverage](./leverage.md) that identity.
 
 **Lowball:** Agree to a deal, then change the terms after commitment is made. People often proceed anyway because they've already committed mentally — and backing out would be inconsistent.
 

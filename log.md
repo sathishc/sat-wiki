@@ -437,3 +437,6 @@ Ingested Viktor Frankl's *Man's Search for Meaning* (1946/1959). Created: source
 ## [2026-04-18] ingest | Michael Porter — Competitive Strategy & Competitive Advantage
 
 Ingested Porter's two foundational strategy books. Created: sources/porter-competitive-strategy.md, people/michael-porter.md, concepts/porters-five-forces.md, concepts/competitive-advantage.md, concepts/generic-strategies.md, concepts/value-chain.md, concepts/industry-analysis.md. Updated: people/ck-prahalad.md (added Porter vs Prahalad outside-in/inside-out contrast), pages/strategy-frameworks.md (new Industry-Level Analysis section, Porter vs Prahalad debate, extended 9-step sequence), index.md (People + Strategy + Sources). Lint: 0 broken links.
+
+## [2026-04-23] lint | index drift + cross-reference pass
+Added 93 missing entries to index.md (pages: startup-founder-playbook, wealth-and-money; people: adam-grant, andy-grove, ben-horowitz, daniel-goleman, james-clear, jonathan-haidt, morgan-housel, paul-graham, peter-thiel; 42 concepts including all Thiel/Horowitz/Haidt/Goleman/Housel/PG concepts; 40 sources including all PG essays and book sources). Fixed missing inline cross-references across concepts/, people/, and pages/ — first-mention linking for entities with their own pages.

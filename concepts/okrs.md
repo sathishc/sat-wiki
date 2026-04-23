@@ -10,7 +10,7 @@ parent: Concepts
 
 # OKRs (Objectives and Key Results)
 
-A goal-setting framework developed by Andy Grove at Intel in the 1970s, popularised by [John Doerr](../people/john-doerr.md) and widely adopted across the technology industry after Google implemented it in 1999.
+A goal-setting framework developed by [Andy Grove](../people/andy-grove.md) at Intel in the 1970s, popularised by [John Doerr](../people/john-doerr.md) and widely adopted across the technology industry after Google implemented it in 1999.
 
 OKRs separate two things that most goal-setting conflates:
 - **Objective** — *what* you want to achieve (qualitative, inspirational, directional)

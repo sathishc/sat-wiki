@@ -50,7 +50,7 @@ Each transition requires a different value proposition and a different sales mot
 
 | | Early Adopter | Early Majority |
 |---|---|---|
-| **Goal** | Revolutionary competitive advantage | Incremental productivity improvement |
+| **Goal** | Revolutionary [Competitive Advantage](./competitive-advantage.md) | Incremental productivity improvement |
 | **Risk tolerance** | High; will be a pioneer | Low; wants proven, low-risk adoption |
 | **Vendor relationship** | Wants to co-create the product | Wants a reliable, complete vendor |
 | **References** | Doesn't need them | Needs them — from *other pragmatists* |

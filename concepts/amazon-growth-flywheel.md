@@ -76,7 +76,7 @@ Prime locks customers into the flywheel. Every new Prime benefit (Whole Foods di
 
 ## Connection to Other Frameworks
 
-### [Compounding](./compounding.md) — Naval Ravikant
+### [Compounding](./compounding.md) — [Naval Ravikant](../people/naval-ravikant.md)
 The flywheel is compounding operationalised at corporate scale. Each loop doesn't just maintain — it builds. The effect is exponential over time, indistinguishable from compound interest in its structural logic.
 
 ### [Antifragility](./antifragility.md) — Taleb
@@ -90,7 +90,7 @@ AWS is leverage in Naval's sense: a software platform with near-zero marginal co
 
 ## The Flywheel vs The Hedgehog Concept
 
-Jim Collins' *Good to Great* describes the "Hedgehog Concept" — what you can be best in the world at. Amazon's flywheel is a specific implementation: the Hedgehog is customer experience; the flywheel is the mechanism by which customer experience translates into durable competitive advantage.
+Jim Collins' *Good to Great* describes the "Hedgehog Concept" — what you can be best in the world at. Amazon's flywheel is a specific implementation: the Hedgehog is customer experience; the flywheel is the mechanism by which customer experience translates into durable [Competitive Advantage](./competitive-advantage.md).
 
 ## Related Pages
 

@@ -30,7 +30,7 @@ Haidt's answer: **both are partly right and mostly wrong.** Happiness comes from
 |---|------|---------------|
 | 1 | **The Divided Self** | Reason doesn't rule — emotion/intuition does; the rider narrates what the elephant decides |
 | 2 | **Changing Your Mind** | The elephant learns through repetition and experience, not argument; meaningful change is slow |
-| 3 | **Reciprocity** | The golden rule is universal and pre-rational; reciprocity shapes social life more than reason |
+| 3 | **[Reciprocity](reciprocity.md)** | The golden rule is universal and pre-rational; reciprocity shapes social life more than reason |
 | 4 | **Hypocrisy & Self-Deception** | We see others' faults clearly and our own almost not at all; motivated reasoning is the default |
 | 5 | **The Pursuit of Happiness** | Achievement disappoints; adaptation resets the baseline; the hedonic treadmill is real |
 | 6 | **Love and Attachment** | Secure attachment is foundational; the need to belong is not a luxury but a biological imperative |

@@ -37,13 +37,13 @@ This is why the two-minute rule works: doing a scaled-down version of a habit st
 
 ## Relationship to Other Frameworks
 
-### Robert Cialdini — Commitment and Consistency
+### [Robert Cialdini](../people/robert-cialdini.md) — Commitment and Consistency
 Once a person accepts a self-image ("I am someone who…"), internal psychological pressure drives behaviour into alignment with that image. Habit formation exploits this mechanism deliberately. See [Commitment and Consistency](../concepts/commitment-and-consistency.md).
 
-### Jonathan Haidt — The Elephant
+### [Jonathan Haidt](../people/jonathan-haidt.md) — The Elephant
 Identity operates at the elephant level, not the rider level. Trying to change behaviour through willpower (rider) without changing self-concept (elephant) is exhausting and unsustainable. Identity-based habits are a method for retraining the elephant. See [Rider and Elephant](../concepts/rider-and-elephant.md).
 
-### Daniel Goleman — Self-Awareness
+### [Daniel Goleman](../people/daniel-goleman.md) — Self-Awareness
 Self-awareness is prerequisite to identity change: you can't reshape an identity you haven't observed. Goleman's work on emotional intelligence — particularly the self-awareness cluster — provides the observational foundation that makes identity-based habit-building possible. See [Self-Awareness](../concepts/self-awareness.md).
 
 ## Connections

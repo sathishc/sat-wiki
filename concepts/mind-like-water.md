@@ -10,7 +10,7 @@ parent: Concepts
 
 # Mind Like Water
 
-A martial arts metaphor used by David Allen to describe the ideal mental state for knowledge work: calm, fully present, and responsive in exact proportion to the situation.
+A martial arts metaphor used by [David Allen](../people/david-allen.md) to describe the ideal mental state for knowledge work: calm, fully present, and responsive in exact proportion to the situation.
 
 ## The Metaphor
 

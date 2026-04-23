@@ -12,7 +12,7 @@ parent: Concepts
 
 If a clarified action takes less than two minutes to complete, **do it immediately** — during the clarify step, not later.
 
-> "If the action will take less than two minutes, it should be done the moment it's defined." — David Allen
+> "If the action will take less than two minutes, it should be done the moment it's defined." — [David Allen](../people/david-allen.md)
 
 ## The Logic
 
@@ -34,7 +34,7 @@ The two-minute rule delivers immediate, visible results. In your first GTD inbox
 
 The rule is most powerful as a **default policy** rather than a per-item decision. When you've internalised "if it's <2 minutes I just do it," you stop agonising over whether to defer the quick reply or the short task.
 
-James Clear ([Atomic Habits](./habit-loop.md)) has a related concept — the **Two-Minute Rule** for habit formation: scale any habit down to a version that takes two minutes, to lower the activation barrier. Allen's and Clear's two-minute rules are different in purpose but both reduce friction as a first principle.
+[James Clear](../people/james-clear.md) ([Atomic Habits](./habit-loop.md)) has a related concept — the **Two-Minute Rule** for habit formation: scale any habit down to a version that takes two minutes, to lower the activation barrier. Allen's and Clear's two-minute rules are different in purpose but both reduce friction as a first principle.
 
 ## Related Concepts
 

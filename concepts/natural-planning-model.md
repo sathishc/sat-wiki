@@ -10,7 +10,7 @@ parent: Concepts
 
 # Natural Planning Model
 
-David Allen's five-phase framework for how the brain plans effectively — and a critique of how most organisational planning skips the most important phases.
+[David Allen](../people/david-allen.md)'s five-phase framework for how the brain plans effectively — and a critique of how most organisational planning skips the most important phases.
 
 ## The Five Phases
 
@@ -74,7 +74,7 @@ Allen argues this isn't just inefficient — it's why projects stay in crisis. T
 - **[Dalio's Five-Step Process](./five-step-process.md)** — similar loop, different altitude. Dalio's process is for iterative goal pursuit; Allen's natural planning model is for project initiation.
 - **[OKRs](./okrs.md)** — Outcome visioning maps to the "Key Results" definition step; purpose maps to the "Objective".
 - **[Strategic Intent](./strategic-intent.md)** — Hamel & Prahalad's concept of an "envisioned future" is Phase 2 applied at company level.
-- **[Competing for the Future](./competing-for-the-future.md)** — strategic visioning as a core competency.
+- **[Competing for the Future](./competing-for-the-future.md)** — strategic visioning as a [Core Competency](./core-competency.md).
 
 ## Why It Works
 

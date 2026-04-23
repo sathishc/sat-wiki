@@ -53,7 +53,7 @@ Envy is uniquely toxic because it offers no upside — you feel bad without gain
 - **[Naval Ravikant](../people/naval-ravikant.md)** — happiness as subtracting desire, not adding achievements
 - **[Rational Buddhism](./rational-buddhism.md)** — the philosophical foundation for Naval's happiness framework
 - **[Flow (Optimal Experience)](./flow-optimal-experience.md)** — Csikszentmihalyi's eudaimonic complement: happiness through engagement
-- **[Specific Knowledge](./specific-knowledge.md)** — doing what you love builds specific knowledge; intrinsic motivation aligns with happiness
+- **[Specific Knowledge](./specific-knowledge.md)** — doing what you love builds specific knowledge; [Intrinsic Motivation](./intrinsic-motivation.md) aligns with happiness
 - **[Mihaly Csikszentmihalyi](../people/mihaly-csikszentmihalyi.md)** — autotelic experience as the experiential basis of happiness
 - **[Jonathan Haidt](../people/jonathan-haidt.md)** — additive counterpart: H = S + C + V; conditions and voluntary activities matter
 - **[Happiness Hypothesis](./happiness-hypothesis.md)** — Haidt's ten great ideas; "happiness comes from between"

@@ -15,7 +15,7 @@ A manager's output is not the work they personally produce. Grove's formula:
 
 This reframes the manager's job entirely. If your value is measured by what you personally do, you are thinking like an individual contributor. If your value is measured by what your *team* produces — and by how much you multiply the effectiveness of others — you are thinking like a manager.
 
-Since a manager's time is finite and fixed, the job becomes one of **leverage**: identifying and concentrating on the activities that produce the greatest amplification of team output per hour invested.
+Since a manager's time is finite and fixed, the job becomes one of **[Leverage](leverage.md)**: identifying and concentrating on the activities that produce the greatest amplification of team output per hour invested.
 
 ## High-Leverage Activities
 

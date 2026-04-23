@@ -55,7 +55,7 @@ Hoffman's entire career has been about building and leveraging networks:
 - **[Clayton Christensen](clayton-christensen.md):** Applies [Jobs to Be Done](../concepts/jobs-to-be-done.md) thinking to careers — what job is the market hiring you to do?
 - **[Nassim Taleb](nassim-taleb.md):** [ABZ planning](../concepts/abz-planning.md) mirrors Taleb's [barbell strategy](../concepts/barbell-strategy.md) — safe base + aggressive upside.
 - **[Mark Granovetter](mark-granovetter.md):** Builds directly on Granovetter's [weak ties](../concepts/weak-ties.md) research.
-- **Peter Thiel:** Both PayPal alumni; shared emphasis on network effects and contrarian thinking, but Hoffman is more collaborative/networked while Thiel emphasizes monopoly/competition.
+- **[Peter Thiel](peter-thiel.md):** Both PayPal alumni; shared emphasis on network effects and contrarian thinking, but Hoffman is more collaborative/networked while Thiel emphasizes monopoly/competition.
 
 ## Notable Quotes
 

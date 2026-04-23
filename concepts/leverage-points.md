@@ -12,7 +12,7 @@ parent: Concepts
 
 [Donella Meadows'](../people/donella-meadows.md) hierarchy of places to intervene in a system, ranked from **least to most effective**. Originally published as a 1999 essay; expanded in *Thinking in Systems* (2008).
 
-The central insight: **most policy interventions target the bottom of this hierarchy** — changing numbers and parameters — while the highest leverage interventions (changing information flows, goals, and paradigms) are consistently underutilised because they are harder to see, harder to agree on, and more politically threatening.
+The central insight: **most policy interventions target the bottom of this hierarchy** — changing numbers and parameters — while the highest [Leverage](./leverage.md) interventions (changing information flows, goals, and paradigms) are consistently underutilised because they are harder to see, harder to agree on, and more politically threatening.
 
 > "Before you disturb a system, understand it." — Meadows
 

@@ -79,6 +79,7 @@ Dalio warns against **confusing rationalising with rational**. A mental model ca
 - **[Seen vs Unseen](./seen-vs-unseen.md)** — the seen/unseen framework is itself a foundational mental model
 - **[Specific Knowledge](./specific-knowledge.md)** — deep domain knowledge provides the best mental models in that domain
 - **[Leverage Points](./leverage-points.md)** — knowing where to intervene requires accurate mental models of the system
+- **[Leverage](./leverage.md)** — good mental models identify where to apply leverage for maximum effect
 
 ## Source
 

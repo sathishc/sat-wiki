@@ -14,7 +14,7 @@ In [GTD](./gtd-workflow.md), a **context** is the tool, location, or condition r
 
 ## Classic Contexts
 
-Allen's original examples were physical:
+[David Allen](../people/david-allen.md)'s original examples were physical:
 - `@phone` — needs a phone
 - `@computer` — needs a computer
 - `@errands` — tasks done while out and about

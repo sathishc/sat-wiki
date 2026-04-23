@@ -27,7 +27,7 @@ Large batches cause problems across every stage of the development system:
 
 ## The Economics of Small Batches
 
-Small batches have compounding benefits:
+Small batches have [Compounding](./compounding.md) benefits:
 
 1. **Faster feedback** — you learn what works sooner
 2. **Reduced risk** — less can go wrong; easier to diagnose when it does

@@ -14,7 +14,7 @@ parent: Concepts
 
 > "The learning organisation is an organisation that is continually expanding its capacity to create its future."
 
-The underlying claim: in a complex, rapidly changing environment, the only durable competitive advantage is the ability to learn faster than competitors. Not current products, not current processes, not current people — but the capacity to generate new capability continuously.
+The underlying claim: in a complex, rapidly changing environment, the only durable [Competitive Advantage](./competitive-advantage.md) is the ability to learn faster than competitors. Not current products, not current processes, not current people — but the capacity to generate new capability continuously.
 
 ---
 
@@ -72,7 +72,7 @@ Most organisations only practise discussion. Teams that can move into dialogue g
 The Fifth Discipline — and the integrating framework that makes the others cohere.
 
 Without systems thinking:
-- Personal mastery is individual self-improvement without organisational leverage
+- Personal mastery is individual self-improvement without organisational [Leverage](./leverage.md)
 - Mental models can be updated without seeing the feedback structures that produce outcomes
 - Shared vision creates energy without direction
 - Team learning produces insight without systemic understanding

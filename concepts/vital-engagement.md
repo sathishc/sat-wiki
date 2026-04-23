@@ -11,7 +11,7 @@ The combination of **flow** (absorbed challenge) and **meaning** (personal signi
 
 ## Origin
 
-The term comes from the work of psychologists Jeanne Nakamura and Mihaly Csikszentmihalyi. Haidt uses it in *The Happiness Hypothesis* to describe what he calls **"social engagement"** and **"vital engagement"** as the two types of positive involvement that produce lasting wellbeing — as opposed to passive pleasure or mere activity.
+The term comes from the work of psychologists Jeanne Nakamura and [Mihaly Csikszentmihalyi](../people/mihaly-csikszentmihalyi.md). Haidt uses it in *The Happiness Hypothesis* to describe what he calls **"social engagement"** and **"vital engagement"** as the two types of positive involvement that produce lasting wellbeing — as opposed to passive pleasure or mere activity.
 
 ## The Two Components
 

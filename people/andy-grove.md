@@ -26,7 +26,7 @@ Key pillars of his philosophy:
 
 ## OKRs (Objectives and Key Results)
 
-Grove invented the goal-setting system he called **iMBOs** (Intel Management by Objectives). John Doerr learned the system as an Intel engineer and later introduced it to Google, where it spread across Silicon Valley as [OKRs](../concepts/okrs.md). Grove's version was characterised by aggressive, stretch goals, transparent cascading through the organisation, and a clear separation between objectives (qualitative direction) and key results (quantitative proof).
+Grove invented the goal-setting system he called **iMBOs** (Intel Management by Objectives). [John Doerr](john-doerr.md) learned the system as an Intel engineer and later introduced it to Google, where it spread across Silicon Valley as [OKRs](../concepts/okrs.md). Grove's version was characterised by aggressive, stretch goals, transparent cascading through the organisation, and a clear separation between objectives (qualitative direction) and key results (quantitative proof).
 
 ## Strategic Inflection Points
 
@@ -42,9 +42,9 @@ In *Only the Paranoid Survive* (1996), Grove introduced the concept of the **[St
 ## Influence
 
 - **John Doerr** learned OKRs from Grove at Intel and spread them globally
-- **Ben Horowitz** calls *High Output Management* the best management book ever written for practising CEOs
+- **[Ben Horowitz](ben-horowitz.md)** calls *High Output Management* the best management book ever written for practising CEOs
 - Grove's output-first framing rhymes with **Donald Reinertsen's** flow economics and throughput focus
-- **Peter Thiel's** paranoia-as-competitive-strategy echoes Grove's "only the paranoid survive" thesis
+- **[Peter Thiel](peter-thiel.md)'s** paranoia-as-competitive-strategy echoes Grove's "only the paranoid survive" thesis
 
 ## Sources
 

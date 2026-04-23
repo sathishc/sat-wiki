@@ -49,7 +49,7 @@ Tail events require patience that feels irrational. You hold through years of un
 - **[Psychology of Money](../concepts/psychology-of-money.md)** — lesson 6 (Tails, You Win)
 - **[Room for Error](../concepts/room-for-error.md)** — the structural response to tail risk
 - **[Power Law (Startups)](../concepts/power-law-startups.md)** — Thiel's version of the same distribution
-- **[Nassim Taleb](../people/nassim-taleb.md)** — Black Swan / Extremistan; fat tails; same mathematics, different framing
+- **[Nassim Taleb](../people/nassim-taleb.md)** — [Black Swan](black-swan.md) / Extremistan; fat tails; same mathematics, different framing
 - **[Compounding](../concepts/compounding.md)** — compounding *is* tail event capture over time
 
 ## Source

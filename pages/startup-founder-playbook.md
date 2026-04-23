@@ -15,8 +15,8 @@ A navigational map of the startup strategy and founder leadership content in thi
 
 ## The Two Essential Reads for Founders
 
-> **Peter Thiel** tells you what kind of company to build and why.
-> **Ben Horowitz** tells you what it actually feels like to build it.
+> **[Peter Thiel](../people/peter-thiel.md)** tells you what kind of company to build and why.
+> **[Ben Horowitz](../people/ben-horowitz.md)** tells you what it actually feels like to build it.
 
 These books are complementary, not competing. Thiel operates at the level of business theory and strategy. Horowitz operates at the level of operational reality and psychological truth. A founder who has read only Thiel knows what to aim for but may be blindsided by the human difficulty. A founder who has read only Horowitz knows how to survive but may be building the wrong thing.
 
@@ -137,7 +137,7 @@ Horowitz: the first serious stress will come. It always does. The founding team'
 ## Connections to the Rest of the Wiki
 
 ### Thiel ↔ Porter
-Porter says: choose a good industry, pick a generic strategy, defend it. Thiel says: *escape* competitive industries entirely. These are complementary, not contradictory — Porter's Five Forces can help you *identify* where monopoly conditions are achievable; Thiel's framework tells you what to do once you're there.
+Porter says: choose a good industry, pick a generic strategy, defend it. Thiel says: *escape* competitive industries entirely. These are complementary, not contradictory — [Porter's Five Forces](../concepts/porters-five-forces.md) can help you *identify* where monopoly conditions are achievable; Thiel's framework tells you what to do once you're there.
 
 ### Thiel ↔ Moore
 Thiel: start with a small niche and dominate it before expanding. Moore: the bowling alley — dominate one segment, use it as a reference to crack the next. Both say: **say no to the big market until you've won the small one.**

@@ -71,7 +71,7 @@ The fatal error of many would-be disruptors: aiming at the incumbent's best cust
 
 ## Integration vs. Modularisation
 
-A key framework for understanding *where profit lives* in any value chain at any point in time.
+A key framework for understanding *where profit lives* in any [Value Chain](./value-chain.md) at any point in time.
 
 **Rule:**
 - **Integrate** (control more of the value chain in-house) when performance is **not yet good enough** — the product doesn't yet do what customers need, and interdependencies between components determine performance

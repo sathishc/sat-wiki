@@ -12,7 +12,7 @@ parent: Concepts
 
 The cornerstone habit of [GTD](./gtd-workflow.md). A dedicated time each week to clear, update, and elevate — ensuring the [trusted system](./trusted-system.md) stays current and the mind stays clear.
 
-> "The Weekly Review is the master key to GTD. Without it, the whole system winds down." — David Allen
+> "The Weekly Review is the master key to GTD. Without it, the whole system winds down." — [David Allen](../people/david-allen.md)
 
 ## The Three-Phase Structure
 

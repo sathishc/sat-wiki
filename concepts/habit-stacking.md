@@ -41,7 +41,7 @@ Habit stacking works best when the environment is also engineered: placing the j
 ### Donald Reinertsen — Reducing Friction
 Reinertsen's work on flow in product development treats activation energy as a cost to be minimised. Habit stacking is the personal-behaviour equivalent: by attaching a new habit to an existing cue, you reduce the activation energy required to start. See [Donald Reinertsen](../people/donald-reinertsen.md).
 
-### Jonathan Haidt — Shaping the Path
+### [Jonathan Haidt](../people/jonathan-haidt.md) — Shaping the Path
 Haidt's metaphor of shaping the path for the elephant applies directly: habit stacking restructures the environment and sequence of events so the elephant (automatic behaviour) naturally arrives at the right action without requiring the rider (willpower) to intervene. See [Rider and Elephant](../concepts/rider-and-elephant.md).
 
 ## Connections

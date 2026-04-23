@@ -52,7 +52,7 @@ Christensen's disruption mechanism ([Disruptive Innovation](./innovators-dilemma
 ## Industry Analysis vs. Competitive Advantage
 Porter's two books are complementary:
 - *Competitive Strategy* (1980) — industry-level analysis; Five Forces; which industry to enter and how to position within it
-- *Competitive Advantage* (1985) — firm-level analysis; value chain; how to actually build and sustain a cost or differentiation advantage within the chosen position
+- *Competitive Advantage* (1985) — firm-level analysis; [Value Chain](./value-chain.md); how to actually build and sustain a cost or differentiation advantage within the chosen position
 
 ## PESTLE as Complement
 Porter's Five Forces focuses on industry economics. PESTLE (Political, Economic, Social, Technological, Legal, Environmental) is a complementary macro-environment scan — it identifies forces that may reshape industry structure over time (e.g., regulatory change as a new entry barrier, or technology as an enabler of substitutes).

@@ -10,7 +10,7 @@ parent: Concepts
 
 # Core Competency
 
-Introduced by [C.K. Prahalad](../people/ck-prahalad.md) and Gary Hamel in their landmark 1990 HBR article "The Core Competence of the Corporation." The concept that redefined how companies think about competitive advantage — shifting the lens from **products and business units** to the **underlying capabilities** that produce them.
+Introduced by [C.K. Prahalad](../people/ck-prahalad.md) and Gary Hamel in their landmark 1990 HBR article "The Core Competence of the Corporation." The concept that redefined how companies think about [Competitive Advantage](./competitive-advantage.md) — shifting the lens from **products and business units** to the **underlying capabilities** that produce them.
 
 > "A company is not a portfolio of businesses — it is a portfolio of competencies."
 

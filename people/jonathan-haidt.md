@@ -48,7 +48,7 @@ Haidt's worldview has two pillars:
 |------|---------------|----------------|
 | The divided self | Plato's chariot, Buddha | Dual-process cognition; the elephant drives |
 | Changing your mind | Stoics, Buddhism | CBT works; but the elephant learns slowly |
-| Reciprocity | Confucius, golden rule | Reciprocity is universal and pre-rational |
+| [Reciprocity](../concepts/reciprocity.md) | Confucius, golden rule | Reciprocity is universal and pre-rational |
 | Hypocrisy and self-deception | Most traditions | Motivated reasoning; WEIRD moral psychology |
 | The pursuit of happiness | Epicurus, JS Mill | Adaptation; set point; conditions matter more than outcomes |
 | Love and attachment | Aristotle, Christianity | Attachment theory; secure base; need to belong |

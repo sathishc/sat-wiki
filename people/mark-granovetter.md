@@ -8,7 +8,7 @@ sources: [sources/hoffman-startup-of-you.md]
 
 # Mark Granovetter
 
-American sociologist; professor at Stanford. Best known for his groundbreaking 1973 paper "The Strength of Weak Ties," one of the most cited papers in social science.
+American sociologist; professor at Stanford. Best known for his groundbreaking 1973 paper "The Strength of [Weak Ties](../concepts/weak-ties.md)," one of the most cited papers in social science.
 
 ## Background
 

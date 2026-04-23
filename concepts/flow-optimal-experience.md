@@ -156,7 +156,7 @@ Herzberg's motivators (challenge, growth, meaning) are the organisational encodi
 ### ↔ Reinertsen (Flow Economics)
 [Reinertsen's flow](../concepts/flow-economics.md) operates at the system level (work items moving through a value stream); Csikszentmihalyi's flow operates at the individual level. They share the same enabling conditions:
 - Clear goals and feedback (both require this)
-- Appropriate challenge (Reinertsen: WIP limits prevent overload; Csikszentmihalyi: challenge/skill balance)
+- Appropriate challenge (Reinertsen: [WIP Limits](./wip-limits.md) prevent overload; Csikszentmihalyi: challenge/skill balance)
 - Reduction of interruption and context-switching (both identify this as the primary enemy)
 
 A team that achieves Reinertsen flow (small batches, fast feedback, limited WIP) also creates the structural conditions for individual psychological flow. They reinforce each other.

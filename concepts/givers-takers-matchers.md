@@ -98,5 +98,5 @@ The result is an organisation that looks like it has strong individuals but syst
 - [Psychological Safety](../concepts/psychological-safety.md) — safety enables giving; taker cultures destroy it
 - [Radical Transparency](../concepts/radical-transparency.md) — Dalio's institutional design to constrain taker behaviour
 - [Ray Dalio](../people/ray-dalio.md)
-- [Managerial Leverage](../concepts/managerial-leverage.md) — Grove's framework confirms: high-leverage managers multiply output through others; otherish giving is the behavioural expression of leverage
+- [Managerial Leverage](../concepts/managerial-leverage.md) — Grove's framework confirms: high-leverage managers multiply output through others; otherish giving is the behavioural expression of [Leverage](../concepts/leverage.md)
 - [Systems vs Goals](../concepts/systems-vs-goals.md) — givers build relationship systems; takers chase goal-level transactions; the long-run outcome difference maps directly to Clear's systems-beat-goals argument

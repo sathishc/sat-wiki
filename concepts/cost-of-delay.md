@@ -79,7 +79,7 @@ Cost of Delay is the economic articulation of what [Taleb](../people/nassim-tale
 - [Little's Law](./littles-law.md)
 - [Flow Economics](./flow-economics.md)
 - [Compounding](./compounding.md)
-- [Shallow Work](./shallow-work.md) — the shallow work that delays high-CoD deep work
+- [Shallow Work](./shallow-work.md) — the shallow work that delays high-CoD [Deep Work](./deep-work.md)
 - [Seen vs Unseen](./seen-vs-unseen.md) — CoD makes the unseen cost of delay visible
 
 ## Connections

@@ -21,7 +21,7 @@ Two fundamentally different modes of leadership required by two fundamentally di
 | **Priority** | Optimise and expand | Survive and focus |
 | **Communication** | Open; explain reasoning | Command; no time to explain |
 | **Mistakes** | Tolerates learning experiences | Zero tolerance for the critical ones |
-| **Examples** | Bill Campbell (early Apple), Eric Schmidt (Google growth) | Andy Grove (Intel memory crisis), Steve Jobs (Apple 1997) |
+| **Examples** | Bill Campbell (early Apple), Eric Schmidt (Google growth) | [Andy Grove](../people/andy-grove.md) (Intel memory crisis), Steve Jobs (Apple 1997) |
 
 ## Why It Matters
 

@@ -15,7 +15,7 @@ A navigational map of the systems thinking content in this wiki. These framework
 
 ## The Core Premise
 
-> **"Structure influences behaviour. Different people in the same structure tend to produce qualitatively similar results."** — Peter Senge
+> **"Structure influences behaviour. Different people in the same structure tend to produce qualitatively similar results."** — [Peter Senge](../people/peter-senge.md)
 
 Most problem-solving focuses on events and actors: *what happened?* *who caused it?* Systems thinking shifts the question: *what structure is producing this behaviour — and what would have to change to produce a different behaviour?*
 

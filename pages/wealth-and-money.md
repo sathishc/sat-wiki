@@ -90,7 +90,7 @@ Both Housel and Taleb are fundamentally about **surviving long enough to benefit
 | Tail events | A few big wins drive all returns | Black Swans; Extremistan |
 | Room for error | Buffer larger than your model says | Margin of safety; avoid ruin |
 | Reasonable vs rational | Stick to what you can psychologically hold | Barbell: safe + asymmetric upside |
-| Compounding | Time is the master variable | Antifragility benefits from time and volatility |
+| Compounding | Time is the master variable | [Antifragility](../concepts/antifragility.md) benefits from time and volatility |
 
 The Taleb version is more formal and philosophical. The Housel version is more accessible and behavioural. Both reach the same place: **protect your downside absolutely; give yourself maximum exposure to positive tails.**
 

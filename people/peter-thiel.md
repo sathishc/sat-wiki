@@ -48,7 +48,7 @@ This is both Thiel's interview question and his theory of value creation. A good
 - **[Clayton Christensen](../people/clayton-christensen.md)** — both care about disruption, but Thiel is more interested in escaping competition entirely vs. Christensen's disruption mechanism
 - **[Michael Porter](../people/michael-porter.md)** — Porter says differentiation wins in competitive markets; Thiel says escape competitive markets entirely
 - **[Geoffrey Moore](../people/geoffrey-moore.md)** — Thiel's "dominate a niche first" aligns with Moore's bowling alley; both say start small and expand
-- **[Nassim Taleb](../people/nassim-taleb.md)** — both use power law logic; Taleb's Black Swan / extreme outcomes maps to Thiel's VC power law intuition
+- **[Nassim Taleb](../people/nassim-taleb.md)** — both use power law logic; Taleb's [Black Swan](../concepts/black-swan.md) / extreme outcomes maps to Thiel's VC power law intuition
 - **[Ben Horowitz](../people/ben-horowitz.md)** — Thiel is the theorist; Horowitz is the practitioner; both essential for founders
 
 ## Sources

@@ -117,6 +117,7 @@ The utilisation trap is a dangerous reinforcing loop: high utilisation → long 
 - [Systems Thinking](./systems-thinking.md)
 - [System Archetypes](./system-archetypes.md)
 - [Leverage Points](./leverage-points.md)
+- [Leverage](./leverage.md)
 - [Peter Senge](../people/peter-senge.md)
 - [Donella Meadows](../people/donella-meadows.md)
 - [Amazon Growth Flywheel](./amazon-growth-flywheel.md)
@@ -132,7 +133,7 @@ The utilisation trap is a dangerous reinforcing loop: high utilisation → long 
 
 ## Connections
 
-- **[Peter Senge](../people/peter-senge.md)** — feedback loops as the core of systems thinking and the learning organisation
+- **[Peter Senge](../people/peter-senge.md)** — feedback loops as the core of systems thinking and the [Learning Organisation](./learning-organisation.md)
 - **[Donella Meadows](../people/donella-meadows.md)** — formalised feedback loop types and their dynamics
 - **[Systems Thinking](./systems-thinking.md)** — feedback loops are the structural foundation of systems thinking
 - **[Amazon Growth Flywheel](./amazon-growth-flywheel.md)** — a deliberate reinforcing feedback loop designed for compounding growth

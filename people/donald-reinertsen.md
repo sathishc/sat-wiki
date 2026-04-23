@@ -53,7 +53,7 @@ Reinertsen insists every product development decision is an economic decision â€
 
 | Dimension | Reinertsen | Naval | Taleb | Dalio |
 |---|---|---|---|---|
-| **Primary lens** | Queueing economics | Leverage & knowledge | Risk & antifragility | Principles & systems |
+| **Primary lens** | Queueing economics | [Leverage](../concepts/leverage.md) & knowledge | Risk & antifragility | Principles & systems |
 | **On variability** | Manage asymmetrically; not all bad | Not primary focus | Embrace it; be antifragile | Model and stress-test |
 | **On batch size** | Smaller is almost always better | Not primary focus | Small options (barbell) | Not primary focus |
 | **On feedback** | Accelerate all feedback loops | Learn through doing | Reality-test constantly | 5-step loop |

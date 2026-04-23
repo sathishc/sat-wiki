@@ -7,7 +7,7 @@ tags: [concepts, management, startups, ben-horowitz, operations]
 
 ## One-Line Definition
 
-Shortcuts taken in management and organisational design that feel fine now but accumulate compounding "interest" — increasingly painful operational and cultural problems — over time.
+Shortcuts taken in management and organisational design that feel fine now but accumulate [Compounding](compounding.md) "interest" — increasingly painful operational and cultural problems — over time.
 
 ## The Analogy to Technical Debt
 

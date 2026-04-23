@@ -48,4 +48,4 @@ Duhigg's *The Power of Habit* (2012) introduced the three-part cue-routine-rewar
 - [Systems vs Goals](../concepts/systems-vs-goals.md) — the habit loop is the engine of any system
 - [Rider and Elephant](../concepts/rider-and-elephant.md) — the loop is the mechanism by which the elephant is shaped
 - [System 1 and 2](../concepts/system-1-and-2.md) — habits are System 1 routines encoded through repetition
-- [Psychological Safety and Dissent](../concepts/psychological-safety-and-dissent.md) — psychological safety is the environmental cue that makes rethinking behaviours feel rewarding (satisfying step of the loop); without it, the craving to speak up is never reinforced
+- [Psychological Safety and Dissent](../concepts/psychological-safety-and-dissent.md) — [Psychological Safety](../concepts/psychological-safety.md) is the environmental cue that makes rethinking behaviours feel rewarding (satisfying step of the loop); without it, the craving to speak up is never reinforced

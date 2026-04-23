@@ -28,9 +28,9 @@ See [Principles of Influence](../concepts/principles-of-influence.md) for full m
 
 | Principle | Trigger | Mechanism |
 |---|---|---|
-| **Reciprocity** | A gift or concession | We feel obligated to return what we receive |
+| **[Reciprocity](../concepts/reciprocity.md)** | A gift or concession | We feel obligated to return what we receive |
 | **Commitment & Consistency** | A prior commitment | We align future behaviour with past positions |
-| **Social Proof** | Others' behaviour | We follow the crowd under uncertainty |
+| **[Social Proof](../concepts/social-proof.md)** | Others' behaviour | We follow the crowd under uncertainty |
 | **Authority** | Expertise or its symbols | We defer to legitimate (or apparent) authority |
 | **Liking** | Similarity, familiarity, attractiveness | We comply with people we like |
 | **Scarcity** | Rarity or threatened loss | We want more of what we might lose |
@@ -40,7 +40,7 @@ See [Principles of Influence](../concepts/principles-of-influence.md) for full m
 
 | Dimension | Cialdini | [Kahneman](./daniel-kahneman.md) | [Taleb](./nassim-taleb.md) | [Dalio](./ray-dalio.md) |
 |---|---|---|---|---|
-| **On cognitive shortcuts** | Heuristics are exploitable compliance triggers | System 1 is the architecture; biases are its failure modes | Heuristics create fragility — especially under Black Swan conditions | Build explicit principles to override automatic responses |
+| **On cognitive shortcuts** | Heuristics are exploitable compliance triggers | System 1 is the architecture; biases are its failure modes | Heuristics create fragility — especially under [Black Swan](../concepts/black-swan.md) conditions | Build explicit principles to override automatic responses |
 | **On social proof** | Powerful influence tool — and can be wrong (pluralistic ignorance) | WYSIATI: the crowd's story feels complete even when based on thin evidence | Herding is the mechanism of financial contagion and narrative fallacy | Seek disconfirmation; don't take consensus as evidence |
 | **On authority** | Symbols of authority trigger compliance even absent genuine expertise | Halo effect — attractiveness/prestige transfer to perceived competence | Experts are often wrong about what matters most; skin in the game filters them | Idea meritocracy: weight opinions by track record, not title |
 | **On commitment** | Written/public commitments reshape self-image and lock in behaviour | Anchoring — first numbers shape all subsequent judgments | — | Radical open-mindedness: don't let prior positions prevent updating |

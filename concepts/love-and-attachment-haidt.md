@@ -41,7 +41,7 @@ Mistaking passionate love for the whole of love is one of the most common causes
 
 ## The Conditions Implication
 
-In the [Happiness Formula](../concepts/happiness-formula-haidt.md), the quality of close relationships is the highest-leverage **Conditions (C)** variable — more predictive than income, status, or material circumstances.
+In the [Happiness Formula](../concepts/happiness-formula-haidt.md), the quality of close relationships is the highest-[Leverage](leverage.md) **Conditions (C)** variable — more predictive than income, status, or material circumstances.
 
 **Investment in relationships is investment in the highest-return happiness asset.**
 

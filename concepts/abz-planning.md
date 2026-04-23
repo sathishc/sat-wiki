@@ -16,7 +16,7 @@ A career planning framework from [Reid Hoffman](../people/reid-hoffman.md)'s [*T
 
 ### Plan A: Your Current Path
 
-What you're doing right now to build competitive advantage.
+What you're doing right now to build [Competitive Advantage](competitive-advantage.md).
 
 - Your current job, role, skills you're developing
 - The bet you're actively making on your future
@@ -155,7 +155,7 @@ Pivoting is not failure; it's learning and adapting.
 - **[Barbell strategy](barbell-strategy.md):** Taleb's barbell is similar — safe base + aggressive risk. Plan Z is the safe base; Plan A/B are the aggressive bets.
 - **[Antifragility](antifragility.md):** Plan B is an option. Options are valuable in uncertain environments.
 - **[Permanent beta](permanent-beta.md):** ABZ planning embodies permanent beta — you're always ready to iterate and pivot.
-- **[Systems thinking](systems-thinking.md):** ABZ is adaptive planning in a complex, changing system. You respond to feedback loops.
+- **[Systems thinking](systems-thinking.md):** ABZ is adaptive planning in a complex, changing system. You respond to [Feedback Loops](feedback-loops.md).
 
 ## When to Pivot from A to B
 

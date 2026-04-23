@@ -130,7 +130,7 @@ Deep work is flow applied as career strategy. Newport explicitly builds on Csiks
 Newport's "drain the shallows" and "schedule every minute" are individual-level [WIP limits](./wip-limits.md). Context-switching between deep and shallow work is exactly Reinertsen's queue-generating interrupt. Newport's fixed-schedule productivity (hard end time) is a daily WIP limit. Both frameworks converge: constrain the number of things being processed simultaneously to maximise throughput and quality.
 
 ### ↔ Commitment and Consistency (Cialdini)
-Newport's rituals, scoreboards, and shutdown procedures leverage [Commitment & Consistency](./commitment-and-consistency.md) to make deep work the default behaviour. The structure creates the commitment; the commitment — once made visible (scoreboard) and habitual (ritual) — sustains the behaviour without willpower.
+Newport's rituals, scoreboards, and shutdown procedures [Leverage](./leverage.md) [Commitment & Consistency](./commitment-and-consistency.md) to make deep work the default behaviour. The structure creates the commitment; the commitment — once made visible (scoreboard) and habitual (ritual) — sustains the behaviour without willpower.
 
 ### ↔ Compounding (Naval)
 Deep work skills compound. A year of 4 focused hours per day in a domain produces more than 4× a year of 1 scattered hour per day, because depth generates insights that redirect future depth more productively. The compounding is in the *quality* of the learning, not just the quantity of time.
@@ -163,7 +163,7 @@ Deep work skills compound. A year of 4 focused hours per day in a domain produce
 - **[WIP Limits](./wip-limits.md)** — system-level parallel: limit concurrent tasks to finish deeply
 - **[Compounding](./compounding.md)** — deep work skills compound into irreplaceable expertise
 - **[Will to Meaning](./will-to-meaning.md)** — Frankl's creation path to meaning; deep work as meaningful contribution through craft
-- **[Logotherapy](./logotherapy.md)** — meaningful work addresses existential vacuum; deep work enables meaningful contribution
+- **[Logotherapy](./logotherapy.md)** — meaningful work addresses [Existential Vacuum](./existential-vacuum.md); deep work enables meaningful contribution
 
 ## Source
 

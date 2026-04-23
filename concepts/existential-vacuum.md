@@ -187,7 +187,7 @@ The "symptom" (meaninglessness) may reflect accurate perception, not pathology.
 
 **5. Logotherapeutic Intervention**
 - Work with therapist trained in [logotherapy](logotherapy.md)
-- Techniques: Socratic dialogue, paradoxical intention, dereflection
+- Techniques: Socratic dialogue, [Paradoxical Intention](paradoxical-intention.md), dereflection
 - Focus: Discovering rather than being given meaning
 
 ## Prevention

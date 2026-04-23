@@ -48,7 +48,7 @@ Thiel extends this to career decisions:
 - **[Peter Thiel](../people/peter-thiel.md)** — source concept
 - **[Monopoly vs Competition](../concepts/monopoly-vs-competition.md)** — monopolies are where power-law returns concentrate
 - **[Zero to One](../concepts/zero-to-one.md)** — Zero to One companies are the power-law outliers
-- **[Nassim Taleb](../people/nassim-taleb.md)** — Taleb's Extremistan / Black Swan territory is the same power-law logic from a risk perspective
+- **[Nassim Taleb](../people/nassim-taleb.md)** — Taleb's Extremistan / [Black Swan](black-swan.md) territory is the same power-law logic from a risk perspective
 - **[Leverage](../concepts/leverage.md)** — Naval's leverage logic parallels Thiel's power law: the best opportunities compound asymmetrically
 
 ## Source

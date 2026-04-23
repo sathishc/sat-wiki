@@ -76,7 +76,7 @@ His definition of a good life: not wealth or status, but meaningful work (absorb
 
 | Dimension | Dalio | Naval | Taleb |
 |---|---|---|---|
-| **Primary lens** | Systems + decision-making | Leverage + specific knowledge | Risk + antifragility |
+| **Primary lens** | Systems + decision-making | [Leverage](../concepts/leverage.md) + specific knowledge | Risk + antifragility |
 | **On failure** | Essential data; encode learnings into principles | Failure is fine if you avoid ruin | Embrace volatility; be antifragile |
 | **On knowledge** | Write explicit principles; back-test them | Build through curiosity and play | Bias toward doing over theorising |
 | **On organisations** | Radical transparency + idea meritocracy | Permissionless leverage (small teams) | Bureaucracies are fragile |

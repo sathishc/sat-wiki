@@ -21,7 +21,7 @@ Your genetic baseline for happiness. Twin studies show that about half the varia
 
 **Implication:** Chasing happiness through achievement is largely ineffective because you adapt to each new level. The set point reasserts itself.
 
-**Can it change?** Slightly, over long periods, through deliberate practice — especially meditation. But it's the lowest-leverage lever.
+**Can it change?** Slightly, over long periods, through deliberate practice — especially meditation. But it's the lowest-[Leverage](leverage.md) lever.
 
 ---
 

@@ -12,7 +12,7 @@ parent: People
 
 American venture capitalist (born 1951). Partner at Kleiner Perkins. One of the most influential investors in Silicon Valley history — early backer of Google, Amazon, Intuit, Netscape, and dozens of others. Author of *Measure What Matters* (2018).
 
-Doerr's specific contribution to management thinking: he didn't invent OKRs, but he was the carrier who took the system from Intel (where he learned it under Andy Grove) to Google (where he introduced it to Page and Brin in 1999), and from there it spread across the technology industry.
+Doerr's specific contribution to management thinking: he didn't invent OKRs, but he was the carrier who took the system from Intel (where he learned it under [Andy Grove](andy-grove.md)) to Google (where he introduced it to Page and Brin in 1999), and from there it spread across the technology industry.
 
 > "Ideas are easy. Execution is everything. It takes a team to win."
 

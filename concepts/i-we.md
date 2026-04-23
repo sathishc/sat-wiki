@@ -138,7 +138,7 @@ See [leverage](leverage.md) for Naval's framework.
 
 ## The Collaborative Advantage
 
-**Traditional model:** Individual competitive advantage
+**Traditional model:** Individual [Competitive Advantage](competitive-advantage.md)
 - Porter: cost leadership or differentiation
 - You vs. everyone else
 
@@ -214,6 +214,7 @@ See [leverage](leverage.md) for Naval's framework.
 - **[Compounding](compounding.md):** Network effects compound; relationships built today pay off for years
 - **[Systems thinking](systems-thinking.md):** I^We is a network effect (positive feedback loop)
 - **[Reciprocity](reciprocity.md):** Giving to your network strengthens the "We"
+- **[Social Proof](social-proof.md):** Your network provides social proof that amplifies reputation and credibility
 
 ## Metrics for I^We
 

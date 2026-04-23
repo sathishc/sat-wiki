@@ -52,7 +52,7 @@ Reinertsen's eight domains each translate into economic levers:
 ## Connection to Other Frameworks
 
 ### Dalio's [Five-Step Process](./five-step-process.md)
-Both Reinertsen and [Dalio](../people/ray-dalio.md) insist on explicit, economic reasoning over gut feel. Dalio's "diagnose root causes" maps directly to Reinertsen's queue diagnosis. Both create feedback loops that encode learning into the system.
+Both Reinertsen and [Dalio](../people/ray-dalio.md) insist on explicit, economic reasoning over gut feel. Dalio's "diagnose root causes" maps directly to Reinertsen's queue diagnosis. Both create [Feedback Loops](./feedback-loops.md) that encode learning into the system.
 
 ### Taleb's [Antifragility](./antifragility.md)
 Reserve capacity (Reinertsen) = slack against [Black Swans](./black-swan.md) (Taleb). Both argue that over-optimised, high-utilisation systems are fragile. The flow economics insight — that idle capacity has real economic value — is the operational version of antifragility.

@@ -46,7 +46,7 @@ Later (with Boyatzis and McKee in *Primal Leadership*), he reorganised these int
 
 - **[Emotional Intelligence](../concepts/emotional-intelligence.md)** — his central contribution
 - **[Self-Awareness](../concepts/self-awareness.md)** — foundation of the EQ model
-- **[Psychological Safety](../concepts/psychological-safety.md)** — EQ at the team level enables psychological safety (→ Ron Westrum)
+- **[Psychological Safety](../concepts/psychological-safety.md)** — EQ at the team level enables psychological safety (→ [Ron Westrum](ron-westrum.md))
 - **[Flow](../concepts/flow-optimal-experience.md)** — Csikszentmihalyi's concept; high EQ people regulate arousal better, entering flow more readily
 - **[Deep Work](../concepts/deep-work.md)** — Goleman's *Focus* directly parallels Newport's argument; attention is scarce and trainable
 - **[Intrinsic Motivation](../concepts/intrinsic-motivation.md)** — Goleman's third domain mirrors Deci & Ryan's Self-Determination Theory
