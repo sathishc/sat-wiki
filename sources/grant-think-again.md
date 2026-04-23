@@ -5,6 +5,7 @@ created: 2026-04-18
 updated: 2026-04-18
 layout: default
 parent: Sources
+source: https://www.goodreads.com/book/show/55539565-think-again
 ---
 
 # Think Again
@@ -67,3 +68,7 @@ One of Grant's findings: when you acknowledge the complexity and downsides of yo
 - [Daniel Kahneman](../people/daniel-kahneman.md)
 - [Jonathan Haidt](../people/jonathan-haidt.md)
 - [Ray Dalio](../people/ray-dalio.md)
+
+## Maps of Content
+
+- **[Decision-Making](../pages/decision-making.md)**

@@ -1,6 +1,7 @@
 ---
 title: "Amazon Leadership Principles & Growth Flywheel — Source Notes"
 tags: [sources, amazon, strategy, leadership, flywheel, culture]
+source: https://www.aboutamazon.com/about-us/leadership-principles
 ---
 
 # Amazon Leadership Principles & Growth Flywheel — Source Notes
@@ -215,3 +216,7 @@ The Amazon Flywheel or Amazon Virtuous Cycle is a strategy that leverages custom
 
 
 ---
+
+## Maps of Content
+
+- **[Strategy Frameworks](../pages/strategy-frameworks.md)**

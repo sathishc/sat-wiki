@@ -147,3 +147,7 @@ The power of naming archetypes: once you can identify the structure, you can pre
 - [Amazon Growth Flywheel](./amazon-growth-flywheel.md) — "Success to the Successful"
 - [Commitment and Consistency](./commitment-and-consistency.md) — drives Escalation
 - [Unintended Consequences](./unintended-consequences.md)
+
+## Source
+
+- [Systems Thinking Senge Meadows](../sources/systems-thinking-senge-meadows.md)

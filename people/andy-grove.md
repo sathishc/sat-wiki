@@ -51,3 +51,8 @@ In *Only the Paranoid Survive* (1996), Grove introduced the concept of the **[St
 - [High Output Management](../sources/grove-high-output-management.md)
 - [Doerr — Measure What Matters](../sources/doerr-measure-what-matters.md) *(OKR lineage from Grove)*
 - [Horowitz — The Hard Thing About Hard Things](../sources/horowitz-hard-thing.md) *(endorsement and influence)*
+
+## Maps of Content
+
+- **[Startup & Founder Playbook](../pages/startup-founder-playbook.md)**
+- **[Product Development](../pages/product-development.md)**

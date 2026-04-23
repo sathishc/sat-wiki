@@ -117,3 +117,8 @@ On your deathbed, you won't count revenue or accolades. The metric is the *indiv
 ## Sources
 
 - **[Clayton Christensen — Innovator's Trilogy + How Will You Measure Your Life?](../sources/christensen-innovators-trilogy.md)** — Source notes covering The Innovator's Dilemma, The Innovator's Solution, and How Will You Measure Your Life?
+
+## Maps of Content
+
+- **[Strategy Frameworks](../pages/strategy-frameworks.md)**
+- **[Personal Development](../pages/personal-development.md)**

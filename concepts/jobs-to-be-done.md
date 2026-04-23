@@ -94,3 +94,7 @@ Disruptors succeed because incumbents define the job incorrectly — they optimi
 - **[Crossing the Chasm](./crossing-the-chasm.md)** — pragmatists hire products for specific whole-product jobs
 - **[Competing for the Future](./competing-for-the-future.md)** — competing for tomorrow requires identifying tomorrow's jobs
 - **[Bottom of the Pyramid](./bottom-of-the-pyramid.md)** — non-consumers at the BoP have unserved jobs that JTBD reveals
+
+## Source
+
+- [Christensen Innovators Trilogy](../sources/christensen-innovators-trilogy.md)

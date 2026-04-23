@@ -92,3 +92,7 @@ This is a System 2 instruction: actively seek evidence that your System 1 story 
 - [Mental Models](./mental-models.md)
 - [Idea Meritocracy](./idea-meritocracy.md)
 - [Seen vs Unseen](./seen-vs-unseen.md)
+
+## Source
+
+- [Kahneman Thinking Fast Slow](../sources/kahneman-thinking-fast-slow.md)

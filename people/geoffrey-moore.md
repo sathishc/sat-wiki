@@ -85,3 +85,7 @@ The goal of beachhead marketing: not revenue — **references**. Pragmatists buy
 ## Sources
 
 - **[Crossing the Chasm](../sources/moore-crossing-the-chasm.md)** — Moore's foundational work on technology adoption, the chasm between early adopters and the mainstream, and the beachhead strategy
+
+## Maps of Content
+
+- **[Strategy Frameworks](../pages/strategy-frameworks.md)**

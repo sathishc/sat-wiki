@@ -67,3 +67,7 @@ The barbell positions you to be exposed to **positive** Black Swans while insula
 - **[Cognitive Biases (Kahneman)](./cognitive-biases-kahneman.md)** — availability heuristic explains systematic Black Swan blindness
 - **[Planning Fallacy](./planning-fallacy.md)** — inside-view planning ignores the fat tail
 - **[Social Proof](./social-proof.md)** — herd behaviour creates correlated Black Swan exposure
+
+## Source
+
+- [Antifragile](../sources/antifragile.md)

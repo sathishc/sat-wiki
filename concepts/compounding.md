@@ -54,3 +54,8 @@ Short-term thinking destroys compounding. Switching strategies, burning relation
 - **[Deep Work](./deep-work.md)** — deep work is the practice that makes knowledge compound faster
 - **[Amazon Growth Flywheel](./amazon-growth-flywheel.md)** — compounding operationalised at corporate scale via a reinforcing loop
 - **[Lindy Effect](./lindy-effect.md)** — long survival is evidence of compounding quality and durability
+
+## Source
+
+- [Housel Psychology Of Money](../sources/housel-psychology-of-money.md)
+- [Naval Almanack](../sources/naval-almanack.md)

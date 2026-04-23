@@ -79,3 +79,7 @@ This directly echoes [Taleb](../people/nassim-taleb.md): over-optimised systems 
 - [Shallow Work](./shallow-work.md) — shallow work obligations create cognitive queues; Newport's shutdown ritual is the cognitive equivalent of queue clearing
 - [Flow Economics](./flow-economics.md)
 - [Antifragility](./antifragility.md) — over-optimisation = fragility
+
+## Source
+
+- [Reinertsen Flow](../sources/reinertsen-flow.md)

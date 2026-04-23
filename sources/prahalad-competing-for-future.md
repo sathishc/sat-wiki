@@ -1,6 +1,7 @@
 ---
 title: "Competing for the Future — C.K. Prahalad & Gary Hamel (1994)"
 tags: [sources, prahalad, hamel, strategy, core-competency, strategic-intent, bottom-of-pyramid]
+source: https://www.goodreads.com/book/show/156064.Competing_for_the_Future
 ---
 
 # Competing for the Future — Source Notes
@@ -215,3 +216,7 @@ Look around your company. Look at the high-profile initiatives that have recentl
 
 
 ---
+
+## Maps of Content
+
+- **[Strategy Frameworks](../pages/strategy-frameworks.md)**

@@ -5,6 +5,7 @@ type: book
 year: 1946 (original), 1959 (English edition)
 tags: [logotherapy, existentialism, meaning, suffering, psychology, concentration-camps, resilience]
 created: 2026-04-19
+source: https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning
 ---
 
 # Man's Search for Meaning
@@ -250,3 +251,7 @@ In an age of abundance, comfort, and choice, many people paradoxically experienc
 - A counterweight to victimhood narratives: emphasizing agency and responsibility
 - Guidance for living with purpose in a secular age
 - Techniques for anxiety, addiction, and depression rooted in meaning-loss
+
+## Maps of Content
+
+- **[Personal Development](../pages/personal-development.md)**

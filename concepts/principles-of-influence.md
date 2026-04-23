@@ -285,3 +285,7 @@ Bridgewater's design is, in part, an institutional response to the compliance fa
 - [Daniel Kahneman](../people/daniel-kahneman.md)
 - [Nassim Taleb](../people/nassim-taleb.md)
 - [Ray Dalio](../people/ray-dalio.md)
+
+## Source
+
+- [Cialdini Influence](../sources/cialdini-influence.md)

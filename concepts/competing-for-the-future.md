@@ -97,3 +97,7 @@ The reason most companies don't compete for the future is [System 1](./system-1-
 - [Planning Fallacy](./planning-fallacy.md)
 - [Crossing the Chasm](./crossing-the-chasm.md) — market-creation as the next stage after crossing
 - [Disruptive Innovation](./innovators-dilemma.md) — Christensen's parallel on why incumbents miss the future
+
+## Source
+
+- [Prahalad Competing For Future](../sources/prahalad-competing-for-future.md)

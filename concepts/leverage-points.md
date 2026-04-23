@@ -201,3 +201,7 @@ This is why organisations keep implementing the same solutions to recurring prob
 - **[OKRs](./okrs.md)** — Level 5/3: changing rules and clarifying system goals
 - **[Mental Models](./mental-models.md)** — Level 2: paradigm change as the highest leverage intervention
 - **[Westrum Cultural Typologies](./westrum-cultural-typologies.md)** — cultural change is a paradigm-level (Level 2) leverage point
+
+## Source
+
+- [Systems Thinking Senge Meadows](../sources/systems-thinking-senge-meadows.md)

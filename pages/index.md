@@ -2,6 +2,7 @@
 title: Maps of Content
 nav_order: 2
 has_children: true
+tags: [index, pages, moc]
 ---
 
 # Maps of Content

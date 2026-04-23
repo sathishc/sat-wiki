@@ -102,3 +102,7 @@ Both follow the same trajectory: enter at the neglected fringe, improve, move up
 - **[Crossing the Chasm](./crossing-the-chasm.md)** — the complementary adoption-curve view of the same dynamic
 - **[Competing for the Future](./competing-for-the-future.md)** — Prahalad's parallel insight on strategic blindness
 - **[Jeff Bezos](../people/jeff-bezos.md)** — Day 1 vs Day 2 as an institutional disruption defence
+
+## Source
+
+- [Christensen Innovators Trilogy](../sources/christensen-innovators-trilogy.md)

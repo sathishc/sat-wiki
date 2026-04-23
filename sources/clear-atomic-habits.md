@@ -1,6 +1,7 @@
 ---
 title: "Atomic Habits — James Clear"
 tags: [source, habits, behaviour-change, self-improvement, psychology]
+source: https://www.goodreads.com/book/show/40121378-atomic-habits
 ---
 
 # Atomic Habits — James Clear
@@ -56,3 +57,7 @@ Behaviour is a function of person and environment. Engineering your surroundings
 ## Author
 
 - [James Clear](../people/james-clear.md)
+
+## Maps of Content
+
+- **[Personal Development](../pages/personal-development.md)**

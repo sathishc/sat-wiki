@@ -44,3 +44,7 @@ In a world of commoditised labour (anything trainable can be automated or offsho
 - [Deep Work](./deep-work.md) — deep work is the practice that builds specific knowledge; you can't develop irreplaceable capability in a distracted state
 - [Flow (Optimal Experience)](./flow-optimal-experience.md) — genuine curiosity-driven work naturally produces flow; building specific knowledge and entering flow are mutually reinforcing
 - [Naval Ravikant](../people/naval-ravikant.md)
+
+## Source
+
+- [Naval Almanack](../sources/naval-almanack.md)

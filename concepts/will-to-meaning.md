@@ -146,3 +146,7 @@ This provides powerful empirical validation that meaning is not merely a luxury 
 **Limitation:** Risk of "meaning imperialism" — dismissing legitimate suffering by saying "just find meaning in it." Frankl emphasized meaning in *unavoidable* suffering, not as justification for injustice or oppression.
 
 **Modern relevance:** Perhaps more relevant now than when written — affluent societies face epidemic of meaninglessness despite (or because of?) material abundance.
+
+## Source
+
+- [Frankl Mans Search For Meaning](../sources/frankl-mans-search-for-meaning.md)

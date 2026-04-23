@@ -1,6 +1,7 @@
 ---
 title: "The Hard Thing About Hard Things — Ben Horowitz (2014)"
 tags: [sources, leadership, startups, management, ben-horowitz]
+source: https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things
 ---
 
 # *The Hard Thing About Hard Things* — Ben Horowitz (2014)
@@ -44,3 +45,7 @@ This makes it the most honest CEO book in circulation. It's not aspirational; it
 - **[The Struggle](../concepts/the-struggle.md)**
 - **[Lead Bullets](../concepts/lead-bullets.md)**
 - **[Management Debt](../concepts/management-debt.md)**
+
+## Maps of Content
+
+- **[Startup & Founder Playbook](../pages/startup-founder-playbook.md)**

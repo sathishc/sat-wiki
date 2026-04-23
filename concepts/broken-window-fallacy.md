@@ -77,3 +77,7 @@ The broken window fallacy is a specific instance of the [Seen vs Unseen](./seen-
 - **[Unintended Consequences](./unintended-consequences.md)** — same root failure: ignoring second-order effects
 - **[Cognitive Biases (Kahneman)](./cognitive-biases-kahneman.md)** — WYSIATI explains why the fallacy persists across centuries
 - **[Cost of Delay](./cost-of-delay.md)** — making invisible queue costs visible; same corrective move
+
+## Source
+
+- [Hazlitt Economics One Lesson](../sources/hazlitt-economics-one-lesson.md)

@@ -70,3 +70,7 @@ Slow down. Scarcity manipulates decision timelines. Insisting on time to think n
 - [Social Proof](./social-proof.md) — scarcity + competition = most powerful combination
 - [Antifragility](./antifragility.md) — optionality as the antidote to urgency
 - [Compounding](./compounding.md) — scarcity compresses time horizon; bad for long-term thinking
+
+## Source
+
+- [Cialdini Influence](../sources/cialdini-influence.md)

@@ -94,3 +94,7 @@ The asymmetry is systematic: benefits are concentrated and immediate; costs are 
 ## Sources
 
 - **[Economics in One Lesson](../sources/hazlitt-economics-one-lesson.md)** — Hazlitt's distillation of Bastiat's seen vs. unseen principle applied across economic policy
+
+## Maps of Content
+
+- **[Wealth & Money](../pages/wealth-and-money.md)**

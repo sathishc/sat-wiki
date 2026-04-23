@@ -79,3 +79,7 @@ This is the Hazlitt/Bastiat question generalised as a thinking discipline.
 - [Mental Models](./mental-models.md)
 - [Five-Step Process](./five-step-process.md)
 - [Queues in Product Development](./queues-in-product-development.md)
+
+## Source
+
+- [Hazlitt Economics One Lesson](../sources/hazlitt-economics-one-lesson.md)

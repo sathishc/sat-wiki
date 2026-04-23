@@ -1,8 +1,10 @@
 ---
 title: The Start-up of You — Reid Hoffman & Ben Casnocha
+tags: [sources, career, startups, networking, reid-hoffman]
 url: https://www.thestartupofyou.com/
 kind: book
 captured: 2026-04-23
+source: https://www.goodreads.com/book/show/12030438-the-start-up-of-you
 ---
 
 # The Start-up of You: Adapt to the Future, Invest in Yourself, and Transform Your Career
@@ -195,3 +197,7 @@ Don't wait for your employer to invest in you. You are responsible for your own 
 ## Meta-Insight
 
 **The book's core move:** Take the startup playbook (rapid iteration, pivoting, building network effects, taking intelligent risks, investing in growth) and apply it to individual careers. In a world where companies no longer offer lifetime employment and industries transform overnight, **you are now the startup, and your career is the product.**
+
+## Maps of Content
+
+- **[Personal Development](../pages/personal-development.md)**

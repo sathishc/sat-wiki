@@ -77,3 +77,8 @@ Housel's distinction between [reasonable vs. rational](../concepts/reasonable-vs
 
 - [*Give and Take* (2013)](../sources/grant-give-and-take.md)
 - [*Think Again* (2021)](../sources/grant-think-again.md)
+
+## Maps of Content
+
+- **[Personal Development](../pages/personal-development.md)**
+- **[Decision-Making](../pages/decision-making.md)**

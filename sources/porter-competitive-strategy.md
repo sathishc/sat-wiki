@@ -1,6 +1,7 @@
 ---
 title: "Competitive Strategy & Competitive Advantage — Michael Porter (1980, 1985)"
 tags: [sources, porter, strategy, competitive-advantage, five-forces, generic-strategies, value-chain]
+source: https://www.goodreads.com/book/show/407999.Competitive_Strategy
 ---
 
 # Porter: Competitive Strategy & Competitive Advantage — Source Notes
@@ -160,3 +161,7 @@ Related wiki sources:
 ## About Porter
 
 Michael E. Porter (born 1947). Bishop William Lawrence University Professor at Harvard Business School, the highest honour the university bestows. His 1980 *Competitive Strategy* and 1985 *Competitive Advantage* are among the most influential business books ever written. His 1996 HBR article *What Is Strategy?* is considered essential reading. Additional works include *The Competitive Advantage of Nations* (1990) and work on clusters, healthcare, and social responsibility (shared value). He is the most-cited scholar in economics and business combined.
+
+## Maps of Content
+
+- **[Strategy Frameworks](../pages/strategy-frameworks.md)**

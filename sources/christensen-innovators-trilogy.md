@@ -1,6 +1,7 @@
 ---
 title: "Clayton Christensen — Innovator's Trilogy + How Will You Measure Your Life?"
 tags: [sources, christensen, disruption, innovation, strategy, management, careers]
+source: https://www.goodreads.com/book/show/2615.The_Innovator_s_Dilemma
 ---
 
 # Source: Clayton Christensen — Innovator's Trilogy + HWYMYL
@@ -144,3 +145,7 @@ On your deathbed, you won't measure your life in revenue or accolades. The metri
 Good intentions + wrong theory = bad outcomes.
 
 Whether it's a company listening too hard to its best customers, or a parent too busy to attend their kid's events — the mechanism is the same. Incentives, marginal cost thinking, and misaligned metrics lead smart, well-meaning people astray. Christensen's gift was making that legible — and offering a way out.
+
+## Maps of Content
+
+- **[Strategy Frameworks](../pages/strategy-frameworks.md)**

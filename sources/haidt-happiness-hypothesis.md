@@ -1,6 +1,7 @@
 ---
 title: "The Happiness Hypothesis — Jonathan Haidt (2006)"
 tags: [sources, psychology, happiness, philosophy, jonathan-haidt]
+source: https://www.goodreads.com/book/show/96884.The_Happiness_Hypothesis
 ---
 
 # *The Happiness Hypothesis* — Jonathan Haidt (2006)
@@ -52,3 +53,7 @@ Haidt synthesises the happiness research into a simple formula:
 - **[Adversarial Growth](../concepts/adversarial-growth.md)**
 - **[Vital Engagement](../concepts/vital-engagement.md)**
 - **[The Happiness Hypothesis (concept)](../concepts/happiness-hypothesis.md)**
+
+## Maps of Content
+
+- **[Personal Development](../pages/personal-development.md)**

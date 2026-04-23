@@ -244,3 +244,7 @@ Logotherapy isn't mutually exclusive with other approaches:
 - Can be misused to moralize or pressure people to "find meaning" in unjust suffering
 
 **Modern relevance:** Perhaps more relevant now than when developed — addresses 21st century epidemic of meaninglessness despite material abundance.
+
+## Source
+
+- [Frankl Mans Search For Meaning](../sources/frankl-mans-search-for-meaning.md)

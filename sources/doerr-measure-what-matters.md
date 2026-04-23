@@ -1,6 +1,7 @@
 ---
 title: "Measure What Matters: OKRs — John Doerr (2018)"
 tags: [sources, doerr, okrs, goals, management, execution, alignment]
+source: https://www.goodreads.com/book/show/39286958-measure-what-matters
 ---
 
 # Source: John Doerr — Measure What Matters: OKRs — The Simple Idea that Drives 10x Growth
@@ -167,3 +168,8 @@ KPIs are dials on the dashboard — they tell you if the engine is healthy. OKRs
 > "The most motivated state is when you're not doing it for external validation. The goal is not about the OKR. The goal is to make a contribution."
 
 > "A true north OKR answers this question: Three years out, or five years out, what does the company look like? What are the two or three things that have to be true?"
+
+## Maps of Content
+
+- **[Personal Development](../pages/personal-development.md)**
+- **[Product Development](../pages/product-development.md)**

@@ -154,3 +154,7 @@ Even within an industry with weak structural forces, exceptional execution, cult
 - **[Innovators Dilemma](./innovators-dilemma.md)** — Christensen's mechanism for how disruption defeats Five Forces positions
 - **[Competing for the Future](./competing-for-the-future.md)** — Prahalad's counter: shape the industry rather than position within it
 - **[Crossing the Chasm](./crossing-the-chasm.md)** — how new entrants traverse adoption to challenge incumbents
+
+## Source
+
+- [Porter Competitive Strategy](../sources/porter-competitive-strategy.md)

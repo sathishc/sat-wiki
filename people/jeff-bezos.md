@@ -91,3 +91,8 @@ Only after this is agreed does engineering begin. It's [Reinertsen](../people/do
 ## Sources
 
 - **[Amazon Leadership Principles & Growth Flywheel](../sources/amazon-lp-flywheel.md)** — Source notes on Amazon's 16 leadership principles, the growth flywheel, and Day 1 philosophy
+
+## Maps of Content
+
+- **[Strategy Frameworks](../pages/strategy-frameworks.md)**
+- **[Startup & Founder Playbook](../pages/startup-founder-playbook.md)**

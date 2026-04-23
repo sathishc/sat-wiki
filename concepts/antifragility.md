@@ -89,3 +89,7 @@ Both converge on: **avoid catastrophic downside, stay in the game long enough fo
 - **[Skin in the Game](./skin-in-the-game.md)** — bearing consequences creates antifragile incentives
 - **[Queues in Product Development](./queues-in-product-development.md)** — reserve capacity as operational antifragility
 - **[Compounding](./compounding.md)** — optionality compounds; antifragile positions benefit from time
+
+## Source
+
+- [Antifragile](../sources/antifragile.md)

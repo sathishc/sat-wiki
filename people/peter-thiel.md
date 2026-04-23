@@ -54,3 +54,8 @@ This is both Thiel's interview question and his theory of value creation. A good
 ## Sources
 
 - [*Zero to One* — Thiel & Masters, 2014](../sources/thiel-zero-to-one.md)
+
+## Maps of Content
+
+- **[Startup & Founder Playbook](../pages/startup-founder-playbook.md)**
+- **[Strategy Frameworks](../pages/strategy-frameworks.md)**

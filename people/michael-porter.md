@@ -122,3 +122,7 @@ Porter's enduring contribution is methodological: he showed that strategy can be
 ## Sources
 
 - **[Competitive Strategy & Competitive Advantage](../sources/porter-competitive-strategy.md)** — Source notes covering Porter's Five Forces, Generic Strategies, and Value Chain frameworks
+
+## Maps of Content
+
+- **[Strategy Frameworks](../pages/strategy-frameworks.md)**

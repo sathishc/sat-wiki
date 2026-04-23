@@ -1,6 +1,7 @@
 ---
 title: "Economics in One Lesson — Henry Hazlitt (1946)"
 tags: [sources, hazlitt, economics, bastiat, seen-vs-unseen, unintended-consequences, policy]
+source: https://www.goodreads.com/book/show/3028.Economics_in_One_Lesson
 ---
 
 # Economics in One Lesson — Source Notes
@@ -254,3 +255,7 @@ On a hypothetical of government building a bridge:
 
 
 ---
+
+## Maps of Content
+
+- **[Wealth & Money](../pages/wealth-and-money.md)**

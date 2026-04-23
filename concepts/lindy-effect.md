@@ -59,3 +59,7 @@ The Lindy Effect and compounding are complementary: both reward staying power. T
 - [Skin in the Game](./skin-in-the-game.md) — things with skin-in-the-game exposure survive longer; survival is the Lindy test
 - [Barbell Strategy](./barbell-strategy.md) — the barbell concentrates exposure to Lindy-robust assets (safe) and high-optionality bets
 - [Black Swan](./black-swan.md)
+
+## Source
+
+- [Antifragile](../sources/antifragile.md)

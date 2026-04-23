@@ -1,6 +1,7 @@
 ---
 title: "What You Do Is Who You Are — Ben Horowitz (2019)"
 tags: [sources, leadership, culture, ben-horowitz]
+source: https://www.goodreads.com/book/show/44063298-what-you-do-is-who-you-are
 ---
 
 # *What You Do Is Who You Are* — Ben Horowitz (2019)
@@ -39,3 +40,7 @@ That answer is your actual culture. If it differs from your stated culture, you 
 - **[Wartime CEO vs Peacetime CEO](../concepts/wartime-vs-peacetime-ceo.md)**
 - **[Psychological Safety](../concepts/psychological-safety.md)**
 - **[Westrum Cultural Typologies](../concepts/westrum-cultural-typologies.md)**
+
+## Maps of Content
+
+- **[Startup & Founder Playbook](../pages/startup-founder-playbook.md)**

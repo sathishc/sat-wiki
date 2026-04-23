@@ -165,3 +165,7 @@ This is not a violation of generic strategies — it is a perfect illustration o
 - **[Value Chain](./value-chain.md)** — the internal activity system that must be aligned with the chosen strategy
 - **[Innovators Dilemma](./innovators-dilemma.md)** — disruptors enter as cost focus players and expand up-market
 - **[Core Competency](./core-competency.md)** — Prahalad's inside-out view of what sustains a differentiation advantage
+
+## Source
+
+- [Porter Competitive Strategy](../sources/porter-competitive-strategy.md)

@@ -86,3 +86,7 @@ Cialdini describes *what triggers the click-whirr*; Kahneman describes *why the 
 ## Sources
 
 - **[Influence: The Psychology of Persuasion](../sources/cialdini-influence.md)** — Cialdini's foundational work on the seven principles of influence and the psychology of compliance
+
+## Maps of Content
+
+- **[Decision-Making](../pages/decision-making.md)**

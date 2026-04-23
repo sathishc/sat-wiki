@@ -70,3 +70,7 @@ Industry structure is a system: the Five Forces are interdependent stocks and fl
 - [Systems Thinking](./systems-thinking.md) — industry as a system of interdependent forces
 - [Feedback Loops](./feedback-loops.md) — how competitive advantages self-reinforce
 - [Michael Porter](../people/michael-porter.md)
+
+## Source
+
+- [Porter Competitive Strategy](../sources/porter-competitive-strategy.md)

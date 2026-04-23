@@ -63,3 +63,7 @@ Naval argues that genuine expertise — built through curiosity and direct exper
 - **[Social Proof](./social-proof.md)** — the idea meritocracy is designed to resist herd thinking in decisions
 - **[Specific Knowledge](./specific-knowledge.md)** — Naval's parallel: authentic expertise is the input believability rewards
 - **[Westrum Cultural Typologies](./westrum-cultural-typologies.md)** — idea meritocracy is a generative culture mechanism
+
+## Source
+
+- [Dalio Principles](../sources/dalio-principles.md)

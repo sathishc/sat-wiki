@@ -171,3 +171,7 @@ Christensen's RPM framework is a leverage point analysis: changing **values** (L
 - [OKRs](./okrs.md)
 - [Cognitive Biases (Kahneman)](./cognitive-biases-kahneman.md)
 - [Mental Models](./mental-models.md)
+
+## Source
+
+- [Systems Thinking Senge Meadows](../sources/systems-thinking-senge-meadows.md)

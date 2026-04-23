@@ -63,3 +63,7 @@ Without leverage, specific knowledge earns you a high salary. With leverage, it 
 - **[Compounding](./compounding.md)** — leverage accelerates the rate of compounding
 - **[Amazon Growth Flywheel](./amazon-growth-flywheel.md)** — the flywheel is leverage at corporate scale: each element multiplies the next
 - **[Deep Work](./deep-work.md)** — deep work builds the knowledge and skills that make code and media leverage possible
+
+## Source
+
+- [Naval Almanack](../sources/naval-almanack.md)

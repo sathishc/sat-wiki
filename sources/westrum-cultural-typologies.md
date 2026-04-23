@@ -1,6 +1,7 @@
 ---
 title: "Westrum Cultural Typologies — Ron Westrum (2004, A Typology of Organisational Cultures)"
 tags: [sources, westrum, culture, organisations, safety, devops, information-flow, psychological-safety]
+source: https://qualitysafety.bmj.com/content/13/suppl_2/ii22
 ---
 
 # Source: Ron Westrum — Cultural Typologies and Organisational Safety
@@ -113,7 +114,7 @@ In a pathological culture, information that threatens power is systematically su
 
 In a generative culture, information flows freely because the incentives are aligned: surfacing problems is rewarded, not punished. The organisation processes threatening information before it becomes catastrophic.
 
-This maps directly onto [Meadows' Leverage Points](concepts/leverage-points.md) — specifically **Level 6: structure of information flows**. The organisational culture determines who gets what information. Changing the culture changes the information architecture, which changes decisions, which changes outcomes.
+This maps directly onto [Meadows' Leverage Points](../concepts/leverage-points.md) — specifically **Level 6: structure of information flows**. The organisational culture determines who gets what information. Changing the culture changes the information architecture, which changes decisions, which changes outcomes.
 
 ---
 
@@ -150,7 +151,7 @@ The premise: when a system fails, the first question should be "what happened in
 **Why blameless matters:**
 - If individuals fear punishment for failures, they will hide failures, work around broken systems, and not share what they know
 - A blameless culture treats failures as system problems — the system allowed the error to occur; fix the system
-- This is consistent with [Senge's](people/peter-senge.md) systems thinking: the structure produces the behaviour; change the structure
+- This is consistent with [Senge's](../people/peter-senge.md) systems thinking: the structure produces the behaviour; change the structure
 
 **The practice:**
 - Detailed timeline reconstruction
@@ -181,3 +182,8 @@ Psychological safety is the individual-level experience of what Westrum describe
 **Accelerate:**
 > "Our research shows that the Westrum organisational culture measure is a strong predictor of software delivery performance."
 > "Culture is not about ping-pong tables and free lunch. It is about how your organisation handles information."
+
+## Maps of Content
+
+- **[Startup & Founder Playbook](../pages/startup-founder-playbook.md)**
+- **[Product Development](../pages/product-development.md)**

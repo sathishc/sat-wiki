@@ -285,3 +285,7 @@ Requires:
 ## Summary
 
 Paradoxical intention is a elegant, counterintuitive technique that leverages the human capacity for self-detachment and humor to break vicious cycles of anxiety. By willing what we fear, we rob the fear of its power. It's not magic, but it reflects a deep insight: many of our problems persist because we fight them, and they dissolve when we stop fighting and start playing.
+
+## Source
+
+- [Frankl Mans Search For Meaning](../sources/frankl-mans-search-for-meaning.md)

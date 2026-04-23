@@ -315,3 +315,11 @@ Viktor Frankl was a rare combination:
 His central insight — that meaning is the primary human motivation and can be found even in suffering — remains powerful and perhaps increasingly relevant in our age of material abundance and existential confusion.
 
 His life embodied his teaching: confronting the tragic triad (pain, guilt, death), finding meaning through attitude, maintaining freedom in constraint, and transcending self through dedication to something beyond himself.
+
+## Sources
+
+- [Man's Search for Meaning](../sources/frankl-mans-search-for-meaning.md)
+
+## Maps of Content
+
+- **[Personal Development](../pages/personal-development.md)**

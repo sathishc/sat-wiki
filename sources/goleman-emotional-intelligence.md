@@ -1,6 +1,7 @@
 ---
 title: "Emotional Intelligence — Daniel Goleman (1995)"
 tags: [sources, psychology, emotional-intelligence]
+source: https://www.goodreads.com/book/show/26329.Emotional_Intelligence
 ---
 
 # *Emotional Intelligence* — Daniel Goleman (1995)
@@ -38,3 +39,7 @@ IQ and technical skill are threshold competencies — necessary but not sufficie
 - **[Self-Regulation](../concepts/self-regulation.md)**
 - **[Empathy](../concepts/empathy.md)**
 - **[Social Skills](../concepts/social-skills.md)**
+
+## Maps of Content
+
+- **[Personal Development](../pages/personal-development.md)**

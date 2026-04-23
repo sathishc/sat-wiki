@@ -64,3 +64,7 @@ The catch: there is a **transaction cost** to each batch (setup time, context sw
 - [Cost of Delay](./cost-of-delay.md)
 - [Flow Economics](./flow-economics.md)
 - [Barbell Strategy](./barbell-strategy.md) — Taleb parallel
+
+## Source
+
+- [Reinertsen Flow](../sources/reinertsen-flow.md)

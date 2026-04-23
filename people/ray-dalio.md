@@ -108,3 +108,8 @@ His definition of a good life: not wealth or status, but meaningful work (absorb
 ## Sources
 
 - **[Principles: Life & Work](../sources/dalio-principles.md)** — Dalio's comprehensive framework on radical truth, radical transparency, the idea meritocracy, and his five-step process
+
+## Maps of Content
+
+- **[Decision-Making](../pages/decision-making.md)**
+- **[Personal Development](../pages/personal-development.md)**

@@ -102,3 +102,7 @@ Jim Collins' *Good to Great* describes the "Hedgehog Concept" — what you can b
 - [Flow Economics](./flow-economics.md)
 - [Batch Size](./batch-size.md)
 - [Crossing the Chasm](./crossing-the-chasm.md) — books beachhead that launched the flywheel
+
+## Source
+
+- [Amazon Lp Flywheel](../sources/amazon-lp-flywheel.md)

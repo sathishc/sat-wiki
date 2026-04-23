@@ -5,6 +5,7 @@ created: 2026-04-18
 updated: 2026-04-18
 layout: default
 parent: Sources
+source: https://www.goodreads.com/book/show/16158498-give-and-take
 ---
 
 # Give and Take
@@ -70,3 +71,7 @@ Givers face a genuine strategic challenge: their generosity can be exploited by 
 - [Adam Grant](../people/adam-grant.md)
 - [Robert Cialdini](../people/robert-cialdini.md)
 - [Morgan Housel](../people/morgan-housel.md)
+
+## Maps of Content
+
+- **[Personal Development](../pages/personal-development.md)**

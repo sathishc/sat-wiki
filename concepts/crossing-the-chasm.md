@@ -250,3 +250,7 @@ The [Amazon Growth Flywheel](./amazon-growth-flywheel.md) is what you build *aft
 - **[Social Proof](./social-proof.md)** — pragmatist herd behaviour is Social Proof in action
 - **[WIP Limits](./wip-limits.md)** — beachhead focus is strategic WIP limiting
 - **[Strategic Intent](./strategic-intent.md)** — the ambitious destination that motivates crossing the chasm
+
+## Source
+
+- [Moore Crossing The Chasm](../sources/moore-crossing-the-chasm.md)

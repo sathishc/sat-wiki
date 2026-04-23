@@ -94,3 +94,7 @@ The seen vs unseen framework extends far beyond economics:
 - [Black Swan](./black-swan.md) — Taleb's unseen
 - [Queues in Product Development](./queues-in-product-development.md) — Reinertsen's unseen
 - [Cost of Delay](./cost-of-delay.md) — quantifying the unseen
+
+## Source
+
+- [Hazlitt Economics One Lesson](../sources/hazlitt-economics-one-lesson.md)

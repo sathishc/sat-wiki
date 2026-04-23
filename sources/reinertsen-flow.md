@@ -1,6 +1,7 @@
 ---
 title: "The Principles of Product Development Flow — Donald G. Reinertsen (2009)"
 tags: [sources, reinertsen, flow, product-development, queues, wip, cost-of-delay, lean]
+source: https://www.goodreads.com/book/show/6278270-the-principles-of-product-development-flow
 ---
 
 # Principles of Product Development Flow — Source Notes
@@ -2093,3 +2094,7 @@ Don Reinertsen's book is somewhat difficult to review. There are two aspects to 
 
 
 ---
+
+## Maps of Content
+
+- **[Product Development](../pages/product-development.md)**

@@ -1,6 +1,7 @@
 ---
 title: "Influence: The Psychology of Persuasion — Robert Cialdini (1984)"
 tags: [sources, cialdini, persuasion, psychology, compliance, behaviour, influence]
+source: https://www.goodreads.com/book/show/28815.Influence
 ---
 
 # Source: Robert Cialdini — Influence: The Psychology of Persuasion
@@ -189,3 +190,7 @@ The distinction matters practically as well as ethically: manipulation builds sh
 > "The drive to be (and look) consistent constitutes a highly potent weapon of social influence, one that often causes us to act in ways that are clearly contrary to our own best interests."
 
 > "In general, when we are unsure of ourselves, when the situation is unclear or ambiguous, when uncertainty reigns, we are most likely to look to and accept the actions of others as correct."
+
+## Maps of Content
+
+- **[Decision-Making](../pages/decision-making.md)**

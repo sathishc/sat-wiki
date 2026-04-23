@@ -1,6 +1,7 @@
 ---
 title: "Deep Work: Rules for Focused Success in a Distracted World — Cal Newport (2016)"
 tags: [sources, newport, deep-work, focus, productivity, attention, shallow-work]
+source: https://www.goodreads.com/book/show/25744928-deep-work
 ---
 
 # Source: Cal Newport — Deep Work: Rules for Focused Success in a Distracted World
@@ -156,3 +157,7 @@ This connects his productivity argument to a broader claim about human flourishi
 > "If you don't produce, you won't thrive — no matter how skilled or talented you are."
 
 > "Clarity about what matters provides clarity about what does not."
+
+## Maps of Content
+
+- **[Personal Development](../pages/personal-development.md)**

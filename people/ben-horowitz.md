@@ -55,3 +55,7 @@ A values poster means nothing. The question is: what behaviour does the organisa
 
 - [*The Hard Thing About Hard Things* — Horowitz, 2014](../sources/horowitz-hard-thing.md)
 - [*What You Do Is Who You Are* — Horowitz, 2019](../sources/horowitz-what-you-do.md)
+
+## Maps of Content
+
+- **[Startup & Founder Playbook](../pages/startup-founder-playbook.md)**

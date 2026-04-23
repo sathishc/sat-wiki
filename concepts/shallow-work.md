@@ -93,3 +93,7 @@ Shallow work is the **seen** output — visible, immediate, measurable. Deep wor
 - [Seen vs Unseen](./seen-vs-unseen.md) — shallow work is visible; deep work value is unseen
 - [Cognitive Biases (Kahneman)](./cognitive-biases-kahneman.md) — busyness as proxy for productivity
 - [WIP Limits](./wip-limits.md)
+
+## Source
+
+- [Newport Deep Work](../sources/newport-deep-work.md)

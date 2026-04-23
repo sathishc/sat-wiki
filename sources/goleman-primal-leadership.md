@@ -1,6 +1,7 @@
 ---
 title: "Primal Leadership — Goleman, Boyatzis & McKee (2002)"
 tags: [sources, psychology, emotional-intelligence, leadership]
+source: https://www.goodreads.com/book/show/566583.Primal_Leadership
 ---
 
 # *Primal Leadership* — Goleman, Boyatzis & McKee (2002)
@@ -39,3 +40,8 @@ The **primal task of leadership** is emotional: to drive the collective emotions
 - **[Emotional Intelligence](../concepts/emotional-intelligence.md)**
 - **[Self-Awareness](../concepts/self-awareness.md)**
 - **[Empathy](../concepts/empathy.md)**
+
+## Maps of Content
+
+- **[Startup & Founder Playbook](../pages/startup-founder-playbook.md)**
+- **[Personal Development](../pages/personal-development.md)**

@@ -1,6 +1,7 @@
 ---
 title: "The Almanack of Naval Ravikant — Eric Jorgenson (2020)"
 tags: [sources, naval, wealth, happiness, philosophy, leverage, specific-knowledge]
+source: https://www.navalmanack.com/
 ---
 
 # Almanack of Naval Ravikant — Source Notes
@@ -1091,3 +1092,8 @@ Book and website curating and sharing Naval's wisdom. Available on Amazon or fre
 
 
 ---
+
+## Maps of Content
+
+- **[Personal Development](../pages/personal-development.md)**
+- **[Wealth & Money](../pages/wealth-and-money.md)**

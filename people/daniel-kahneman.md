@@ -101,3 +101,7 @@ We make decisions based on the remembering self (what we expect to remember), no
 ## Sources
 
 - **[Thinking, Fast and Slow](../sources/kahneman-thinking-fast-slow.md)** — Kahneman's comprehensive account of the two systems of thinking, cognitive biases, prospect theory, and the limits of human judgment
+
+## Maps of Content
+
+- **[Decision-Making](../pages/decision-making.md)**

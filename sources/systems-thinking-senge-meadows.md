@@ -1,6 +1,7 @@
 ---
 title: "Systems Thinking — Peter Senge & Donella Meadows (The Fifth Discipline, 1990; Thinking in Systems, 2008)"
 tags: [sources, senge, meadows, systems-thinking, feedback-loops, complexity, organisations]
+source: https://www.goodreads.com/book/show/255127.The_Fifth_Discipline
 ---
 
 # Source: Systems Thinking — Peter Senge, Donella Meadows, and Others
@@ -166,3 +167,7 @@ Learning organisations require dialogue. Most organisations practice only discus
 > "Today's problems come from yesterday's solutions."
 > "We learn best from experience, but we never directly experience the consequences of many of our most important decisions."
 > "Structure influences behaviour. Different people in the same structure tend to produce qualitatively similar results."
+
+## Maps of Content
+
+- **[Systems Thinking Primer](../pages/systems-thinking-primer.md)**

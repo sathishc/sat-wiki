@@ -67,3 +67,7 @@ Little's Law has a compounding-like quality: small reductions in WIP produce cyc
 - [Queues in Product Development](./queues-in-product-development.md)
 - [Batch Size](./batch-size.md)
 - [Flow Economics](./flow-economics.md)
+
+## Source
+
+- [Reinertsen Flow](../sources/reinertsen-flow.md)

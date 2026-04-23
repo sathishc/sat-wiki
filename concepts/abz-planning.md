@@ -153,8 +153,7 @@ Pivoting is not failure; it's learning and adapting.
 ## Connection to Other Concepts
 
 - **[Barbell strategy](barbell-strategy.md):** Taleb's barbell is similar — safe base + aggressive risk. Plan Z is the safe base; Plan A/B are the aggressive bets.
-- **[Antifragility](antifragility.md):** ABZ planning makes you antifragile. You have optionality; volatility helps you learn and pivot.
-- **[Optionality](../concepts/optionality.md):** Plan B is an option. Options are valuable in uncertain environments.
+- **[Antifragility](antifragility.md):** Plan B is an option. Options are valuable in uncertain environments.
 - **[Permanent beta](permanent-beta.md):** ABZ planning embodies permanent beta — you're always ready to iterate and pivot.
 - **[Systems thinking](systems-thinking.md):** ABZ is adaptive planning in a complex, changing system. You respond to feedback loops.
 

@@ -63,3 +63,7 @@ This echoes Naval's happiness framework: [happiness](./happiness.md) comes from 
 - [Barbell Strategy](./barbell-strategy.md) — the barbell structure ensures you have skin in the game only where downside is capped; asymmetric exposure
 - [Leverage](./leverage.md)
 - [Happiness](./happiness.md) — via negativa connection
+
+## Source
+
+- [Antifragile](../sources/antifragile.md)

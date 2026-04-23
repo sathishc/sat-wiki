@@ -38,3 +38,7 @@ The socially skilled person moves people — toward goals, through change, into 
 - **[Empathy](../concepts/empathy.md)** — prerequisite for effective social skills
 - **[Daniel Goleman](../people/daniel-goleman.md)** — source framework
 - **[Psychological Safety](../concepts/psychological-safety.md)** — social skill of the leader determines team safety
+
+## Source
+
+- [Goleman Emotional Intelligence](../sources/goleman-emotional-intelligence.md)

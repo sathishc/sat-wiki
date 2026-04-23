@@ -164,3 +164,7 @@ Deep work skills compound. A year of 4 focused hours per day in a domain produce
 - **[Compounding](./compounding.md)** — deep work skills compound into irreplaceable expertise
 - **[Will to Meaning](./will-to-meaning.md)** — Frankl's creation path to meaning; deep work as meaningful contribution through craft
 - **[Logotherapy](./logotherapy.md)** — meaningful work addresses existential vacuum; deep work enables meaningful contribution
+
+## Source
+
+- [Newport Deep Work](../sources/newport-deep-work.md)

@@ -197,3 +197,7 @@ Public OKRs are deliberate **commitment devices** — they leverage [Commitment 
 - **[Strategic Intent](./strategic-intent.md)** — Prahalad's long-horizon Objective is the macro version of an OKR
 - **[Westrum Cultural Typologies](./westrum-cultural-typologies.md)** — generative culture is required for honest OKR tracking
 - **[Commitment and Consistency](./commitment-and-consistency.md)** — public OKRs function as commitment devices
+
+## Source
+
+- [Doerr Measure What Matters](../sources/doerr-measure-what-matters.md)

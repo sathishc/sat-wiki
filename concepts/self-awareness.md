@@ -44,3 +44,7 @@ High self-awareness enables:
 - **[Daniel Goleman](../people/daniel-goleman.md)** — source framework
 - **[Self-Regulation](../concepts/self-regulation.md)** — next domain; depends on self-awareness
 - **[Psychological Safety](../concepts/psychological-safety.md)** — self-aware leaders create safer environments
+
+## Source
+
+- [Goleman Emotional Intelligence](../sources/goleman-emotional-intelligence.md)

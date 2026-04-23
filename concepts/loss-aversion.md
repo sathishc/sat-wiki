@@ -87,3 +87,7 @@ Loss aversion makes people avoid voicing disagreement (risks social loss). The p
 - **[Cognitive Biases (Kahneman)](./cognitive-biases-kahneman.md)** — loss aversion is one of the most consequential cognitive biases
 - **[Barbell Strategy](./barbell-strategy.md)** — Taleb's antidote: accept small losses to preserve upside
 - **[Planning Fallacy](./planning-fallacy.md)** — loss aversion drives sunk-cost escalation and commitment persistence
+
+## Source
+
+- [Kahneman Thinking Fast Slow](../sources/kahneman-thinking-fast-slow.md)

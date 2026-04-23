@@ -1,6 +1,7 @@
 ---
 title: "Principles: Life & Work — Ray Dalio (2017)"
 tags: [sources, dalio, principles, management, culture, decision-making, organisations]
+source: https://www.goodreads.com/book/show/34536488-principles
 ---
 
 # Principles: Life & Work — Source Notes
@@ -305,3 +306,8 @@ Think of problems as puzzles you need to solve. By solving the puzzle, you get a
 
 
 ---
+
+## Maps of Content
+
+- **[Decision-Making](../pages/decision-making.md)**
+- **[Personal Development](../pages/personal-development.md)**

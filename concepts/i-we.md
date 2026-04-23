@@ -145,7 +145,7 @@ See [leverage](leverage.md) for Naval's framework.
 **Network model:** Collaborative advantage
 - Your competitive advantage includes your network
 - You + your network vs. others
-- [Network effects](../concepts/network-effects.md): your network becomes part of your moat
+- [Network intelligence](../concepts/network-intelligence.md): your network becomes part of your moat
 
 **Example:**
 - **Entrepreneur A:** Great idea, mediocre network → struggles to find co-founder, investors, customers

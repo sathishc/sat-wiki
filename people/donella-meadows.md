@@ -67,3 +67,7 @@ Her second major contribution: making **feedback loop analysis** accessible and 
 ## Sources
 
 - **[Systems Thinking — Senge & Meadows](../sources/systems-thinking-senge-meadows.md)** — Source notes covering Meadows' *Thinking in Systems* (2008) and her leverage points framework
+
+## Maps of Content
+
+- **[Systems Thinking Primer](../pages/systems-thinking-primer.md)**

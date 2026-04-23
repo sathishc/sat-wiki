@@ -263,3 +263,7 @@ Not because close friends aren't important (they are — for trust, emotional su
 Your LinkedIn network of 500+ "connections" isn't just vanity metrics. It's **bridging capital** — access to 500 different networks, each with non-redundant information and opportunities.
 
 **Maintain your weak ties. They compound in unexpected ways.**
+
+## Source
+
+- [Grant Give And Take](../sources/grant-give-and-take.md)

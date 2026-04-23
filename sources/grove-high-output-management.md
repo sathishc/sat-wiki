@@ -1,6 +1,7 @@
 ---
 title: "Grove — High Output Management"
 tags: [source, management, leverage, leadership, intel, okrs]
+source: https://www.goodreads.com/book/show/324750.High_Output_Management
 ---
 
 # High Output Management
@@ -79,3 +80,8 @@ Grove's internal system — Intel Management by Objectives — is the direct anc
 - [Andy Grove](../people/andy-grove.md)
 - [John Doerr](../people/john-doerr.md)
 - [Ben Horowitz](../people/ben-horowitz.md)
+
+## Maps of Content
+
+- **[Startup & Founder Playbook](../pages/startup-founder-playbook.md)**
+- **[Product Development](../pages/product-development.md)**

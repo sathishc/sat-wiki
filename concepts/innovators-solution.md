@@ -140,3 +140,7 @@ This connects to [Dalio's](../people/ray-dalio.md) principle of updating beliefs
 - **[Crossing the Chasm](./crossing-the-chasm.md)** — non-consumption targeting and beachhead strategy as complementary tactics
 - **[Core Competency](./core-competency.md)** — Prahalad's parallel: existing competencies can become rigidities
 - **[C.K. Prahalad](../people/ck-prahalad.md)** — competing for the future requires the same strategic imagination
+
+## Source
+
+- [Christensen Innovators Trilogy](../sources/christensen-innovators-trilogy.md)

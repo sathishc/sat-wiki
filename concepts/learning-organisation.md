@@ -154,3 +154,7 @@ Bridgewater is an attempt to build a learning organisation by institutional desi
 - **[Radical Transparency](./radical-transparency.md)** — Dalio's institutional implementation of learning organisation principles
 - **[Psychological Safety](./psychological-safety.md)** — prerequisite for team learning (Fourth Discipline)
 - **[Feedback Loops](./feedback-loops.md)** — fast, accurate feedback is the structural requirement for organisational learning
+
+## Source
+
+- [Systems Thinking Senge Meadows](../sources/systems-thinking-senge-meadows.md)

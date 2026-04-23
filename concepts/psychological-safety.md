@@ -100,3 +100,7 @@ Moonshot OKRs — where a score of 0.7 is acceptable — only function in psycho
 - [Radical Transparency](./radical-transparency.md) — Dalio's institutional design for safety
 - [Ray Dalio](../people/ray-dalio.md)
 - [Peter Senge](../people/peter-senge.md)
+
+## Source
+
+- [Grove High Output Management](../sources/grove-high-output-management.md)

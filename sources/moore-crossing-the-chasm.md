@@ -1,6 +1,7 @@
 ---
 title: "Crossing the Chasm — Geoffrey Moore (1991)"
 tags: [sources, moore, technology-adoption, product, marketing, strategy, startups]
+source: https://www.goodreads.com/book/show/61329.Crossing_the_Chasm
 ---
 
 # Source: Geoffrey Moore — Crossing the Chasm
@@ -158,3 +159,7 @@ The strategic implication: you need *different playbooks* for each phase — and
 > "Pragmatists want to buy from market leaders because market leaders have the most references, the best support, and the lowest adoption risk."
 
 > "The goal of beachhead marketing is not to make money. It is to gain references."
+
+## Maps of Content
+
+- **[Strategy Frameworks](../pages/strategy-frameworks.md)**

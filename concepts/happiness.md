@@ -59,3 +59,8 @@ Envy is uniquely toxic because it offers no upside — you feel bad without gain
 - **[Happiness Hypothesis](./happiness-hypothesis.md)** — Haidt's ten great ideas; "happiness comes from between"
 - **[Happiness Formula (H = S + C + V)](./happiness-formula-haidt.md)** — the three levers of wellbeing; Naval's approach is a set-point and voluntary-activity intervention
 - **[Vital Engagement](./vital-engagement.md)** — flow + meaning; the highest-return V activity
+
+## Source
+
+- [Naval Almanack](../sources/naval-almanack.md)
+- [Haidt Happiness Hypothesis](../sources/haidt-happiness-hypothesis.md)

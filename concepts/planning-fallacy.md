@@ -84,3 +84,7 @@ The tension: bias for action (move fast) can amplify planning fallacy (underesti
 - **[Black Swan](./black-swan.md)** — planning fallacy ignores fat tails; Black Swan thinking is the structural antidote
 - **[Cost of Delay](./cost-of-delay.md)** — quantifying delay costs forces an outside-view reckoning with time
 - **[Commitment and Consistency](./commitment-and-consistency.md)** — sunk cost escalation compounds the planning fallacy
+
+## Source
+
+- [Kahneman Thinking Fast Slow](../sources/kahneman-thinking-fast-slow.md)

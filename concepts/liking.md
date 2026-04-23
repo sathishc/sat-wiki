@@ -78,3 +78,7 @@ Separate *liking the person* from *evaluating the offer*. Ask: would I accept th
 - **[Radical Transparency](./radical-transparency.md)** — deliberate institutional override of liking bias in decisions
 - **[Cognitive Biases (Kahneman)](./cognitive-biases-kahneman.md)** — the halo effect is the cognitive mechanism behind liking
 - **[System 1 and System 2](./system-1-and-2.md)** — liking operates through fast, automatic System 1 evaluation
+
+## Source
+
+- [Cialdini Influence](../sources/cialdini-influence.md)

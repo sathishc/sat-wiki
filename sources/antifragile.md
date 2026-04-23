@@ -1,6 +1,7 @@
 ---
 title: "Antifragile: Things That Gain from Disorder — Nassim Nicholas Taleb (2012)"
 tags: [sources, taleb, antifragility, risk, complexity, systems]
+source: https://www.goodreads.com/book/show/13530973-antifragile
 ---
 
 # Antifragile — Source Notes
@@ -159,3 +160,8 @@ Smear campaigns, if you can survive them, help enormously
 
 
 ---
+
+## Maps of Content
+
+- **[Wealth & Money](../pages/wealth-and-money.md)**
+- **[Decision-Making](../pages/decision-making.md)**

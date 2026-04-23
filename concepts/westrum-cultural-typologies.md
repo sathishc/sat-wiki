@@ -206,3 +206,7 @@ Pathological cultures leverage [Authority](./authority-bias.md) to suppress info
 - [Ray Dalio](../people/ray-dalio.md)
 - [Donella Meadows](../people/donella-meadows.md)
 - [Donald G. Reinertsen](../people/donald-reinertsen.md)
+
+## Source
+
+- [Westrum Cultural Typologies](../sources/westrum-cultural-typologies.md)

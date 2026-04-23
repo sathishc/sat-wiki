@@ -115,3 +115,7 @@ The answer: **you are required to voice disagreement, then required to commit**.
 - **[Skin in the Game](./skin-in-the-game.md)** — LP "Ownership" embodies Taleb's principle
 - **[Cost of Delay](./cost-of-delay.md)** — LP "Customer Obsession" traces to Reinertsen's economic lens
 - **[Specific Knowledge](./specific-knowledge.md)** — "Invent and Simplify" requires Naval's authentic expertise
+
+## Source
+
+- [Amazon Lp Flywheel](../sources/amazon-lp-flywheel.md)

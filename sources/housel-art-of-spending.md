@@ -1,6 +1,7 @@
 ---
 title: "The Art of Spending Money — Morgan Housel"
 tags: [sources, finance, psychology, spending, morgan-housel]
+source: https://www.goodreads.com/book/show/222146788
 ---
 
 # *The Art of Spending Money* — Morgan Housel
@@ -33,3 +34,7 @@ Most people treat spending as the opposite of financial wisdom. Housel argues it
 - **[Art of Spending Money](../concepts/art-of-spending-money.md)**
 - **[Wealth vs Rich](../concepts/wealth-vs-rich.md)**
 - **[Enough (Housel)](../concepts/enough-housel.md)**
+
+## Maps of Content
+
+- **[Wealth & Money](../pages/wealth-and-money.md)**

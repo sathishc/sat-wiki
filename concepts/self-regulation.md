@@ -39,3 +39,7 @@ Emotions are contagious. A leader who can't regulate their own emotional state b
 - **[Self-Awareness](../concepts/self-awareness.md)** — prerequisite; must notice before managing
 - **[Daniel Goleman](../people/daniel-goleman.md)** — source framework
 - **[Psychological Safety](../concepts/psychological-safety.md)** — leaders who self-regulate create safer teams
+
+## Source
+
+- [Goleman Emotional Intelligence](../sources/goleman-emotional-intelligence.md)

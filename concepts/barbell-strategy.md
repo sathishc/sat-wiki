@@ -63,3 +63,7 @@ Naval's permissionless leverage (code, media) has barbell-like properties: creat
 - [Compounding](./compounding.md)
 - [Loss Aversion](./loss-aversion.md) — why the middle feels safe but isn't
 - [Skin in the Game](./skin-in-the-game.md) — accountability that makes barbell choices honest
+
+## Source
+
+- [Antifragile](../sources/antifragile.md)

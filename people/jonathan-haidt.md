@@ -69,3 +69,8 @@ Haidt's worldview has two pillars:
 ## Sources
 
 - [*The Happiness Hypothesis* — Haidt, 2006](../sources/haidt-happiness-hypothesis.md)
+
+## Maps of Content
+
+- **[Personal Development](../pages/personal-development.md)**
+- **[Decision-Making](../pages/decision-making.md)**

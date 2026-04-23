@@ -148,3 +148,7 @@ The intervention (praise/punishment) gets credit/blame for what was actually sta
 - **[Principles of Influence](./principles-of-influence.md)** — Cialdini's exploitation manual for these biases
 - **[Seen vs Unseen](./seen-vs-unseen.md)** — WYSIATI explains the persistence of economic fallacies
 - **[Mental Models](./mental-models.md)** — good mental models are the System 2 antidote to cognitive biases
+
+## Source
+
+- [Kahneman Thinking Fast Slow](../sources/kahneman-thinking-fast-slow.md)

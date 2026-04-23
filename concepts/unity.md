@@ -78,3 +78,7 @@ Recognise when "we" is being manufactured. Shared identity is genuine and valuab
 - [Idea Meritocracy](./idea-meritocracy.md) — institutional override of in-group bias
 - [Black Swan](./black-swan.md) — tribal thinking as fragility
 - [Antifragility](./antifragility.md)
+
+## Source
+
+- [Cialdini Influence](../sources/cialdini-influence.md)

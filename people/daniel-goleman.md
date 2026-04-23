@@ -55,3 +55,8 @@ Later (with Boyatzis and McKee in *Primal Leadership*), he reorganised these int
 
 - [*Emotional Intelligence* — Goleman, 1995](../sources/goleman-emotional-intelligence.md)
 - [*Primal Leadership* — Goleman, Boyatzis & McKee, 2002](../sources/goleman-primal-leadership.md)
+
+## Maps of Content
+
+- **[Personal Development](../pages/personal-development.md)**
+- **[Startup & Founder Playbook](../pages/startup-founder-playbook.md)**

@@ -74,3 +74,7 @@ Ask: *"If I hadn't already committed, would I make this decision today?"* Separa
 - **[Radical Transparency](./radical-transparency.md)** — cultural norm for updating beliefs despite prior commitment
 - **[Cognitive Biases (Kahneman)](./cognitive-biases-kahneman.md)** — consistency bias as a System 1 default
 - **[OKRs](./okrs.md)** — public OKRs deliberately use commitment as a motivation mechanism
+
+## Source
+
+- [Cialdini Influence](../sources/cialdini-influence.md)

@@ -90,3 +90,7 @@ Cost of Delay is the economic articulation of what [Taleb](../people/nassim-tale
 - **[Seen vs Unseen](./seen-vs-unseen.md)** — CoD makes invisible delay costs visible and measurable
 - **[Shallow Work](./shallow-work.md)** — shallow work displaces high-CoD deep work
 - **[Compounding](./compounding.md)** — delayed value delivery loses compounding time
+
+## Source
+
+- [Reinertsen Flow](../sources/reinertsen-flow.md)

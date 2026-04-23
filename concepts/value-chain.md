@@ -70,3 +70,7 @@ A value chain is a system: activities are stocks, material and information flow 
 - [Cost of Delay](./cost-of-delay.md) — economic cost of delays within and between value chain stages
 - [Systems Thinking](./systems-thinking.md) — the value chain as a system of stocks, flows, and feedback
 - [Michael Porter](../people/michael-porter.md)
+
+## Source
+
+- [Porter Competitive Strategy](../sources/porter-competitive-strategy.md)

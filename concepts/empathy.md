@@ -40,3 +40,7 @@ Empathy ≠ agreement. You can fully understand someone's perspective and still 
 - **[Daniel Goleman](../people/daniel-goleman.md)** — source framework
 - **[Social Skills](../concepts/social-skills.md)** — empathy enables effective social skills
 - **[Psychological Safety](../concepts/psychological-safety.md)** — empathic leadership is prerequisite for psychological safety
+
+## Source
+
+- [Goleman Emotional Intelligence](../sources/goleman-emotional-intelligence.md)

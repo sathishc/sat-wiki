@@ -74,3 +74,7 @@ Ask: are these people genuinely similar to me in the relevant ways? Is this proo
 - [Black Swan](./black-swan.md) — herding as fragility
 - [Idea Meritocracy](./idea-meritocracy.md) — institutional resistance to herd thinking
 - [System 1 and System 2](./system-1-and-2.md)
+
+## Source
+
+- [Cialdini Influence](../sources/cialdini-influence.md)

@@ -118,3 +118,10 @@ His essays at paulgraham.com have been read by tens of millions of people. They 
 - Essays at [paulgraham.com](https://paulgraham.com)
 - *Hackers & Painters* (2004) — collected essays
 - *On Lisp* (1993) — advanced Lisp programming
+
+## Maps of Content
+
+- **[Startup & Founder Playbook](../pages/startup-founder-playbook.md)**
+- **[Personal Development](../pages/personal-development.md)**
+- **[Wealth & Money](../pages/wealth-and-money.md)**
+- **[Decision-Making](../pages/decision-making.md)**

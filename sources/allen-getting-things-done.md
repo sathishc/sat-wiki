@@ -2,6 +2,7 @@
 title: "Getting Things Done — David Allen"
 tags: [source, productivity, gtd, organization, workflow, stress-management]
 created: 2026-04-19
+source: https://www.goodreads.com/book/show/1633.Getting_Things_Done
 ---
 
 # Getting Things Done — David Allen
@@ -189,3 +190,7 @@ The first capture sweep — getting everything out of your head — typically ta
 > "The art of resting the mind and the power of dismissing from it all care and responsibility is one of the secrets of energy in our great men." (Allen quoting Capt. J.A. Hadfield)
 
 > "Anything that does not belong where it is, the way it is, is an 'open loop' pulling on your attention."
+
+## Maps of Content
+
+- **[Personal Development](../pages/personal-development.md)**

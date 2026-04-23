@@ -99,3 +99,7 @@ Granovetter provides **the scientific foundation for network-based career strate
 - Why attending conferences and maintaining loose connections has outsized ROI
 
 His insight is not just academic — it's **deeply actionable** and has been validated across decades of research and practice.
+
+## Maps of Content
+
+- **[Personal Development](../pages/personal-development.md)**

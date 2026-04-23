@@ -45,3 +45,7 @@ The commitment/consistency principle is what habit formation exploits. Once we c
 ## Sources
 
 - [Atomic Habits (2018)](../sources/clear-atomic-habits.md)
+
+## Maps of Content
+
+- **[Personal Development](../pages/personal-development.md)**

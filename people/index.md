@@ -2,6 +2,7 @@
 title: People
 nav_order: 3
 has_children: true
+tags: [index, people]
 ---
 
 # People

@@ -1,6 +1,7 @@
 ---
 title: "Thinking, Fast and Slow — Daniel Kahneman (2011)"
 tags: [sources, kahneman, psychology, cognitive-bias, decision-making, behavioural-economics]
+source: https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow
 ---
 
 # Thinking, Fast and Slow — Source Notes
@@ -277,3 +278,7 @@ Carter and colleagues conducted three studies in 2005 that demonstrate empirical
 
 
 ---
+
+## Maps of Content
+
+- **[Decision-Making](../pages/decision-making.md)**

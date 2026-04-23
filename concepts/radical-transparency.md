@@ -46,3 +46,7 @@ The difference: Naval's framework is individual; Dalio's is institutional. Radic
 - [Liking](./liking.md) — radical transparency requires delivering truth regardless of relationship warmth; a direct institutional override of liking bias
 - [Authority Bias](./authority-bias.md) — believability-weighting replaces pure authority deference; transparency makes reasoning visible so authority can be challenged
 - [Skin in the Game](./skin-in-the-game.md) — Taleb's related concept: accountability requires visibility
+
+## Source
+
+- [Dalio Principles](../sources/dalio-principles.md)

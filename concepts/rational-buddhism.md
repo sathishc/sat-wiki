@@ -49,3 +49,7 @@ Rational Buddhism is the philosophical foundation underneath Naval's happiness f
 - [Naval Ravikant](../people/naval-ravikant.md)
 - [Will to Meaning](./will-to-meaning.md) — Frankl's self-transcendence parallels Buddhist non-attachment; both emphasize meaning beyond self
 - [Tragic Triad](./tragic-triad.md) — Frankl on accepting suffering, impermanence (death), and choosing response; aligns with Buddhist acceptance of dukkha and anicca
+
+## Source
+
+- [Naval Almanack](../sources/naval-almanack.md)

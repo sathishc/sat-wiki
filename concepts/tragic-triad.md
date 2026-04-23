@@ -273,3 +273,7 @@ Distinction:
 **Balance:** The tragic triad is about *unavoidable* realities. Where suffering *can* be changed, the meaningful response is to change it, not to adopt a heroic stance toward it.
 
 **Modern relevance:** In an age that often denies death, avoids suffering, and dismisses guilt, the tragic triad offers a more honest reckoning with reality — and a path to meaning through that honesty.
+
+## Source
+
+- [Frankl Mans Search For Meaning](../sources/frankl-mans-search-for-meaning.md)

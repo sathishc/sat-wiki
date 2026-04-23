@@ -76,3 +76,7 @@ Strategic intent is deliberately [System 2](./system-1-and-2.md) — it override
 - [Amazon Leadership Principles](./amazon-leadership-principles.md)
 - [Planning Fallacy](./planning-fallacy.md)
 - [Compounding](./compounding.md)
+
+## Source
+
+- [Prahalad Competing For Future](../sources/prahalad-competing-for-future.md)

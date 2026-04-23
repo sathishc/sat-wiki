@@ -74,3 +74,7 @@ Grove's maxim is not a call to anxiety — it is a call to **perpetual environme
 - [Zero to One](zero-to-one.md) — Thiel's parallel concern with monopoly and competitive threats
 - [Peter Thiel](../people/peter-thiel.md) — related paranoia-as-strategy thinking
 - [Rethinking and Intellectual Humility](../concepts/rethinking-and-intellectual-humility.md) — detecting an inflection point requires Grant's scientist mindset: willingness to abandon the current map before the evidence is overwhelming
+
+## Source
+
+- [Grove High Output Management](../sources/grove-high-output-management.md)

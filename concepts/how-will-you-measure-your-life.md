@@ -156,3 +156,7 @@ Choose your metric before you're on your deathbed trying to retrofit one.
 - [Will to Meaning](./will-to-meaning.md) — Frankl's meaning framework converges with Christensen: relationships + meaningful work + something larger than self
 - [Logotherapy](./logotherapy.md) — Frankl's existential approach; similar questions: what does life ask of you? (vs. Christensen: how will you measure?)
 - [Existential Vacuum](./existential-vacuum.md) — modern malaise Christensen observed in HBS classmates; success without meaning
+
+## Source
+
+- [Christensen Innovators Trilogy](../sources/christensen-innovators-trilogy.md)

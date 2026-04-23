@@ -87,3 +87,7 @@ A note of personal relevance: Prahalad was from Coimbatore, Tamil Nadu. His fath
 ## Sources
 
 - **[Competing for the Future](../sources/prahalad-competing-for-future.md)** — Prahalad & Hamel's strategic framework on core competencies, strategic intent, and competing for industry leadership
+
+## Maps of Content
+
+- **[Strategy Frameworks](../pages/strategy-frameworks.md)**

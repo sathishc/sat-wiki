@@ -49,3 +49,7 @@ Recognise when a "gift" is a compliance tool rather than genuine generosity. You
 - [Robert Cialdini](../people/robert-cialdini.md)
 - [Skin in the Game](./skin-in-the-game.md) — accountability as the honest version of reciprocity
 - [Loss Aversion](./loss-aversion.md) — the discomfort of an unreciprocated gift has loss-aversion mechanics
+
+## Source
+
+- [Cialdini Influence](../sources/cialdini-influence.md)

@@ -257,3 +257,7 @@ Frankl predicted the existential vacuum would become increasingly prevalent, and
 **Warning:** The existential vacuum is not an excuse to dismiss material suffering, injustice, or mental illness. Meaning is important, but so are food, safety, relationships, and brain chemistry.
 
 **Modern relevance:** Perhaps Frankl's most prescient insight — affluent societies face epidemic of meaninglessness, which can't be solved by more affluence.
+
+## Source
+
+- [Frankl Mans Search For Meaning](../sources/frankl-mans-search-for-meaning.md)

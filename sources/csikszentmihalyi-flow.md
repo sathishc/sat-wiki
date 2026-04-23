@@ -1,6 +1,7 @@
 ---
 title: "Flow: The Psychology of Optimal Experience — Mihaly Csikszentmihalyi (1990)"
 tags: [sources, csikszentmihalyi, flow, psychology, happiness, optimal-experience, motivation]
+source: https://www.goodreads.com/book/show/66354.Flow
 ---
 
 # Source: Mihaly Csikszentmihalyi — Flow: The Psychology of Optimal Experience
@@ -157,3 +158,7 @@ The optimal life, in his view, is one structured to maximise flow experiences �
 > "People who learn to control inner experience will be able to determine the quality of their lives, which is as close as any of us can come to being happy."
 
 > "The autotelic experience, or flow, lifts the course of life to a different level."
+
+## Maps of Content
+
+- **[Personal Development](../pages/personal-development.md)**

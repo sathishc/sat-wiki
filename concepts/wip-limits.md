@@ -60,3 +60,7 @@ WIP limits and [batch size](./batch-size.md) are complementary. Smaller batches 
 - [Crossing the Chasm](./crossing-the-chasm.md) — beachhead focus is strategic WIP limiting: do one segment completely before opening the next
 - [Flow Economics](./flow-economics.md)
 - [Antifragility](./antifragility.md)
+
+## Source
+
+- [Reinertsen Flow](../sources/reinertsen-flow.md)

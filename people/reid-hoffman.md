@@ -25,7 +25,7 @@ Hoffman applies startup thinking to everything: companies, products, and **caree
 
 ### The Startup Mindset Applied to Careers
 
-See [The Start-up of You](sources/hoffman-startup-of-you.md) for full framework:
+See [The Start-up of You](../sources/hoffman-startup-of-you.md) for full framework:
 
 - **[Permanent beta](../concepts/permanent-beta.md):** You are never finished; always evolving
 - **[ABZ planning](../concepts/abz-planning.md):** Plan A (current path), Plan B (pivot), Plan Z (lifeboat)

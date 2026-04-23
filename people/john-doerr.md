@@ -82,3 +82,8 @@ Grove's insight (which Doerr amplifies): **separate the what from the how**. The
 ## Sources
 
 - **[Measure What Matters: OKRs](../sources/doerr-measure-what-matters.md)** — Doerr's account of OKRs, CFRs, and the goal-setting framework he introduced to Google and many other companies
+
+## Maps of Content
+
+- **[Personal Development](../pages/personal-development.md)**
+- **[Product Development](../pages/product-development.md)**

@@ -80,3 +80,7 @@ Ask:
 - **[Skin in the Game](./skin-in-the-game.md)** — accountability filters out authority without genuine stakes
 - **[Cognitive Biases (Kahneman)](./cognitive-biases-kahneman.md)** — the halo effect amplifies authority bias
 - **[System 1 and System 2](./system-1-and-2.md)** — authority triggers automatic System 1 compliance
+
+## Source
+
+- [Kahneman Thinking Fast Slow](../sources/kahneman-thinking-fast-slow.md)

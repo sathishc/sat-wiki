@@ -94,3 +94,7 @@ Amazon's core competency is arguably **logistics and fulfilment technology + dat
 - [Leverage](./leverage.md)
 - [Amazon Growth Flywheel](./amazon-growth-flywheel.md)
 - [Lindy Effect](./lindy-effect.md) — durability as signal of deep competency
+
+## Source
+
+- [Prahalad Competing For Future](../sources/prahalad-competing-for-future.md)

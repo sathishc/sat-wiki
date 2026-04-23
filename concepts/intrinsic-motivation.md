@@ -46,3 +46,7 @@ The practical lesson: if you're managing for hygiene factors (pay, title, perks)
 - **[Flow (Optimal Experience)](../concepts/flow-optimal-experience.md)** — flow is the phenomenology of intrinsic motivation at its peak
 - **[How Will You Measure Your Life?](../concepts/how-will-you-measure-your-life.md)** — Christensen/Herzberg: hygiene vs. motivators
 - **[Deep Work](../concepts/deep-work.md)** — deep work is only sustainable long-term with intrinsic motivation as the engine
+
+## Source
+
+- [Csikszentmihalyi Flow](../sources/csikszentmihalyi-flow.md)

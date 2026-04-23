@@ -1,6 +1,7 @@
 ---
 title: "Zero to One — Peter Thiel & Blake Masters (2014)"
 tags: [sources, strategy, startups, venture-capital, peter-thiel]
+source: https://www.goodreads.com/book/show/18050143-zero-to-one
 ---
 
 # *Zero to One* — Peter Thiel & Blake Masters (2014)
@@ -46,3 +47,8 @@ Every chapter of *Zero to One* is structured as an inversion of received wisdom:
 - **[Power Law (Startups)](../concepts/power-law-startups.md)**
 - **[Definite vs Indefinite Optimism](../concepts/definite-vs-indefinite.md)**
 - **[Secrets (Thiel)](../concepts/secrets-thiel.md)**
+
+## Maps of Content
+
+- **[Startup & Founder Playbook](../pages/startup-founder-playbook.md)**
+- **[Strategy Frameworks](../pages/strategy-frameworks.md)**

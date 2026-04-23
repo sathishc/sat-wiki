@@ -192,3 +192,7 @@ Csikszentmihalyi's eudaimonic happiness (flourishing through engagement) contras
 - **[System 1 and System 2](./system-1-and-2.md)** — expert flow is skilled System 1 operating with deep System 2 foundations
 - **[Will to Meaning](./will-to-meaning.md)** — Frankl's self-transcendence through meaning; flow achieves this through complete absorption in activity
 - **[Logotherapy](./logotherapy.md)** — Frankl's meaning-focused therapy; flow as one path to fulfilling the will to meaning
+
+## Source
+
+- [Csikszentmihalyi Flow](../sources/csikszentmihalyi-flow.md)
