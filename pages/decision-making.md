@@ -114,6 +114,30 @@ The theme: change the system, not just the person. This is Meadows' [Leverage Po
 
 ---
 
+## Paul Graham on Thinking Freely
+
+Graham's contribution to decision-making is not about cognitive debiasing — it's about epistemic courage: the willingness to notice when the crowd is wrong and to think thoughts that are socially costly to hold. These essays address a failure mode Kahneman doesn't: not *irrational* thinking but *conformist* thinking.
+
+| Essay | Core insight |
+|---|---|
+| [What You Can't Say](../sources/pg-say.md) | Every era has moral fashions — unsayable beliefs that may be true. The skill is learning to notice them, and to think them privately even when you can't say them publicly |
+| [The Four Quadrants of Conformism](../sources/pg-conformism.md) | People vary in how conventional vs. independent their thinking is, and how aggressively they enforce it. The aggressively conventional are the most dangerous; the aggressively independent are the most valuable in uncertain domains |
+| [Heresy](../sources/pg-heresy.md) | The mechanism of suppression: heresy treats empirical incorrectness as moral wickedness, collapsing the distinction between "is X true?" and "is the person who says X good?" |
+| [Keep Your Identity Small](../sources/pg-identity.md) | Identity is a decision-making failure mode: the more a topic becomes part of who you are, the worse your reasoning about it. The fix is to keep your identity as label-free as possible |
+| [How to Think for Yourself](../sources/pg-think.md) | Why independent-mindedness is a prerequisite for ambitious work; how to cultivate it; the habits that distinguish independent from conventional thinkers |
+
+### Where Graham fits alongside Kahneman
+
+Kahneman addresses *automatic* failures of thinking (heuristics, biases, System 1 overreach). Graham addresses *social* failures of thinking (conformism, identity, moral fashion, heresy). Both matter:
+
+- You can be fully unbiased by Kahneman's standard and still think mostly what your tribe thinks
+- Graham's independent-minded person still needs Kahneman's toolkit for individual judgment
+- The combination: think free *and* think clearly
+
+See also: **[Paul Graham](../people/paul-graham.md)**
+
+---
+
 ## Related Maps
 
 - [Strategy Frameworks](strategy-frameworks.md)

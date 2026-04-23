@@ -131,6 +131,30 @@ They're complementary: Naval tells you how to get there; Housel tells you how to
 
 ---
 
+## Paul Graham on Wealth
+
+Graham's wealth essays are empirical and structural: he's observed hundreds of companies and thousands of founders, and he writes about wealth as a by-product of creating value rather than as a goal in itself. They complement Housel (psychology and behaviour) and Naval (mechanism and philosophy).
+
+| Essay | Core insight |
+|---|---|
+| [How People Get Rich Now](../sources/pg-richnow.md) | Inheritance dominated in 1982; startups dominate in 2020. Tech collapsed capital requirements; founders now hold the leverage |
+| [Inequality and Risk](../sources/pg-inequality.md) | Economic inequality is the footprint of risk-taking; you can't reduce one without reducing the other |
+| [What the Bubble Got Right](../sources/pg-bubble.md) | The dot-com bubble was wrong on price and timing but right on direction; the web did change everything |
+
+### Graham / Naval overlap on wealth
+
+Both Graham and Naval see startup founding as the primary mechanism for wealth creation in the technology era:
+
+| Question | Graham | Naval |
+|---|---|---|
+| How do people get rich now? | Start a company that creates value | Specific knowledge + leverage + equity |
+| What changed? | Technology collapsed startup costs to near zero | Code and media give zero-marginal-cost leverage |
+| What's the mechanism? | Compressing decades of value creation into years | Assets that earn while you sleep |
+
+See also: **[Paul Graham](../people/paul-graham.md)**
+
+---
+
 ## Related Maps
 
 - [Personal Development Frameworks](personal-development.md)

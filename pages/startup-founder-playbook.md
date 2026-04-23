@@ -180,6 +180,33 @@ OKRs are a peacetime tool. They require a stable enough context to set quarterly
 
 ---
 
+## Paul Graham on Startups
+
+Graham's essays are the third essential pillar of startup thinking alongside Thiel and Horowitz — more empirical, more tactical, and grounded in running YC for two decades. Where Thiel asks *what to build* and Horowitz asks *how to survive building it*, Graham asks *what actually happens when you do*.
+
+| Essay | Core insight |
+|---|---|
+| [Founder Mode](../sources/pg-foundermode.md) | Founders should manage like founders, not like professional managers; skip-level engagement is a feature, not a bug |
+| [Default Alive or Default Dead?](../sources/pg-aord.md) | The question every startup past early stage must answer about burn vs. growth trajectory |
+| [The Hardest Lessons for Startups](../sources/pg-startuplessons.md) | Launch early, do what users want, spend little, focus — the full empirical picture from hundreds of YC companies |
+| [Be Good](../sources/pg-good.md) | Benevolence is startup strategy, not just ethics; it attracts better people and better decisions |
+| [What I've Learned from Users](../sources/pg-users.md) | The actual lessons from funding thousands of startups: what separates the ones that work |
+| [Mean People Fail](../sources/pg-mean.md) | Why good founders outperform mean ones — surprising given startup mythology |
+| [How to Start Google](../sources/pg-google.md) | What it takes to start a world-changing company; contrarian bets and the willingness to look stupid |
+| [Why Startups Condense in America](../sources/pg-america.md) | Why talent density, immigration, and culture create compounding advantages for certain startup ecosystems |
+| [Startup Investing Trends](../sources/pg-invtrend.md) | How startup financing evolved; the rise of super angels; the Series A crunch |
+| [How to Be an Angel Investor](../sources/pg-angelinvesting.md) | How angel investing actually works; what VCs look for and how deals happen |
+
+### Graham ↔ Thiel
+Graham's "do what users want" seems to contradict Thiel's "secrets give you monopoly." But they operate at different scales of time: Graham is describing how to get early traction; Thiel is describing where you want to be in year 10. The two are complementary: Graham's iteration engine, aimed at Thiel's destination.
+
+### Graham ↔ Horowitz
+Graham's "Founder Mode" is the abstract principle; Horowitz's *Hard Thing About Hard Things* is the lived experience. Graham identifies the pattern; Horowitz shows what it costs. Both argue that conventional management advice fails founders — for the same reason.
+
+See also: **[Paul Graham](../people/paul-graham.md)**
+
+---
+
 ## Related Maps
 
 - [Strategy Frameworks](strategy-frameworks.md)

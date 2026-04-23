@@ -142,6 +142,21 @@ Incumbents face a structural disadvantage: their RPM optimises for defending exi
 
 ---
 
+## Paul Graham on Ecosystems and Startup Economics
+
+Graham's essays complement the formal strategy frameworks by explaining the ground-level dynamics that make startup ecosystems and venture investing work.
+
+| Essay | Relevance |
+|---|---|
+| [Why Startups Condense in America](../sources/pg-america.md) | The clustering dynamics behind Silicon Valley: talent density, immigration, cultural tolerance for failure, and compounding reputation effects — Porter's cluster theory in practice |
+| [Startup Investing Trends](../sources/pg-invtrend.md) | How the financing ecosystem evolved; the emergence of super angels disrupted the VC oligopoly — a classic disruption story in the investor market itself |
+| [How to Be an Angel Investor](../sources/pg-angelinvesting.md) | The mechanics of early-stage deal flow, valuation judgment, and portfolio dynamics |
+| [What the Bubble Got Right](../sources/pg-bubble.md) | The dot-com bubble as a price-discovery mechanism for long-run trends; signals vs. noise in technology forecasting |
+
+See also: **[Paul Graham](../people/paul-graham.md)** · **[Startup & Founder Playbook](startup-founder-playbook.md)**
+
+---
+
 ## Related Maps
 
 - [Mental Models for Decision-Making](decision-making.md)

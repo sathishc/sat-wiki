@@ -139,6 +139,41 @@ The structural defence: decide in advance, in calm conditions, that certain line
 
 ---
 
+## Paul Graham on Great Work and Independent Thinking
+
+Graham's essays on personal development are the most widely-read pieces on the topic written in this century. They're empirical — based on observing what people who do great work actually do — rather than prescriptive. They sit naturally beside Newport (deep work as mechanism), Naval (specific knowledge as output), and Csikszentmihalyi (flow as the experience).
+
+| Essay | Core insight |
+|---|---|
+| [How to Do Great Work](../sources/pg-greatwork.md) | The cross-field recipe: choose right thing × learn to frontier × notice gaps × explore with curiosity as both engine and rudder |
+| [Superlinear Returns](../sources/pg-superlinear.md) | Performance returns are superlinear due to compounding and thresholds; the return on going from good to great is enormous |
+| [How to Work Hard](../sources/pg-hwh.md) | Different kinds of hard work; the difference between compulsive work and deliberate work; when each applies |
+| [The Bus Ticket Theory of Genius](../sources/pg-genius.md) | Genius = obsessive interest in something that turns out to matter; not rare talent but unusual obsession |
+| [Good and Bad Procrastination](../sources/pg-procrastination.md) | Type-B procrastination (ignoring small tasks to work on big ones) is actually good; the important vs. the urgent |
+| [A Project of One's Own](../sources/pg-own.md) | Intrinsic motivation: owning a project — feeling it's genuinely yours — changes how you work |
+| [Early Work](../sources/pg-early.md) | The hardest part: taking rough early work seriously; the willingness to push through the embarrassing phase |
+| [The Right Kind of Stubborn](../sources/pg-persistence.md) | Persistence vs. obstinacy; the distinction is flexibility on methods with firmness on goals |
+| [How to Think for Yourself](../sources/pg-think.md) | Independent-minded vs. conventional-minded; why it matters for ambitious work; how to cultivate it |
+| [Keep Your Identity Small](../sources/pg-identity.md) | The more your identity absorbs a topic, the worse you reason about it; keep it small to think clearly |
+| [Is It Worth Being Wise?](../sources/pg-wisdom.md) | Wisdom (high average) vs. intelligence (high peaks); different shapes of performance, different recipes |
+| [How to Write Usefully](../sources/pg-useful.md) | Useful writing = (correct × novel × important) × strength; vagueness is cowardice |
+
+### Where Graham fits in the Personal Development stack
+
+Graham's essays are the motivational and theoretical layer that sit above Newport's tactics:
+
+```
+Why it matters: Superlinear Returns (Graham) — small improvements yield huge outcomes
+What to aim for: How to Do Great Work (Graham) — the cross-field recipe
+How to get there: How to Work Hard (Graham) + Deep Work (Newport)
+What enables it: Bus Ticket Theory (Graham) / Flow (Csikszentmihalyi)
+What blocks it: Conformism / Identity (Graham) / Shallow Work (Newport)
+```
+
+See also: **[Paul Graham](../people/paul-graham.md)**
+
+---
+
 ## Related Maps
 
 - [Strategy Frameworks](strategy-frameworks.md)
